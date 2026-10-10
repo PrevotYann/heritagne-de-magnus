@@ -1,0 +1,204 @@
+
+LES MANIGANCES D’ODVÏR
+
+! Drogue / Séquestration / Kidnapping !
+
+
+
+
+
+Par Odvïr : 
+
+
+
+Par Jake :
+
+
+
+Par Message Corbeaux 06 (N l • ) :
+
+
+
+
+
+
+
+
+
+1. Suite à votre échange avec le capitaine Moriadi, vous partez en direction de l’Auberge du Typhon.
+
+-Vous voyez dans l’auberge, 3 jeunes en tenues Piltoviennes rembourrées, assis à une table. -Ils veulent rencontrer Odvïr car ils ont acheté du Vivacium à un de ses hommes et prétendent qu’ils se sont fait arnaquer. Ils souhaiteraient se faire rembourser. 
+
+INFO MJ
+
+
+
+Ils ont acheté pour 50 g de Vivacium pour 100 Or à Dax, le bras droit d’Odvïr, mais Dax s’est effectivement trompé et leur a refourgué de la Poudre d’Ibir à la place.Odvïr n’en a rien à faire du caprice de 4 gamins provenant du l’autre bout du monde. 
+
+
+
+
+
+Soudainement, vous voyez un homme entrer dans l’auberge. Les jeunes semblent dire qu’il colle à la description qu’on leur à faite d’Odvïr. Il salue Arthur de la main et part s’asseoir à une petite table dans le fond, tout seul. -Arthur lui apporte une assiette. 
+
+
+
+- Langue d’Elnuk (voir Menu), il le saupoudre de Poivre de Cendre-Pourpre (5.0) 
+
+
+
+
+
+Récompense : 30% du remboursement
+
+
+
+
+
+
+
+
+
+2. Vous observez Odvïr, assis seul à une petite table dans le fond de l’auberge. Quelqu’un lui apporte son plat et vous le voyez sortir de sa sacoche un flacon, il prend une pincée et il en verse dedans en disant au serveur :
+
+
+
+Odvïr - “On a bon haïr les Noxiens, mais le Poivre de Cendre-Pourpre est une petite pépite dont je ne peux plus me passer, je leur dois bien ça.”
+
+-
+
+Soudainement, vous voyez un homme encapuchonné (Emir Crownguard) s'asseoir en face de lui. Les deux hommes semblent discuter. 
+
+
+
+INFO MJ
+
+
+
+Emir parle des mages qu’il à capturé récemment à Odvïr car l’un d’entre eux semble l’intéresser. Le mage en question est un Vastaya du nom de Laïda, mage unique au pouvoir de l’Amaretsu. Odvïr veut négocier afin de l’acheter vivant à Emir car Ott semble chercher cette forme de magie très unique.Emir, en tant que chef de la Semptra, souhaite que Odvïr vienne le cherche lui-même lors d’un de leur rituel sacrificiel. Le prochain qu’il feront est le soir même, à l’entrée de la Forêt de Hjënn.
+
+
+
+
+
+
+
+
+
+3. Vous marchez depuis un certain temps dans les Plaines Dorées. (Si allié Odvïr : étape 4)
+
+ 
+
+- Jet de Perception. Si réussi : 
+
+
+
+Vous voyez au loin un oiseau qui tourne en rond dans le ciel. Il semble tourner au-dessus de deux dunes légèrement surélevées au bord de l’entrée d’une forêt au pied des Chaînes d’Odmünd.
+
+
+
+INFO MJ
+
+
+
+L’oiseau est un Aigle de l’Augure (voir Faune). Il est contrôlé par la chamane Dwalna grâce à une magie Spirituelle. Elle surveille les environs.
+
+
+
+- Jet de Discrétion. Si réussi : 
+
+
+
+Vous réussissez à vous faufiler proche des dunes, et vous apercevez face à vous une cavité dans l’une d’entre elles (Entrée Sud-Ouest - étape 4-1). Il semblerait que ce soit une planque semi-souterraine. 
+
+
+
+- Si fait le tour, jet de Discrétion. Si réussi : 
+
+
+
+Vous découvrez une seconde entrée (Entrée Nord-Est - étape 4-2), cette fois-ci plus sécurisée. Avec une porte et une personne qui surveille l’entrée.
+
+
+
+
+
+
+
+
+
+4-1. Vous entrez à l’intérieur du Repère d’Odvïr (voir Doc). 
+
+-
+
+L’endroit semble gardé par deux gros bras. 
+
+-
+
+
+
+- Jet de Perception. Si réussi : 
+
+Vous remarquez, mal dissimulé sous un tapis, une trappe au sol.
+
+-
+
+Sous la trappe se trouve un escalier qui donne sur une sorte de sous-sol, et dans le fond des barreaux et une porte verrouillée (Verrou Lvl 3). Vous apercevez enfermés derrière 4 adultes et 3 enfants 
+
+
+
+INFO MJ
+
+
+
+Dans le sous-sol se trouvent les mages captifs (voir PNJ) que Odvïr à capturer pour Ott.
+
+
+
+
+
+
+
+
+
+4-2. Vous entrez à l’intérieur du Repère d’Odvïr (voir Doc).
+
+-
+
+
+
+
+
+
+
+
+
+5. Une vieille dame vous ouvre la porte. Elle prétend s’appeler Bjëve et vous demande si vous ne manquez rien.
+
+
+
+NOTE MJ
+
+
+
+Bjëve cache son petit neveu  Odvïr (V2)  chez elle, dans une pièce verrouillée. La fenêtre est obstruée de l’extérieur, impossible de voir ce qu’il s’y trouve. Odvïr et Malik se planquent ici le temps de mettre leur plan à exécution (voir quête LE PLAN DU NÉCROMANCIEN). 
+
+
+
+Odvïr a acheté à des marchands Piltoviens de passage à Rakelstake une machine nommé le Memovision Hextech (1.15)
+
+
+
+Elle semble heureuse de recevoir un peu de compagnie, et vous propose de vous faire à manger. 
+
+-
+
+Vous passez à table, vous sentez dans ce repas quelque chose de réconfortant.
+
+- Si Odvïr déjà rencontré, jet de Perception. Si réussi : 
+
+
+
+Vous reconnaissez l’odeur de cette épice spéciale (Poivre de Cendre-Pourpre).
+
+- Mettre sur la voie d’Odvïr. 

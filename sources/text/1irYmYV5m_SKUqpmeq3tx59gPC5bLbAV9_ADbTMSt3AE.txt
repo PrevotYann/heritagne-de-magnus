@@ -1,0 +1,222 @@
+
+LE REPAS DU COURONNEMENT
+
+
+
+
+
+Par Fjürd :
+
+Le Maître-Port de Guürdarl vous propose de livrer différentes marchandises, mais parmi elles, deux livraisons semblent plus importantes. L’une d'elles est de livrer le plus tôt possible de l’Ugvar Royale à Vesnir au Port de Frostheld pour le Repas du Couronnement
+
+
+
+
+
+Par Arthur :
+
+Le tavernier de l’Auberge du Typhon semble préoccupé car il doit organiser plusieurs tâches importantes (voir Des Fournitures pour Arthur) pour le grand Repas du Couronnement. 
+
+
+
+
+
+Par Vesnir - étape 1 : 
+
+Vesnir semble totalement débordé, on sent qu’il est sur les nerfs du fait qu’on doive organiser l’un des plus gros événements de sa vie. Il faut que le port soit prêt pour accueillir tous les bateaux Demaciens. Il cherche également un garde discret pour la soirée.
+
+
+
+
+
+INFO MJ
+
+
+
+Suite au couronnement du nouveau roi de Demacia Jarvan IV, des repas ont été organisés à leur frais à Piltover, à Ionia et à Frostheld afin de resserrer les liens entre ces régions. C’est Cithria De Nimbechamp qui s’occupe de gérer celui de Frostheld, qui missionne Vesnir afin de faire l’événement dans son bâtiment au port. Il doit se charger de la sécurité Avarosan et de toute la main-d'œuvre.Vesnir fera appel à Arthur pour l’aider à organiser ce grand événement. C’est d'ailleur lui qui se charge de la nourriture Freljordienne et la musique. 
+
+
+
+Le Repas du Couronnement se passe environ 3 à 4 jours après l’arrivée des joueurs à Frostheld, le temps qu'ils découvrent la ville et qu'ils aident à accomplir des tâches et des quêtes pour potentiellement réussir à y participer.Pour y participer ils peuvent tenter d'obtenir des places par les différents organisateurs ou membres importants. Mais ils peuvent également y participer : - Vesnir cherche un “garde” (espion) pour qu’il lui rapporte des éléments sur les différentes magouilles qu’il s’y trame ce qui l’aidera à mettre son plan à exécution. - Arthur cherchera un Musicien (flûtiste de préférence) pour remplacer Dako qui à disparu (voir quête Des Fournitures pour Arthur étape 2)- Kaïrr cherche un “cuisinier” pour l’aider à sauver les mages captifs de la Semptra (voir Le Chef Uzil) 
+
+
+
+
+
+
+
+
+
+
+
+1. Vous voyez Vesnir, le maître-port de Frostheld, qui semble totalement épuisé et sur les nerfs. 
+
+
+
+- “Encore ce bateau qui gêne l'arrivée des Demaciens… Il faut absolument qu’il aille se poser ailleurs en vitesse, si je m’en occupe personnellement je le fais couler dans l’heure !”
+
+- Si vous pouviez aller lui expliquer une dernière fois qu’il déguerpit sur le champ vous me rendriez un fier service.”
+
+
+
+INFO MJ
+
+
+
+Le bateau en question s’appelle le Cosmo-Pilto. Il est gardé par le capitaine Moriadi (Jérôme) et transporte  Jake Cadwalder (Fils d’Uberti Cadwalder, créateur du Locomoteur Autonome), Kento et Gara Myakazi (Fille de Ohaya Myakazi, célèbre Dessinatrice Piltovienne). Ces jeunes gens de la haute sphère Piltovienne sont ici en voyage d’exploration et ne sont pas présent sur le bateau. Ils sont à l’Auberge de Typhon.
+
+
+
+Le capitaine ne semble pas vouloir bouger tant que son employeur n’est pas revenu. Cela fait 24H qu’il attend qu’ils reviennent. Aux dernières nouvelles ils souhaitent “goûter aux coutumes locales”. Surement au niveau de l’Auberge - Voir quête Les Galères d’Odvïr étape 1.
+
+Un fois que le bateau à bougé, retournez voir Vesnir
+
+Récompense de Vesnir : Logement offert à l’Auberge du Typhon (dites à Arthur que c’est pour Vesnir)
+
+
+
+
+
+
+
+2. Vesnir vous trouve plutôt serviable. Il cherche un garde, quelqu’un qui pourrait assurer la protection de personnes importantes lors du Repas du Couronnement.Se dirige vers le joueur le plus sournois/discret/assassin de l’équipe
+
+
+
+Vesnir - “Vous ! Vous ferez parfaitement l’affaire. Rejoignez moi ce soir pour que je vous brief sur cette mission. Enfin si vous l’acceptez bien sûr !”
+
+-
+
+Plus tard, Vesnir lui fait part de ses réelles intentions. Il cherche en réalité un espion qui se fasse passer pour un garde afin de neutraliser et déjouer les plans de Emir Crownguard. Il veut que (joueur) agisse lors du désert car il sait que c’est à ce moment la qu’Emir veut passer à l’acte. Vesnir - “Emir ne souhaite pas manger le désert du Chef Nao qui plonge dans un trip de plusieurs minutes pour rejoindre Odvïr au sous-sol. L’espion de Kaïrr (Jaredan) s’occupera de le neutraliser, mais vous, vous jeterez ceci (potion de Neutralisation) sur Odvïr au sous-sol afin qu’il soit incapable de bouger, et vous aiderez Kaïrr à libérer les mages captif au sous-sol jusqu’au Savorin Maru. Si vous souhaitez rencontrer Kaïrr avant, aller sur ce bateau et demandez à l’équipage une “Pince Abrasive Plate”, ils ne parlent que le Ionien mais l’un d’eux vous dirigera dans la pièce secrète où il réside.”
+
+
+
+INFO MJ
+
+
+
+Vesnir veut aider Kaïrr à libérer les mages captifs en échange qu'il l’aide à mettre son plan à exécution et neutralise les dangers potentiels.
+
+
+
+Vesnir compte enfermer les convives dans la salle lors du désert afin que la Griffe Hivernale puisse les attaquer par surprise. Selon lui, les Avarosans étaient censés réunifier les clans du Freljord mais ces derniers temps, l’objectif est de s’ouvrir au reste du monde ce qui lui déplait fortement. Il veut profiter de cette attaque pour créer une tension diplomatique entre les Demaciens et les Freljordiens.
+
+
+
+Récompense : Potion de Neutralisation (6.6) - immédiatement / Pierre de Rhond (Vörnskrifa) (1.31)- une fois fini.
+
+
+
+
+
+
+
+
+
+3-1. Une fois prêt, le Repas du Couronnement peut commencer. Arthur accueille les convives en vérifiant leurs invitations. Une fois entrés, les convives s’installent à leur table attitrée (Plan de Table MJ). La salle embaume d’une odeur de nourriture très agréable, et les feux apportent une chaleur que vous n’avez pas ressentie depuis un bon moment. 
+
+Il y a une grande table de 13 places au centre comprenant les personnes les plus importantes, puis des tables de 10 places pour les soldats Demaciens et les Avarosans, et enfin des tables de 6 et 4 places pour le reste des convives. 
+
+ORGANISATION
+
+
+
+Importants : Cithria de Nimbechamp / Fjona / Seigneur Rodgar + Yolenda / Emir Crownguard / Jaredan / Anden Mayne 
+
+
+
+Organisateurs : Vesnir / Arthur
+
+
+
+Groupes : Soldats Demaciens (40) / Guerriers Avarosans (30)
+
+
+
+Nobles : Jacob et Tania Merisan (Piltoviens) / Quelques nobles Freljordiens / Quelques nobles Piltoviens
+
+
+
+Enfants : Julie Merisan / Denis / Gabriel / Quelques enfants Freljordiens
+
+
+
+Cuisiniers : Grand Chef Nao / Chef Uzil  Kaïrr  / Chef Teddyring (Interprète Ionien)
+
+
+
+Musiciens : Dako - Flûtiste (Si mort : Remplaçant) / Geralt (Fils Vesnir) - Percussionniste / Mikhaël - Barde / Olöf - Luthiste / Albajak - Violoniste
+
+
+
+Gardes : Jax / Boromir / Garde 1 / Garde 2 
+
+
+
+Animaux : Si retrouvé : Fiora (Félice Royale) / Oscar (Myrmidon Royale) / Quelques Porros
+
+
+
+Autres : Félicia / Jocbar / 
+
+
+
+Une fois tout le monde assis, Vesnir introduit les invités spéciaux :
+
+Vesnir - “Bonsoir à tous et bienvenue au Repas du Couronnement du roi de Demacia Jarvan IV qui organise ce grand repas en guise de consolidation et d'unification de nos différents clans et nos récents accords. J’ai l’honneur d’accueillir dans un premier temps la personne qui à eu la gentillesse de recevoir cet événement, la Conseillère Fjona (applaudissements). Nous avons également l’honneur de recevoir le Seigneur Rodgar, Seigneur du Fyord’al Kürgen (rentre accompagné de Yolenda). Pour ceux qui ne le connaissent pas, nous avons le plaisir d’accueillir ce soir le seigneur Emir Crownguard (va s’asseoir sans regarder personne). Mesdames et messieurs, sans doute la principale raison pour laquelle vous êtes ici ce soir, permettez-moi de vous présenter le grand Chef Nao, qui nous cuisinera des spécialités uniques venues de toute part du globe (tonnerre d’applaudissements). Et pour finir, la personne sans qui tout ceci n’aurait pas été possible, veuillez accueillir comme il se doit, la Capitaine Cithria de Nimbechamp ainsi que son bras droit le Commandant Jaredan (Demaciens comme Avarosans applaudissent).
+
+
+
+Cithria - “Merci pour ce chaleureux accueil de votre part et pour votre légendaire hospitalité Freljordienne. (des gens rient). Nous sommes présents ici ce soir pour célébrer le couronnement du Roi Jarvan IV et notre toute récente union. Le roi à voulu célébrer cela dans les différents pays dans lesquelles nous entretenons de bons termes, et au vu d’une amitiée naissante entre nos patries, il a voulu marquer le coup en invitant l’un, si ce n’est LE, plus grand chef du monde, chef Nao, qui nous à préparé quelques surprises. (elle lève son verre à la salle) Sans plus attendre, que les festivitées commencent. (tout le monde trinquent)
+
+
+
+Les entrées sont servies et les gens commencent à manger et boire. (Le Banquet)
+
+
+
+
+
+
+
+
+
+3-2. Assez rapidement après le discours, pour cette première expérience gustative, le chef Nao présente (par le biais de son traducteur chef Teddyring) sa boisson le Kotari’Mefrua (Cocktail de Fruit Ionien) (5.0), où le Cocktail aux fruits Ioniens. Des serveurs se baladent avec des plateaux, et il est consigné d’un seul verre par personne.Les nobles semblent se précipiter dessus.
+
+-
+
+Un des nobles dit : “Il se dit qu’il est possible qu’il fasse pousser une mèche de cheveux en véritable Or. C’est un véritable signe de noblesse que je m’empresse d’essayer d’avoir”. 
+
+Il se précipite sur un verre, le boit goulument, puis quelques secondes plus tard, vous voyez sa peau bronze a vu d'œil. Les autres rigolent et le noble semble tout de même content.
+
+-
+
+
+
+
+
+
+
+
+
+
+
+3-3. Quelque temps après, le chef Nao vous présente un plat qu’il a découvert et perfectionné à Shurima : l’Oçille de Skaan (5.0). L’Oçille est un serpent très dangereux qui, si bien préparé, propose une chaire si tendre et goutu qu’elle en ferait saliver instantanément (voir Oçille). Il est découpé en 8 morceaux servis sur un plateau proposé par les différents serveurs (6 plateaux).
+
+-
+
+Si tombe sur 8 : Pour le moment tout va bien (prend 30min pour agir sauf si le coeur palpite).Un des guerrier propose un jeu pour voir si tu vas tomber malade. Il te propose de poser ta main sur la table, sort une dague, et commence à taper fort entre tes doigts de plus en plus vite. Ton coeur bat fort et une sensation étrange te prend au tripes, tu as une sueur froide le long de la colonne.
+
+(Le joueur peut faire un jeu d’Endurance pour amoindrir les effets et la durée, mais peut également les aggraver selon la valeur du jet.)
+
+
+
+
+
+
+
+
+
+3-4. Enfin pour finir, voici le dessert tant attendu (suite à une fuite d’information). La Bouchée Buu au Miel d’Odmünd (5.0). 
+
+

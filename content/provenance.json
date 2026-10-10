@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-10",
+  "system": {
+    "repository": "https://github.com/PrevotYann/jdr-runterra-foundry",
+    "version": "0.8.0",
+    "compatibility": {
+      "minimum": "14",
+      "verified": "14.368",
+      "maximum": "14"
+    },
+    "commit": "5ee3bb16dd539ebc7bd5b4485767f549442aca0c",
+    "api": [
+      "advanceTime(minutes)",
+      "Actor.applyDamage(amount,options)",
+      "Actor.addCondition(status,options)",
+      "Item.use(options)"
+    ]
+  },
+  "source": "1E2nCm192wjawcfZloEFGkZPBImfQT-ZSPIT88_wb1ok",
+  "counts": {
+    "actors": 277,
+    "items": 91,
+    "journals": 142,
+    "scenes": 65,
+    "tables": 4,
+    "playlists": 1,
+    "macros": 10
+  },
+  "pages": 531,
+  "entries": 1546,
+  "files": 1334,
+  "sourceFolders": 212,
+  "sourceDocuments": 53
+}

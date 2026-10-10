@@ -1,0 +1,122 @@
+
+Des Fournitures Pour Arthur
+
+
+
+
+
+Par Tableau des Annonces - Frostheld :
+
+Lisez l’annonce d’Arthur sur le Tableau des Annonces. Retrouvez Arthur à l’Auberge du Typhon qu’il vous brief sur ce dont il a besoin plus en détail. 
+
+
+
+
+
+
+
+
+
+
+
+1. Arthur, le tavernier de l’Auberge du Typhon semble préoccupé car il doit organiser plusieurs tâches importantes pour le grand Repas du Couronnement.
+
+- Arthur : “Savez-vous ce qu’est un Buu Fish ? Je suppose que non, vous n'êtes pas de la région… C’est bien dommage, je cherche des gens assez chanceux pour m’en pêcher un dans les 4 prochains jours. Néanmoins, j’ai une liste moins compliquée si vous souhaitez donner un coup de main pour organiser le Repas du Couronnement.”
+
+Liste d’Arthur : 1 Buu Fish (50 Or)/ 4 Erblent (8 Or)/ 1 Boeuf (8 Or)/ 4 Saumons (2 Or)/ 10L Lait d’Elnuk (5 Or)/ 10Kg Légumes (5 Or)
+
+
+
+
+
+
+
+
+
+2. Arthur vous demande si l’un d’entre vous sait jouer de la Flûte car Dako le Flûtiste prévu pour le Repas du Couronnement ne s’est pas manifesté ces derniers jours. 
+
+- Arthur : “L’un d’entre vous saurait jouer de la Flûte ? Cela fait plusieurs jours que je n’ai aucunes nouvelles de Dako, le flûtiste du groupe prévu pour le Repas du Couronnement. Surement encore en train de se pavaner avec ses groupies. Si vous arrivez à le retrouver, vous me rendrez un énorme service, et sachez que je le récompenserai à hauteur de son importance.”
+
+Ses compagnons de troupe savent peut-être où le trouver, mais Arthur n'a pas le temps de le chercher. Trouvez d’autres musiciens pour les questionner sur où trouver Dako.
+
+
+
+Récompense : Invitation Repas du Couronnement x2 / Flûte Auto-magique (8.19)  (si offerte par Dako ou si Dako mort)/ Si Dako ne participe pas : Peut prendre sa place en tant que Flûtiste.
+
+
+
+INFO MJ 
+
+
+
+Dako est porté disparu car il fréquentait Mëlga la fille de Boromir (voir PNJ) et que pour lui faire peur, Boromir l’a ligoté et bâillonné en haut d’un arbre dans la forêt (Guürdarl-Frostheld). Dako y est attaché depuis 2 jours et ses chances de survies sont faibles. Des Drüvask sauvages (3) tapent dans l’arbre pour tenter de faire tomber Dako, les joueurs devront s’en débarrasser avant de le sauver. 
+
+Si les joueurs font une belle réussite en tentant de le détacher, Dako peut survivre, cependant, il est bien trop faible pour assurer le concert du Repas du Couronnement : 
+
+
+
+- Soit il est en confiance et il propose à l'un des joueurs de le remplacer car sa flûte est enchantée et joue toute seule (Secret de Dako).
+
+
+
+- Soit les joueurs trouvent un moyen de le soigner et lui redonner le plein d’énergie pour assurer le concert. 
+
+
+
+Item : Flûte Auto-magique (8.19) 
+
+
+
+
+
+
+
+3. Vous entendez de la musique venir du port (soir). L’intérieur du bâtiment ressemble à une petite taverne où deux musiciens jouent (Olöf et Albajak). 
+
+-Ils finissent par se rappeler qu’ils ont vu Dako pour la dernière fois il y a deux ou trois jours en compagnie d’une fille (Mëlga). Ils savent que Dako aime emmener ses conquêtes dans la forêt ou il s’y est construit un petit nid d’amour. Il est probablement là-bas.
+
+(direction Forêt de Hjënn)
+
+
+
+
+
+
+
+
+
+4. Vous apercevez au bas d’un arbre, 3 Drüvask sauvages. Ils semblent agités et chargent le tronc à répétition comme pour y faire tomber quelque chose. 
+
+-
+
+Interaction avec les Drüvask.
+
+ 
+
+Vous pouvez apercevoir en haut de l’arbre une silhouette humaine totalement bâillonnée par des cordes se balançant suspendu à une branche.
+
+- Si tente de le secourir, 50% de chance qu’il soit encore en vie.
+
+- Si encore en vie : Assoiffé et Affamé.
+
+
+
+- Dako : “Par Anivia, merci ! J’ai bien cru mourir sur cet arbre. Je n’ose parler de ce qu’il s’est passé, mais sachez que je peux comprendre la personne qui m’a fait ça. Cette histoire s’arrêtera là pour ma part.”
+
+
+
+- Tentez de convaincre Dako de jouer pour le Repas du Couronnement (Persuasion -20)
+
+- Si échec, Dako vous offre sa Flûte Auto-magique (8.19) pour que vous le remplaciez.
+
+
+
+- Dako : “Tenez prenez ma flûte, mais s’il vous plaît ne trahissez pas mon secret, j’aimerai ne pas perdre la face encore une fois. Il suffit de souffler dedans et la flûte joue ce que vous avez en tête.”
+
+
+
+
+
+
+
+Fin

@@ -1,0 +1,29 @@
+{
+  "label": "Magnus — Objets de campagne",
+  "mapping": {
+    "name": {
+      "path": "name",
+      "converter": "magnus-text"
+    },
+    "system": {
+      "path": "system",
+      "converter": "magnus-tree"
+    }
+  },
+  "entries": {
+    "0d1bd0c139a3796d": {
+      "name": "[EN] Attaque spectrale",
+      "system": {
+        "description": "<p>Source Oknuün 3 : 15 DP ; dans les Limbes 15 DB.</p>",
+        "variants": {
+          "material": {
+            "label": "[EN] Variant"
+          },
+          "limbes": {
+            "label": "Limbes d’Ott"
+          }
+        }
+      }
+    }
+  }
+}

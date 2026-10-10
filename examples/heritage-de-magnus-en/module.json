@@ -1,0 +1,1 @@
+{"id":"heritage-de-magnus-en","title":"Magnus — English translation example","version":"0.1.0","compatibility":{"minimum":"14","verified":"14.368"},"relationships":{"requires":[{"id":"heritage-de-magnus","type":"module"},{"id":"babele","type":"module","compatibility":{"minimum":"2.9.1"}}]},"esmodules":["register.mjs"]}

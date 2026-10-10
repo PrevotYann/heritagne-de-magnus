@@ -1,0 +1,318 @@
+
+L’Éclat Perlé Bleu du Grand-Nord
+
+
+
+
+
+Par Björld (1-1) : Björld vous parle de la raison de sa présence dans le sud, et vous missionne de l’aider à retrouver l'œuf afin de le protéger des nombreuses menaces car beaucoup de gens l’exploitent.
+
+
+
+
+
+Par Anden Mayne (1-2) : La réelle raison de Anden Mayne au Freljord, c’est qu’il est missionné par le Roi Jarvan IV de retrouver l'œuf du dragon. Il sait la rareté de cette espèce et Demacia cherche à s'en emparer pour de nouvelles expériences. 
+
+
+
+
+
+Par Cithria (1-3) : Si Cithria vous fait suffisamment confiance, elle vous met en contact avec Anden Mayne et vous partage la raison de sa présence au Freljord. 
+
+
+
+
+
+Par Oldany (ou Tribu Lorkak)  (1-4) : Elle et sa tribu sont descendu dans le sud du Freljord dès qu’ils ont appris qu’un Eclat Perlé Bleu du Grand-Nord s’est échoué dans la région. Ils sont donc à la recherche de l'œuf afin de l’aider à se développer et lui apprendre les rudiments afin qu’il puisse rejoindre le Grand-Nord en temps et en heure. 
+
+
+
+
+
+
+
+INFOS MJ
+
+
+
+Un Éclat Perlé Bleu du Grand-Nord (voir Bestiaire) à été aperçu en train de survoler les Chaînes d’Odmünd. Certains savent que c’est pour pondre son œuf avant d’aller s’échouer vers le sud, dans les montagnes Demaciennes. Les mères font ça pour que leur bébé dragon apprenne à rejoindre le nord par leur propre moyen.
+
+- Björld souhaite le protéger des gens mal intentionnés afin qu’il puisse accomplir son rituel par lui-même tout en le surveillant de loin. 
+
+- Anden Mayne est missionné de s’en emparer par le Roi Jarvan IV afin de l'étudier et le ramener à Demacia.
+
+- Cithria souhaite que Anden accomplisse sa tâche, elle sait que le Roi le veut pour lancer leur nouveau programme de dressage de dragon pour l’armée Demacienne menée par Shyvana.
+
+- Oldany souhaite le dresser uniquement durant sa jeunesse afin de l’accompagner dans son développement.
+
+
+
+
+
+
+
+1-1. Vous marchez tranquillement quand soudainement, sorti de nulle part, vous voyez un grand homme marcher très vite et à très grand pas, apparaître devant vous. Il a un Poro sur son épaule niché dans un creux de son épaulière, et il est accompagné d’un Husky. Il semble heureux, bien que concentré, et prend la pose avant de se présenter.
+
+
+
+Björld - “Bonjour, je suis Björld, je vous ai repéré de loin et vu que je ne vous ai encore jamais vu, je viens me présenter à vous. Qui êtes-vous ? Des aventuriers ? Ou des explorateurs ? J’espère que vos intentions ne sont pas mauvaises, je serais attristé de devoir vous botter le cul.”
+
+- 
+
+“Cela fait plusieurs jours que j’arpente de long en large les Chaînes d’Odmünd à la recherche d’un oeuf, un très gros oeuf. Pour être tout à fait franc, c’est l'œuf d’un dragon exceptionnellement rare dont la mère à été aperçue dans la région avant de s’échouer vers Fossemont. On sait que c’est un rituel de ponte, et ce dragon est malheureusement si légendaire qu’il attire beaucoup de monde mal intentionné, j’aimerai le protéger.”
+
+
+
+Il vous propose de l’aider à le retrouver, et que si vous retrouvez l'œuf avant lui, de l’avertir. Pour ce faire, il se coupe une des nattes de sa longue barbe et vous la tend.
+
+
+
+“Je vous offre ceci. Je les travaille depuis des années donc surtout ne la perdez pas, ne la lavez pas, elle permet d’attirer et rassurer des créatures environnantes. Si vous croisez un Poro, faites-le lui sentir et dites-lui de me communiquer la localisation de l'œuf, il saura me retrouver pour me transmettre ces informations. La mignonnerie des ces petites bêtes nous fait oublier à quel point elles peuvent être intelligentes.”
+
+
+
+Il vous demande absolument de mettre les Demaciens sur de mauvaises pistes et de les empêcher à tout prix de s’en emparer. Les Lorkaks eux ne sont pas mauvais mais ce qu’ils veulent fait n’est pas naturel pour ce dragon et risque de troubler son apprentissage.
+
+
+
+Récompense : Écharpe en Fourrure de Björld (1.0) / Service de Björd au choix (une fois l’oeuf trouvé)
+
+
+
+
+
+
+
+1-2. Vous voyez un homme d’un âge avancé face à vous. Il profite d’une opportunité pour vous échanger quelques mots.
+
+
+
+Anden Mayne - “(chuchotement) Hé vous ! Vous n’êtes pas d’ici je me trompe ? Les dragons, ça vous parle ? Je suis spécialiste, donc si vous vous y intéressez, n’hésitez pas à me le faire savoir.”-Il vous explique sa profession.
+
+
+
+- Si vous avez la confiance de Cithria (étape 1-3), il vous parle de la raison de sa présence.“On a la preuve qu’un Éclat Perlé Bleu du Grand-Nord femelle s’est échoué au nord de Fossemont, et de ce que je sais, cette espèce à un drôle de rituel. Quand elle se sent mourir, elle part pour un dernier vol, elle pond le plus au sud du Freljord avant de chuter en plein vol. Cela permet au bébé de prouver sa force en retrouvant seul son chemin jusqu’au Grand-Nord du Freljord.”Il explique qu’il est là pour retrouver cet œuf sous ordre du Roi Jarvan IV lui-même. Si vous souhaitez l’aider, il vous offre un Navillon dressé afin de lui communiquer l’emplacement de l'œuf par message. Il vous rédige (24h) également un exemplaire de son livre encore inachevé pour vous aider dans votre recherche. 
+
+
+
+“Si le livre vous plait, vous pourrez même le compléter vous même. Il n’y a pas beaucoup d’information sur cette espèce de Dragon n’ayant pas encore eu le temps d’en étudier, mais je sais que leurs oeufs sont très solides tant qu’ils ne sont pas à maturité pour pouvoir résister à la chute, et qu’ils sont très grand, on est de l’ordre des 2 à 3 mètres de haut. Merci à vous encore, vous aurez une belle récompense si vous y parvenez ne vous en faites pas, la couronne sait récompenser ses alliés.”
+
+
+
+Récompense : Livre “Guide du Draconophile - Freljord Édition” (Copie) / Navillon Dressé (Note Bestiaire) /
+
+
+
+
+
+
+
+1-3. Cithria vous fait suffisamment confiance, elle vous parle de la véritable raison de la présence de Anden Mayne. Elle vous propose d’aller le voir pour en savoir plus. Une fois chose faite, revenez me voir avant de partir (étape 1-2).
+
+
+
+- Une fois Anden Mayne vu
+
+
+
+Cithria - “Je vois que la quête vous intéresse. Je n’ai rien contre les Freljordien mais leur côté bien trop concervateur m’exaspère, une heure ou le monde change et évolue, ils pensent que leur terre sera épargnée. Malheureusement, comme nous l’avons vu ces dernières années avec la Brume Noire, quand une menace s’attaque à notre planète, rien n’est épargné. Par chance, nous avons de notre côté de la ressource. Ce dragon n’est pas anodin. C' est le début d’une nouvelle ère pour nous.”
+
+
+
+- Si les joueurs sont curieux
+
+
+
+“Nous avons parmis nos troupes une puissante commandante nomée Shyvana, c’est une femme au sang et à l’apparence de dragon, qui est capable de s’en transformer en ces bêtes redoutables. Au vu des derniers changements, nous cessons de nous battre contre ces bêtes afin de les dompter et s’en servir pour dominer définitivement le ciel. Croyez-le ou non mais c’est désormais mon objectif. Je veux en faire partie. Vous comprenez l’importance de cette mission à mes yeux désormais.”
+
+
+
+Récompense :  600 Or (une fois l’oeuf trouvé) / Remerciement de la Couronne (Honneur Demacien)
+
+
+
+
+
+
+
+1-4.  Suite à votre échange avec (membre de la tribu Lorkak), Oldany vous partage davantage d’informations concernant ce dragon.-
+
+Oldany - “Comme vous pouvez le savoir, nous élevons les bébés et jeunes dragons jusqu’à leur indépendance. Certains nous sont restés fidèles et nous suivent de plus ou moins loin, d’autres font leur vie de leur côté désormais. Mais ce dragon, il est un peu comme un but ultime pour moi. Des années entières j’ai cherché à le rencontrer, à le comprendre, à le chevaucher. Il me faut absolument cet œuf. Je ne laisserai jamais ces Demaciens s’en emparer. Je remuerais ciel et terre pour les en empêcher. Je ne serais accomplie en tant que mère Lorkak qu’une fois cet ultime objectif atteint.”
+
+
+
+INFOS MJ
+
+
+
+Oldany semble être bienveillante à son égard, mais elle ne cherche qu’a s’en emparer dans l’espoir de faire de l’Éclat Perlé Bleu du Grand-Nord sa monture personnelle. Elle ne compte à aucun moment laisser le dragon retourner seul vers le nord comme il est naturellement censé faire. Elle ne lui veut cependant pas de mal pour autant. Ce n’est que par pur égoïsme. 
+
+
+
+
+
+
+
+2-1.  Vous marchez le long d’un sentier boisé, vous voyez un Bribucq et son petit s’abreuver à loin dans le petit canal. 
+
+
+
+- Jet de Perception (2 joueurs max). Si réussi : 
+
+
+
+En marchant, tu vois sur ta gauche un tas de feuillages et de branches anormalement placé. Tu lèves la tête et tu vois un gros trous dans les arbres.
+
+
+
+- Une fois le tas défait (1h)
+
+
+
+Vous découvrez un immense œuf solide comme la pierre et couvert d’écailles bleu sombre à sa base. 
+
+
+
+- L'œuf à 20% de chance d’éclore dans l’heure qui suit.
+
+
+
+
+
+
+
+2-2.  Vous êtes en plein vol (créature volante) dans la même direction que depuis le début. Vous êtes émerveillés face à l’étendu immense, gelé mais un spectacle magnifique que le Freljord vous offre. 
+
+
+
+- Jet de Perception (1 joueur max). Si réussi : 
+
+
+
+Tu vois une forme étrange dans les arbres au loin sur ta gauche. Un trou de forme anormalement ronde.
+
+-
+
+Vous atterrissez et vous constatez que sous ce trou se trouve un tas de feuillages et de branches anormalement placé.
+
+
+
+- Une fois le tas défait (1h)
+
+
+
+Vous découvrez un immense œuf solide comme la pierre et couvert d’écailles bleu sombre à sa base. 
+
+
+
+- L'œuf à 20% de chance d’éclore dans l’heure qui suit.
+
+
+
+
+
+
+
+3.  Vous voyez que l'œuf semble extrêmement chaud. La neige autour fond très vite, ils émane de la vapeur et des morceaux de coquille craquent et pètent. Il  se fissure de plus en plus chaque minute et semble être sur le point d’éclore. 
+
+
+
+- Si les joueurs restent dans un périmètre de 10m, jet de Réflexes pour éviter l’explosion (15 DP)
+
+
+
+Vous voyez apparaître entre les débris de coquille de pierre en fusion, dans un nuage de fumée qui se dissipe, une somptueuse créature. Vous voyez un bébé Éclat Perlé Bleu du Grand-Nord, d’environ 90-100 cm au garrot, avec une crête de pointe bleu glace scintillante.
+
+-
+
+Le dragon se déplace pour la première fois et semble curieux des choses qui l'entourent, vous y compris. Il vous renifle et se met à fouiller dans vos affaires. 
+
+
+
+INFOS MJ
+
+
+
+Si les joueurs le nourrissent ou l’aident, ils peuvent complètement altérer son rituel d’éducation naturel. Björld sera furieux et Oldany leur en voudra pour avoir tenté de le lui voler.
+
+
+
+Si les joueurs veulent le garder, le dragon à un caractère bien trempé et sauvage. Il est difficile de le dompter. Il peut les suivre de loin et les rejoindre quand il a faim, mais reste en grande partie du temps seul et les fuiras si les joueurs tentent de s’en approcher trop souvent. 
+
+Ils auront 1x /j lors de son repas, l’occasion de tenter de le dompter avec un jet de Dressage, ou un jet de Charisme -20%.
+
+
+
+1 réussite = 1 pts / 1 réussite critique = 3 pts / 1 échec = -1 pts / 1 échec critique = -2 pts.
+
+
+
+Ils commencent avec 2 Pts :  à 0 pts le dragon fuit / à 8 pts il reste près d’eux / à 15 pts il est apprivoisé.Tant qu’ils ont au moins 1 pts, le dragon les défendra lors d’attaques.
+
+Une fois les 15 pts atteint, le système de pts s’arrête. 
+
+
+
+
+
+
+
+4.  Il est temps pour vous d’alerter (choix du PNJ à alerter).
+
+
+
+- Si vous avertissez Björld : 
+
+
+
+Cherchez un Poro dans les environs, faites lui sentir l’Écharpe en Fourrure de Björld. Le poro ira chercher Björld. Une fois que Björld retrouve l'œuf, il assistera à son éclosion (sauf si déjà éclos).- Si vous avertissez Anden Mayne/Cithria : 
+
+
+
+Vous écrivez un message pour alerter Anden Mayne/Cithria que vous avez trouvé l'œuf. Vous l’attachez à la patte du Navillon Dressé. 
+
+
+
+- L’oiseau part instantanément. Il leur permettra de retrouver la piste de l’oeuf. Ils assisteront à éclosion (sauf si déjà éclos).
+
+
+
+- Si vous avertissez Oldany/Tribu Lorkak : 
+
+
+
+Vous faites ce qu’ils vous ont dit de faire. 
+
+
+
+
+
+
+
+5.  Alors que vous continuez à progresser depuis un certain temps, vous apercevez sur votre chemin un magnifique dragon qui ne semble pas vous calculer. 
+
+
+
+INFOS MJ
+
+
+
+Cela peut se produire environ 2 ou 3 mois plus tard, en direction du Nord. 
+
+
+
+- S’il est avec Björld, le dragon est totalement libre et Björld le suit de loin pour assurer sa sécurité. 
+
+- S’il est avec la Tribu Lorkak, Oldany essaye alors de le monter mais le dragon ne se laisse pas faire facilement. 
+
+Vous reconnaissez l’Éclat Perlé Bleu du Grand-Nord. Il semble avoir bien grandi en un court instant. Il mesure déjà près de 3 mètres de haut.
+
+
+
+
+
+
+
+
+
+Fin

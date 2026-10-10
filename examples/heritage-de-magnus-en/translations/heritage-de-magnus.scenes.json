@@ -1,0 +1,27 @@
+{
+  "label": "Magnus — Scènes",
+  "mapping": {
+    "name": {
+      "path": "name",
+      "converter": "magnus-text"
+    },
+    "navName": {
+      "path": "navName",
+      "converter": "magnus-text"
+    },
+    "tokens": {
+      "path": "tokens",
+      "converter": "magnus-tree"
+    },
+    "regions": {
+      "path": "regions",
+      "converter": "magnus-tree"
+    }
+  },
+  "entries": {
+    "9481ef296d1fc1c6": {
+      "name": "[EN] Guürdarl",
+      "navName": "Guürdarl"
+    }
+  }
+}

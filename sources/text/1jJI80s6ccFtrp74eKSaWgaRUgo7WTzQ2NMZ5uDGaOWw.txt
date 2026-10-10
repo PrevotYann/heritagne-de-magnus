@@ -1,0 +1,2882 @@
+
+
+
+COURANT
+
+
+
+
+
+AIGLE DE L’AUGURE :
+
+
+
+Cet oiseau très gracieux et agile en vol est emblématique du Freljord. On dit qu’il est impossible d’en toucher un à l’arc et jusqu'à présent cette légende semble s’avérer. Sa vitesse de pointe peut dépasser les 140 km/h et pique près des 290 km/h. Il ne mange que du poisson et des graines. Plus difficile à pêcher, il raffole du Buu fish mais au vu de sa rareté, certains n’en goûteront jamais de leur vie. 
+
+
+
+Il s’est trouvé une place de choix auprès des Avarosans et se lie à certains Chamans afin de partager leurs visions. Ils sont très furtifs et ont une des vues les plus perçantes du règne animal. Ils voient parfaitement les reliefs et ça malgré la vitesse, et peuvent déceler les types de magies environnants et celle d’une cible en particulier. 
+
+
+
+Arrivé vers ses 40 ans, l'aigle voit ses serres et son bec devenir trop flexibles pour se nourrir seul. Deux choix s’offrent à lui : soit il se laisse mourir, soit il décide d’entamer un processus long et difficile. Il retourne au nid ou il a vu le jour pour frapper son bec contre un rocher afin de le casser, puis après la repousse ils s'arrachent ses griffes et son plumage pour que tout repousse également. Après 6 mois de repos, l’aigle se voit entamer sa seconde vie. 
+
+
+
+PV : 15-25 TAILLE / POIDS / ÂGE : 50-80 cm (180-200 cm d’envergure) / 2,5-5 kg / ~45-70 ans (selon le processus)
+
+ACTIONS : Relativement farouche, mais pas spécialement agressif. Radar Magie : Peuvent détecter la source de  magie d’une cible à longue distance / Serres : Attaque et agrippe sa proie avec ses serres (15 DP / 30% désarmement)
+
+RÉGIME : Insectes, Poissons, Viande, Graines.LOOT : 
+
+DRESSAGE : Lien Spirituel (Chamane) ou Dressage à la naissance.
+
+ENVIRONNEMENT : Freljord Sud - Centre - Ouest / Montagne / Plaines
+
+
+
+
+
+
+
+BAORGÜK :
+
+
+
+Poisson très proche du saumon, capable de vivre aussi bien en eau douce qu’en eau salée, le Baorgük est réputé pour ses propriétés magiques, très recherchées par les alchimistes. Sa chair, grasse et épaisse, est délicieuse aussi bien crue que cuite.
+
+
+
+Mais ce qui fait surtout sa renommée, c’est sa visque : un liquide dans lequel la magie circule de manière extrêmement fluide dans tout le corps une fois ingéré. Cela permet aux potions de diffuser leurs effets de façon homogène. À l’inverse, sa glande permet de concentrer cette circulation magique vers le cerveau, en agissant directement sur les flux cérébraux.
+
+
+
+Le Baorgük est également très présent dans le folklore Freljordien. On le retrouve dans de nombreuses recettes traditionnelles, mais aussi dans des emblèmes, des contes et même des chansons à son effigie.
+
+
+
+PV : 05-10 / RM : 05TAILLE / POIDS / ÂGE : 60-170 cm / 8-25 kg / ~10 ans
+
+ACTIONS : Poisson passif et inoffensif.
+
+RÉGIME : Insectes, crustacés, petits poissons.
+
+LOOT : Visque (0.2L - 1L) / Glande♂️(1) / Chair comestible (1kg - 3kg)
+
+DRESSAGE : Impossible car pas du tout affectif.
+
+ENVIRONNEMENT : Freljord - Mer / Rivière / Lac
+
+
+
+
+
+
+
+BRIBUCQ :
+
+
+
+Appartenant à la famille des Ursérénides (un mélange entre cervidés et ursidés) le Bribucq est une créature relativement commune dans le sud du Freljord. Sa particularité réside dans l’apparence de sa tête, qui peut varier fortement d’un individu à l’autre.
+
+
+
+En effet, la femelle, appelée Bricqède, peut se reproduire avec d’autres espèces en l’absence de mâles de son espèce. C’est un mécanisme de survie assez unique. Les cas les plus fréquents concernent des croisements avec des cerfs, des chiens, des loups, des elnüks ou encore des ours. Mais il existe aussi des variantes plus rares, impliquant des fouines, des putois, des hugmunn, des hyves bovines, voire même des chauves-souris.
+
+
+
+Lorsque la Bricqède ne trouve pas de partenaire compatible, elle sécrète une hormone puissante qui attire les mâles les plus proches de son espèce. Si cela ne suffit pas, cette hormone évolue avec le temps et finit par cibler des espèces de plus en plus éloignées, augmentant ainsi ses chances de reproduction.
+
+
+
+
+
+PV : 50-80
+
+TAILLE / POIDS / ÂGE : 170-215 cm / 100-180 kg / (dépend de son croisement) ACTIONS : Fuyant, mais peut attaquer en situation de danger. Charge : charger avec son crâne et ses bois (15 DP) / Adaptation Biologique : Peut avoir d’autres intéractions selon la tête d’animal qu’il a (Morsure, Cri strident, coup de bec, etc).
+
+RÉGIME : Herbivore par défaut mais son régime dépend de l’animal de son croisement
+
+LOOT : Viande faisandée (5kg - 10kg) / Lait♀️(0.3L - 2L) / Bois (0.5kg - 4kg)
+
+DRESSAGE : Possible et assez commun, peut porter une personne. Se déplace à allure moyenne (courtes pointes).
+
+ENVIRONNEMENT : Freljord Sud / Centre / Nord-Ouest - Plaine / Colline / Forêt /
+
+
+
+
+
+
+
+DRÜVASK :     [WIKI]
+
+
+
+Les Drüvasks sont des prédateurs redoutés du Freljord, connus pour leur grande force et leur instinct de chasse particulièrement développé. Leur corps élancé, recouvert d’un pelage épais, leur permet de se fondre facilement dans les paysages enneigés et de survivre aux conditions extrêmes.
+
+
+
+Ils vivent généralement en petites meutes organisées, où chaque individu joue un rôle précis lors de la chasse. Patients et coordonnés, les Drüvasks traquent leurs proies sur de longues distances, les épuisant avant de porter le coup final. Ils s’attaquent le plus souvent à des proies affaiblies ou isolées, mais une meute affamée peut se montrer beaucoup plus audacieuse.
+
+
+
+Dans le folklore freljordien, les Drüvasks symbolisent la faim, la ruse et l’endurance. Certaines légendes racontent que ceux qui survivent à une traque de Drüvasks ne sont plus jamais tout à fait les mêmes, comme marqués par le regard de ces chasseurs silencieux.
+
+
+
+PV : 40-120 / ARM : 00-05TAILLE / POIDS / ÂGE : 90-180 cm / 150-350 kg / ~25 ans 
+
+ACTIONS : Relativement sauvage selon le caractère, mais tempérament protecteur en famille. Peut vite se sentir en danger. Charge violente : Peut empaler avec ses défenses et/ou ses dents (10-15 DP).  Ont du mal à saisir des choses avec leurs dents.
+
+RÉGIME : Omnivore.
+
+LOOT : Viande faisandée / Fourrure (0.3kg - 3kg) / Défense (2) 
+
+DRESSAGE : Normal. Caractériel, nombreux éleveurs se sont spécialisés
+
+ENVIRONNEMENT : Tout le Freljord / Forêt / Colline / Montagne
+
+
+
+
+
+
+
+ELNÜK :     [WIKI]
+
+
+
+De la famille des Bovidés, les Elnuks sont de grands herbivores emblématiques du Freljord, reconnaissables à leur carrure massive, leur épaisse fourrure et leurs larges bois recourbés. Parfaitement adaptés au climat glacial, ils vivent en troupeaux et migrent selon les saisons, traversant les plaines enneigées à la recherche de nourriture.
+
+
+
+Dociles mais puissants, les Elnuks jouent un rôle essentiel dans la vie des tribus freljordiennes. Ils sont élevés pour leur lait, leur viande et leur peau, mais aussi utilisés comme montures ou bêtes de trait. Leur endurance exceptionnelle en fait des compagnons précieux pour les longs voyages à travers les terres hostiles du nord.
+
+
+
+Malgré leur apparence imposante, les Elnuks sont généralement calmes et paisibles. Ils ne deviennent dangereux que lorsqu’ils protègent leur troupeau, en particulier les plus jeunes. Dans ces moments-là, leur force et leur cohésion peuvent en faire une menace non négligeable.
+
+
+
+Possédant de forts liens familiaux et proches de l’homme, l’Elnük est souvent associé à la persévérance et à la solidarité. De nombreuses légendes racontent que suivre un troupeau d’Elnuks en pleine tempête est le meilleur moyen de trouver un chemin sûr à travers la neige.
+
+
+
+PV : 70-230 / ARM : 00-05
+
+TAILLE / POIDS / ÂGE : 130-210 cm / 300 kg-1 T / ~30 ans 
+
+ACTIONS : Très proche des êtres vivants et très tolérant, mais peut être pris de panique et attaquer pour protéger. Peut vite se calmer même après une attaque.
+
+RÉGIME : Herbivore, ruminant.
+
+LOOT : Viande (5kg - 20kg) / Lait♀️(1L - 3L) / Cornes♂️(2) / Défenses (2) / 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : Tout Runeterra / Plaines / Collines / Villages
+
+
+
+
+
+
+
+ERBLENT :
+
+
+
+Issu de la famille des Strigidés (hiboux, chouettes, Strigiserres des Neiges, etc.), l’Erblent est réputé pour posséder l’une des visions les plus sophistiquées de toute la faune de Runeterra.
+
+
+
+Ses yeux contiennent un liquide unique — encore non identifié — qui lui permet de filtrer entièrement la lumière qu’il perçoit, à l’exception de celle d’un objet ou d’une cible en mouvement qu’il choisit de suivre. Ce mécanisme en fait un chasseur redoutable, capable de focaliser parfaitement son attention sur une proie, même dans des environnements encombrés. Plus impressionnant encore, cette perception semble traverser la matière, lui permettant de détecter des mouvements derrière des obstacles.
+
+
+
+Beaucoup pensent que l’Erblent est doté d’une forme de magie liée au temps, capable d’anticiper l’avenir. En réalité, il s’agit d’un phénomène bien différent : l’animal effectue en permanence des calculs extrêmement complexes, lui permettant de prédire avec une grande précision les mouvements et les événements à très court terme, généralement entre cinq et dix secondes. Cette capacité, combinée à sa discrétion et à son silence en vol, fait de l’Erblent un prédateur presque impossible à surprendre — et encore plus difficile à fuir.
+
+
+
+
+
+PV : 15-35
+
+TAILLE / POIDS / ÂGE : 40-60 cm (90 cm d’envergure) / 8-15 kg / ~28 ans 
+
+ACTIONS : Volatile inoffensif  relativement peu farouche. Vue d’Anticipation : Possède un liquide magique dans leur yeux qui leur permet d’anticiper quelques secondes avant qu’une action se passe, idéal pour chasser.
+
+LOOT : Viande (0.5kg - 2kg) / Oeuf♀️comestible (1-3 - très fréquent) / Yeux (2) 
+
+DRESSAGE : Assez simple, pas spécialement affectif mais obéissant.  
+
+ENVIRONNEMENT : Freljord Sud / Centre - Colline / Forêt / Village / 
+
+
+
+
+
+
+
+FAUCON PLUME-ACIER :
+
+
+
+Cette variété de faucon se distingue par une particularité unique : ses plumes sont constituées d’un alliage naturel de métaux rares, appelé Plume-Acier (voir page ? ). Ces plumes possèdent une propriété magnétique que l’oiseau est capable de contrôler à volonté.
+
+
+
+En modulant cette force, le Faucon Plume-Acier peut se repousser du sol comme un aimant, ce qui lui permet d’alléger considérablement le poids de ce qu’il transporte tout en conservant une grande stabilité en vol. Il n’est pas rare de trouver des fragments de minerais aimantés accrochés à ses plumes, attirés naturellement par ce champ magnétique.
+
+
+
+Contrairement aux oiseaux classiques, le Faucon Plume-Acier perd très rarement ses plumes, car celles-ci ne repoussent pas. Elles sont donc particulièrement précieuses. Utilisées dans l’artisanat, elles permettent de créer des équipements et des armures à la fois solides et étonnamment légers, leur magie contribuant à en réduire le poids.
+
+
+
+Les nuées de Faucons Plume-Acier sont craintes même par les Vargh’Heggen. Une ancienne légende raconte que, plusieurs siècles auparavant, lors d’une période d’accouplement de ces créatures, une nuée entière de faucons se serait coordonnée pour soulever un Vargh’Heggen avant de le laisser chuter de très haut, causant sa mort. Cet événement aurait entraîné la disparition du village de Bernuük’Vael, et depuis, le Faucon Plume-Acier est considéré comme l’un des rares prédateurs capables d’effrayer un Vargh’Heggen.
+
+
+
+PV : 15-40 / ARM : 10-20TAILLE / POIDS / ÂGE : 30-60 cm (130 cm d’envergure) / 50-80 kg / ~55 ansACTIONS : Coup de Serres/Bec : Attaque en plein vol (10-15 DP) / Boule Protectrice : Se met en boule et se protège entièrement avec ses ailes d'acier (impossible en vol) : +10 ARM / Vol à l'Arraché : Peut attraper et tracter des charges très lourdes selon sa taille (jusqu’à 1 à 2 Tonnes).
+
+RÉGIME : Viande / Poissons / Se nourrit en grande quantité mais assez rarement. 
+
+LOOT : Plume-Acier Brut (100g-3Kg) / Serre de Faucon (2) / Oeuf♀️non-comestible (2-4) / 
+
+DRESSAGE : Possible.
+
+ENVIRONNEMENT : Demacia Nord / Tout Freljord - Montagne / Plaine / Forêt / 
+
+
+
+
+
+
+
+GEKODO :
+
+
+
+Aussi simple que son nom le suggère, le Gekodo tire son origine du terme “Vatngekk”, qui signifie littéralement gecko d’eau en Freljordien. Ce petit reptile aquatique est particulièrement difficile à repérer : sa peau bleu clair lui permet de se fondre presque parfaitement dans son environnement, le rendant quasiment invisible sous la surface.
+
+
+
+Extrêmement agile, le Gekodo évolue avec aisance aussi bien dans l’eau qu’à la surface. Il est capable de respirer dans les deux milieux, ce qui lui permet de s’adapter rapidement à toute situation, que ce soit pour fuir ou se cacher.
+
+
+
+Sa particularité la plus remarquable réside dans l’encre qu’il sécrète. D’un noir presque absolu, cette substance est capable d’absorber jusqu’à 98 % de la lumière. Mais loin d’être une simple obscurité, cette encre agit comme un réceptacle magique : elle peut capter et refléter certaines sources de magie environnantes, créant des illusions, des reflets trompeurs ou des zones de perception altérée. Elle est également capable de presque nullifier totalement  un effet magique à son contact. 
+
+
+
+Le Gekodo, quant à lui, perçoit parfaitement dans cette obscurité. Sa vision est particulièrement adaptée à ce noir profond, lui permettant de détecter le moindre mouvement avec une précision redoutable. Dans son propre nuage d’encre, il devient ainsi presque intouchable. Ce mécanisme défensif en fait une proie extrêmement difficile à capturer, même pour des prédateurs redoutables comme le Grelfeen ou les Hystégriffes. Lorsqu’il est menacé, le Gekodo libère son encre, désoriente ses assaillants, puis disparaît en quelques secondes.
+
+
+
+Cette encre est très recherchée par les mages et les alchimistes. Utilisée avec précaution, elle permet de créer des objets capables de résister à la magie et de renforcer la dissimulation. Cependant, sa manipulation reste particulièrement risquée : une fois en contact avec une matière, elle ne s’efface jamais. Du moins, pas sans une intervention magique.
+
+
+
+
+
+PV : 05-20 TAILLE / POIDS / ÂGE : 90-150 cm / 25-80 kg / ~35 ans
+
+ACTIONS : Craintif mais curieux. Jet d’encre : Aveugle et réduit la magie (dans l’air : 15 DM ciblé / dans l’eau : 25 DM de zone / -30 Perception et peut aveugler temporairement) / Zone d’Absorption : Crée une zone de protection magique grâce à son encre (sur lui même : 5 RM ciblé / dans l’eau : 10 RM de zone)
+
+RÉGIME : Crustacés / Algues / Viande
+
+LOOT : Encre Gekodo (0.2L - 0.6L) / Oeuf♀️toxique (4-16) / Chair toxique
+
+DRESSAGE : Possible mais pas facile (-40 Charisme / -20 Dresseur < Lvl 3). Affectif une fois adopté.
+
+ENVIRONNEMENT : Freljord Sud - Centre / Rakelstake Lac / Rivière Olbukrn 
+
+
+
+
+
+
+
+HUGMUNN :
+
+
+
+Les Hugmunns sont des animaux qui vivent toujours en groupe, endémique du Freljord et particulièrement des Chaînes d’Odmünd. Ils se déplacent en troupeaux organisés autour d’un leader qu’ils choisissent eux-mêmes pour les guider. Ils sont curieux et pas très farouches, ce qui les pousse souvent à s’approcher des campements pour fouiller à la recherche de nourriture et diverses curiosités qu’ils volent. Malgré ça, ils restent méfiants face à ce qu’ils ne connaissent pas, surtout au début. En groupe, ils sont plutôt discrets et bien organisés, mais seuls, ils deviennent beaucoup plus vulnérables.
+
+
+
+Les Hugmunns ressemblent à des sortes de moutons couverts de plumes, avec un long bec et un cou en peau fripée. Cette peau peut parfois recouvrir leurs yeux, ce qui limite leur vision. Ils ont des ailes, mais ne peuvent pas voler. En revanche, ils sont capables de planer sur de courtes distances, ce qui les aide à amortir leurs chutes.
+
+
+
+Ils vivent surtout en montagne et se déplacent souvent près des falaises. Malgré leur apparence un peu étrange, ils sont très agiles : ils peuvent faire de grands bonds et courir longtemps. Leur plus grande force reste leur coordination. Quand ils se déplacent ensemble, ils donnent presque l’impression de ne former qu’un seul être.
+
+
+
+PV : 20-40
+
+TAILLE / POIDS / ÂGE : 40-60 cm (90 cm d’envergure) / 8-15 kg / ~90 ans
+
+ACTIONS : Se baladent en groupe, la reine est souvent au centre et protégé. relativement imprévisible. Attaque coordonnée : attaquent à plusieur une même cible ce qui empêche l’esquive totale (10 DP /u) / 
+
+LOOT : Viande (3-10kg) / Oeuf♀️non-comestible (1-3 - peu commun) / 
+
+DRESSAGE : Pas impossible mais pas facile (si ≥ 50 en Charisme faire 1D100). Plus affectif qu’il n’y paraît. 
+
+ENVIRONNEMENT : Chaînes d’Odmund / Montagnes 
+
+
+
+
+
+
+
+HYSTEGRIFFE MARIN :
+
+
+
+Cette créature reptilienne aquatique compte parmi les prédateurs les plus meurtriers des récifs, mers et berges de Runeterra. On en trouve dans de nombreuses régions, mais les spécimens du Freljord sont réputés comme les plus redoutables : plus agressifs, constamment affamés et particulièrement résistants au froid.
+
+
+
+Elle possède des griffes capables d’injecter un venin désagréable, ainsi qu’une très puissante pression dans la  mâchoire. Sa gueule, garnie de petites dents tranchantes, peut déchiqueter chair, cuir et os en quelques instants. Bien qu’elle chasse toutes sortes de proies, l’humain semble occuper une place particulière dans son régime. Il leur arrive de pister la trace d’une personne sur plusieurs kilomètres avant de passer à l’attaque.
+
+
+
+Cette espèce dispose d’un mode de communication très précis lui permettant de planifier des attaques coordonnées. Grâce à cela, elle se révèle particulièrement efficace en meute. Plus intelligente qu’elle n’en a l’air, elle est capable d’organiser des embuscades, de contourner une défense ou de pousser une proie vers un piège naturel.
+
+
+
+Elle se déplace avec aisance aussi bien dans l’eau que sur la terre ferme. Sa queue puissante et ses pattes palmées lui assurent une excellente nage, tandis que sa petite taille et sa rapidité en font un poursuivant acharné. Tenace, rusée et agressive, cette créature est considérée comme l’un des prédateurs les plus déterminés des zones côtières et fluviales.
+
+
+
+
+
+PV : 20-40TAILLE / POIDS / ÂGE : 65-180 cm (50% de queue) / 25-85 kg / ~25 ans
+
+ACTIONS : Très agressifs et aiment attaquer toute forme de vie en groupe. Attaque en bande : Se focalise sur 1 cible à la fois (3 /cible max). Saute haut et sort de l’eau / Vivacité : La créature est vive (-10/15/20 aux jets liés à l'esquive) / Coup de griffe : Griffes venimeuses (10 DP + Poison Lvl 1) / Morsure Tenace : S'agrippent fermement avec leur mâchoire dentelées (15 DP / +10 DP Pour retirer la créature si attachée)
+
+LOOT : Peau Écailleuse (0.3kg - 1kg) / Venin (0.5L - 1.5L) / Oeuf ♀️ comestible (30-100) /
+
+DRESSAGE : Dressage Lvl 3 (sauf si ≥ 80 en Charisme ou Dressage lvl 2 et faire une Réussite Critique) / Si réussi : Dressage agressif uniquement.
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+HYVE BOVINE :     [VIDÉO]
+
+
+
+L’Hyve bovine est une créature au physique atypique, mêlant les traits d’un bovin et d’un strigiforme. Elle possède un corps massif recouvert de plumes, de larges ailes, des serres robustes et une tête de chouette, ce qui lui donne une silhouette immédiatement reconnaissable.
+
+
+
+Bien qu’elle soit incapable de voler, ses ailes lui restent très utiles. Elles lui permettent de planer sur de courtes distances, d’amortir ses sauts et de gagner en vitesse lorsqu’elle charge ou galope. Malgré sa carrure imposante, l’Hyve bovine se déplace avec une agilité surprenante et peut virevolter pour éviter des attaques offensives.
+
+
+
+C’est un animal solitaire, qui vit généralement loin de ses semblables. Les rencontres entre individus restent rares en dehors des périodes de reproduction ou des conflits territoriaux. Elle est connue pour son mauvais caractère et sa grande méfiance envers les étrangers. Cependant, un comportement calme et respectueux suffit parfois à apaiser son hostilité, tolérer voire même sympathiser avec l’individu.
+
+
+
+Son anatomie présente plusieurs particularités notables. L’Hyve bovine possède deux cœurs fonctionnant en parallèle, ce qui lui confère une endurance remarquable et une bonne résistance à l’effort. Le dimorphisme sexuel s’observe surtout au niveau du crâne : celui des femelles est arrondi, tandis que celui des mâles est plat.
+
+
+
+Bien que l’Hyve bovine soit redoutable au combat, sa plus grande crainte reste son principal prédateur : le Faucon Plume-Acier. Il arrive parfois d’apercevoir, surgissant dans le ciel, une Hyve bovine emportée dans les airs. Ce spectacle pourrait laisser croire qu’elle a enfin appris à voler, mais il ne s’agit alors que d’une proie saisie puis portée par un Faucon Plume-Acier en quête de repas.
+
+
+
+PV : 120-250TAILLE / POIDS / ÂGE : 140-210 cm (220 cm d’envergure) / 500 kg-1,5 T / ~40 ansACTIONS : Malgré qu’on en trouve plusieurs dans une même zone, elle reste assez solitaire dans son quotidien. Charge Volatile : Charge en battant des ailes pour donner plus d’impulsion (10-15 DP + 5-10 DP si empalé avec ses cornes) / Repousse Ailée : Balaye d’un coup d’aile puissant en zone (5-10 DP + 10 DP si touché par l’aile)
+
+RÉGIME : 
+
+LOOT : Corne Hyve Bovine (2) / Viande (20kg - 100kg) / Oeuf♀️comestible (1 - assez rare) / 
+
+DRESSAGE : Modéré (selon son caractère) si les marques de respect sont respectées et s’il ressent aucunes mauvaises intentions. Peut porter jusqu'à deux personnes selon sa taille.
+
+ENVIRONNEMENT : Plaines dorées / Freljord Centre / Fjord de Harelbord
+
+
+
+
+
+
+
+IBIR :     [VIDÉO]
+
+
+
+Ces petites créatures au physique attendrissant ressemblent à de petits manchots ronds et fluffys. Elles possèdent de très petits yeux sombres, un bec orange et une démarche lente et maladroite. Peu farouches, elles se laissent approcher sans difficulté et semblent faire preuve d’une indifférence totale face au danger. Elles ne fuient presque jamais, qu’il s’agisse d’un humain ou d’un prédateur.
+
+
+
+Beaucoup pensent qu’une telle absence d’instinct de survie devrait les condamner à disparaître. Pourtant, leur espèce compense largement cette faiblesse par une reproduction extrêmement abondante. Les portées sont fréquentes et particulièrement nombreuses, assurant le maintien constant de leur population malgré de lourdes pertes naturelles.
+
+
+
+Leur principal moyen de défense réside dans une fine pellicule blanche qu’elles sécrètent à la surface de leur plumage. Sous forme de particules, cette substance se disperse facilement dans l’air. Lorsqu’elle est inhalée, elle provoque chez la plupart des êtres vivants des visions immédiates composées de fragments de souvenirs marquants, plongeant brièvement la victime dans un état proche de l’hypnose.
+
+
+
+Chez l’être humain, une exposition répétée peut entraîner des effets durables : hallucinations brèves et soudaines, paranoïa, forte dépendance, terreurs nocturnes, sensations de déjà-vu récurrentes, ainsi que divers troubles métaboliques, dont le diabète. Pour cette raison, leur poudre est utilisée avec une extrême prudence dans certaines préparations alchimiques et potions mentales.
+
+
+
+Leur reproduction est tout aussi singulière. La femelle pond un unique œuf rigide de grande taille, servant en réalité d’incubateur collectif. À l’intérieur se développent entre 10 et 35 œufs plus petits. Le grand œuf se remplit d’un gaz qui diffuse chaleur et apporte le nécessaire à la croissance des embryons. Une fois la maturation achevée, la coque externe durcit puis se fissure, permettant aux petits œufs d’éclore à leur tour.
+
+
+
+PV : 15-35 / RM : 05
+
+TAILLE / POIDS / ÂGE : 30-50 cm / 8-18 kg / ~16 ansACTIONS : Inoffensif et très peu farouche. Particules Errante : Secoue ses plumes pour faire éparpiller des particules autour de lui. En inhaler fait vivre le flashback d’un souvenir à sa cible (Imagination du joueur / faire 1D100, plus le jet est bas plus le souvenir est lointain et profond).
+
+RÉGIME : 
+
+LOOT : Poudre Ibir (5g - 20g) / Oeuf♀️comestible (1 = 6-12 - très rare) / Viande (0.5kg - 2kg)
+
+DRESSAGE : Normal. Se distrait très facilement, mais devient vite affectif si captivé.
+
+ENVIRONNEMENT : Freljord Sud / Forêts / Proche de sources d’eau / Vallées
+
+
+
+
+
+
+
+LOUP GIVRECROC :     [WIKI]
+
+
+
+Les Loups-Givrecrocs sont une sous-espèce de loups reconnaissable à leurs crocs de givre, leur pelage blanc couvert de givre et leurs yeux bleus luisants. Ce sont d’excellents chasseurs, capables d’intégrer des loups communs à leur meute. Toutefois, en période de grande famine, ils sont souvent les premiers sacrifiés et dévorés par le groupe.
+
+
+
+Ils vivent principalement en meute, bien qu’un individu blessé ou affaibli puisse être abandonné selon la cohésion du groupe. Particulièrement résistants aux conditions extrêmes du Freljord, on les rencontre surtout dans les régions centrales et septentrionales, où ils parcourent aussi bien les plaines enneigées que les forêts gelées.
+
+
+
+Leurs crocs de givre proviennent d’une forme de magie innée propre à l’espèce, leur permettant de geler leurs proies par morsure. Une blessure infligée par un Loup-Givrecroc ralentit souvent la cible, le froid se propageant rapidement autour de la morsure.
+
+
+
+Le tempérament d’une meute varie fortement selon ses conditions de vie et l’attitude de son alpha, dont l’influence est déterminante sur le comportement du groupe. Certaines meutes privilégient des attaques brutales et rapides, tandis que d’autres se montrent plus patientes, observant leurs proies avant d’agir. Les plus organisées sont même capables d’élaborer de véritables stratégies de chasse.
+
+
+
+Dans le folklore local, entendre leurs hurlements lors d’une tempête est souvent considéré comme le signe qu’une traque a déjà commencé.
+
+
+
+PV : 40-80 
+
+TAILLE / POIDS / ÂGE : 80-115 cm / 65-95 kg / ~17 ans
+
+ACTIONS : Chasse et se déplace en meute comme des loups, peut se mélanger aux loups mais possède des capacités de magie de glace. Morsure glacée : Plante sa mâchoire glacée dans un membre lui permet de le refroidir (10 DP + 5-10 DM / Glace un membre et ralentit sa cible). 
+
+RÉGIME : 
+
+LOOT : Fourrure / Cros Givré / Viande /
+
+DRESSAGE : Très difficile mais possible d’en recueillir des perdus, des blessés, des affamés ou un fort lien sauvage. Proche de l’homme une fois dressé.
+
+ENVIRONNEMENT : Freljord Centre - Nord - Nord-Est - Est / Forets / Montagnes
+
+
+
+
+
+
+
+MOUFLON GÉANT DES MONTAGNES :     [VIDÉO]
+
+
+
+Les Mouflons géants des montagnes sont des bêtes imposantes, réputées pour leur robustesse et leur endurance. Natifs des Chaînes d’Odmünd, ils vivent principalement dans les monts, falaises et terrains escarpés du Freljord. Leur morphologie les rend peu rapides sur terrain plat, mais ils excellent sur les pentes abruptes, où leur rythme régulier et leur grande résistance en font des grimpeurs remarquables.
+
+
+
+Cette aptitude naturelle en fait d’excellentes bêtes de transport. Selon leur taille et leur condition physique, ils peuvent porter entre 300 et 600 kg de charge ou de passagers, ainsi qu’un important volume de marchandises, souvent réparti sur des bâtis adaptés à leur dos massif.
+
+
+
+Les Mouflons géants sont également connus pour la diversité de leur caractère. À l’image des humains, chaque individu possède un tempérament distinct : certains se montrent sociables et dociles, d’autres grognons, paresseux, nerveux ou particulièrement têtus. Ils disposent d’une intelligence émotionnelle développée et semblent capables de percevoir l’état d’esprit des êtres qui les entourent, bien que tous n’y réagissent pas de la même manière.
+
+
+
+Leur peau très épaisse les rend particulièrement difficiles à blesser. Les flèches rebondissent souvent sans effet, et des lames insuffisamment affûtées risquent de se coincer dans les nombreuses excroissances bénignes qui parsèment leur cuir, dures comme la pierre.
+
+
+
+Très répandus dans l’élevage freljordien, ils sont largement utilisés pour le transport de personnes et de marchandises à travers les massifs séparant le sud du centre de la région, là où les chars et autres montures classiques deviennent inefficaces. On les rencontre tout particulièrement sur les routes reliant Frostheld à Rakelstake, où ils constituent un maillon essentiel du commerce montagnard et des échanges entre les communautés isolées.
+
+
+
+PV : 500-1300 / ARM : 15-40
+
+TAILLE / POIDS / ÂGE : 185-350 cm / 2-10 T / ~80 ansACTIONS : Très aléatoire selon leur caractère, mais généralement inoffensif. Parfois ils aiment se battre mais sans animosité forcément. Charge : (10-20 DP / chance d’Assomer) / Transperce (cornes) : (15-25 DP) / Piétinement : (20-40 DP / chance de Fracture) / Stockage : Permet de porter entre 15 et 60 place de stockage selon le gabarit.
+
+RÉGIME : 
+
+LOOT : Fourrure / Cuir extrêmement dur à couper / Corne (2)/ Lait♀️ / 
+
+DRESSAGE : Possible. Peut être relativement simple si docile et difficile si trop sauvage (selon son caractère). 
+
+ENVIRONNEMENT : Chaînes d’Odmünd / Vallées d’Odmünd / Plaines dorées / Montagnes / Falaises / Urtis
+
+
+
+
+
+
+
+PINCE-REQUIN :     [VIDÉO]
+
+
+
+Ces bestiaux à l’apparence terrifiante ne sont pas aussi dangereux que ça. En réalité, ils se nourrissent exclusivement de bois et d’algues marines. Mais ils sont tout de même ravageurs envers les bateaux afin de se nourrir du bois qui les composent. Leur énorme bec en forme de pince courbée est parfait pour pénétrer la coque des bateaux et les déchiqueter grâce aux 40aines de tonnes de pressions qu’ils peuvent émettre.
+
+
+
+Ils n’ont pas d'œil mais  sont cependant très sensibles aux courants marins et s’y fient pour se déplacer et repérer leur proies. Leur taille varie en fonction de leur alimentation, les plus costauds sont ceux qui vivent près des anciens lieux de bataille maritime et où ont sombré bon nombre de bateaux. Du pain béni pour les pince-requins. 
+
+
+
+Sa nage particulière a la surface le rend facilement détectable mais sa vitesse ne permet pas à la plupart des bateaux de s’y échapper. Ils nage en tournoyant sur lui même dû au fait qu’il soit aveugle. Mais ce qui le rend particulièrement rapide sous l’eau c’est sa visque imperméable qu’il sécrète lui permettant de glisser dans l’eau de façon très efficace. Cette visque peut étre utilisée de différentes manière afin d’imperméabiliser de la matière.
+
+
+
+Ce requin est menacé d'extinction par le braconnage du à l’ivoire de sa corne utilisé à la fabrication d’objet élégants ciblant la noblesse. 
+
+
+
+Ces créatures marines à l’apparence terrifiante sont, en réalité, bien moins dangereuses qu’elles n’en ont l’air. Leur régime alimentaire se compose exclusivement de bois et d’algues marines. Elles se montrent toutefois particulièrement destructrices envers les navires, dont elles dévorent volontiers les coques et les structures.
+
+
+
+Leur immense bec, formé comme une pince recourbée, est parfaitement adapté pour percer le bois et l’arracher en larges morceaux. La pression qu’elles peuvent exercer avec leur mâchoire se compte en dizaines de tonnes, ce qui leur permet de déchiqueter rapidement même les embarcations solides.
+
+
+
+Dépourvues d’yeux, elles se repèrent grâce à une extrême sensibilité aux courants marins, qu’elles utilisent pour se déplacer, s’orienter et localiser leurs sources de nourriture. Leur taille varie selon l’abondance des ressources disponibles. Les plus grands spécimens se rencontrent souvent près d’anciens champs de bataille navals ou de zones riches en épaves englouties, véritables réserves de bois immergé.
+
+
+
+Leur nage en surface est facilement reconnaissable : elles avancent en tournoyant sur elles-mêmes, compensant leur cécité par ce mouvement constant. Malgré cette allure étrange, leur vitesse dépasse celle de la plupart des navires. Sous l’eau, elles deviennent encore plus rapides grâce à une visque imperméable qu’elles sécrètent naturellement, réduisant fortement la résistance de l’eau sur leur corps. Cette substance est également recherchée, car elle peut servir à imperméabiliser divers matériaux et équipements marins.
+
+
+
+L’espèce est aujourd’hui menacée par le braconnage. Leur corne d’ivoire, très prisée pour la fabrication d’objets luxueux destinés à la noblesse, alimente un commerce qui met en péril la survie de ces animaux, communément appelés Pince-Requins.
+
+
+
+
+
+PV : 100-350 / ARM : 05-10
+
+TAILLE / POIDS / ÂGE : 150-750 cm / 120 kg-3.5 T / ~65-110 ans
+
+ACTIONS : Inoffensif pour les hommes mais attaquent en groupe les bateaux en bois. Coup de pince géante : Peu puissant sur les êtres vivants (10-20 DP / x2 sur les bateaux) / Charge tournoyante : Peu puissant sur les êtres vivants (15-25 DP / x2 sur les bateaux)
+
+LOOT : Visque (0.5L-1.5L)  / Glande♂️(1) / Chair comestible robuste (5kg-15kg)
+
+DRESSAGE : 
+
+ENVIRONNEMENT : Mer du conquérant / Mer du Phoque
+
+
+
+
+
+
+
+PORO :     [WIKI]
+
+
+
+Ces mignonnes petites boules de poils toute blanche se sont répandues à travers tout Runeterra, mais son origine est Freljordienne. Ce sont des créatures mystérieuses, atypiques et magiques qui sont très appréciées par les gens. Ils sont apaisants, et peuvent rendre gaga certains d’entre eux. 
+
+
+
+Ils se distinguent par un pelage extrêmement doux et soyeux, de petites cornes recourbées et un petit ventre chaud en forme de cœur. Les Poros possèdent également un sens de l’humour singulier, fondé sur l’imitation, la moquerie légère et la dérision. Naturellement peu enclins aux conflits, certains individus peuvent toutefois se montrer plus téméraires, têtus ou espiègles que la moyenne.
+
+
+
+Leur sens de l’orientation est mauvais, ce qui les conduit fréquemment à se perdre. Cette particularité a favorisé l’apparition de la profession de berger poro, chargée de guider, regrouper ou retrouver les individus égarés.
+
+
+
+Les Poros vivent généralement en communauté, organisées selon un petit système hiérarchique aussi flou qu’inutile, mais auquel ils semblent tenir. Un groupe de Poros est appelé un fluft. Lorsqu’ils sont nombreux, les membres d’un fluft peuvent se compacter les uns contre les autres pour former une grande boule roulante capable de parcourir plusieurs kilomètres sur terre comme sur neige.
+
+
+
+Leur alimentation se compose principalement de plantes et d’herbes, mais les porosnax restent de loin leur mets favori. Ils sont capables de déployer des efforts surprenants, voire de véritables miracles, pour en obtenir. Offrir un porosnax à un Poro suffit généralement à gagner sa confiance pour toujours.
+
+
+
+Les Poros semblent souvent apparaître de nulle part et interviennent régulièrement dans les affaires des autres, parfois pour résoudre un conflit, parfois pour en provoquer un nouveau. Source constante d’amusement autant que de désordre, ils sont rarement tenus longtemps responsables tant leur petite bouille réconfortante leur fait tout pardonner.
+
+
+
+PV : 05-20
+
+TAILLE / POIDS / ÂGE : 15-30 cm / 200 g-1 kg / ~15-45 ansACTIONS : Inoffensif et très dociles, ils se protègent entre eux et certains peuvent se spécialiser dans leur moyen de se défendre mais n’ont pas de capacités particulières.
+
+RÉGIME : Herbivores / Porosnax
+
+LOOT : Fourrure (0.2kg-0.4kg) / Viande (0.2kg-0.6kg) / Corne (2)
+
+DRESSAGE : Très simple, les poros sont naturellement proches des gens et s'adaptent très facilement au tempérament de leur maître. Bonus si Ponosnax.
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+UGVAR :
+
+
+
+Contrairement à ce que l’on peut penser, l’Ugvar et l’Ugvar Royal ne sont pas de la même espèce, seulement de la même famille. Les deux espèces sont toutefois très proches. L’Ugvar offre une partie de ses œufs en pâture à un Ugvar Royal en échange de sa protection contre ses potentiels prédateurs. Les Ugvars peuvent attaquer seuls quand ils se sentent en danger mais sont plus efficaces en meute.
+
+
+
+L’Ugvar a une petite carapace ronde et plate, deux paires de pinces similaires à celles des crabes, ainsi que de longues pattes fines comparables à celles des araignées de mer. Ils sont plutôt mobiles autant dans l’eau que hors de l’eau. Quand l'Ugvar pond ses œufs, ils sortent enrobés d'un gel gluant alcoolisé permettant de produire et conserver la chaleur afin de permettre à l'embryon de se développer dans les meilleures conditions.
+
+
+
+Une fois sa chair bien cuite, elle est goûteuse et douce, et constitue l’un des mets les plus prisés des Freljordiens. On en trouve des côtes Sud jusqu’au Nord-Ouest du Freljord, mais on peut également en trouver au Nord-Ouest de Demacia près des plages et des falaises.PV : 10-20 / ARM : 00-05TAILLE / POIDS / ÂGE : 15-55 cm (100 cm d’envergure) / 400 g-6 kg / ~4-5 ansACTIONS : Inoffensif mais peut donner un coup de pince aléatoirement sans réellement l'intention d’attaquer. Coup de pince : 05 DP (ajoute +0.5 DP /u) / Claquement d’Alerte : Propage un message par ses claquement d’unité en unité jusqu'à leur protecteur pour Alerter et Invoquer l’Ugvar Royal le plus proche (1u/Tour / Stop si toutes les unités sont tués avant)RÉGIME : Crustacés / Poissons / Oeufs
+
+LOOT : Chair comestible (0.5kg - 2kg) / Carapace (0.3kg - 1kg) / Oeuf♀️comestible (1-6 selon le nombre) /DRESSAGE : Difficile. Ils  n’ont pas de liens particuliers ni d’interactions sociales avec les gens.ENVIRONNEMENT : Plages / Côtes maritimes / Grottes maritimes
+
+
+
+VERS DES GLACIERS “ÍSORMR” :
+
+
+
+Les Vers des Glaciers sont des prédateurs agressifs vivant dans un environnement sombre et froid à l’abri de l’air extérieur pour ne pas que sa couche de glace protectrice ne fondent. 
+
+
+
+Leur taille varie fortement selon l’âge et possède en leur centre un cœur de glace qui alimente dans ses veines un liquide similaire à l’azote appelé Frostafluide, lui permettant de rendre son organisme en état de cryogénisation presque constant le rendant techniquement immortel.
+
+
+
+Grâce à cette capacité unique, ils peuvent adapter leur corps avec une glace qu’ils fabriquent naturellement. Certaines zones de sa carapace ont des petites cavités lui permettant de faire pousser des pics de glace qu’il peut propulser de son corps.
+
+
+
+Naturellement hostiles et très territoriaux, ils sont presque impossibles à dresser. Les femelles pondent un à deux œufs gelés, alimentés par le même liquide de son organisme, généralement enfouis dans la neige profonde.
+
+
+
+PV : 80-170 / ARM : 00-05 / RM : 00-05
+
+TAILLE / POIDS / ÂGE : 60-1200 cm / 1-900 kg / ImmortelACTIONS : Très agressif et solitaire sauf pour se reproduire. Il attaque à vue et possède de la magie de glace. Morsure Glaciale : fais une morsure glaciale (5-15 DP + 5-10 DM) / Sa morsure peut immobiliser un membre) / Pointe Propulsion : Propulse une pointe de sa carapace (10-20 DP de zone) / Impulsion Cardiaque : Créer une forte impulsion par son cœur de glace qui gèle l'environnement autour de lui (30 DM de Zone / Subit ses propres Dégats) / Lacération Épineuse : S’enrouler autour de sa cible et la broie en la transperçant avec ses pointes (10-20 DP / 10 DP /t de lacération)
+
+RÉGIME : 
+
+LOOT : Coeur de glace (1) / Oeuf♀️non-comestible (1-2) / Frostafluide (0.3-10L)
+
+DRESSAGE : Impossible, naturellement agressifs (sauf si ≥ 80 en Intimidation faire 1D100 à ≤ 5)
+
+ENVIRONNEMENT : Grottes / Glaciers
+
+
+
+
+
+
+
+YADULSKI (CHIEN DES NEIGES) :
+
+
+
+Ce petit canidé des glaces à l’apparence d’un husky miniature est l’un des animaux domestiques les plus appréciés du Freljord. Réputé dans toutes les terres du nord, il n’est pas rare que certains voyageurs traversent le continent entier afin d’en adopter un. Mignons, robustes et profondément affectueux, ces chiens conservent leur petite taille tout au long de leur vie, ce qui renforce encore leur popularité auprès des tribus comme des marchands.
+
+
+
+Originaires des environs de Yadulsk, dans les régions froides du nord-est freljordien, ces chiots furent progressivement domestiqués par plusieurs clans pour leurs remarquables aptitudes naturelles. Leur flair aiguisé, leur endurance et leur instinct protecteur en ont fait d’excellents auxiliaires pour le pistage, la chasse, la recherche de personnes ensevelies et la détection précoce des avalanches.
+
+
+
+Dotés d’une constitution solide malgré leur gabarit réduit, ils supportent sans difficulté les vents mordants, la neige épaisse et les longues marches en terrain hostile. Leur fourrure dense les protège efficacement du froid, tandis que leurs larges pattes leur permettent de courir sur la poudreuse sans trop s’enfoncer.
+
+
+
+Joueurs, loyaux et très sociables, les Chiens des Neiges de Yadulsk développent un lien fort avec leurs maîtres. Ils s’entendent particulièrement bien avec les humains, les vastayas et les yordles, qu’ils suivent souvent avec un enthousiasme débordant. Curieux de nature, ils excellent également dans la recherche de plantes, de caches ou de pistes animales lorsqu’ils sont dressés dès leur plus jeune âge.
+
+
+
+Aussi à l’aise dans les villages que sur les sentiers glacés, ces compagnons fidèles sont devenus une présence  familière de la toundra à la taïga.
+
+
+
+PV : 15-40TAILLE / POIDS / ÂGE : 35-60 cm / 10-20 kg / ~13 ans 
+
+ACTIONS : Très peu farouche et souvent proche des autres êtres vivants, savent reconnaître le danger mais peuvent attaquer s’il est trop sauvage ou se sent menacé. Détection : Très utile pour la détection de gibier environnant et d’avalanches proches. / Rapporte : Ce petit chien chasseur ramène souvent des petites bêtes (lapins, poros, poissons).
+
+RÉGIME : Omnivore
+
+LOOT : Fourrure (0.3kg - 1kg) / Canines (2 - 8) /  Lait♀️/  
+
+DRESSAGE : Très facile, fait pour l’adoption, très proche des humains, vastayas et yordles. Très pratique pour flairer des plantes et d’autres animaux si dressés dès son plus jeune âge. 
+
+ENVIRONNEMENT : Freljord Centre / Nord-Est / Nord - Montagne / Colline / Village
+
+
+
+
+
+
+
+
+
+RARE
+
+RARE / RARE + / RARE ++ / RARE +++
+
+
+
+
+
+ABEILLE D’ODMÜND :
+
+
+
+Cette variété d’abeilles rouges est endémique des Chaînes d’Odmünd. Pour des raisons encore mal comprises, l’espèce ne survit que dans cette région précise. Plusieurs tentatives de déplacement et d’élevage ailleurs dans le Freljord ont été menées, mais toutes les colonies transplantées sont mystérieusement mortes en quelques semaines.
+
+
+
+Elles produisent un miel rare et magique, dont l’extraction demande un savoir-faire très spécifique. Mal manipulé, ce miel peut sécher, durcir et geler presque instantanément au contact de l’air ou d’un environnement inadapté. Il est particulièrement recherché pour ses propriétés de bien-être, de vitalité et de vivacité psychique (voir Consommable).
+
+
+
+Le procédé connu de quelques initiés, comme Arthur (voir PNJ), consiste à verser sur la ruche un liquide fortement acide — tel que du jus de citron, du vinaigre blanc ou une liqueur de souffre noir — afin de stabiliser la matière avant de la décoller délicatement, sans briser la structure contenant le miel.
+
+
+
+La ruche doit ensuite être placée dans un récipient hermétique à température ambiante. Certains y laissent quelques abeilles vivantes, dont la magie naturelle aide à conserver le miel plus longtemps. Une fois isolé de l’air extérieur, le contenu peut être manipulé puis réparti en pots.
+
+
+
+Pour produire leur hydromel à partir de ce miel, il est ensuite conservé sous vide, à l’ombre, durant deux à trois mois, le temps nécessaire à sa fermentation.
+
+
+
+PV : 01-05
+
+TAILLE / POIDS / ÂGE : 35-60 cm / 10-20 kg / ~13 ans 
+
+ACTIONS : Très inoffensive, n’attaque que si elles se sentent menacées. Butinage Spirituel : Crées une zone magique pour butiner des plantes à travers le voile spirituel (05-10 RM de Zone / Sont dissimulées et protégées dans leur zone) / Nuée d’Abeilles : Forment une nuée, attaque leur cible avant de disparaître (20-30 PP / 30% empoisonnée Niveau 2 / 1 seule action avant de fuir)
+
+RÉGIME : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+ABRAVIF DES NEIGES :
+
+
+
+Ce félin est une créature d’origine Ionienne qui s’est répandue à travers certaines autres régions aux terres magiques de Runeterra. C’est une créature fortement liée à la magie élémentaire de foudre qu’il emmagasine nativement dans sa fourrure aux propriétés uniques qui lui permet de se charger de cette énergie afin de l’utiliser pour se défendre mais également pour rendre son déplacement plus rapide et spectaculaire.
+
+
+
+De nature très protecteur et craintif de l’inconnu, il n’est agressif qu’en cas de danger imminent. Il est extrêmement agile et rapide, et est doté de grands réflexes ce qui le rend particulièrement difficile à toucher. Il possède une très longue queue qu’il maîtrise à la perfection et qui lui donne un très grand sens de l’équilibre. Cependant il n’est pas du tout discret car chacun de ses pas et de ses mouvements émettent des petites impulsions électriques. 
+
+
+
+Ce félin est une créature d’origine ionienne qui s’est répandue dans plusieurs régions aux terres magiques de Runeterra. Il entretient un lien naturel avec la magie élémentaire de la foudre, qu’il absorbe instinctivement afin de renforcer ses capacités physiques et de se défendre.
+
+
+
+L’énergie qu’il emmagasine lui permet d’accélérer brusquement ses mouvements, de bondir sur de longues distances et de libérer de courtes décharges lorsqu’il se sent menacé. Cette affinité en fait un animal particulièrement rapide et spectaculaire à observer.
+
+
+
+De nature protectrice mais méfiante envers l’inconnu, il ne se montre agressif qu’en cas de danger immédiat ou lorsqu’il défend son territoire et les siens. Extrêmement agile, doté de réflexes remarquables, il est difficile à atteindre en combat ou à capturer.
+
+
+
+En revanche, sa discrétion laisse à désirer : chacun de ses pas, bonds ou changements d’appui produit de petites impulsions électriques, des crépitements lumineux ou une odeur d’ozone qui trahissent facilement sa présence.
+
+
+
+PV : 70-120 / RM : 05-10
+
+TAILLE / POIDS / ÂGE : 170-300 cm (150 cm au garrot) / 85-150 kg / ~25-45 ans
+
+ACTIONS : Craintif mais pas agressif sauf pour protéger ses proches. Bond foudroyant : Saute et provoque à son atterrissage l’effet d’un éclair qui éclate (30 DM de Zone) / Morsure/Griffure statique : Blesse physiquement et émet une décharge électrique (10-15 DP et 10 DM - engourdit le membre) / Coup de Queue : Fouette avec sa queue et peut attraper sa cible avec (10 DM et 05 DP - 50% entrave). 
+
+RÉGIME : Carnivore / Poissons / Hrimdyr
+
+LOOT : Fourrure Abravive (2-6 kg) / 
+
+DRESSAGE : Possible. Si la bête n’a personne à protéger, elle peut se prendre d’affection.
+
+ENVIRONNEMENT : Freljord Nord - Nord-Ouest - Ouest /Montagnes / Grottes 
+
+
+
+
+
+
+
+ARPEKA BÉBÉ :   [VIDÉO]
+
+
+
+Les Arpekas sont de petits poissons vivant dans les eaux très froides du Freljord. Leur cycle de vie est particulièrement singulier et les distingue de la plupart des espèces aquatiques connues. Les femelles pondent leurs œufs sur les rivages, où ils éclosent sur la terre ferme. À la naissance, les jeunes Arpekas possèdent de petites nageoires ventrales qu’ils utilisent comme des pattes, leur permettant de se déplacer sur le sol durant leurs premières semaines de vie.
+
+
+
+Les bébés Arpekas poursuivent ainsi leur développement hors de l’eau jusqu’au moment où ils rejoignent un milieu aquatique, déterminant alors leur prochaine forme d’évolution. Deux branches principales sont observées : l’Arpeka des mers et l’Arpeka d’eau douce.
+
+
+
+Selon les observations, ce choix semble influencé par les conditions vécues durant leur croissance. Les individus ayant connu un environnement hostile, marqué par le danger ou la violence, rejoignent plus souvent l’océan et deviennent des Arpekas des mers. À l’inverse, ceux ayant grandi dans un cadre calme et stable s’orientent généralement vers les lacs ou les rivières, devenant des Arpekas d’eau douce.
+
+
+
+Dans de très rares cas, sans cause clairement identifiée, certains spécimens évoluent en Arpekas des glaces, une variante exceptionnelle encore mal comprise.
+
+
+
+PV : 5-10
+
+TAILLE / POIDS / ÂGE : 05-10 cm / 50-150 g / ~1-2 mois avant évolution
+
+ACTIONS : Totalement inoffensif. Déplacement très réduit au sol, ne sait pas nager avant évolution. Évolution : Choisir son habitat naturel selon son vécu (Jet 1D100, si réussite critique, devient un Arpeka des Glaces)
+
+RÉGIME : Algues / Insectes / Graines / Poissons
+
+LOOT : Chair
+
+DRESSAGE : Facile à domestiquer. Très dépendant de son maître.
+
+ENVIRONNEMENT :  Freljord Sud - Centre - Nord / Bord de mer - Fleuves - Lacs
+
+
+
+
+
+
+
+ARPEKA D’EAU DOUCE :     [VIDÉO]
+
+
+
+Une fois arrivé à maturité, si le jeune Arpeka choisit de rejoindre un lac ou une rivière, il devient un Arpeka d’eau douce. Paisible et passif, ce poisson vit dans les eaux très froides, où il mène une existence calme loin des zones maritimes plus hostiles.
+
+
+
+Il peut survivre dans l’eau issue des glaciers et s’adapte remarquablement bien aux environnements gelés. Rapide et réactif, il est capable de nager à grande vitesse afin d’échapper à ses prédateurs ou de traverser de forts courants.
+
+
+
+Ses longues moustaches constituent sa particularité la plus notable. Très sensibles, elles lui permettent de scanner les alentours et de détecter les formes de vie proches, même dans les eaux troubles, sombres ou chargées de glace.
+
+
+
+PV : 30-60
+
+TAILLE / POIDS / ÂGE : 150-200 cm / 60-110 kg / ~30-40 ans
+
+ACTIONS : Ce stade d’évolution le rend plus craintif. Moustache Antenne : Peut détecter des formes de vie à 1 km à la ronde. Vive allure : Est presque impossible à saisir à main nu et nage de 0 à 100 km/h en moins d’1 seconde.
+
+RÉGIME : Plantes marines / Graines 
+
+LOOT : Chair / Antennes (x4)
+
+DRESSAGE : Compliqué. Si adopté bébé, reste fidèle.
+
+ENVIRONNEMENT : Freljord Centre - Sud - Ouest - Nord / Eau Froide et Douce / Lacs / Rivières / Glaciers
+
+
+
+
+
+
+
+ARPEKA DES MERS :     [VIDÉO]
+
+
+
+Une fois arrivé à maturité, si le jeune Arpeka choisit de rejoindre la mer, il devient un Arpeka des mers. Nettement plus massif et agressif que sa forme d’eau douce, il cesse d’être une proie pour devenir un véritable prédateur.
+
+
+
+Il se nourrit de nombreux poissons et autres petites créatures marines, ses capacités évoluant pour s’adapter aux conditions plus rudes du milieu océanique. Plus endurant et plus mobile, il change fréquemment de zone de chasse et se déplace presque en permanence.
+
+
+
+L’Arpeka des mers est actif aussi bien de jour que de nuit. Ses moustaches s’allongent considérablement, augmentant sa sensibilité aux mouvements et élargissant sa zone de détection. Grâce à elles, il repère facilement les proies, même dans les eaux sombres, agitées ou profondes.
+
+
+
+PV : 80-150
+
+TAILLE / POIDS / ÂGE : 250-400 cm / 100-230 kg / ~25-30 ans 
+
+ACTIONS : Ce stade d’évolution le rend plus agressif. Moustache Antenne longues : Peut détecter des mouvements de forme de vie à 10 km à la ronde. Vive allure chargée : Est presque impossible à saisir à main nu et nage de 0 à 100 km/h en moins d’1 seconde percute sa cible (10-20 DP / S’applique à lui même 50% des dégâts)
+
+RÉGIME : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+BASILIC DES MONTAGNES :
+
+
+
+Le Basilic est une créature très répandue à travers Runeterra, particulièrement réputée à Noxus où elle est largement utilisée à des fins militaires. Robuste et brut de caractère, elle sert de monture de guerre, de bête de transport pour l’équipement lourd et d’appui redoutable au combat. Il en existe toutefois plusieurs variantes selon les régions, et celle du Freljord se distingue par ses écailles bleues, idéales pour se fondre dans les glaces et les cavernes gelées où elle vit.
+
+
+
+Moins robuste que ses cousins noxiens, le Basilic freljordien compense par sa rapidité et sa fourberie. Il préfère tendre des embuscades, frapper rapidement puis se replier avant que sa proie ne puisse riposter. Ses griffes constituent à la fois des armes efficaces et un excellent outil de déplacement. Associées à de petits coussinets adhérents situés sous ses pattes, elles lui permettent de s’agripper parfaitement aux parois glacées, de grimper sur les surfaces verticales et de se déplacer sans difficulté dans les tunnels de glace où il établit son territoire.
+
+
+
+Il possède également une collerette épaisse en fourrure blanche particulièrement prisée par certaines tribus pour ses effets uniques. Sa matière est un très puissant isolant olfactif qui le rend indétectable et absorbe toute les odeurs environnantes. Une fois séchée et préparée, cette matière conserve naturellement les odeurs et les essences avec une grande efficacité. Elle est ainsi utilisée pour stocker des herbes rares, masquer une piste, fabriquer des appâts de chasse ou transporter des substances sans en perdre les propriétés.
+
+
+
+PV : 100-250 / ARM : 00-05
+
+TAILLE / POIDS / ÂGE : 200-400 cm (dont 120-200 cm de queue) / 260-400 kg / ~70-85 ans
+
+ACTIONS : Dissimulation Olfactive : Devient presque indétectable dans son milieu naturel (-40 Perception) / Griffes acérées : (20 DP - Saignement niveau 2)
+
+RÉGIME : Carnivore
+
+LOOT : Chair / Griffes (x16) / Fourrure Isolfactive (1-1,5 kg) / Cornes (x2) / Glande (x1)
+
+DRESSAGE : Normal. Moyennement affectif. Très serviable et discipliné. Efficace au combat.
+
+ENVIRONNEMENT : Freljord Ouest - Nord - Nord-Est - Nord-Ouest /Glaciers / Montagnes / Grottes 
+
+
+
+
+
+
+
+BÊTES DU GRAND-OUEST :
+
+
+
+Le secteur du Grand-Ouest est devenu sauvage depuis de nombreuses années suite à la disparitions d’une des grandes tribus Freljordienne. Mais depuis quelques années, des nomades toujours fidèles à Ildhaugr tentent de refaire surface. La tribu Renaissante est très proche de la faune du coin et son de très bon dresseurs. Ils dressent ses nombreuses bêtes et chacune d’entre elles ont un rôle bien spécifique à apporter à leur petite communauté.
+
+
+
+LE SPNETYRR : 
+
+
+
+Cette bête unique est une monture idéale pour ce peuple. Ce quadrupède de 6 mètres est doté de longues plumes blanches le rendant très aérodynamique afin de sprinter comme nulle pareil. Bien qu’il ne puisse pas transporter de lourdes charges, ses longues jambes et sa grande souplesse lui permet de faire des bonds qui peuvent atteindre plusieurs dizaines de mètres de haut. Sa légèreté lui permet de presque planer et d'atterrir tout en douceur. 
+
+
+
+LE DORDÜMND : 
+
+
+
+Ce colosse est un chargeur unique. Il peut détruire un bloc de glace et même de roche en une seule charge. Il est si passif qu’il lui fait près de 400 mètres pour se freiner d’une charge. Cette bête se nourrit sans s’arrêter pendant 3 jours une seule fois par an, puis dort pendant 2 mois complets. A son réveil il est d’une forme olympique pour les prochains mois à venir. Il ressemble à un immense paresseux de fourrure blanche et à la tête de baleine. Son corps est parfaitement adapté pour vivre dans les régions enneigées. Le sol sec peut l'handicaper car ses pattes sont munies de longues griffes souples.
+
+
+
+LE TREVNSKAALD : 
+
+
+
+Ce sont d’immenses créatures très difficiles à dompter. De nature agressive, la tribu Renaissante à découvert un moyen de la rendre obéissante. Si on lui couvre la tête pour lui cacher la vue, elle se met à obéir et à se laisser guider par les rênes, les odeurs et les sons qu’elle entend. Cependant, il faut bien faire attention à ne surtout jamais lui retirer son armature crânienne qui lui obstrue la vue sans quoi elle détruirait tout autour d’elle.Sa taille est parfaite pour les grands déplacements de ressources et de constructions habitables pour établir un camp provisoire. Elle peut supporter plusieurs tonnes de charge et il est courant qu’elle ait sur son dos une plateforme sur laquelle des habitations sont construites. 
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS/ÂGE :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+BUU FISH :
+
+
+
+Le Buu Fish est un petit poisson d’eau douce unique en son genre, reconnaissable à son apparence singulière et à ses nombreuses nageoires. Celles-ci lui offrent une nage gracieuse et spectaculaire, marquée par des mouvements d’une grande fluidité. Ses écailles scintillantes et ses petits yeux ronds renforcent encore son allure particulièrement attendrissante.
+
+
+
+Cependant, sa véritable renommée ne vient pas seulement de son apparence. Sa chair, à la fois tendre, savoureuse et délicatement parfumée, est considérée comme un mets d’exception dans plusieurs régions de Runeterra.
+
+
+
+Elle est également réputée pour ses propriétés magiques. Selon sa préparation, elle favoriserait la récupération physique, améliorerait l’humeur et plongerait dans un état de méditation voir d'hypnose provoquant un sentiment durable de bien-être. Certains alchimistes lui prêtent même des effets bénéfiques sur la concentration.
+
+
+
+Rare et difficile à capturer, le Buu Fish est autant recherché pour sa valeur culinaire que pour les vertus qu’on lui attribue. Très apprécié par la noblesse à travers le monde, il peut atteindre des prix considérables lorsqu’il est préparé par de grands chefs.
+
+
+
+PV : 5-10
+
+TAILLE/POIDS/ÂGE : 7-11 cm / 300-350 g / ~4-6 ans
+
+ACTIONS : 
+
+RÉGIME : Herbivore / Algues
+
+LOOT : Chaire / Écailles / Oeufs♀️(x20-40)
+
+DRESSAGE : Inutile
+
+ENVIRONNEMENT : Runeterra / Lacs / Rivières 
+
+
+
+
+
+
+
+CROQUIN AFFAMÉ :
+
+
+
+Ce requin magique est connu pour son appétit insatiable. Il ne se nourrit pas uniquement par nécessité, mais également par gourmandise, curiosité et pur plaisir. Lorsqu’il rencontre une espèce inconnue, il utilise sa magie pour lui faire comprendre qu’il souhaite goûter un aliment encore jamais goûté. Si cette envie n’est pas satisfaite, il entre dans une frénésie durant laquelle il dévore tout ce qui se trouve à sa portée, sans distinction.
+
+
+
+Bien qu’il ne soit ni particulièrement rapide ni excellent nageur, il fait preuve d’une détermination remarquable lorsqu’il poursuit une source de nourriture qu’il n’a encore jamais goûtée. Il peut ainsi traquer une proie ou suivre une piste sur de très longues distances.
+
+
+
+Sa glande magique lui confère un puissant pouvoir de communication télépathique, lui permettant de se faire comprendre de toute espèce dotée de conscience. Cette capacité, combinée à son comportement imprévisible, le rend aussi fascinant que inquiétant.
+
+
+
+Ses grands yeux bleus fixes et son large sourire garni de nombreuses dents fines et tranchantes lui donnent une expression dérangeante, souvent décrite comme psychotique par ceux qui l’ont croisé.
+
+
+
+PV : 300-600
+
+TAILLE/POIDS/ÂGE : 5-10 M / 300 kg-2,5 T / ~1000 ans 
+
+ACTIONS : Peut éviter une attaque si une offrande d’un aliment inconnu lui est offerte. Voix hypnotique : Manipule par sa magie de communication (Possession). Affamé : Mange sans cesse (15 DP et 15 PM / Avale un membre si échec critique)
+
+RÉGIME : Tout / Préférence pour ce qu’il ne connaît pas
+
+LOOT : Chair / Glande (1) / Dents (50-200) / 
+
+DRESSAGE : Impossible
+
+ENVIRONNEMENT : Mers
+
+
+
+
+
+
+
+DRÜVASK ROYAL :
+
+
+
+Le Drüvask Royal est une variante exceptionnellement rare du Drüvask, bien plus imposante que les spécimens communs et reconnaissable à son pelage blanc et gris. Sa taille, sa force et son endurance dépassent largement celles de ses congénères, faisant de lui l’une des bêtes les plus redoutables du Freljord.
+
+
+
+À ce jour, le seul individu officiellement connu se nomme Bristle, monture et compagnon de Sejuani, cheffe de guerre de la Griffe Hivernale.
+
+
+
+Contrairement aux Drüvasks ordinaires, le Drüvask Royal possède une résistance hors norme, au point de pouvoir supporter la puissance de la Glace Pure sans succomber. Cette particularité en fait une créature presque unique, capable d’endurer des conditions et des forces que peu d’êtres vivants pourraient survivre.
+
+
+
+PV : 500-600 (Peut porter un équipement ARM et RM à +10 max) / ARM : 05
+
+TAILLE/POIDS/ÂGE : 380-420 cm (210 cm au garrot) / 880 kg-1,2 T / ~55-70 ans
+
+ACTIONS : Charge massive : 15 DP / 30% d’empalement (20 PP et Saignement niveau 2) / Placage Massif : Saute et plaque brutalement sa cible (20 DP / immobilisation / 50% casser un os)
+
+RÉGIME : Omnivore / Aphrènes
+
+LOOT : Viande faisandé (très dure à manger) / Fourrure / Défenses (2) / Lait 
+
+DRESSAGE : Difficile + Preuve de Force et de combativité digne de lui.
+
+ENVIRONNEMENT : Freljord Nord / Qchar (Bristle)
+
+
+
+
+
+
+
+FÉLICES :
+
+
+
+Les Félices sont une espèce de félins magiquement altérés, étroitement liés à différents types de magie élémentaire. On les retrouve dans plusieurs régions de Runeterra, où ils sont particulièrement populaires, bien qu’ils restent relativement peu communs au Freljord.
+
+
+
+Leur rareté varie selon leurs différentes déclinaisons ainsi que selon les territoires où ils apparaissent. Certaines variétés sont répandues et familières des habitants, tandis que d’autres ne se rencontrent que dans des zones précises ou sous des conditions particulières.
+
+
+
+De manière générale, les Félices entretiennent une relation étroite avec l’homme et se montrent souvent dépendants de sa présence, notamment pour la nourriture, le confort ou la protection. Toutefois, certains individus vivent parfaitement à l’état sauvage, principalement autour des villes, villages et zones habitées, où ils profitent de la proximité humaine sans jamais être réellement domestiqués.
+
+
+
+
+
+- LE FÉLICE COURANT : 
+
+Généralement bi ou tricolore, le félice courant n’a pas de spécificité particulière. Il est le plus répandu des félices, une longue queue et un poil tout hérissé. 
+
+
+
+Généralement bi- ou tricolore, le Félice courant ne possède pas de particularité magique marquée. Il s’agit de la variété la plus répandue parmi les Félices, présente dans de nombreuses régions habitées de Runeterra.
+
+
+
+Reconnaissable à sa longue queue et à son pelage souvent hérissé, il se montre vif, adaptable et proche des populations humaines. Bien qu’ordinaire en apparence, il conserve l’agilité et le tempérament imprévisible propres à son espèce.
+
+- LE FÉLICE AMPHIBIE : 
+
+Cette variante de Félice peut changer de sexe très régulièrement et s’adapte aussi bien à un mode de vie aquatique que terrestre. Elle doit toutefois être régulièrement humidifiée afin de préserver sa peau et son équilibre naturel.
+
+
+
+Ses tâches phosphorescentes émettent une faible lueur visible dans l’obscurité ou sous l’eau. Son rythme de vie varie fréquemment, alternant sans schéma fixe entre des phases nocturnes et diurnes.
+
+
+
+- LE FÉLICE AQUALITE : 
+
+Il possède des branchies et nage à bonne vitesse grâce à sa queue, à ses oreilles profilées et à ses pattes palmées. Il peut également stocker de l’eau dans son organisme afin de rester un certain temps à la surface, généralement pour chasser, mais aussi pour réguler la température de son corps au contact de l’air frais. 
+
+
+
+En cas de danger, il est capable de faire chauffer à très haute température cette eau en lui puis de la recracher sur une cible pour se défendre. Ce mécanisme est facilement détectable grâce à la vapeur qui sort de ses oreilles.
+
+- LE FÉLICE CORNU : 
+
+Il est fainéant, paresseux et particulièrement vaniteux. Il passe le plus clair de ses journées à manger ou à admirer son reflet dans les surfaces réfléchissantes qu’il trouve sur son chemin. Malgré ce tempérament nonchalant, il est réputé pour sa grande intelligence et se montre capable de résoudre des énigmes complexes ou de comprendre rapidement des situations inhabituelles.
+
+
+
+Il possède également un excellent sens de l’orientation. Se perdre en sa compagnie est rare, à condition toutefois qu’il accepte de vous guider.
+
+
+
+- LE FÉLICE SYLVAIN : 
+
+Il peut se dissimuler dans la végétation grâce à son apparence rappelant une feuille. Cette capacité naturelle lui permet de passer facilement inaperçu dans les zones boisées ou herbeuses.
+
+
+
+Il est capable de faire pousser dans son pelage n’importe quel type de plante, quel que soit le climat, bien qu’il ne puisse en entretenir qu’une seule à la fois. Lorsqu’on s’occupe de lui avec attention, la plante qui y pousse gagne en qualité, en vigueur et en poids.
+
+
+
+De nature aventurière, il apprécie l’action et supporte mal les hésitations prolongées. Il a tendance à prendre les devants lorsque les décisions tardent trop.
+
+
+
+- LE FÉLICE DRACONIS : 
+
+Il possède des écailles et de petites ailes lui permettant de planer et de voler sur de très courtes distances. Agile et nerveux, il utilise surtout cette faculté pour franchir des obstacles ou échapper rapidement à un danger.
+
+
+
+Il est également connu pour entretenir une grande proximité avec les Pekos, avec lesquels il cohabite fréquemment et partage souvent un comportement joueur.
+
+
+
+Son organisme transforme en permanence l’air qu’il inspire en un gaz inflammable qu’il expire naturellement. Il ne possède toutefois pas l’organe nécessaire pour produire l’étincelle capable d’enflammer ce gaz, ce qui limite cette particularité à un usage défensif ou à des interactions avec d’autres créatures.
+
+- LE FÉLICE ROYAL : 
+
+Il à également des ailes mais elles ne sont pas amovibles. Il est orné d’un pelage de cornes aux pointes d’or et donc très prisé des nobles. On en retrouve quasiment plus à l’état sauvage, sauf dans de rares zones montagneuses ou le climat y est particulièrement spécifique. 
+
+Dans certains pays comme Demacia , Shurima ou Piltover, ils sont signe de noblesse et sont très respectés et convoités par les gens fortunés qui, selon la rareté du Félice, cherchent à se démarquer.
+
+
+
+Il possède également des ailes, bien que celles-ci ne soient pas amovibles. Son corps est recouvert d’un pelage parcouru de cornes fines dont les pointes sont naturellement ornées de véritables paillettes d’or, particularité qui en fait une variété extrêmement recherchée.
+
+
+
+On en trouve désormais très peu à l’état sauvage, hormis dans quelques zones montagneuses aux conditions climatiques très spécifiques, où l’espèce subsiste encore difficilement.
+
+
+
+Dans certains pays comme Demacia, Shurima ou Piltover, ce Félice est considéré comme un symbole de noblesse et de prestige. Très respecté et convoité par les plus fortunés, il est souvent acquis comme marque de distinction sociale, la rareté de l’individu renforçant encore la valeur de son propriétaire.
+
+
+
+PV : ARM-RM :
+
+TAILLE/POIDS/ÂGE :  
+
+ACTIONS : 
+
+RÉGIME : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+GIVREHARPIE - (GIVREHARPIE ARGENTÉ) :
+
+
+
+La Givreharpie est un oiseau rare vivant dans les environnements froids, enneigés et montagneux. Son plumage épais blanc et marron lui permet de se fondre parfaitement dans les paysages boisés, rocheux et enneigés. D’une envergure pouvant atteindre 2,10 mètres, elle est réputée pour son flair remarquable et sa capacité à détecter et suivre ses proies sur de longues distances.
+
+
+
+Souvent dressée et utilisée par les éclaireurs, la Givreharpie est un allié précieux grâce à sa discrétion naturelle et à sa vue perçante, lui permettant d’apercevoir de petites cibles à plus d’une dizaine de kilomètres. En vol, elle peut maintenir une vitesse moyenne de 130 km/h et atteindre jusqu’à 320 km/h en piqué, faisant d’elle l’un des prédateurs aériens les plus rapides de son environnement.
+
+
+
+Particulièrement fidèle à la personne qui l’élève, la Givreharpie supporte mal le changement de maître et peut refuser durablement d’obéir à un nouveau dresseur. Certaines lignées d’éclaireurs Freljordiens se transmettent ainsi leurs oiseaux de génération en génération. Dans plusieurs régions du nord, posséder une Givreharpie dressée est considéré comme une marque de prestige autant qu’un avantage stratégique.
+
+
+
+
+
+
+
+Hormis la puissance de traction du Faucon Plume-Acier, nul oiseau n’égale la férocité de la Givreharpie Argentée. Redoutée dans tout le Freljord, elle se distingue par des techniques de chasse et de combat aussi brutales qu’imprévisibles. Son style de combat unique peut surprendre  même les plus aguerris des guerriers freljordiens. 
+
+
+
+Bien plus rare, la Givreharpie argentée présente des propriétés magiques. Son pelage argenté est en réalité une pellicule magique qui lui permet de voler sans un bruit, et de laisser une traînée derrière elle que seuls ses semblables peuvent voir.. Ses 4 yeux lui permettent de voir à 360°, de jour comme de nuit, mais également de voir brièvement à travers le plan spirituel.
+
+
+
+PV : 200-250 / RM : 05-10TAILLE/POIDS/ÂGE : 65-85 cm (210 cm d’envergure) / 15-20 kg / ~60-75 ans
+
+ACTIONS : Flux de Passage :  / Coup de Griffe/Bec/Serres : (20 DP / Argentée : 20 PP)
+
+RÉGIME : Viande / Fruits sec / 
+
+LOOT : Chair / Plumage / Oeufs (3-5) /
+
+DRESSAGE : Très facile si proche / Très Difficile si sauvage (Charisme -60 ou Dressage lvl 3 -20)
+
+ENVIRONNEMENT : Freljord Centre - Nord-Est - Est / Montagne / Forêts
+
+
+
+
+
+
+
+
+
+GOYUZI ♂️ - GOYUZI ♀️ :     [VIDÉO]
+
+
+
+Les Goyuzis sont de petites créatures à l’apparence de minuscules cochons bleus, particulièrement  appréciées pour leur aspect attendrissant. Originaires d’Ionia, ils furent introduits au Freljord il y a près de cinq siècles par bateau de marchands ioniens. Contre toute attente, leur affinité naturelle avec le froid leur permit de s’adapter parfaitement aux terres Freljordiennes, où l’espèce prospéra rapidement.
+
+
+
+Les Goyuzis naissent toujours par paire : un mâle et une femelle. Les deux individus se distinguent par leur couleur ainsi que par certaines propriétés magiques propres à chacun.
+
+
+
+Ils partagent toutefois une particularité commune : une puce singulière vivant dans leur pelage. Ce parasite entre en contact avec les êtres conscients qu’il approche et s’installe généralement dans la chevelure de son hôte. Une fois présent, il altère subtilement le jugement de la victime, qui perçoit alors le Goyuzi comme irrésistiblement mignon et attachant.
+
+
+
+Cet effet rend souvent les individus contaminés excessivement protecteurs ou incapables de repousser l’animal, même lorsque celui-ci devient envahissant. Le moyen le plus efficace de s’en débarrasser consiste à éviter tout contact visuel prolongé avec la créature puis à se raser entièrement le crâne. De ce fait, les personnes chauves sont naturellement bien moins sensibles à ce phénomène.
+
+
+
+Les mâles arborent généralement une teinte bleu clair. Naturellement fugueurs et vagabonds, ils supportent mal la captivité et disparaissent souvent sans prévenir, même après une longue période auprès d’un foyer. On leur prête toutefois la capacité de porter chance à ceux qu’ils côtoient. Malgré leur tempérament instable, ils savent parfaitement adopter le comportement du compagnon idéal et se montrent joueurs, affectueux et faciles à approcher.
+
+
+
+Les femelles, reconnaissables à leur robe bleu sombre et blanche, sont réputées encore plus attendrissantes et attachantes. Bien plus fidèles que les mâles, elles restent durablement proches des personnes avec lesquelles elles créent un lien. Elles traînent cependant une réputation de malchance. Sans qu’il y ait véritable notion de propriété, le moindre contact prolongé avec une femelle rend souvent la séparation difficile, en grande partie à cause du parasite qu’elles partagent et de l’attachement excessif qu’il provoque. 
+
+
+
+PV : 
+
+TAILLE/POIDS/ÂGE :  
+
+ACTIONS : Cochon chanceux (♂️) : Porte chance dans le loot et les interactions sociales (+10 Sociale et trouve plus de loot) / Cochon malchanceux (♀️) : une fois en possession, il est très difficile de s’en séparer (voir Maladies). Confère une magie de malchance au propriétaire (-05 à tous les Attributs Généraux)
+
+RÉGIME : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+
+
+GRELLFEEN :
+
+
+
+Les Grellfeens sont d’immenses serpents marins vivant dans les mers glacées du Freljord. Leur corps massif leur permet d’enrouler et de broyer de petites embarcations, faisant d’eux des prédateurs particulièrement redoutés des navigateurs du nord.
+
+
+
+Ils possèdent une peau épaisse résistante au froid extrême ainsi qu’une mâchoire garnie de dents tranchantes capables de déchiqueter rapidement leurs proies. Malgré leur taille, les Grellfeens nagent avec une vitesse surprenante et attaquent souvent depuis les profondeurs. Il arrive, lors de déplacements sur les glaciers, d’apercevoir une immense silhouette sombre glisser à grande vitesse sous la couche de glace, sans émettre le moindre bruit. À cet instant, il faut choisir entre fuir ou tenter de l’affronter.
+
+
+
+Carnivores et territoriaux, ils s’attaquent aussi bien aux grandes créatures marines qu’aux navires traversant leurs eaux. Les Ursidés les chassent parfois pour leur viande ou leur venin, bien qu’un Grellfeen adulte reste une menace considérable, même pour des groupes expérimentés. Dans le folklore freljordien, en abattre un est considéré comme un exploit de grande bravoure, tant leur dangerosité est élevée, et leur taille permet de nourrir une tribu pendant plusieurs semaines.
+
+
+
+PV : 800-2000 / ARM : 10-15
+
+TAILLE/POIDS/ÂGE :  60-150 m / 120-2000 T / ~100-300 ans
+
+ACTIONS : Craquelure Glacière : Serpente sous la couche de glace et la brise pour dévorer un groupe (jet de Perception. Si loupé, jet de Réflexes/Agilité. Si loupé Avalé) Si Avalé : subit 5 PP /tour. Peut combattre de l’intérieur mais doit achever la bête avant 30 min RP sous peine d’être digéré / Venin Grellfeen : Venin non négligeable qui se répand dans tout le corps et embourbe l’esprit (Venin Niveau 2 / -30 Perception/Agilité/Réflexes pendant ½ Journée puis +5 toutes les heures) / Coup de Croc : Claque sa gueule acérées de dents (15-20 DP / PP si Équipement ≤ Excellent )
+
+RÉGIME : Carnivore
+
+LOOT : Viande / Glande     (1) / Venin (1-3L) / Dents (1000-10 000) / 
+
+DRESSAGE : Impossible
+
+ENVIRONNEMENT : Freljord Nord - Nord-Ouest / Mer de Glace / Terres Ursidé / Profondeur Glaciers 
+
+
+
+
+
+
+
+GRIFFEUR - GRIFFEUR ALPHA :
+
+
+
+Le Griffeur Alpha est une variante rare et dominante des Griffeurs, reconnaissable à sa grande taille, ses six pattes redoutables et son pelage sombre parcouru de reflets rougeoyants. Plus puissant que ses congénères félins, il représente le sommet de la hiérarchie de son espèce sur les terres freljordiennes.
+
+
+
+Doté d’une forme d’hémomancie, il tire sa force du sang qu’il consomme, qu’il utilise pour se revigorer et accélérer sa récupération. Il peut survivre en se nourrissant uniquement de sang, la chair n’étant consommée que par gourmandise. 
+
+
+
+Prédateur territorial, il possède une force brute impressionnante : ses griffes déchirent la chair et percent des protections solides, tandis que sa mâchoire lui permet d’achever rapidement ses proies. Il est devenu un symbole pour les Chamans du Lycan et certaines troupes de la Griffe Hivernale, qui ont appris à les dompter, incarnant la férocité, la force et la domination.
+
+
+
+Malgré sa carrure, il se déplace avec une grande rapidité et est capable de bonds violents pour surprendre ses cibles. Discret et difficile à repérer, il se fond efficacement dans son environnement, se déplace souvent en meute et n’est actif que de nuit. Il dort très peu, environ deux heures par jour, et peut s’épuiser lors de traques trop longues. Sa simple présence suffit généralement à faire fuir la faune environnante, et croiser sa route est presque toujours signe de danger immédiat.
+
+
+
+PV : 250-450
+
+TAILLE/POIDS/ÂGE : 400-500 cm (220 cm au garrot) / 500-800 kg / ~60 ans
+
+ACTIONS : Cros de Sang (Alpha) : Plante ses crocs dans la chaire pour goûter au sang de sa cible (10 DP et 10 DM / Revigore de +10 PV 1 fois /u) / Griffe Chirurgicale : Coup de griffe millimétré qui cible une zone précise (15 DP ou 10 DP et 5 PP / Si Alpha : 30 DP ou 15 DP et 15 PP si équipement ≤ Excellent / 50% de chance de Saignement Lvl 2 si PP)
+
+RÉGIME : Carnivore / Sang (Hemomancie)
+
+LOOT : Viande / Fourrure / Griffes ultra tranchantes (4) / Crocs hématomanciques (2)
+
+DRESSAGE : Très Difficile (Dressage lvl 3 ou Domptage Griffeur / Faire ≤ 15 si 80 Force)
+
+ENVIRONNEMENT : Freljord Nord - Nord-Est / Quchar / Plaines Glacées / Forêts
+
+
+
+
+
+
+
+GRIFFON :     [WIKI]
+
+
+
+Les Griffons sont des créatures majestueuses présentes dans plusieurs régions de Runeterra, notamment à la frontière entre le Freljord et Demacia, où ils sont les plus connus et les mieux maîtrisés. Dotés d’un magnifique plumage blanc cassé et de très grandes ailles argentées, on les retrouve principalement dans les montagnes au nord du Haut Lac d’Argent.
+
+
+
+Très intelligents et farouchement loyaux, les griffons ne se laissent approcher que par des individus dignes de leur confiance. À Demacia, ils sont élevés et dressés par une cavalerie d’élite très privée nommée la Escadre Étincelante dont le Roi Jarvan IV fait lui-même partie. Elle est dotée d’unités aériennes redoutables utilisées pour la reconnaissance, les assauts rapides et la domination des cieux.
+
+
+
+À l’état sauvage, les griffons vivent dans les zones montagneuses et escarpées, où ils nichent en hauteur, à l’abri des prédateurs. Territoriaux, ils défendent férocement leur aire et leurs petits. Leur vue perçante leur permet de repérer une proie à des kilomètres, et leurs piqués peuvent être aussi rapides que dévastateurs.
+
+
+
+Autrefois, Freljordiens et Demaciens s’opposaient à l’exploitation des griffons, vus comme des créatures libres. Avec le temps, les Demaciens ont prouvé que leur lien reposait sur la confiance plutôt que la contrainte, les griffons restant libres de choisir leur cavalier. Les Freljordiens ont fini par tolérer leur présence, tout en restant vigilants.
+
+
+
+PV : 300-550 (Peut porter de l’Équipement ARM et RM à 05-15)
+
+TAILLE/POIDS/ÂGE : 12-16 m (20-24 m d’envergure / 5-6 m au garrot) / 4-6 T / ~45-75 ansACTIONS :  Cri strident : Déséquilibre temporairement (-30 Agilité/Réflexes) / Coup de Bec/Serre : (20 DP ou 10 DP et 10 PP si équipement ≤ Excellent) / Charge en piquet (Ultime) : 60 DP de Zone (Large). Subit ses propres dégâts en DB 
+
+RÉGIME : 
+
+LOOT : 
+
+DRESSAGE : Difficile sans techniques spécialisées (Dressage Lvl 3 ou Dressage Griffon / Faire ≤ 15 si 80 Charisme). Le Griffon riposte si échec critique. 
+
+ENVIRONNEMENT : Demacia Nord / Freljord Sud - Sud-Ouest / Haut Lac d’Argent / Montagnes / Vallées
+
+
+
+
+
+
+
+GRIFFON FURIEUX :
+
+
+
+Dans le reste de Runeterra, certaines variantes de griffons existent, adaptées à leur environnement. C’est notamment le cas du Griffon Furieux, plus présent du côté du Freljord. Cette variante se distingue par un tempérament nettement plus sauvage, un comportement agressif et un style de vol brutal, fait de piqués violents et de manœuvres imprévisibles. Ils se distingue par ses yeux d’un noir profond, sa colerette en éventail et son bec noir bleuté recourbé net et pointu.
+
+
+
+Plus difficile à dompter, il est donc bien plus rare dans les rangs de l’armée demacienne. Seuls quelques officiers expérimentés parviennent, dans de rares cas, à en gagner la confiance, souvent au prix d’épreuves longues et dangereuses. Lorsqu’il est maîtrisé, le Griffon Furieux s’impose naturellement comme le dominant d’une unité et influence même le comportement des autres montures. Toutefois, il reste instable et peut se retourner contre ses alliés au moindre signe de faiblesse, de défi ou de manque de respect.
+
+
+
+PV : 350-600 (Peut porter de l’Équipement ARM et RM à 05-20)
+
+TAILLE/POIDS/ÂGE :  ACTIONS : Cri strident : Déséquilibre temporairement (-30 Agilité/Réflexes) / Regard de tueur : Intimide sa cible et prend le focus (Jet de Mental, si échec cherche à se cacher ou fuir) / Coup de Bec/Serre : (20 PP si équipement ≤ Excellent) / Furie Furieuse : Augmente tous ses dégâts de +10 quand il atteint 30% de ses PV) / Charge en piquet (Ultime) : 100 DP de Zone (Large) Subit ses propres dégâts en DB / 
+
+RÉGIME : 
+
+LOOT : 
+
+DRESSAGE : Il est impossible d’en dresser un sans des techniques spécialisées (Dressage Griffon). Le Griffon Furieux attaquera si le jet échoue. 
+
+ENVIRONNEMENT : Freljord Sud - Sud-Ouest / Montagnes / Vallées
+
+
+
+
+
+
+
+GRIFFON (BÉBÉ) :
+
+
+
+Note…
+
+
+
+PV : 
+
+TAILLE/POIDS/ÂGE :  
+
+ACTIONS : 
+
+RÉGIME : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+HRIMDYR :
+
+
+
+Note…
+
+
+
+PV : 
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+RÉGIME : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+HYVE BOVINE DES NEIGES :     [VIDÉO]
+
+
+
+Note…
+
+
+
+
+
+1. Possède 2 cœurs.
+
+2. Caca Boudin.
+
+
+
+PV : 150-300TAILLE / POIDS / ÂGE : 160-220 cm (220 cm d’envergure) / 400 kg -1 T / ~45 ansACTIONS : Malgré qu’on en trouve plusieurs dans une même zone, elle reste assez solitaire dans son quotidien. Charge en battant des ailes pour donner plus d’impulsion (10-20 DP + 5-10 DP si empalé avec ses cornes) Balaye d’un coup d’aile puissant en zone (5-10 DP + 10 DP si touché par l’aile)
+
+LOOT : Corne Hyve Bovine (2) / Viande (20kg - 100kg) / Oeuf♀️comestible (1 - assez rare) / 
+
+DRESSAGE : Assez simple (selon son caractère) si les marques de respect sont respectées et s’il ressent aucunes mauvaises intentions. Peut porter jusqu'à deux personnes selon sa taille.
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+HYVE BOVINE ROYALE :     [VIDÉO]
+
+
+
+Note…
+
+
+
+
+
+1. Possède 2 cœurs.
+
+2. Caca Boudin.
+
+
+
+PV : 250-500TAILLE / POIDS / ÂGE : 180-250 cm (250 cm d’envergure) / 600 kg -1,4 T / ~50 ansACTIONS : Malgré qu’on en trouve plusieurs dans une même zone, elle reste assez solitaire dans son quotidien. Charge en battant des ailes pour donner plus d’impulsion (10-20 DP + 5-10 DP si empalé avec ses cornes) Balaye d’un coup d’aile puissant en zone (5-10 DP + 10 DP si touché par l’aile)
+
+LOOT : Corne Hyve Bovine (2) / Viande (20kg - 100kg) / Oeuf♀️comestible (1 - assez rare) / 
+
+DRESSAGE : Assez simple (selon son caractère) si les marques de respect sont respectées et s’il ressent aucunes mauvaises intentions. Peut porter jusqu'à deux personnes selon sa taille.
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+JERN - JERN BLANC :
+
+
+
+Représentant parfait de la famille des Ursérénides, le Jern est un croisement parfait entre un cerf et un ours. Il symbolise de ce fait le maintien de la paix grâce à la force. C’est un animal commun mais avec une forte aura. Malgré qu’il soit comestible, le Jern est très respecté et il est très mal vu d’en chasser, mangé ou dérangé.
+
+
+
+PV : 90-200 
+
+TAILLE / POIDS / ÂGE : 130-190 cm / 150-450 kg / ~28 ansACTIONS : Passif et inoffensif sauf pour se défendre ou protéger sa descendance ou tout animal (parfois même humains) en danger. Charge / Coup de bois / Coup de sabot : 10-15 DP.
+
+LOOT : Viande (2 à 10kg) / Fourrure (1 à 3kg) / Bois (2) / 
+
+DRESSAGE : Difficile mais possible si un lien se crée naturellement. Mal vu des Freljordiens de le monter ou le dompter.
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+LOUP GIVREPELAGE :
+
+
+
+Note…
+
+
+
+PV : 80-180
+
+ARM : 00 / RM : 05
+
+TAILLE / POIDS / ÂGE :   
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+NARVAL DORÉ :
+
+
+
+Note…
+
+
+
+PV : 
+
+ACTIONS : 
+
+LOOT : Viande / Or Brut (1 à 10 kg) / 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+ 
+
+
+
+NAVILLON :
+
+
+
+Ce petit oiseau est unique en son genre. Il est capable de s’orienter aussi bien de jour que de nuit, même à des altitudes extrêmes pouvant atteindre 10 à 15 km. Cette faculté est rendue possible grâce à son aileron dorsal et crânien, qui capte une grande quantité d’informations autour de lui, comme le champ magnétique ou les variations des courants d’air. Grâce à cela, il se repère avec une grande précision dans son environnement.Il possède également une excellente mémoire sensorielle et visuelle. Capable d’atteindre de très grandes vitesses, il bénéficie en plus d’une stabilité de vol remarquable assurée par ses ailerons. Il résiste très bien au froid, mais plus il vole haut, plus son endurance diminue. À ces altitudes, le manque d’oxygène limite la durée de ses vols. Il doit donc se poser environ 1 heure par jour pour reprendre son souffle, ce qui l’expose temporairement aux dangers environnants.C’est cependant un très mauvais prédateur, et sa vue n’est pas particulièrement développée. Il s’appuie surtout sur sa perception unique de l’environnement. Lorsqu’un humain le nourrit, il peut s’en rapprocher et lui rester fidèle jusqu’à sa mort.Il est principalement utilisé pour transporter des messages très importants, car une fois en vol, il est presque impossible à intercepter ou même à détecter. Il reste néanmoins plus vulnérable à basse altitude, même si cette situation reste assez rare.PV : 15-25
+
+TAILLE/POIDS/ÂGE :  20-30 cm / 150-300 g / ~15-20 ans
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT :
+
+
+
+
+
+
+
+PEKO :
+
+
+
+Cette petite bestiole n'apparaît jamais seule. On ignore pour quelle raison, mais le Peko vit en harmonie avec les Félices Draconis. On pense que c’est dû à leur couleur similaire, ou simplement par nécessité de protection. Certains pensent que les Pekos aiment le gaz émis par les Félices Draconis. Nul ne le sait. Ce qui est certain c’est qu’il est impossible de croiser l’un sans l’autre et les séparer les détruirait mentalement au point de se laisser mourir. A leur naissance, le Peko choisit son Félice et le Félice choisit son Peko. Les deux sont immédiatement liés d’amitié. 
+
+
+
+Le Peko semble appartenir à la famille des Sphéniscidés (Manchots) sont inaptes au vol mais très doués pour la nage. Ils sont couverts de petites plumes denses recouvertes elles-même de petits poils qui les réchauffent et les rendent plus hydrodynamiques. 
+
+
+
+PV : ARM-RM :
+
+TAILLE/POIDS/ÂGE :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT :
+
+
+
+
+
+
+
+PHOQUE NAIN DES GLACES :
+
+
+
+Note…
+
+
+
+PV : ARM-RM :
+
+TAILLE/POIDS/ÂGE :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+POROMITE :
+
+
+
+De base, cette espèce vient d’une malformation d’un Poro lui attribuant des traits des Mites. Mais cette espèce a réussi à survivre.
+
+
+
+PV : ARM-RM :
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT :
+
+
+
+
+
+
+
+ROOYE DES NEIGES :
+
+
+
+Note…
+
+
+
+PV : ARM-RM :
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT :
+
+
+
+
+
+
+
+SAURIEN DES GLACES :
+
+
+
+Note…
+
+
+
+PV : 250-400 
+
+ARM-RM : 15-05
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT :
+
+
+
+
+
+
+
+STRIGISERRE DES NEIGES :
+
+
+
+Note…
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+UGVAR ROYAL :
+
+
+
+Contrairement à l’idée perçu, l’Ugvar Royal n’est pas la Reine des Ugvars. Bien qu'ils soient de la même famille, ils n'appartiennent pas à la même espèce. Il en existe donc des mâles et des femelles. Cependant les femelles sont généralement plus grandes et plus vives que les mâles, la ou les mâles sont plus lents mais plus épais (ARM).
+
+Cette grande créature est bien moins effrayante qu’il n’y paraît au premier avis. Elle repousse bon nombre de braconiers et chasseurs de part son apparence impressionnante, mais elle est  en réalité si maladroite qu’elle est capable de se tuer elle même en s’automutilant ou en se cognant contre les paroies environnantes. Cette caractéristique spéciale est due à son alimentation. En effet l'Ugvar Royal se nourrit principalement d'œufs d'Ugvar, et ceux-ci sont recouverts d'un gel gluant et alcoolisé. En réalité, l'Ugvar Royal est la plus grande partie de son temps complètement ivre. Cependant, bien qu’elle n’y vit pas, elle est bien plus mobile est meurtrière dans l’eau. Sa chaire est connue pour être tendre et fraîche, d’un goût iodé mêlant la tendresse de la chaire des saint jacques au puissant goût du homard, avec une pointe de sucré-salé mielleux naturel. Les vertues de sa chair sont aphrodisiaques et légèrement enivrantes.Son venin, qu'il injecte par ses mandibules, n’est pas mortel mais peut être important, rendant malade, nauséeux, fiévreux et provoquant des de fortes irritations dans la gorge.
+
+
+
+PV : 250-350
+
+ARM : 05 / RM : 00
+
+TAILLE/POIDS : 3.5-4.5m de Haut pour 10-15m de Long / 1.5-2T
+
+ACTIONS : Bien que ses pinces soient puissantes et dentelées, l’Ugvar Royal est très maladroit et s'inflige souvent des dégâts lui-même. Il arrive même dans de très rares cas (réussite critique) que la bête se soit déjà tuée toute seule à l’arrivée de la traque. Coup de Pince Géante : 15-20 DP côté tranchant  et 10-15 DP côté contondant /  Morsure Venimeuse : 15-20 DP et peut appliquer un venin Niveau 1 de DM.
+
+LOOT : L’Extraction est relativement dure (Normal si Chasseur lvl 2), les pertes sont conséquentes - Chair comestible (100-200kg) / Venin (1-2L) / Carapace (10-20Kg)
+
+DRESSAGE : Impossible
+
+ENVIRONNEMENT : Se dissimule dans des Grottes et des Paroies de Falaises près des côtes (Guürdarl / Fjords Harelbord / Fjords Lokfar / Creux-de-Valar)
+
+
+
+
+
+
+
+YÉTI :
+
+
+
+Note…
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+
+
+DRAGONS
+
+
+
+
+
+
+
+ÉCLAT PERLÉ BLEU DU GRAND-NORD :
+
+
+
+Ce dragon est si colossal à taille adulte que voler lui demande bien trop d’énergie. Il ne vole qu’en cas d'extrême nécessité. Il est un emblème du Freljord car il est le dragon le plus grand de toute la région et vient sérieusement concurrencer avec le Dragon Ancestrale de près. Il est couvert de glace sur certaines extrémités très froides qu’il génère pour intimider 
+
+
+
+PV : 8 000 - 12 000
+
+ARM-RM : 25-15
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+MOTHDRAGON :
+
+
+
+Note…
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+ORÜK ROC À BEC :
+
+
+
+Note…
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+DRÈVAIN COURONNÉ:
+
+
+
+Note…
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+NORDIQUE COMMUN :
+
+
+
+Note…
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+KRILL GRAZIER À CORNES :
+
+
+
+Note…
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+ÉCLAT PERLÉ ALBINOS :
+
+
+
+Note…
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+BOADIR À LA GLACE NOIRE :
+
+
+
+Note…
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+
+
+
+
+LÉGENDAIRE
+
+
+
+
+
+
+
+
+
+ARPEKA DES GLACES :
+
+
+
+Les Arpeka sont des petits poissons qui naissent sur la terre ferme. Il errent durant quelques jours afin de trouver ce qui leur convient le mieux entre eau de mer ou eau de source. S'ils choisissent la mer, ils deviennent des Arpeka des Mers, s'ils choisissent la rivière, ils deviennent des Arpeka d’eau douce. Mais dans des cas extrêmement rares, ils restent près des glaces et ne vont jamais dans l’eau, alors ils deviennent des Arpeka des Glace.L’Arpeka des Glaces est une espèce très protégée car sa glande possède des vertues qui peuvent se vendre très chères. L’Arpeka des glaces est insensible au froid et peut entrer en contact avec la glace pure.
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+CERF ROYALE SUBLIMÉ :
+
+
+
+Note…
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+GRUE ORNÉE MAJESTUEUSE “ONN’VANA” :
+
+
+
+Cet oiseau géant légendaire possède 4 ailes et une queue en plumes géantes (utilisé pour créer la Plume d’Onn’Vana). Elle vit près des récifs à l’Ouest de Freljord. On raconte que cette créature serait un mélange d’ancienne variété de Grue Freljordienne et d’une créature divine de Ionia, d'où ses propriétés magiques naturelles. Elle à été chassée auparavant pour les vertues de ses plumes faciales faites d’un matériau très unique : L’Oavir. Aussi léger qu’un nuage et solide que l’acier renforcé, il est extrêmement rare d’en trouver, et quand bien même, seule une petite poignée de Forgeron savent le travailler (Légendaire) par manque de maîtrise, de connaissance, mais également d’éthique.
+
+Voir Hodvil (fiche PNJ) pour découvrir le moyen de l’attirer.Cette créature légendaire autrefois considérée comme un être divin, mais finalement c’est après en avoir découvert d’autres qu’il s’est avéré que la bête n’était pas une divinité. Elle est cependant encore considéré comme tel dans certains folklore Freljordiens. 
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+HYVE CORNUE SPIRITUELLE :
+
+
+
+Note…
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+LES IMMORTELLES:
+
+
+
+Note…
+
+
+
+PV : 00 
+
+ARM-RM : 00-00
+
+TAILLE/POIDS :  
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+VARGH’HEGGEN :
+
+
+
+Une créature géante qui se balade dans tout le sud de Freljord pour propager depuis ses géantes ailes, avec lesquelles il ne peut pas voler, du pollen et de l’eau de pluie qui stock grâce à ses plumes. Pour que cette tradition se perpétue, tous les 150 ans, des gens cherchent le mâle et la femelle qui errent de part et d’autre du Freljord et qui peinent à se retrouver dû au manque de visibilité et d’audition qu’ils possèdent. La tradition veut que les gens les fassent se rencontrer grâce à une immense carriole d’Olgür (voir Olgür) à la puissante odeur de sucré dont ils raffolent. Un Bébé Vargh naît 6 mois plus tard. On appelle cette période le Course Heggen.
+
+
+
+Il peut hiberner des centaines d’années, et reste actif seulement 4 à 5 ans ou il va se nourrir intensément de forêts boisées et chercher à se reproduire avec sa compagne. Les deux êtres les plus vieux du Freljord ont plus de 400 ans et leurs prédécesseurs avaient vécu près de 700 ans. On en compte seulement 3 dans tout le Freljord, car bien qu’il se reproduise tous les 150 ans, le jeune Vargh’Heggen est assez vulnérable pour être chassé et mangé par certaines tribus. Les jeunes n’ont pas encore le temps de développer leurs propriétées magiques unique que l’on retrouve dans les Perles qu’ils font parfois tomber après leur accouplement. 
+
+
+
+PV : 50 000-100 000 
+
+ARM-RM : 30-50-30-60
+
+TAILLE/POIDS :  180-300m de Haut - 300-500m de Long - 2 000m d’Envergure / 40 000T
+
+ACTIONS : Le Vargh’Heggen marche et déploie ses ailes pour propager un mélange d’eau et de plantes afin de favoriser la pousse de plantes dans les régions sud et centre du Freljord. Bien qu’il soit inoffensif et que sa marche soit très lente, il faut tout de même faire attention à ne pas se faire écraser par ses pieds de plusieurs dizaines de mètres de diamètre. 
+
+LOOT : A défaut de pouvoir extraire sur la créature, il lui arrive de faire tomber des ressources de son corps. Morceaux d’Os (0.3kg - 2kg) / Perle Heggen Ancestrale (1) /
+
+DRESSAGE : Impossible / Seul moyen de le diriger est de traîner avec soi plusieurs kilos d’Olgür dont il aime se nourrir.
+
+ENVIRONNEMENT : Grands plaines et forêts aux pieds des montagnes - Sud et Centre du Freljord.
+
+
+
+
+
+
+
+NAVILLON DES TEMPÊTES :
+
+
+
+Note…
+
+
+
+PV : 
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+OROK’ULTH :
+
+
+
+Note…
+
+
+
+PV : 
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+OWLTAKAN :
+
+
+
+Cette créature légendaire est une tueuse astucieuse et choisit précieusement ses proies. D’apparence hybride à la tête de chouette, aux bois de cerf, au corps de loup garou acérées de griffes et d’ailes géantes de chauve-souris. Elle n’a aucune odeur, ne fait aucun bruit, tue et disparaît aussi vite. Dotée d’une grande intelligence, elle sait faire disparaître toute forme de preuves, voire même en laisser parfois pour faire camoufler son acte et faire accuser d'autres personnes. Seuls ceux qui maîtrisent les art ancestraux de discrétion on réussi à l’observer sans se faire tuer, et que seuls les dieux peuvent venir à terme de cette bête. Dans le folklore, on en parle comme une légende par manque d’information sur elle. On ne sait même pas s’il en existe plusieurs ou pas.
+
+
+
+ SECRET : 
+
+Contrairement à ce que beaucoup pensent, l’Owltakan n’est pas une créature, mais un ancien assassin de grande renommée ayant subi une profonde mutation à la suite d’expériences menées par la Rose Noire. L’organisation cherchait à créer l’assassin parfait en mêlant, par enchantement, les caractéristiques de plusieurs prédateurs réputés pour leur discrétion et leurs capacités physiques exceptionnelles.
+
+
+
+L’Owltakan fut ainsi façonné à partir de plusieurs créatures : la Harpie, pour ses capacités physiques et sa morphologie particulièrement adaptable ; la chauve-souris et le hibou, pour leurs ailes et leur capacité à se déplacer dans un silence presque absolu ; et différents cervidés, pour leur faculté à évoluer et se dissimuler dans leur environnement malgré leur imposante carrure. Pour la Rose Noire, cette combinaison représentait la base idéale pour concevoir un prédateur capable de traquer et d’éliminer presque n’importe quelle cible.
+
+
+
+Cette première expérience devait cependant servir de simple prototype. Afin d’en évaluer les capacités en situation réelle, l’un des plus grands assassins de la Rose Noire, Marcus Du Couteau, fut envoyé dans un environnement naturel contrôlé avec une mission simple : retrouver et éliminer l’Owltakan.
+
+
+
+Mais l’expérience produisit un effet que personne n’avait anticipé. La mutation ne renforça pas seulement les capacités physiques du volontaire : elle décupla considérablement son intelligence. Comprenant qu’il n’était qu’un sujet d’expérience destiné à être abattu, l’Owltakan parvint à déjouer le dispositif de la Rose Noire et à s’échapper.
+
+
+
+Depuis, il erre librement avec un objectif profondément ancré dans son esprit : retrouver Marcus Du Couteau et tuer celui qui fut envoyé pour l’assassiner. Ce que la Rose Noire pensait être son premier assassin parfait est ainsi devenu l’une de ses propres créations les plus dangereuses.
+
+
+
+PV : 200
+
+ACTIONS : 
+
+LOOT : Bois (2) / Tête “masque” (1) / 
+
+DRESSAGE : Impossible. 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+TWILIT PROTECTEUR :
+
+
+
+Note…
+
+
+
+PV : 
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+
+
+
+
+EXOTIQUE
+
+
+
+
+
+
+
+ASTROLIMIER (TARGON) :
+
+
+
+Note…
+
+
+
+PV : 
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT :
+
+
+
+
+
+
+
+CHAPAMENTA (IONIA) :
+
+
+
+Note…
+
+
+
+PV : 
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT :
+
+
+
+
+
+
+
+TARAMNIEL - TARAMNIEL ROYALE (VALORAN) :
+
+
+
+Note…
+
+
+
+PV : 
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+LYNCAO CORNU (VALORAN) :
+
+
+
+Note…
+
+
+
+PV : 
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+MOMOICÆN (VALORAN) :
+
+
+
+Note…
+
+
+
+PV : 
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+OÇILLE DE SKAAN (SHURIMA) :
+
+
+
+Ce serpent de Shurima est très dangereux et son venin est l’un des plus puissants du monde. Quand il meurt, il se contracte si fort que ses organes internes se mélangent changeant tout de place.Préparation :Il existe une technique unique et Légendaire de le préparer pour en manger, mais il ne faut à aucun moment découper la bête ni toucher à ses organes internes. Il faut le bouillir pendant 1H puis le dorer à proximité de la base d’un feu en faisant des va et vient pour pas qu’il repose trop longtemps à côté, et répéter le mouvement durant 1H20. Pendant ce temps, il faut presser la peau d’une Orange Sanguine à travers le feu pour que le gaz qu’elle contient vienne s'imprégner sur la chaire du serpent. Préparez une 10aine d’oranges pour exécuter le rituel durant 1H. Une fois fini, il faut découper délicatement l’Oçille en plusieurs morceaux tout en touchant minutieusement avec les doigts pour ne surtout pas percer un des organes internes. Servir aux convives sans leur dire où sont situés les organes.Une fois l’Oçille bien préparée, la poche de venin peut rendre malade durant quelques heures, mais la glande de la bête contient un liquide qui stimulerait l’ensemble des facultés du corps durant quelques heures. 
+
+
+
+PV : 
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+ROOYE DES SABLES (SHURIMA) :
+
+
+
+Note…
+
+
+
+PV : 
+
+ACTIONS : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT : 
+
+
+
+
+
+
+
+SAUTE-NUAGE (IONIA) :
+
+
+
+OEUF : 
+
+
+
+BÉBÉ : 
+
+
+
+ADULTE :
+
+
+
+
+
+PV : 50-125 / ARM -RM : 00-15
+
+ACTIONS : - Oeuf : Absorbe la masse biologique d'une créature proche pour son développement (50 DB aux créatures proches de lui 1x /jour). Au bout de 5 fois l'œuf éclos.
+
+-Bébé : 
+
+LOOT : 
+
+DRESSAGE : 
+
+ENVIRONNEMENT 
+
+
+
+
+
+
+
+ANIMAUX
+
+
+
+
+
+
+
+AIGLE / FAUCON :
+
+PV : 15
+
+
+
+ALPAGA :
+
+PV : 40-90
+
+
+
+BALEINE :
+
+PV : 450-1200
+
+
+
+BOUC :
+
+PV : 30-60
+
+
+
+CASTOR :
+
+PV : 15-35
+
+
+
+CERF :
+
+PV : 40-70
+
+
+
+CHÈVRE :
+
+PV : 25-40
+
+
+
+CHIEN :
+
+PV : 15-30
+
+
+
+CHEVAL :
+
+PV : 70-120
+
+
+
+CHOUETTE / HIBOU :
+
+PV : 15
+
+
+
+ÉLAN :
+
+PV : 100-280
+
+
+
+FOUINE / FURET :
+
+PV : 5-10
+
+
+
+HÉRISSON :
+
+PV : 3-5
+
+
+
+RENARD :
+
+PV : 10-15
+
+
+
+LAPIN :
+
+PV : 5
+
+
+
+LIÈVRE :
+
+PV : 10
+
+
+
+LOUTRE :
+
+PV : 15-40
+
+
+
+LOUP :
+
+PV : 35-70
+
+
+
+MACAREUX :
+
+PV : 10-20
+
+
+
+MORSE :
+
+PV : 130-400
+
+
+
+MOUFLON :
+
+PV : 80-130
+
+
+
+NARVAL :
+
+PV : 90-250
+
+
+
+OURS :
+
+PV : 90-300
+
+
+
+ORQUE :
+
+PV : 300-500
+
+
+
+SAUMON / TRUITE :
+
+PV : 5-15
+
+
+
+SANGLIER :
+
+PV : 20-40
+
+

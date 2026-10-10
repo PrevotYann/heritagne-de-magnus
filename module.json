@@ -1,0 +1,149 @@
+{
+  "id": "heritage-de-magnus",
+  "title": "L’héritage de Magnus",
+  "description": "Campagne française pour JDR Runeterra.",
+  "version": "0.1.0",
+  "url": "https://github.com/PrevotYann/heritagne-de-magnus",
+  "manifest": "https://github.com/PrevotYann/heritagne-de-magnus/releases/latest/download/module.json",
+  "download": "https://github.com/PrevotYann/heritagne-de-magnus/releases/download/v0.1.0/heritage-de-magnus-0.1.0.zip",
+  "authors": [
+    {
+      "name": "Yann Prévot"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.368",
+    "maximum": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "jdr-runeterra",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.8.0"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/magnus.css"
+  ],
+  "languages": [
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Magnus — Personnages",
+      "path": "packs/actors",
+      "type": "Actor",
+      "system": "jdr-runeterra",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "items",
+      "label": "Magnus — Objets de campagne",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "jdr-runeterra",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "journals",
+      "label": "Magnus — Scénario et annexes",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "system": "jdr-runeterra",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "scenes",
+      "label": "Magnus — Scènes",
+      "path": "packs/scenes",
+      "type": "Scene",
+      "system": "jdr-runeterra",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tables",
+      "label": "Magnus — Tables",
+      "path": "packs/tables",
+      "type": "RollTable",
+      "system": "jdr-runeterra",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "playlists",
+      "label": "Magnus — Ambiances",
+      "path": "packs/playlists",
+      "type": "Playlist",
+      "system": "jdr-runeterra",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "macros",
+      "label": "Magnus — Outils MJ",
+      "path": "packs/macros",
+      "type": "Macro",
+      "system": "jdr-runeterra",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "adventure",
+      "label": "Magnus — L’héritage de Magnus — Adventure",
+      "path": "packs/adventure",
+      "type": "Adventure",
+      "system": "jdr-runeterra",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "references",
+      "label": "Magnus — Sources génériques de référence (consultation)",
+      "path": "packs/references",
+      "type": "JournalEntry",
+      "system": "jdr-runeterra",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}

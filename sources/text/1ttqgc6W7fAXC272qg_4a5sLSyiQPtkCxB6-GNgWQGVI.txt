@@ -1,0 +1,220 @@
+
+La Veillance du Disgracieux
+
+Par Carte Trésor : 
+
+Vous découvrez une carte faite main des Chaînes d’Odmünd semblant marquer un point particulier d’une croix.
+
+
+
+
+
+Par Trajet : 
+
+Durant votre trajet, vous voyez de loin une sorte de cavité dans la montagne.
+
+
+
+INFO MJ
+
+
+
+La carte peut se trouver selon le choix du MJ. Elle indique une zone précise des Chaînes d’Odmünd.La grotte de Joldüngraad (dossier) cache un objet dissimulé par un enchanteur. un artefact magique nommé la Veillance du Disgracieux (L-16). Il souhaitait se débarrasser de la Relique car selon lui, elle serait liée à une entité démoniaque (Sargan) et que cette forme de magie devrait être proscrite. 
+
+
+
+
+
+
+
+
+
+1. Vous arrivez devant l’entrée d’une grotte. Vous apercevez à l’entrée une torche éteinte accrochée contre la paroie.
+
+-
+
+A peine prise en main, la torche s’allume instantanément. 
+
+
+
+INFO MJ
+
+
+
+La flemme est chaude, mais moin que du feu normal (40% de moins). La flemme ne se mélange pas au feu normal, et ne se propage pas, donc ne peut pas mettre feu à la matière. Elle est propre à l’enchantement de la torche.
+
+
+
+Vous progressez dans le couloir et la glace est de plus en plus présente (Froid +1 Niveau).
+
+
+
+- Jet de Perception. Si réussi :
+
+
+
+Au bout de 15/20 min de marche, tu te rends compte que la flemme de la torche n'a plus la même couleur. Elle a viré à l’orange plus proche du rouge. 
+
+
+
+- Si loupé : refaire un jet de Perception +20. Si réussi :
+
+
+
+Au bout de 45 min de marche (25 min de plus qu’au précédent jet) tu te rends compte que la flemme de la
+
+torche n'a plus la même couleur. Elle a viré au rouge.
+
+
+
+
+
+
+
+2. Vous arrivez au bout du couloir, dans une pièce plus grande. Une porte en pierre se dresse devant vous. Elle possède des écritures dessus (ancien Freljordien).
+
+-
+
+ENIGME
+
+
+
+1 - Gryth (Givre) / 2 - Varth (Eau) / 3 - Snjorn (Neige) / 4 - Hrimr (Brume) / 5 - Issvetr (Glace Pure)
+
+Ordre : Eau / Brume / Neige / Givre / Glace Pure.
+
+
+
+Les symboles s’allument quand la flemme s’en rapproche mais les stalactites fondent et font couler de l’eau dessus qui éteignent la torche progressivement (3 essais avant que la torche ne s’éteigne totalement).
+
+
+
+- Si non réussi 1 fois : 
+
+
+
+Tu vois que pendant que tu rapprochais la torche des Symboles, de l’eau coulait des stalactites juste au-dessus. La flemme de ta torche à diminué (⅓).
+
+
+
+- Si réussit la 3ème fois : 
+
+
+
+L’eau éteint la torche, mais la porte s’ouvre.
+
+
+
+
+
+
+
+3. La porte s’ouvre et donne sur une vaste pièce, si sombre qu’il est impossible d’en déduire la taille. En pénétrant à l’intérieur vous y découvrez rapidement un grand lac d’un calme impressionnant. 
+
+
+
+- Si flamme éteinte, aller étape 4.
+
+
+
+En vous y approchant, la flamme de la torche devient violette.
+
+
+
+INFO MJ
+
+
+
+L’eau du lac est dans un état particulier (magie) dans un stade liquide si stable et se solidifie si troublé. Il est possible d’y pénétrer tout doucement, et un coup fort solidifie temporairement la zone ciblée. Y rester statique dessus trop longtemps y fait pénétrer les pieds et se débattre pour en sortir le solidifie.
+
+! ATTENTION !
+
+Si un joueur entre tout doucement dedans, et qu’il se débat pour en sortir, cela le gèle totalement et peut le tuer.
+
+
+
+-
+
+Au centre du lac, la flemme devient violet claire/rose.
+
+
+
+- Si 40+ en Perception :
+
+
+
+Tu vois juste en dessous de toi quelque chose qui scintille en violet/rose.
+
+
+
+- Si Relique récupérée :
+
+
+
+Vous trouvez un pendentif d’une pierre précieuse violette et rose ornée d’une décoration dorée sur une chaîne similaire (Veillance du Disgracieux L-16).
+
+-
+
+La flamme de la torche devient totalement bleu et quitte la torche pour toucher le plafond afin d’éclater et d’éclairer totalement la pièce durant votre présence.
+
+
+
+
+
+
+
+4. Vous trouvez près de la sortie une plateforme surélevée sur laquelle vous pouvez prendre un peu de hauteur ou y établir un campement.
+
+
+
+- Si la torche est éteinte, faire un jet de Perception à -30. Si réussi : 
+
+
+
+Vous voyez près du bord du lac, un corps.
+
+-
+
+Le corps semble gelé, il est équipé d’une tenue en cuir et fourrure (Torse et Jambe - Voleur Freljord R) avec une Arbalète (11 carreaux) à côté de lui.
+
+
+
+- Si Décongeler le corps : 
+
+
+
+Récompense : 61 Or (dont 28 faux Or) / Petit mot sur papier / Lettre pour Molda / 6 crochets en fer / 
+
+
+
+
+
+MOT PAPIER
+
+
+
+Je ne sais pas si quelqu’un trouvera mon corps d’ici là mais sachez que j’ai réussi à rentrer, tout comme vous. Ma torche s’est éteinte et l’obscurité - tout comme le froid - aura eu raison de moi.
+
+
+
+Faites attention, si vous ne trouvez par l’artéfact magique caché, sortez avant que la porte se ferme. Pour ma part elle s’est fermé au bout d’environ deux heures je dirais, je n’ai pas trop eu la notion de temps. 
+
+
+
+Je ne sais pas à quoi sert la relique magique mais j’ai entendu dire qu’elle s'appelait la Veillance du Disgracieux. Il me semble qu’elle soit liée à une entitée puissante et chanceuse. Des gens m’ont dit qu’elle permettait de transformer le cuivre en or, ce qui m’a convaincue à la chercher sans forcément me renseigner dessus, mais j’espère que si vous la trouvez, vous serez plus malins que moi.
+
+
+
+Si vous réussissez à sortir d’ici vivant, sachez que je fais partie de la guilde des voleurs. Je sais que vous me jugerez sans doute mais j’ai fais ça pour m’occuper de ma fille. Si vous pouvez lui apporter cette lettre que j’ai écrite pour elle - sans l’ouvrir - vous pourrez alors lui demander qu’elle vous montre ma cachette chez moi pour vous payer ma dette. (voir )
+
+
+
+Alvec Griffronce
+
+
+
+
+
+
+
+Fin

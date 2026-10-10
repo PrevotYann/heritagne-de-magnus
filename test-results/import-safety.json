@@ -1,0 +1,11 @@
+{
+  "version": "14.368",
+  "checks": [
+    "Modified GM notes preserved",
+    "Modified scene preserved",
+    "Timeline start preserved",
+    "No duplicate actors",
+    "Foreign ID collision protected even during replacement"
+  ],
+  "errors": []
+}

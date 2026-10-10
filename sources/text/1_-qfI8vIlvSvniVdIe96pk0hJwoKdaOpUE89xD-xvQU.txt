@@ -1,0 +1,226 @@
+
+Une Livraison pour Basile
+
+
+
+
+
+Par Peak et Dale : Les deux pirates doivent livrer 10 caisses de poudre à canon spéciale confectionnée par Ygnovar mais il semble prendre son temps. 
+
+
+
+
+
+Par Obéril : Le capitaine du Roncier Rouge à besoin d'aide pour faire rentrer Maxence (un assassin qu’il a escorté jusqu’ici contre une belle récompense) au Bal d’Algar (quête Bal d’Algar). Mais ses hommes sont trop connus par les hommes d’Algar.
+
+
+
+
+
+Récompense : Pistolet Trafiqué à la poudre Ygnovarn x1 / Poudre Ygnovarn (5.?) 500g / 60 Or (dont 30 fausses si Gameplay Voleur) / Grade Pirate +1 (Recrue) /
+
+
+
+INFO MJ
+
+
+
+Peak et Dale, qui bossent pour Willburn, doivent livrer 10 caisses (nombre variable selon la quête La Poudre d’Ygnovar) de poudre à canon spéciale (Poudre Ygnovarn) à leur contact Basile l’intermédiaire d’Obérin. Basile les attend au Creux-de-Valar, dans une chambre au Bribucq Bourré accessible uniquement par nom de code à demander au bar : “un Gomos bien malté s’il vous plaît”.
+
+
+
+1 caisse (petite) prend ¼ de place de stock et contient 2 kg de poudre.
+
+
+
+
+
+
+
+
+
+
+
+1-1. Les pirates vous missionnent de vous occuper de livrer la marchandise au Creux-de-Valar.
+
+
+
+- Peak : “Le plan est simple, vous chargez la marchandise sur votre bateau, vous passerez par la mer du Sud pour arriver jusqu’au Creux-de-Valar. Faites gaffe, l’armée Demacienne est très active dans le coin ces derniers temps. C’est pour ça qu’on vous missionne d’y aller pour nous, notre bateau est trop connu des autorités, on se ferait sans cesse poursuivre. Une fois sur place, vous vous rendrez au Bribucq Bourré, vous demanderez au bar “un Gomos bien malté s’il vous plaît” et le bar vous donnera l’indication pour trouver la chambre où vous y retrouverez Basile, notre contact à qui vous donnerez cet échantillon (Dale tend un échantillon). Une fois testé, Basile vous guidera sur son bateau ou vous livrerez les caisses. Simple non ?”
+
+-
+
+Vous partez récupérer les caisses sur leur bateau afin de les mettre sur le votre. 
+
+
+
+
+
+
+
+
+
+1-2. Vous retrouvez Peak et Dale, malheureusement sans le nombre suffisant de caisses. 
+
+
+
+- Peak : “Décidément, on ne peut pas lui faire confiance à cette vermine. Et dire que c’est nous les bandits dans cette histoire. Il à loupé sa vocation le vieillard (rit). Bon, voilà comment on va procéder. Vous allez tout de même livrer ces caisses. Trouvez une poudre qui y ressemble visuellement et remplissez le reste des caisses avec. Cet abruti n’y verra que du feu et le temps que son boss s’en aperçoive, on sera déjà tous à des kilomètres.”
+
+
+
+
+
+INFO MJ
+
+
+
+Si les joueurs ne pensent pas à marquer les caisses avec de la fausse poudre, faite 1D10. Si le résultat tombe sur le nombre de fausses caisses, c’est loupé, si c’est supérieur, c’est réussi. 
+
+Ex : Si 4 fausses caisses, faites 1D10. Si le résultat est ≥4, il le remarque.
+
+
+
+-
+
+Vous partez récupérer les caisses sur leur bateau afin de les mettre sur le votre. 
+
+
+
+
+
+
+
+
+
+2. Vous arrivez au Bribucq Bourré mais vous ne trouvez personne au comptoir (voir Bribucq Bourré).
+
+-
+
+Une fois le code prononcé, vous voyez qu’un verre se déplace en votre direction. A l’intérieur un liquide et une bille, qui visiblement pointe dans une seule direction. (Elle agit comme une boussole en direction de la chambre cachée)
+
+-
+
+Vous suivez la bille jusqu’au fond d’un couloir vide, mais la bille semble être attirée par le mur sur votre gauche. Le liquide du verre prend une teinte ambrée et l’odeur du Rhum s’en dégage.
+
+
+
+INFO MJ
+
+
+
+La consistance du verre est enchantée par Basile. Le boire permet de révéler la porte ou il se cache, mais permet également à Basile d’activer sa magie. Celui qui l’a bu se voit alors subir 5 DM /t durant 5 tours.
+
+
+
+
+
+Une fois bu, une porte se dessine sur le mur. Vous trouvez derrière la porte Basile sur ses gardes.
+
+
+
+- Si une seule personne, Basile relève que vous n’avez pas la description attendue mais semble moins tendu.
+
+- Si plus d’une personne, Basile reste très méfiant.
+
+
+
+- Basile : “Qui êtes vous ? Vous n’étiez pas censé être si nombreux, vous étiez censé être seul, etre des hommes de Willburn. Voir des inconnus ne faisait pas partie du deal.”
+
+
+
+- Tentez de rassurer Basile. Possible de faire un jet de Persuasion ou de Concentration. Si réussi, un jet de Charisme peut encore plus jouer en votre faveur.
+
+- Si échec, une bagarre à main nu éclate (Basile n’active pas le poison pour le moment).
+
+
+
+
+
+
+
+
+
+3. Une fois la bagarre finie, Basile se rend à l’évidence, le deal est bon. Il vous demande l’échantillon afin de le tester dans son arme. Il tire sur un mur et la déflagration est telle que tout le monde dans la pièce est propulsé en arrière. Basile est très surpris de la qualité du produit et vous propose de l’acheter directement. 
+
+
+
+- Basile : “Ok, c’est une superbe came. Comme promis 50 Or par caisse. Venez avec moi, mon capitaine sera ravis de vous recevoir.”
+
+
+
+
+
+
+
+
+
+4. Vous suivez Basile jusqu’au port. Vous passez récupérer les 10 caisses sur votre bateau dans un premier temps, puis vous suivez Basile jusqu'à un très grand bateau nommé le Roncier Rouge. A son bord, plusieurs membres de l’équipage vous accueil, des hommes, des femmes, des maréens et vastayas, une grande mixité.-
+
+Obérin vous attend dans ses appartements. 
+
+
+
+Il ouvre une caisse pour vérifier la marchandise.
+
+
+
+- Si jet réussi, allez à l’étape 5.
+
+
+
+- Si fausse poudre, faire 1D10. Si le résultat est ≥ au nombre de fausses caisses, Basile détecte la supercherie et vous prend pour cible.
+
+
+
+- Obérin : “Vous pensiez pouvoir me duper aussi facilement ? Sans conséquence ? Je pense que vous savez pas à qui vous avez à faire.”
+
+
+
+INFO MJ
+
+
+
+Les joueurs ont plusieurs choix :
+
+
+
+- Se laisser faire : Obérin les attacher et leur soutire des informations.
+
+- Négocier : Obérin les voir étape ?
+
+- S’échappent : Il seront alors poursuivis par les membres du Roncier Rouge (plus risqué en mer).
+
+- Se battent : Très risqué et vont probablement être gravement blessés ou mourir face aux nombreux pirates sur le bateau. 
+
+
+
+
+
+
+
+Récompense : 500 Or (pour Peak et Dale) / 
+
+
+
+
+
+
+
+
+
+5. Vous faites affaire avec Obérin, il semble satisfait de la marchandise et vous récompense en conséquence.
+
+
+
+
+
+
+
+
+
+
+
+6. Obérin vous parle d’un service que vous pourriez potentiellement lui rendre. Il a un ami qu'il souhaite faire entrer au Bal d’Algar () mais sans aucune recommandation cela risque d’être compliqué. Ses hommes sont connus des hommes d’Algar et malheureusement aucun d’entre eux ne peut accomplir cette tâche.
+
+
+
+Récompense :  Grade Pirate +1 (Recrue) / Si dupé lors de étape 4 : Aucune 

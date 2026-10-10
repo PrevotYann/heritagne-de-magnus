@@ -1,0 +1,123 @@
+{
+  "label": "Magnus — Tables",
+  "mapping": {
+    "name": {
+      "path": "name",
+      "converter": "magnus-text"
+    },
+    "description": {
+      "path": "description",
+      "converter": "magnus-text"
+    },
+    "results": {
+      "path": "results",
+      "converter": "magnus-tree"
+    }
+  },
+  "entries": {
+    "8bda6ba46654cc28": {
+      "name": "Oknuün — Grimoire tenu (1D12)",
+      "description": "<p>Table issue de la source ; le MJ choisit le contexte avant de tirer.</p>",
+      "results": {
+        "75b7456ec8ea124f": {
+          "name": "Oknuün 01 — Illusion cauchemardesque"
+        },
+        "9b681619c88508b4": {
+          "name": "Oknuün 02 — Chambre d’Anti-miroir Obscure"
+        },
+        "6f3a3da66c379d8c": {
+          "name": "Oknuün 03 — Goules spectrales"
+        },
+        "133a46d374828b86": {
+          "name": "Oknuün 04 — Désintégration de l’âme"
+        },
+        "e95e772f6efa8f91": {
+          "name": "Oknuün 05 — Vulnérabilité de l’âme"
+        },
+        "d2c430507f1e3b25": {
+          "name": "Oknuün 06 — Portail des Limbes"
+        },
+        "c859160dda7db99d": {
+          "name": "Oknuün 07 — Flamme verte"
+        },
+        "e2067004976c527e": {
+          "name": "Oknuün 08 — Cri du monde des morts"
+        },
+        "c8420d75796b4451": {
+          "name": "Oknuün 09 — Possession"
+        },
+        "4770a6b2536ff309": {
+          "name": "Oknuün 10 — Gaz mortel"
+        },
+        "79ce98c0ef46f98c": {
+          "name": "Oknuün 11 — Dernier passage"
+        },
+        "4bc388cfbb571cc7": {
+          "name": "Oknuün 12 — Lambeaux de robe"
+        }
+      }
+    },
+    "4dbbd292ee74a81e": {
+      "name": "Oknuün — Grimoire non tenu (1D6 + 6)",
+      "description": "<p>Table issue de la source ; le MJ choisit le contexte avant de tirer.</p>",
+      "results": {
+        "107992b82ed1152b": {
+          "name": "Oknuün 07 — Flamme verte"
+        },
+        "46991de0f764b783": {
+          "name": "Oknuün 08 — Cri du monde des morts"
+        },
+        "3f7eb1f7510b8bf4": {
+          "name": "Oknuün 09 — Possession"
+        },
+        "572712b0e9c540b6": {
+          "name": "Oknuün 10 — Gaz mortel"
+        },
+        "efca3115ce535963": {
+          "name": "Oknuün 11 — Dernier passage"
+        },
+        "7ebf3d8bbaf2c861": {
+          "name": "Oknuün 12 — Lambeaux de robe"
+        }
+      }
+    },
+    "3c3a502517eee0d7": {
+      "name": "Maison de Magnus — Or du coffre",
+      "description": "<p>Table issue de la source ; le MJ choisit le contexte avant de tirer.</p>",
+      "results": {
+        "a682442b78f996d1": {
+          "name": "5 Or"
+        },
+        "d630d56fc59a3af2": {
+          "name": "10 Or"
+        },
+        "deb8db83a87309cd": {
+          "name": "15 Or"
+        },
+        "4dd24c6a0dadc9fb": {
+          "name": "20 Or"
+        },
+        "32ec2d48d6557678": {
+          "name": "25 Or"
+        },
+        "b723af87fd80565d": {
+          "name": "30 Or"
+        }
+      }
+    },
+    "ef12db0b85111169": {
+      "name": "Sphère de Kumbadge — Deux entités opposées",
+      "description": "<p>Table issue de la source ; le MJ choisit le contexte avant de tirer.</p>",
+      "results": {
+        "614d922251496d74": {
+          "name": "Rêve",
+          "description": "Réalise le plus grand rêve. Le MJ interprète le souhait."
+        },
+        "ecf4cdf4e8db51ae": {
+          "name": "Inverse",
+          "description": "Réalise l’extrême inverse du rêve. Le MJ interprète la contrepartie."
+        }
+      }
+    }
+  }
+}

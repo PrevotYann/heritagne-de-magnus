@@ -1,0 +1,170 @@
+
+La Bête de Guürdarl
+
+
+
+
+
+Par Jarnot : 
+
+Le Tavernier de Guürdarl se plaint qu’une bête vole de la nourriture qu’il prépare, souvent la nuit. Il a cotisé avec les villageois pour payer Felicia de chasser la bête, mais elle ne semble pas prendre cette affaire très au sérieux.
+
+
+
+Par Félicia :
+
+Elle finit par vous parler de la raison de sa présence à Guürdarl : “Ces bons à rien de villageois m’ont missionné de chasser une bête ridicule qui vole leur nourriture. A vrai dire, j’ai déjà quasiment la main dessus, mais je préfère prendre mon temps et profiter de leur bière à tomber par terre.”
+
+Elle sait que la bête rôde entre la sortie Nord du village et l’entrée de la Forêt de Hjënn. Elle vous missionne de vous occuper de ce problème à sa place.
+
+Récompense : 30% de la paye des villageois (négociable).
+
+Par Villageois :
+
+Depuis plusieurs semaines, les villageois sont victimes de vols de nourriture par une bête visiblement très discrète et minutieuse dans sa façon d’opérer. Elle ne volerait que de la nourriture déjà cuisinée. Ils ont donc cotisé pour missionner Felicia de s’occuper de chasser cette bête : “On a déjà engagé cette chasseuse Demacienne mais visiblement elle ne semble pas beaucoup s’en préoccuper et préfère se pavaner à la Taverne tandis que nos provisions continuent d’être volés”.
+
+Récompense : 50 Or (Si vous prenez cette mission, vous serez en rivalité avec Félicia).
+
+
+
+INFO MJ
+
+
+
+La Bête est en réalité Ernest (voir PNJ). C’est un Vastaya que Magnus nourrissait et laissait venir chez lui quand il partait en mer. Depuis sa mort, Ernest n’a plus personne pour lui préparer à manger. C’est pour cela qu’il vole la nourriture des villageois. Ernest est craintif, sauvage et rapide, mais il porte des vêtements ce qui peut donner des indices aux joueurs quant à son intelligence.
+
+
+
+Le seul moyen de s’en approcher c’est de le capturer ou de l’immobiliser. Le plus simple est de réaliser cela dans la Maison de Magnus. 
+
+[Récompensez vos joueurs s'ils sont astucieux (Appâter avec de la nourriture cuisinée, tendre le piège en bas de la cheminée, effacer leurs traces, etc)].
+
+Une fois capturé il sera paniqué.(Jet de Charisme, appliquez Malus de 20)
+
+Ernest commencera à se calmer quand Magnus sera évoqué.
+
+ 
+
+Il a la phobie de l’eau, plus précisément du contact avec l’eau, mais s’il apprend que la Visque de Pince-Requin (9.15) peut totalement l’imperméabiliser, alors il pourrait soigner sa peur.
+
+
+
+Si la quête est prise par les villageois, les joueurs seront en rivalité contre Félicia. Faites la participer à la traque de son côté avec ses statistique de Chasseuse (75).
+
+
+
+
+
+
+
+
+
+
+
+1. Après plusieurs minutes de marche au bord de l’eau, vous arrivez devant la Maison de Magnus, visiblement sans vie, précédée d’un petit bateau en piteux état sur lequel est inscrit à peine visible “le Markyetter”, accosté sur un ponton de fortune. 
+
+
+
+- Si discret : 
+
+Une fois à l’intérieur, tout semble en pagaille. Des affaires et des papiers au sol, des étagères garnies de différentes épices et de la nourriture pourrie dans la cuisine. Seul un globe de Runeterra et quelques autres affaires semblent encore en bon état. Visiblement, le dernier passage de Magnus remonte bien à plus d’une année. 
+
+
+
+- Indices : Traces de pattes dans la cendre devant la cheminée / Traces de griffures contre les paroies de la cheminée / Nourriture à moitié consommée. 
+
+- Si bruyant : 
+
+
+
+Dès que vous ouvrez la porte, vous entendez du bruit qui provient du toit. En sortant vous observez une silhouette sortir de la cheminée et courir très rapidement vers la forêt (Forêt de Hjënn). (Jet de Perception.  Si réussi : Vous voyez que la bête porte des vêtements/ si ≤20 : C’est un Vastaya à l’apparence de Furet).
+
+
+
+
+
+
+
+2. [Adaptez la situation selon le lieu]. (Jet de Perception. Si réussi : Ils peuvent l’entendre avant qu’il tombe dans le piège pour s’y préparer)Vous entendez que le piège à fonctionné et vous voyez une grande créature (2m10) au regard effrayé se débattre pour tenter de se libérer.(Si un joueur s’en approche : Jet de Réflexes. Si loupé : subit 10 de DP/ Si échec critique : Ernest l’attrape et le menace de le tuer avec ses griffes).Dès que vous parlez de Magnus, vous observez que le Vastaya semble y être particulièrement réceptif.- Ernest : “Vous… Vous connaissez Magnus ? - Magnus est mort ?! Je trouvais ça étrange, il n’était jamais resté aussi longtemps en mer, bien que ces derniers temps ses voyages étaient de plus en plus longs.”
+
+- Vous pouvez observer son visage se décomposer. 
+
+
+
+“Magnus était comme un père pour moi. Il s’occupait de moi, me nourrissait, et il me laissait venir chez lui les moments ou il partait en mer. C'est vrai que ces derniers temps il partait de plus en plus longtemps en mer, mais jamais il n'etait jamais parti pendant 6 mois sans revenir par ici.”
+
+Il vous explique que s’il dérange et vole les villageois c’est seulement pour se nourrir. Il a pris l’habitude de manger de la nourriture cuisinée et ne se nourrit plus que de ça. 
+
+
+
+
+
+
+
+
+
+3. Trouvez un moyen de laisser Ernest vivre en paix et de convaincre Félicia que tout est sous contrôle. Aidez-le à s’accoutumer aux humains, et intégrez-le du mieux possible pour qu’il trouve sa place parmi les humains en contrepartie d’être nourri et logé.
+
+
+
+INFO MJ
+
+
+
+Ernest peut travailler : - Pour Jarnot et remplacer son fils pour chasser de l’Ugvar Royal (hebdomadaire) ou apprendre la cuisine pour devenir son cuisinier (quotidien).- Pour Ygnovar et récolter des ressources dans la forêt qu’il connaît par cœur (hebdomadaire). 
+
+- Proposer ses services aux villageois (hebdomadaire).
+
+
+
+Ernest est également un potentiel follower, mais reste effrayé par les transports en bateau (bien moins si Visque de Pince Requin découvert).
+
+
+
+
+
+Récompense de Ernest : Collier d’allégement (+05 Agilité - Tête)
+
+
+
+
+
+
+
+4-1. Vous retournez voir Félicia. (Si mentir - Jet de Persuasion. Si loupé : Elle vous demandera de lui ramener un trophée/une preuve de sa mort. Plus le jet est loupé, plus la preuve est importante (Griffe - Queue - Patte  - Tête)
+
+(Si vous voulez la convaincre de laisser Ernest en paix - Jet de Persuasion avec Malus de 20. Si loupé : Elle forcera pour retourner le traquer avec vous.)
+
+
+
+Si vous refusez, elle vous menacera de son arc [Combat]. Si vous la battez (Inconsciente : Échappez-vous avant son réveil - Avis de Recherche / Morte : Vos têtes mise à prix par Demacia)
+
+(Si vous savez qu’elle possède du Vivacium - Jet d’Intimidation avec Bonus de 20)
+
+
+
+Si tout se passe bien, elle vous paiera votre dû.
+
+
+
+Récompense de Félicia : Le % Négocié de la paye des Villageois
+
+
+
+
+
+
+
+4-2. Vous retournez voir les Villageois. Qu’importe si négocié avec Jarnot et/ou Félicia, une fois découverte, les villageois vous récompensent. 
+
+
+
+Cependant, une avance de 15 Or à déjà été donnée à Félicia. Négociez avec elle si vous souhaitez récupérer cette avance (voir étape 4-1)Récompense des Villageois : 35 Or (+15 Or par Félicia si négocié)
+
+
+
+
+
+
+
+Fin

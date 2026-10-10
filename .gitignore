@@ -1,0 +1,8 @@
+.upstream-*/
+.foundry-test/
+node_modules/
+.downloads.json
+test-results/*.png
+dist/
+.release-check/
+sources/media/

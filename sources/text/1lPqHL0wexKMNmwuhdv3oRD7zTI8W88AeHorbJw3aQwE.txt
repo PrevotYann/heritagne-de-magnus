@@ -1,0 +1,1423 @@
+
+
+
+
+
+LES PIERRES DE MAGNUS (OU PIERRES DE SORT) :
+
+
+
+
+
+
+
+NOTE MJ
+
+
+
+Les pierres représentent chacune un des Sorts d’Invocateur de League of Legends. Les joueurs ne doivent pas savoir ce qu'elles représentent, ils doivent le découvrir en jeu. Pour les aider à y parvenir, faites en sorte qu’elles puissent s’activer un moment où ils pensent fort à faire quelque chose que la pierre qu’ils possèdent puisse les aider à réaliser. 
+
+A partir du moment où une pierre est touchée, le joueur part dans un bref état d’absence et à une vision. Mais la pierre à un autre effet que le joueur ignore : elle retire la destinée du personnage en possession de sa magie. Seuls les personnages suivants peuvent s’en rendre compte : Tous les Oracles / Le Maître des Secrets / Le combo des reliques Bague de Sceau Noir et les Pages du Grimoire d’âme du Medjai que leur donne Ryze (voir quête LA PIERRE VIOLETTE étape ?) peuvent retirer la magie liée à l’âme et la remettre (uniquement) dans la pierre. Cela permet aux joueurs de les échanger selon leurs préférences ou de changer de personnage sans avoir à le faire mourir.
+
+
+
+Si un joueur meurt, la magie sort de son corps et retourne dans la pierre. Elle se voit rechargée de magie et reprend ses couleurs et effets. Le prochain être vivant qui la touche se voit en récupérer sa magie. La vision change et devient celle du moment où la pierre qu’elle est censée voir à été touchée pour la dernière fois.
+
+
+
+
+
+Elles sont actuellement au nombre de 4. Quand elles sont touchées, une lueur de la couleur de la pierre se disperse dans le bras puis dans le corps du porteur avant de se décharger et de devenir grise comme une pierre quelconque (seul le personnage qui touche la pierre et ceux qui l’ont déjà touché peuvent le voir). Si le joueur essaye de s’en séparer physiquement, une lueur filaire de sa couleur commence à apparaître de plus en plus fort selon la distance. A partir d’une 20aine de mètres, elle s’active contre son porteur pour l'empêcher de partir. Une fois trop éloigné de leur pierre, la jaune fait flasher vers elle, la marron fatigue son propriétaire de plus en plus, la bleu immobilise son propriétaire de plus en plus et la verte fait perdre des PV à son propriétaire (ou la personne qui l’a entre les mains) de manière croissante selon le temps qui passe.
+
+Les Pierres de Magnus : 
+
+ La Jaune  en forme d’étoile représente la Pierre de Flash. Une lueure jaune brillante retenti toutes les 3 secondes. Quand elle est touchée, on voit un soleil à l’aube dans un ciel rose orangé (Ionia), avec un temple en pierre blanche couvert de gravure. On y plonge dans la terre pour se retrouver sous une immense cavité naturelle ou se trouve la pierre verte incrustée dans une roche de marbre brut 
+
+
+
+Effet : Permet de faire un saut instantané de 3 mètres par défaut et peut traverser les murs. Il est possible de faire 1D10 pour déterminer la distance maximale mais elle se fixera alors sur le résultat du jet. Elle se déclenche pour la première fois lors d'un moment de panique ou une forte envie de s'échapper ou s'introduire d'urgence d’une situation.
+
+
+
+ La Verte  en forme de goutte représente la Pierre de Soin. A l’intérieur, on voit comme des bulles de lave monter et descendre. Quand elle est touchée, elle donne une vision sur un grand lac au centre d’une jungle très colorée (Ixtal), puis en plongeant dans le fond, on y voit la pierre bleue au milieu de très longues algues violettes.
+
+
+
+Effet : Permet de récupérer des PV pour le porteur (+15 PV) et un allié proche (+10 PV). Elle se déclenche pour la première fois lors d'une situation critique de santé, ou la forte envie de soigner quelqu'un. La Bleue  en forme arrondi est la plus grande. Elle représente la Pierre de Claretée. On voit des filaments brillants s’entrelacer à l’intérieur. Quand elle est touchée, elle montre une vision d’une attaque marine de bateaux pirates en pleine tempête (Bilgewater), puis plonge dans les profondeurs et entre dans la gueule des ossements  d’une créature marine géante où on y voit la pierre marron. 
+
+
+
+Effet : Permet de se défaire de toutes formes d’entraves physiques et magiques, mais ne libère que le possesseur de la pierre. Elle se déclenche pour la première fois si le porteur est attaché ou bloqué et qu'il veut à tout prix s'en libérer.
+
+ La Marron  sans forme particulière est la Pierre de Fatigue. On voit une lueur retentir lentement comme un phare. Quand elle est touchée, elle donne un vision sur un géant désert de neige en pleine tempête. Puis s’enfonce dans les profondeurs sombres d’une faille géante de glace. Dans un mur de glace sombre, on y trouve une pierre violette en forme de losange. 
+
+
+
+Effet : Permet de fortement affaiblir temporairement une cible et diminuer sa magie, sa vitesse, sa force et sa réflexion. Elle se déclenche la première fois lors d'un besoin de stopper une action très agressive, ou l'envie d'immobiliser quelqu'un.
+
+
+
+
+
+La Pierre à Retrouver :
+
+
+
+La Violette  en forme de losange est la Pierre de Téléportation. On y voit comme un flux monter et descendre le long du centre de la pierre. Quand elle est touchée, elle donne une vision sur une grande ville moderne ornée de dorure (Piltover) avant de plonger dans les bas quartier profonds (Zaun) jusqu'aux parois d'une immense faille remplie d’un gaz toxique. Vous voyez incrustée dans la roche d’une paroie, une pierre rouge en forme de goutte. (voir Saison 2)
+
+
+
+Elle permet de téléporter sur une longue distance à un endroit déjà visité au préalable le ou les porteurs. Elle se déclenche la première fois lors d'une envie de partir loin d'un lieu dangereux pour un lieu paisible. 
+
+
+
+
+
+
+
+LES AVAROSANS :
+
+
+
+Cette tribu Freljordienne est dirigée par la Cheffe de Guerre Sublimée Ashe, la descendante de Grena et réincarnation d’Avarosa, une des 3 sœurs légendaires. Représentés par le symbole d’un Arc et d’une fleche et associée à la couleur bleu, les Avarosans représentent la diplomatie et cherchent à unifier le Freljord afin de stopper les différentes guerres de clans encore trop importantes. Ils vénèrent Anivia (voir Anivia), et sont bien plus présents dans le Sud Freljordien. Ils sont composés de (lié-par-le-sang de Ashe), de Braum, Gragas, et soutenus par la conseillère Fjona et Ivan Rodgar, le seigneur de Fyord’Al Kurgën.
+
+
+
+Depuis les derniers événements de Demacia, Ashe en profite pour s’ouvrir au reste du monde. Elle s’allie avec les Demaciens afin d’échanger certaines des ressources de ses terres contre de la nourriture pour son peuple. Cependant, malgré cette alliance, des tensions entre les deux peuples peuvent encore survenir. L’accord étant récent, chacun a encore du mal à s’adapter à l’autre.
+
+
+
+Aujourd’hui, la tribu des Avarosans est la plus répandue et la plus peuplée de tout le Freljord. De nombreuses autres tribus lui sont alliées, et elle domine le sud du Freljord. Elle est capable de repousser les attaques de la Griffe Hivernale, sa tribu rivale, ainsi que celles des trolls, des Gardiens du Givre et d’autres tribus indépendantes ou parjures du nord du Freljord. Au sein même de cette tribu, les Avarosans peuvent poursuivre des objectifs différents, tout en restant en cohérence avec celui de leur cheffe de guerre.
+
+
+
+Membres : Ashe (Cheffe de Guerre et Sublimée) / Tryndamere (Lié-par-le-Sang et Champion) / Revna (Sublimée et Championne)/ Braum (Sublimé et Ami) / Ivan et Fiona Rodgar (Dirigeants) / 
+
+Grades < : Pèlerin - Guerrier / Eclaireur - Meneur de Troupe / Champion / Chef de Troupe / (Oracle) / (Sublimé) / (Chef de Guerre)
+
+
+
+
+
+
+
+L’AMARETSU :
+
+
+
+L’Amaretsu est une langue magique qui utilise des mots liés à une entité spirituelle encore très peu connue. Elle oblige l’esprit de celui qui l’entend à obéir aveuglément à ce qui a été prononcé. La puissance de cette magie varie selon l’incantateur : les moins expérimentés ne peuvent imposer que des tâches courtes, tandis que les plus puissants sont capables de donner des ordres sur de longues durées.
+
+
+
+Autrefois répandue à Ionia, cette langue fut rapidement interdite en raison de sa dangerosité. Après avoir disparu pendant plusieurs millénaires, elle fut redécouverte lorsqu’elle réapparut soudainement. Ce langage magique est presque impossible à apprendre. Quelques moines ioniens ont néanmoins réussi, après des années d’entraînement, à utiliser certains mots, mais uniquement grâce à une source magique suffisamment puissante et au prix d’efforts considérables.
+
+
+
+Les Shōretzen ont repris un monastère ancestral sur les côtes de Shon-Xan et sont devenus les gardiens de cette forme de spiritualité unique. Ils peuvent venir en aide, en de rares occasions et en ultime recours, au peuple ionien si la demande est suffisamment importante. Toutefois, ils vivent paisiblement, guidés par leur maître Laïda, seul être reconnu capable de parler l’Amaretsu.
+
+
+
+Personnages possédant l’Amaretsu : Laïda (Rakelstake) / Valgirr (Chaînes d’Odmünd) / Eliora (Ionia)
+
+
+
+
+
+
+
+LES CAIRNS DES ESPRITS (PIERRES DE WYRDING) :
+
+
+
+Les Pierres de Wyrding, également appelées Cairns des Esprits, sont des lieux sacrés où les différents esprits du Freljord peuvent observer et juger les mortels qui viennent se présenter à eux et leur adresser leurs prières.
+
+
+
+Lorsqu’un esprit estime un visiteur digne de son attention, il peut lui accorder une infime partie de ses dons en guise de bénédiction. En échange, celui-ci doit continuer à honorer l’esprit et lui adresser occasionnellement ses prières afin d’entretenir le lien qui les unit.
+
+
+
+Ces lieux sont extrêmement rares. On compterait moins d’une dizaine dans tout le Freljord, et plusieurs d’entre elles auraient déjà été détruites ou perdues au fil des siècles. Celles qui subsistent sont donc considérées comme des lieux particulièrement précieux par les peuples qui connaissent encore leur existence.
+
+
+
+
+
+
+
+LE CHUCHOTEUR HUGMUNN :
+
+
+
+Une ancienne légende raconte que celui qui parviendrait à réunir et revêtir l’intégralité de la tenue enchantée du Chuchoteur Hugmunn obtiendrait le pouvoir de commander aux corbeaux et aux Hugmunns. Il serait également capable d’appeler et de diriger Oshd’Inn, une créature gigantesque dont l’apparence rappelle celle d’un immense Hugmunn.
+
+
+
+L’enchantement qui imprègne cette tenue est de nature spirituelle. À sa mort, l’esprit du Chuchoteur serait demeuré lié à l’ensemble des objets qu’il portait, transmettant une partie de ses pouvoirs à quiconque parviendrait à tous les réunir. Tant que la tenue reste complète, son nouveau propriétaire devient ainsi l’héritier de son lien avec les créatures qu’il commandait autrefois.
+
+
+
+Mais cet héritage possède un prix. Tous ceux ayant endossé la tenue complète se sont retrouvés animés par une même obsession, héritée de la volonté de son propriétaire défunt : retrouver et abattre Orok’Ulth, l’ennemi ancestral d’Oshd’Inn. Dès lors, le porteur ne devient pas seulement le nouveau Chuchoteur Hugmunn : il hérite également de sa quête inachevée.
+
+
+
+
+
+
+
+LE COURSE-HEGGEN :
+
+
+
+Approximativement tous les 150 ans, lors de la période d’éveil du Vargh’Heggen, les Freljordiens du Sud fêtent ce que l’on appelle le Course Heggen. Cette coutume consiste à regrouper plusieurs membres de différents villages,  de remplir quelques charrettes d’Olgür en grande quantité afin que l’odeur attire des Vargh’Heggen. Les villageois se baladent alors dans les plaines du sud afin de tenter de trouver en premier un des deux Vargh’Heggen. Une fois retrouvé, un des membres gonfle un immense ballon avec une torche pour que l’autre groupe ayant retrouvé l’autre créature puisse se retrouver. Les deux Vargh’Heggen peuvent alors s’accoupler, et donner naissance à un bébé Heggen. Pour fêter cela, les villageois boivent l’alcool fait avec l’Olgür restant des autres charrettes. 
+
+
+
+Cette tradition unique est absolument à voir dans une vie. Parfois deux ou trois générations passent leur vie et meurent sans avoir pu y participer. 
+
+
+
+Approximativement tous les 150 ans, lors de la période d’éveil du Vargh’Heggen, les Freljordiens du Sud célèbrent ce que l’on appelle la Course Heggen. Cette coutume consiste à regrouper plusieurs membres issus de différents villages, puis à remplir quelques charrettes d’Olgür en grande quantité afin que l’odeur attire les Vargh’Heggen. Les villageois parcourent ensuite les plaines du sud dans l’espoir de trouver en premier l’une des deux créatures.
+
+
+
+Une fois l’un des Vargh’Heggen repéré, un membre du groupe gonfle un immense ballon chauffé par une torche afin de signaler sa position à l’autre équipe ayant trouvé la seconde créature. Les deux Vargh’Heggen peuvent alors se rejoindre, s’accoupler et donner naissance à un bébé Heggen. Pour célébrer cet événement, les villageois boivent l’alcool préparé avec l’Olgür restant dans les autres charrettes. Cette tradition unique est considérée comme un spectacle à voir au moins une fois dans sa vie. Il arrive que deux ou trois générations se succèdent sans jamais avoir l’occasion d’y assister.
+
+
+
+
+
+
+
+LES DARKINS : 
+
+
+
+Les Darkin sont d’anciens Transfigurés de Shurima, des guerriers autrefois élevés par le pouvoir du Disque solaire pour combattre le Néant. Après la chute de leur empire, beaucoup sombrèrent progressivement dans la folie et la corruption, utilisant notamment l’hémomancie pour transformer leur chair et accroître leur puissance. Devenus une menace pour Runeterra, ils furent finalement combattus par les Manifestations et emprisonnés dans leurs propres armes en guise de malédiction.
+
+
+
+Immortels mais incapables de retrouver leur véritable corps, les Darkin sont désormais liés à ces armes. Lorsqu’un mortel entre en contact avec l’une d’elles, le Darkin peut tenter de prendre possession de son corps et remodeler sa chair grâce à la magie du sang afin de se créer une nouvelle enveloppe.
+
+
+
+Aatrox est l’un des plus anciens et des plus puissants d’entre eux. Au Freljord, il est notamment responsable du massacre de la tribu des Hargvonns, dont Tryndamere fut longtemps considéré comme l’unique survivant. Le sang et la magie d’Aatrox semblent également être à l’origine de l’étrange capacité de Tryndamere à repousser la mort, faisant de lui l’une des rares victimes à avoir survécu à son passage.
+
+
+
+Varus exerce lui aussi son influence sur le Freljord. Dans l’ombre, il guide actuellement le jeune Hakan vers une immense source de pouvoir enfouie dans les terres du Nord : une gigantesque lance Darkin emprisonnée dans la glace. Celle-ci renferme Anaakca, une puissante Darkin cherchant à se libérer afin de retrouver l’appel de sa mystérieuse maîtresse.
+
+
+
+
+
+
+
+LES DEMACIENS : 
+
+
+
+Les Demaciens sont aujourd’hui particulièrement présents dans le sud du Freljord. Cette proximité s’explique par les récentes affaires conclues avec la cheffe Avarosan Ashe, mais également par la mise en place du couvre-feu Demacien. Malgré cette présence étrangère grandissante, les Avarosans les acceptent et considèrent désormais une grande partie d’entre eux comme de nouveaux alliés.
+
+
+
+Ils sont principalement concentrés à Frostheld, où ils viennent commercer et entretenir leurs relations avec les populations locales. Leur présence s’est davantage renforcée avec les préparatifs du Repas du Couronnement, qui attire de nombreux nobles démaciens. Beaucoup y découvrent les coutumes du Freljord et se prennent progressivement d’affection pour ce peuple fier mais relativement ouvert d’esprit. Certains restent toutefois silencieusement méprisants, notamment envers l’importante place qu’occupe la magie dans la culture freljordienne.
+
+
+
+Cette présence militaire permet de limiter considérablement les déplacements des pirates, mais perturbe également les routes empruntées par les marchands et les explorateurs. Les petits villages côtiers du Freljord sont particulièrement touchés, certains ne pouvant désormais plus commercer librement par voie maritime.
+
+
+
+Les Demaciens profitent également de leur présence dans la région pour poursuivre leurs expéditions vers le nord du Freljord. Cependant, au-delà des territoires contrôlés par les Avarosans, leur sécurité ne dépend plus de leurs nouveaux alliés. Les tribus hostiles, les créatures sauvages et les conditions extrêmes de ces terres rendent chaque expédition particulièrement dangereuse. Bien souvent, ceux qui s’aventurent trop loin vers le nord ne reviennent jamais.
+
+
+
+Le Couvre Feu Demacien :
+
+
+
+Le couvre-feu Demacien fut instauré à la suite de la Révolte des Mages de Demacia, orchestrée et menée par le célèbre mage Sylas. Depuis sa fuite en direction du Freljord, les Demaciens le traquent activement. Supervisé par le capitaine Orvar, ce dispositif étend la surveillance de la flotte démacienne sur la mer des Conquérants, depuis Aubecastel, à l’ouest de Demacia, jusqu’aux fjords du sud de Lokfar, dans l’ouest du Freljord.
+
+
+
+Grades < : Soldat / Capitaine / Commandant / Général 
+
+Membres : 
+
+
+
+
+
+
+
+LES DEMI-DIEUX DU FRELJORD : 
+
+
+
+Nous ignorons combien de dieux freljordiens ont réellement existé, mais les plus importants sont aujourd’hui connus sous le nom de Primordiaux, ceux que les peuples du Freljord vénèrent encore. Ils seraient parmi les premiers êtres à avoir foulé le sol de Runeterra, façonnant autour d’eux mers, montagnes et vallées, et forgeant progressivement les terres du Freljord à leur image.
+
+
+
+À leurs côtés existaient de nombreuses divinités moins puissantes, aujourd’hui appelées les Oubliés. Autrefois vénérées par différents peuples, certaines sont mortes, d’autres ont disparu du plan matériel, tandis que quelques-unes ont simplement cessé d’être honorées jusqu’à sombrer dans l’oubli.
+
+
+
+Aujourd’hui, leur existence ne subsiste plus qu’à travers de rares écrits, des ruines et quelques légendes anciennes. Pour beaucoup de Freljordiens, les Oubliés ne sont désormais rien de plus que les vestiges d’une époque où les dieux étaient bien plus nombreux à parcourir leurs terres.
+
+
+
+
+
+Anivia “Ysjarn” Le Cryophénix : 
+
+
+
+Anivia est l’une des grandes demi-déesses primordiales du Freljord et l’un de ses plus anciens symboles de protection. Incarnation du changement, de la renaissance et du cycle éternel de la vie, elle est intimement liée à l’hiver et à la glace qui façonnent ces terres depuis des millénaires.
+
+
+
+Son corps étant lui-même constitué de Glace Pure, Anivia aurait autrefois offert une partie de cette magie aux plus braves des Freljordiens. Ce don se transmet encore aujourd’hui à travers certains de leurs descendants, capables de supporter son contact et d’en manier la puissance.
+
+
+
+Symbole d’espoir et de renouveau, Anivia est vénérée par une grande partie des peuples du Freljord. Elle incarne particulièrement les idéaux des Avarosans, qui voient en elle une force positive accompagnant les grands changements nécessaires à l’avenir de leur peuple.
+
+
+
+Aujourd’hui, Anivia serait endormie dans les terres les plus septentrionales du Freljord, au-delà même de la Citadelle de Givre, là où le froid devient si mordant qu’un mortel ordinaire pourrait difficilement survivre plus d’une journée. Depuis ces étendues glacées, il serait possible d’apercevoir au loin la mystérieuse Montagne Ailée, dont les immenses formations de glace représenteraient les ailes gigantesques du Cryophénix.
+
+
+
+Selon les croyances, Anivia y attend patiemment sa prochaine renaissance. Car si le Freljord venait un jour à avoir véritablement besoin d’elle, le Cryophénix renaîtrait une nouvelle fois de la glace pour défendre ses terres.
+
+
+
+
+
+Ornn “Ramhaurg” Le Coeur de la Montagne : 
+
+
+
+Ornn est le demi-dieu primordial de la forge, de l’artisanat et du feu. Il incarne le foyer, la création et la persévérance, et aurait participé à façonner la terre et les montagnes du Freljord. Il modela une partie de ces terres selon l’idéal qu’il imaginait pour lui-même, ses frères et ses sœurs.
+
+
+
+Au cœur d’une montagne, Ornn façonna l’Âtre-Foyer, sa demeure et sa légendaire forge. C’est dans ses profondeurs brûlantes qu’il travaille le métal et crée certains des artefacts magiques les plus légendaires de Runeterra, dont la qualité dépasse encore aujourd’hui celle des plus grands artisans mortels.
+
+
+
+Ornn est principalement vénéré par les forgerons, les artisans et certains esprits de la roche. Il fut également le maître des Feux de l’Âtre, un peuple de forgerons légendaires qu’il autorisa autrefois à vivre auprès de lui et à travailler dans sa forge. Leur talent et leur humilité étaient tels qu’ils comptaient parmi les rares mortels dont Ornn appréciait véritablement la présence.
+
+
+
+Cette époque prit fin lors d’un affrontement cataclysmique entre Ornn et son frère Volibear. Leur combat ravagea l’Âtre-Foyer et provoqua la mort de presque tous les Feux de l’Âtre. Rongé par le regret et profondément marqué par leur disparition, Ornn se retira alors dans sa montagne et s’isola du monde pendant des siècles.
+
+
+
+Depuis, le dieu de la Forge se montre extrêmement rarement. Il continue pourtant d’œuvrer dans les profondeurs de l’Âtre-Foyer et accepte parfois de se révéler aux mortels suffisamment dévoués, talentueux ou intrigants pour attirer son attention.
+
+
+
+
+
+Volibear “Valhir” L’Ours aux Milles Piques : 
+
+
+
+Volibear est le plus féroce des demi-dieux primordiaux du Freljord. Dieu de la Tempête et de la Sauvagerie, il incarne la guerre, la violence, la nature sauvage, mais également la hardiesse et la survie. Parmi les Primordiaux, il est certainement le plus conservateur, rejetant profondément la civilisation et tout ce qu’elle représente.
+
+
+
+Volibear prône le retour de l’ancien monde, celui d’avant les hommes, lorsque la nature régnait sans entrave et que les mortels vivaient à la merci des forces sauvages du Freljord. À ses yeux, les villages, les royaumes et le confort ne font qu’affaiblir ceux qui devraient lutter quotidiennement pour mériter leur survie.
+
+
+
+Son passage est généralement accompagné d’une épaisse tempête dévastatrice. Là où Volibear marche, le tonnerre gronde, les vents se déchaînent et la nature semble entrer en colère. Pour beaucoup de Freljordiens, apercevoir cette tempête à l’horizon signifie assister à la dernière chose qu’ils verront de leur vivant.
+
+
+
+Au cours des âges, Volibear affronta plusieurs de ses frères et sœurs, notamment Ornn, contre lequel il ne parvint jamais véritablement à triompher. Il est également tenu responsable de la mort de Rhond, l’une des anciennes divinités du Freljord.
+
+
+
+Aujourd’hui, Volibear réside principalement sur le continent Nord, territoire des Ursidés. Ces hommes-bêtes à l’apparence d’ours le vénèrent et détruisent tout sur leur passage, constituant progressivement l’armée avec laquelle leur dieu compte reconquérir le Freljord et lui rendre sa sauvagerie originelle.
+
+
+
+Une ancienne légende raconte enfin que Volibear porterait sur son dos mille piques, formées par les lances, épées et autres armes des innombrables guerriers ayant tenté de l’abattre au cours des siècles. Plutôt que de les retirer, le dieu les conserverait plantées dans sa chair comme autant de trophées, preuves de la futilité de ceux qui pensaient pouvoir tuer la Tempête elle-même.
+
+
+
+
+
+La Soeur-Phoque “Ylvhaen” : 
+
+
+
+La Sœur-Phoque est la demi-déesse primordiale de la Mémoire et de la Paix. Elle incarne l’harmonie, la symbiose entre les êtres et la mer calme qui accompagne les voyageurs. Contrairement à certains de ses frères et sœurs, elle ne cherche ni la confrontation ni la domination, préférant préserver ce qui existe plutôt que combattre pour l’imposer.
+
+
+
+Elle serait à l’origine de l’Eau Pure, une eau primordiale chargée d’une puissante magie et indispensable à l’existence même de la Glace Pure. Sans elle, Anivia elle-même ne pourrait exister sous sa forme actuelle, puisque son corps serait constitué d’une glace façonnée à partir de cette Eau Pure.
+
+
+
+Après le combat cataclysmique entre Ornn et Volibear, la Sœur-Phoque choisit de se retirer du monde plutôt que de participer davantage aux querelles des Primordiaux. Elle trouva refuge dans les Plaines Oubliées, qu’elle dissimula derrière un puissant voile spirituel rendant ces terres presque impossibles à détecter depuis l’extérieur.
+
+
+
+C’est là qu’elle fonda une communauté destinée à préserver la mémoire et le savoir des mortels. Par son Appel Silencieux, elle attire jusqu’à elle certains des individus les plus talentueux de Runeterra afin qu’ils transmettent et conservent leurs connaissances.
+
+
+
+Son objectif dépasse la simple protection de ces érudits. La Sœur-Phoque se prépare à l'éventualité où une catastrophe provoquerait la disparition des civilisations mortelles. Si un tel jour venait à arriver, les connaissances préservées dans les Plaines Oubliées permettraient aux survivants de reconstruire une nouvelle civilisation sans avoir à recommencer depuis l’oubli.
+
+
+
+
+
+Le Sanglier de Fer “Ildhaurg” : 
+
+
+
+Ildhaurg Robustesse, Défence, Force du corps et de l’esprit, Armure, Mental d’acier
+
+
+
+
+
+Rhond Le Serpent Magmatique : 
+
+
+
+Note
+
+
+
+
+
+Haestryr “Hestrelk” Le Bribucq Sauvage : 
+
+
+
+Haestryr 
+
+
+
+
+
+“Vinhaurg“ Le Griffeur Affamé : 
+
+
+
+Note
+
+
+
+Hjarnvyr “Vargyn’Elnyr” Loup et Elnük : 
+
+
+
+Communément connu sous le nom de Kindred, le Dieu de la Mort possède différentes représentations à travers Runeterra, celle du Loup, appelé Hjarnvyr au Freljord, demeure la plus répandue dans les terres du Nord. Les guerriers freljordiens disent d’ailleurs embrasser le Loup avant de partir au combat, acceptant ainsi la possibilité de mourir dignement.
+
+
+
+Si son opposé est généralement représenté sous les traits d’un Agneau, les Freljordiens lui préfèrent l’apparence d’un jeune Elnük blanc, qu’ils nomment Elnyr. Son apparence reste proche de celle de l’Agneau : une silhouette légère surmontée d’une tête de jeune Elnük au pelage blanc, de petits sabots et un arc façonné à partir de bois d’Elnük.
+
+
+
+Vargyn, au contraire, possède une apparence bien plus inquiétante que celle traditionnellement attribuée au Loup. Son pelage est d’un gris charbon terne, sa silhouette plus sauvage et une aura fantomatique accompagne chacun de ses mouvements.
+
+
+
+Lorsqu’un guerrier freljordien meurt, son âme est destinée à rejoindre le Valdyrheim, aussi appelé le Festin des Braves. Mais avant d’y parvenir, la Mort vient à sa rencontre sous l’un de ses deux visages. Celui qui accepte sa fin comme une vieille amie voit apparaître Elnyr, venu l’accueillir paisiblement et lui offrir une mort sans souffrance. Celui qui refuse son destin, tente de fuir ou s’accroche désespérément à la vie rencontre Vargyn. Alors commence la dernière chasse, et le Loup poursuit sa proie jusqu’à ce que celle-ci ne puisse plus lui échapper.
+
+
+
+
+
+
+
+LES DRÁRAS : 
+
+
+
+Cette nouvelle catégorie d’éclaireurs fut découverte auprès de la tribu des Skjalds, où les Dráras occupent une fonction particulièrement atypique. Avant tout chamans, ils sont capables d’établir un lien avec des volatiles afin d’observer les environs à travers eux et de détecter toute présence suspecte autour d’une zone.
+
+
+
+À la fois Guetteurs et Éclaireurs, les Dráras sont les yeux de leur troupe et comptent, à ce jour, parmi les meilleurs dans ce domaine au Freljord. Grâce à leur animal lié, ils peuvent surveiller de vastes territoires et repérer des individus à plusieurs kilomètres de distance sans avoir à s’exposer eux-mêmes. Ils sont également doués pour anticiper les déplacements des cibles détectées.
+
+
+
+Maintenir un lien aussi clair et précis avec un animal reste cependant extrêmement difficile, particulièrement sur de longues distances. De nombreuses années d’entraînement sont nécessaires pour parvenir à percevoir correctement à travers ses sens et exploiter efficacement les informations transmises par l’animal.
+
+
+
+
+
+
+
+L’EAU PURE :
+
+
+
+L'Eau Pure est une création de la Sœur-Phoque. Autrefois, elle s'en servait pour soigner les blessures de sa sœur Anivia et lui permettre de rétablir après chacune de ses blessures.
+
+
+
+Il s'agit, techniquement, de la Glace Pure sous sa forme liquide. Cette eau est d'une pureté et d'un froid si extrêmes qu'il est impossible de s'y baigner ou d'en boire sans mourir, à l'exception d'une infime poignée d'individus appelés les Sublimés.
+
+
+
+Chez eux, boire de l'Eau Pure permettrait au corps et à l'esprit de communiquer en parfaite harmonie, développant ainsi la Magie Spirituelle, même chez ceux qui en étaient initialement dépourvus. Elle serait également capable de figer l'état actuel des cellules du corps, ralentissant, voire stoppant totalement, le vieillissement si elle était consommée régulièrement.
+
+
+
+S'y immerger permettrait de régénérer le corps à une vitesse prodigieuse. Les plaies se refermeraient presque instantanément, les os se ressouderaient et toute douleur physique disparaîtrait à terme. Cependant, son froid est si intense qu'il reste extrêmement éprouvant, même pour les rares êtres capables d'y survivre.
+
+
+
+Les témoignages de personnes ayant bu ou aperçu de l'Eau Pure sont aujourd'hui presque inexistants. Depuis la disparition de la Sœur-Phoque, il y a plusieurs siècles, cette eau est devenue pratiquement introuvable. Selon les anciennes légendes, le seul endroit où l'on pourrait encore en trouver serait les eaux dans lesquelles la Sœur-Phoque se baigne, son corps ayant la capacité de transformer naturellement l'eau ordinaire en Eau Pure.Il est techniquement possible d'en obtenir en faisant fondre de la Glace Pure à l'aide des Flammes Éternelles d'Ornn. Cependant, la Glace Pure est considérée comme bien trop précieuse pour être utilisée de cette manière. Les Sublimés préfèrent la conserver sous sa forme originelle, tandis que les mortels sont incapables de la manipuler sans y laisser la vie. Pour ces raisons, personne ne cherche réellement à en produire.
+
+
+
+
+
+
+
+LES FEUX DE L’ÂTRE :     [WIKI]
+
+
+
+Les Feux de l’Âtre étaient autrefois les disciples d’Ornn, de puissants forgerons dont le travail légendaire était parvenu à gagner le respect du dieu de la Forge lui-même. Prospères mais humbles, ils œuvraient paisiblement à l’Âtre-Foyer, un immense volcan enfoui sous la montagne où résidait Ornn. Une grande partie des objets les plus légendaires de ce monde serait ainsi née des mains du dieu ou de celles de ses disciples.
+
+
+
+Leur prospérité prit brutalement fin lors du terrible affrontement entre Ornn et Volibear. Les Feux de l’Âtre disparurent presque entièrement et, au fil des générations, leur nom lui-même commença à sombrer dans l’oubli.
+
+
+
+Les membres de ce peuple possèdent une résistance exceptionnelle aux températures extrêmes. Ils ne ressentent presque pas le froid mordant du Freljord et sont capables de supporter la chaleur étouffante des grottes volcaniques dans lesquelles leurs ancêtres forgeaient autrefois leurs œuvres.
+
+
+
+Depuis quelque temps pourtant, des rumeurs racontent que certains Feux de l’Âtre réapparaîtraient progressivement, dans le plus grand des silences, et qu’Ornn lui-même aurait repris du service. Ces histoires sont notamment alimentées par la réputation grandissante d’un forgeron légendaire nommé Harold, dont les exploits commencent à se répandre à travers le Freljord. Pour les rares descendants encore présents, son existence fait renaître un espoir longtemps oublié : celui d’un possible renouveau des Feux de l’Âtre.
+
+
+
+
+
+
+
+LA FLAMME ETERNELLE :     [LORE]
+
+
+
+La Flamme Éternelle est l’un des derniers vestiges du cataclysme ayant autrefois détruit le Port-de-Rygann et provoqué, par la même occasion, l’abandon du Creux-de-Valar. Elle est le résidu d’une magie incendiaire d’une puissance exceptionnelle, encore liée à la conscience de son propriétaire : Brand, un redoutable mage destructeur autrefois vaincu par Ryze.
+
+
+
+Malgré son apparence, la Flamme Éternelle n’est donc pas un simple feu. Elle demeure consciente et représente une menace suffisamment importante pour nécessiter une surveillance permanente. Cette responsabilité incombe aujourd’hui au Mage-Gardien Olgaviin, comme elle incombait à son père avant lui. Depuis son enfance, Olgaviin a été préparé à cette unique mission : protéger la Flamme de toute personne ou de tout événement susceptible de réveiller sa véritable puissance.
+
+
+
+La Flamme possède un comportement particulièrement capricieux. Elle peut rester paisible pendant de longues périodes, donnant presque l’impression de dormir, avant de soudainement s’agiter et manifester à nouveau la volonté de Brand. Lorsqu’elle s’éveille, elle est capable d’influencer les esprits les plus faibles afin de les pousser à rechercher une source de pouvoir suffisamment importante pour lui permettre de reprendre forme.
+
+
+
+Le Port-de-Rygann, déjà marqué par sa puissance par le passé, constituerait alors un lieu idéal pour permettre à Brand de déchaîner une nouvelle fois toute sa fureur. Heureusement, tant que le Mage-Gardien veille sur elle, la Flamme Éternelle demeure sous contrôle. Du moins, tant qu’elle continue de dormir.
+
+
+
+
+
+
+
+LES GARDIENS DU GIVRE :
+
+
+
+Les Gardiens du Givre constituent la troisième grande puissance dominante du Freljord. Ils sont dirigés depuis des millénaires par Lissandra, la Sorcière de Glace, dernière des Trois Sœurs encore présente en ce monde. Aveugle depuis les temps anciens, elle demeure l’une des plus puissantes sorcières que le Freljord ait connues et règne depuis sa citadelle reculée sur un peuple qui la considère autant comme une dirigeante que comme une figure spirituelle.
+
+
+
+Mais derrière les croyances entretenues par les Gardiens du Givre se cache un secret bien plus ancien. Lissandra fut autrefois liée aux Veilleurs, de terribles entités venues du Néant auxquelles elle et ses sœurs avaient accordé l'accès à Runeterra en échange d’un immense pouvoir. Comprenant trop tard ce qu’elles représentaient réellement, Lissandra se retourna contre eux et les emprisonna dans les profondeurs glacées de sa forteresse. Depuis, une grande partie de son existence est consacrée à empêcher leur réveil et à dissimuler la vérité sur les événements qui ont façonné l’ancien Freljord.
+
+
+
+Pour maintenir son autorité, Lissandra s’appuie sur les Gardiens du Givre, mais également sur de puissants prêtres et Inquisiteurs Draklorns chargés de faire respecter sa volonté. Son influence s’étend également aux trolls qui occupent les régions environnantes ainsi qu’aux Sacrifidèles, des humains entièrement dévoués à sa cause. Au fil des siècles, les Gardiens du Givre ont également façonné l’histoire à leur avantage, transformant progressivement les Trois Sœurs en figures presque mythologiques et faisant disparaître les vérités susceptibles de menacer l’autorité de Lissandra.
+
+
+
+Isolée dans l’une des régions les plus hostiles du Freljord, la tribu revendique pourtant une puissance considérable. Contrairement aux Avarosans ou à la Griffe Hivernale, elle ne cherche pas nécessairement à conquérir de nouveaux territoires par de grandes migrations ou des campagnes militaires. Son influence repose davantage sur la peur, la religion, la magie et le contrôle des connaissances. Certains membres des Gardiens du Givre voyagent d’ailleurs parmi les autres tribus en tant que missionnaires ou soigneurs, participant ainsi discrètement à l’influence spirituelle de Lissandra.
+
+
+
+Depuis quelque temps cependant, Lissandra sent ses forces s’affaiblir. La glace noire qu’elle utilise depuis des millénaires pour maintenir la menace enfermée dans les profondeurs perd progressivement de sa puissance, laissant craindre que ce qui sommeille sous sa citadelle puisse un jour se libérer. Pourtant, sa fierté et les secrets qu’elle protège l’empêchent de chercher ouvertement de l’aide. Elle refuse autant de se tourner vers les anciens demi-dieux du Freljord que vers les autres grandes tribus, dont la vision du Freljord s’oppose profondément à la sienne. Sa maîtrise de la glace noire demeure d'ailleurs l'un des aspects les plus terrifiants de sa magie.
+
+
+
+Autrefois, la magie de Lissandra et de ses fidèles pouvait être considérée comme nécessaire à la survie de certaines tribus. Aujourd’hui, les Gardiens du Givre sont de moins en moins bien accueillis dans les régions du sud. Leur réputation, leurs méthodes et la crainte inspirée par leur magie poussent progressivement les autres peuples à se méfier d’eux. Pourtant, derrière leurs ambitions et leurs manipulations se cache une réalité que presque personne ne connaît : si Lissandra venait réellement à échouer, ce n’est peut-être pas seulement le Freljord qui aurait à en subir les conséquences.
+
+
+
+Grades : Guerrier / Gardes - Sentinelles / Commandant / Prêtres Draklorns - Inquisiteur Draklorns
+
+
+
+
+
+
+
+LA GLACE PURE :    [WIKI]
+
+
+
+Voir Matériaux Glace Pure.
+
+
+
+
+
+
+
+LA GRIFFE HIVERNALE :
+
+
+
+La Griffe Hivernale est l’une des trois grandes tribus dominantes du Freljord et certainement l’une des plus sauvages. Elle est dirigée par Sejuani, puissante Sublimée considérée comme la réincarnation de Serylda et grande rivale d’Ashe. Contrairement à cette dernière, qui souhaite unifier le Freljord, Sejuani considère le conflit comme une nécessité : pour elle, l’adversité maintient son peuple fort et participe à l’équilibre naturel de la région.
+
+
+
+Cette vision est notamment partagée par Udyr, proche conseiller de Sejuani, pour qui les hommes, les animaux et les esprits du Freljord ont besoin de cette confrontation permanente pour évoluer. Une paix durable risquerait selon lui de bouleverser cet équilibre.
+
+
+
+Sejuani mène personnellement certains des raids les plus importants, chevauchant son immense drüvask Bristle et brandissant son fléau de Glace Pure. Ces raids sont essentiels à la survie de la tribu : ils permettent de récupérer nourriture, armes, bétail et artefacts, mais également de défendre ou d’étendre leurs territoires. La Griffe Hivernale affronte ainsi régulièrement les Avarosans, mais également les expéditions démaciennes, les ambitions noxiennes et toute force étrangère pénétrant sur ses terres sans son accord.
+
+
+
+Autrefois alliée à Valhir et aux Ursidés, Sejuani finit par rompre cette alliance lorsqu’elle comprit que le demi-dieu cherchait davantage à la contrôler qu’à l’aider. Depuis, les incursions ursidées représentent elles aussi une menace régulière pour son peuple.
+
+
+
+La vie au sein de la Griffe Hivernale est rude et profondément guerrière, mais ses membres savent également célébrer à leur manière. Alcool, combats, sacrifices et duels accompagnent régulièrement leurs festivités. La mort au combat y est considérée comme honorable, et perdre des guerriers n’est pas nécessairement perçu comme une faiblesse si ceux-ci sont tombés dignement.
+
+
+
+Bien que Sejuani soit leur grande cheffe de guerre, différents chefs dirigent leurs propres troupes à travers l’immense territoire de la tribu. La magie, les chamans, les Sublimés, les esprits et les armes de Glace Pure occupent également une place importante dans leur société.
+
+
+
+Enfin, si la diplomatie est rarement leur première option, la Griffe Hivernale n’attaque pas aveuglément. Ses guerriers savent préparer des embuscades, exploiter le terrain et imposer des ultimatums lorsqu’un combat peut être évité. Chez eux, la force ne consiste pas seulement à vaincre son adversaire, mais aussi à lui faire comprendre qu’il serait dangereux de refuser leurs conditions.
+
+
+
+Comptine Griffe Hivernale :
+
+ Les faibles Labourent leurs champs fructueux,Ils sèment leurs graines pour les dieux,
+
+Et nous y mettront le feu, 
+
+Car nous prenons ce que l’on veut !
+
+
+
+Grades : Guerrier / Berserker - Eclaireur - Chef de Troupe / Raid - Mère ou Père cicatricielle - (Oracle) - (Sublimé) - (Chef de Guerre)
+
+
+
+
+
+
+
+LES LIÉS-PAR-LE-SANG :
+
+
+
+Au Freljord, le mariage tel qu’on le connaît ailleurs n’existe pas. Il existe cependant une coutume similaire permettant d’honorer et de reconnaître les unions. Selon la tradition, ce sont les femmes qui choisissent les hommes auxquels elles souhaitent s’unir, scellant leur relation par un lien de sang.
+
+
+
+Une femme peut ainsi avoir plusieurs liés-par-le-sang. En retour, chacun d’eux lui voue fidélité et dévouement. Les hommes partageant le lien de sang d’une même femme entretiennent généralement de bonnes relations et considèrent leur progéniture comme commune, prenant soin des enfants et partageant leur éducation équitablement, indépendamment de leur véritable filiation. Il arrive même que certains liés entretiennent entre eux une certaine intimité et partagent parfois leurs ébats.
+
+
+
+Cependant, la cohabitation n’est pas toujours harmonieuse. Lorsqu’un lié par le sang ne parvient pas à accepter l’un de ses semblables, deux choix s’offrent traditionnellement à lui : quitter volontairement l’union et s’exiler, ou défier son rival lors d’un combat à mort. Le survivant conserve alors sa place auprès de la femme à laquelle ils étaient tous deux liés.
+
+
+
+
+
+
+
+LES LIMBES D’OTT :
+
+
+
+À force de manipuler la mort et de repousser les frontières séparant le monde matériel du monde spirituel, Ott finit par briser une réalité et créer, presque accidentellement, son propre monde spirituel. Prisonnière de cet endroit pendant plusieurs centaines d’années, elle erra longtemps dans ses étendues avant d’en tirer une étrange conclusion : jamais elle n’avait connu un lieu aussi calme et serein. Pour elle, le vide, le néant absolu, représente désormais une forme de paix éternelle à laquelle les humains devraient finir par se résoudre.
+
+
+
+Les Limbes d’Ott sont une reproduction presque parfaite du monde matériel, mais figée dans un état de suspension permanent. Les lieux y sont ternes, oppressants et entièrement gris, à l’exception d’une légère teinte rougeâtre qui semble imprégner l’environnement. Les sons y sont étouffés et se propagent difficilement, tandis que les mouvements paraissent légèrement ralentis, comme si chaque chose évoluait sous l’eau. Rien ne peut véritablement y être brisé ou détruit : les Limbes semblent conserver chaque élément dans l’état où il se trouvait au moment de sa reproduction.
+
+
+
+Pour y pénétrer, Ott connaît une formule particulière (11.6) permettant de fragiliser la frontière entre le monde réel et les Limbes. Lorsqu’elle est prononcée, une sorte de flaque apparaît progressivement au sol et s’étend lentement à mesure qu’elle puise l’énergie nécessaire pour rompre cette frontière. Dès qu’un individu entre en contact avec ce portail, son corps s’effondre dans le monde matériel tandis que son âme est aspirée et piégée à l’intérieur des Limbes.
+
+
+
+Les Limbes demeurent intimement liées à leur créateur. Si celui-ci venait à mourir, elles s’autodétruiraient et disparaîtraient jusqu’à ce qu’une nouvelle personne parvienne à les ouvrir. Elles se lieraient alors immédiatement à ce nouveau créateur, se façonnant de manière à ce qu’il s’y sente naturellement bien, dans un état de calme et de sérénité absolue.
+
+
+
+À chaque nouvelle ouverture, les Limbes se reconstruisent à partir de l’environnement entourant le lieu où la formule a été prononcée, reproduisant approximativement une zone de cinq kilomètres de diamètre. Si un autre portail est ensuite ouvert dans une région suffisamment éloignée, cette nouvelle portion vient se rattacher à la précédente, malgré la distance qui les sépare dans le monde matériel. Entre les deux subsiste alors une étendue de vide, progressivement comblée à mesure que de nouvelles zones sont reproduites.
+
+
+
+Ainsi, deux régions extrêmement éloignées peuvent se retrouver directement accolées au sein des Limbes. Il serait par exemple possible d’y faire coexister Demacia et Rakelstake, permettant théoriquement d’entrer par l’une de ces régions pour ressortir par l’autre.
+
+
+
+Cette particularité possède toutefois une limite majeure : seul le propriétaire actuel des Limbes peut y pénétrer entièrement, avec son corps et son âme. Pour tous les autres êtres, seul l’esprit peut franchir la frontière, leur corps demeurant inerte dans le monde matériel jusqu’à leur retour.
+
+
+
+
+
+
+
+LE NÉANT :
+
+
+
+Le Néant est une dimension de non-existence qui cherche à détruire Runeterra et, à terme, l’univers tout entier afin de ramener toute chose à son état originel : la non-existence.
+
+
+
+Il se manifesta pour la première fois il y a plusieurs milliers d’années au nord du Freljord, dans la grande faille de l’Abîme Hurlant, près de la Citadelle du Givre. Cette brèche fut ouverte par Lissandra, qui comprit rapidement son erreur en voyant les immenses et puissantes créatures qui en émergèrent. Incapable de les contrôler et dépassée par leur puissance, elle sacrifia ses deux sœurs ainsi qu’une grande partie de ceux qui combattaient à leurs côtés afin de refermer la faille grâce à une magie extrêmement puissante : la Glace Noire. Cette prison existe encore aujourd’hui, mais elle fond lentement, et Lissandra se sent de plus en plus menacée par les entités qui pourraient un jour parvenir à s’en libérer.
+
+
+
+Les créatures qui émergent du Néant, appelées Néantins, peuvent prendre des tailles et des apparences extrêmement variées. Le Néant étant par nature dépourvu de matière, ce que l’on observe à Runeterra n’est qu’une forme matérielle adoptée lorsqu’une entité pénètre dans notre réalité. Celle-ci peut se construire par mimétisme, en reproduisant et déformant des éléments ou des êtres qui l’entourent, ou simplement prendre une apparence chaotique et totalement étrangère aux formes de vie connues.
+
+
+
+Les Néantins ne se contentent cependant pas de tuer ou de dévorer leurs victimes. Ce qu’ils absorbent est véritablement effacé de l’existence. Un corps englouti ne se retrouve pas dans leur organisme pour y être digéré : sa matière disparaît progressivement de tous les plans de Runeterra pour rejoindre le Néant.
+
+
+
+C’est ce qui rend ces créatures particulièrement terrifiantes. Là où la mort laisse derrière elle un corps ou une âme, le Néant ne laisse plus rien. Son objectif n’est pas simplement de détruire la vie, mais de faire disparaître toute forme d’existence.
+
+
+
+
+
+
+
+L’OKNUÜN :
+
+
+
+Durant son long périple à travers les Limbes, Ott découvrit le langage des morts : l’Ochnun, notamment utilisé par Mordekaiser. Cependant, cette langue était bien trop complexe à prononcer pour un être vivant. Elle décida donc de l’adapter à sa propre langue d’origine, l’ancien freljordien, donnant ainsi naissance à l’Oknuün. Ce dernier conserve les fondements de l’Ochnun, mais adopte des sonorités beaucoup plus proches des anciens dialectes nordiques.
+
+
+
+La maîtrise de l’Oknuün ne repose pas uniquement sur la connaissance de son vocabulaire. Sa prononciation, la puissance de la voix et la manière dont celle-ci est projetée sont tout aussi importantes. Pour être correctement parlé, l’Oknuün doit venir du coffre, avec une voix grave, grasse et rocailleuse. Les cordes vocales sont fortement sollicitées afin d’amplifier et de faire résonner chaque son.
+
+
+
+Les mots sont prononcés très lentement et donnent l’impression d’être émis par une double voix. Contrairement aux langues communes, dont les sons sont produits principalement lors de l’expiration, l’Oknuün se prononce en grande partie en inspirant.
+
+
+
+Cette particularité provient directement du langage des morts. Incapables de respirer, ceux-ci utilisent l’air environnant pour produire leurs sons en le faisant pénétrer à travers eux. Dans les Limbes, où l’air est beaucoup plus dense et où les sons se dispersent difficilement, cette manière de parler permet également de mieux faire porter la voix. C’est cette étrange mécanique qu’Ott est parvenue à reproduire et à adapter afin que les vivants puissent, eux aussi, employer le langage des morts.
+
+INFO MJ
+
+
+
+L’Oknuün est un mélange de sonorités scandinaves et polonaises, comme à l’écrit de notre culture où il s'apparenterait à un alphabet cyrillique et hébreux. 
+
+
+
+
+
+
+
+L’ORHALIS :
+
+
+
+L’Orhalis est un élément d’une extrème rareté qui agit directement sur le temps. Cet élément est de nature liquide mais il se comporte comme un solide du fait qu’il est presque figé dans le temps. Il coule mais peut mettre des années avant de verser une goutte et même des mois avant de montrer une déformation. Si son utilisation est maitrisée, généralement pas une forme de magie du temps, il peut changer de temps pour passer à l’état liquide quelque secondes, envelopper une cible, et durcir instantanément protégeant sa cible. Comme peut le faire certains artéfact comme le Sablier de Zonyah, le Pendure Brisé du Lendemain ou le Pendentif de Zelynphel. 
+
+
+
+
+
+
+
+LES PARJURES, PILLARDS ET DÉSERTEURS :
+
+
+
+Il s’agit généralement de petits groupes n’appartenant à aucune faction et vivant dans les contrées sauvages du Freljord. Elles survivent principalement en pillant de petits villages, des fermes isolées ou les voyageurs suffisamment malchanceux pour croiser leur chemin.
+
+
+
+Parmi eux, on distingue généralement les Parjures, les Déserteurs et les Pillards. Les Parjures sont ceux qui ont volontairement rompu le serment qui les liait autrefois à leur chef de guerre. Les Déserteurs, quant à eux, sont des guerriers partis accomplir une mission et qui ne sont jamais revenus auprès des leurs, souvent par lâcheté ou simplement par crainte pour leur vie. Enfin, les Pillards regroupent ceux qui ont choisi de vivre essentiellement du vol et du brigandage.
+
+
+
+Tous sont considérés comme une honte par la plupart des tribus du Freljord. Certaines tribus parmi les plus sauvages acceptent occasionnellement de traiter avec eux lorsque leurs intérêts l’exigent, sans pour autant hésiter à en tuer quelques-uns lorsque l’occasion se présente.
+
+
+
+Il serait cependant imprudent de les sous-estimer. Aussi lâches puissent-ils être, ils deviennent particulièrement dangereux lorsqu’ils attaquent en nombre. Leurs groupes dépassent toutefois rarement une trentaine d’individus, les conflits internes étant fréquents et finissant régulièrement dans le sang.
+
+
+
+Ils privilégient généralement les attaques nocturnes et les assauts en groupe, évitant autant que possible les affrontements directs et les combats réguliers. Ils préfèrent profiter de l’obscurité, de la surprise et de leur supériorité numérique pour prendre l’avantage. Lorsqu’ils estiment leurs adversaires trop dangereux, ils peuvent également se contenter de voler ce qu’ils peuvent sans chercher l’affrontement, préférant disparaître avec leur butin plutôt que de risquer inutilement leur vie.
+
+
+
+
+
+
+
+LES PÈLERINS OUBLIÉS :
+
+
+
+Les Pèlerins Oubliés sont ceux qui ont un jour entendu l’Appel Silencieux de la Sœur Phoque. Ils ne sont jamais choisis au hasard : chacun compte parmi les meilleurs représentants de sa discipline et possède un savoir suffisamment précieux pour devoir être préservé.
+
+
+
+Ceux qui répondent à l’Appel sont guidés jusqu’aux Plaines Oubliées, où un immense dôme de magie spirituelle les protège du reste de Runeterra. Ils y vivent en communauté sous la protection de la Sœur Phoque, dans l’attente d’un éventuel cataclysme qui provoquerait l’extinction des peuples mortels. Leur rôle serait alors de préserver leurs connaissances afin de pouvoir les transmettre aux générations futures.
+
+
+
+Les Pèlerins Oubliés sont particulièrement peu nombreux, puisqu’on en compterait moins d’une cinquantaine. Lorsqu’une personne atteint un niveau d’expertise légendaire et que son savoir est jugé digne d’être conservé, elle peut entendre l’Appel Silencieux. Celui-ci ne prononce aucun mot, mais fait naître dans son esprit une irrésistible envie de prendre la route en direction des Plaines Oubliées.
+
+
+
+Durant son voyage, le futur Pèlerin paraît déconnecté de ce qui l’entoure. Peu bavard et entièrement concentré sur sa destination, il avance presque continuellement dans une seule direction. La bénédiction de la Sœur Phoque veille alors sur lui, le rendant particulièrement discret et presque invulnérable aux dangers qui pourraient interrompre son périple.
+
+
+
+Une fois arrivé, il est accueilli par l’un des membres les plus expérimentés de la communauté, qui lui explique les raisons de sa présence et la véritable nature de l’Appel. Il est ensuite conduit jusqu’à la mer afin d’y rencontrer directement la Sœur Phoque.
+
+
+
+Deux choix s’offrent alors à lui. S’il refuse de rester, il est libre de repartir après avoir subi le Rituel de l’Oublié. Il se réveille alors à l’endroit où il se trouvait avant d’entendre l’Appel, sans conserver le moindre souvenir de son voyage ou de l’existence des Plaines Oubliées.
+
+
+
+S’il choisit de rester, il rejoint une communauté paisible où chacun œuvre pour le bien commun et partage son savoir avec les autres. La nourriture y est abondante, l’environnement agréable et les habitants comptent parmi les êtres les plus talentueux de Runeterra dans leurs domaines respectifs. Les Pèlerins y mènent ainsi une existence paisible, protégés des tourments du monde extérieur, dans l’attente d’un jour qu’ils espèrent ne jamais voir arriver : celui où leurs connaissances deviendraient les derniers vestiges du savoir des mortels.
+
+
+
+INFO MJ
+
+
+
+Il est impossible que deux Pèlerins Oubliés possèdent exactement la même discipline. Certaines professions peuvent toutefois présenter des similitudes, à condition que chacun possède une spécialisation suffisamment différente pour apporter un savoir qui lui est propre. Un même Pèlerin peut également maîtriser plusieurs domaines de prédilection, à condition d’avoir atteint un niveau d’expertise suffisant dans chacun d’eux.
+
+
+
+Membres : Hjörra (l'Élue - Chamane et Sublimée) / Udyr (Bénévole - Chaman) / Miranda (Pêcheuse) / 
+
+Déjà Présent : Dresseur de bêtes aquatiques / Mages Stellaires / Navigateur / Souffleur de Verre / Mages Élémentaires : Feu - Eau - Temps -  Glace - Terre / Flûtiste / Percussionniste / Couturière / Tanneur / Forgeronne / Écrivain / Enchanteur / Chamane / Pêcheuse / Maîtres d’Armes : Lance - Épée - Hache - Bouclier - Arc / Cuisinier / Pâtissière / Brasseur / Aubergiste / Tavernier / Alpiniste / Conteur / 
+
+
+
+
+
+LES POINTS CARDINAUX DU FRELJORD :
+
+
+
+À Runeterra, les points cardinaux sont universels et permettent à tous les peuples de s’orienter selon les mêmes directions. Cependant, les termes employés pour les désigner peuvent varier selon les régions et les langues locales.
+
+
+
+Au Freljord, ils possèdent leurs propres appellations :
+
+Skarn désigne le Nord.
+
+Leth désigne le Sud.
+
+Kjal désigne l’Est.
+
+Vael désigne l’Ouest.
+
+
+
+Ces termes sont couramment employés par les Freljordiens, aussi bien pour indiquer une direction que pour désigner la position géographique d’un lieu.
+
+
+
+
+
+LES RELIQUES ET ITEMS :
+
+
+
+L’Amulette d’Anivia : Ce pendentif est généralement vendu ou offert dans le but d’initier son porteur à la bénédiction d’Anivia. Il se compose d’une petite perle de verre renfermant un microfragment de Glace Pure, si infime qu’il est totalement inoffensif. La perle peut cependant s’illuminer d’un bleu vif lorsqu’elle se trouve en présence d’un Sublimé, ou lorsqu’Anivia elle-même accorde ses bonnes grâces à son porteur. À l’inverse, si elle le juge indigne de porter sa bénédiction, le pendentif peut brusquement se briser, blessant légèrement celui qui le porte.
+
+
+
+
+
+La Bague du Roi Déchu : 
+
+
+
+Cette bague appartenait autrefois à Viego, du temps où il était encore en vie. Il l’offrit à Ottvald (Ott) afin de l’aider dans sa quête pour soigner et ressusciter sa femme, Isolde. Lors du cataclysme qui ravagea les Îles Bénies, la bague se révéla être un réceptacle idéal pour accueillir une partie de la magie du Roi Déchu. Fidèle à l’intention derrière son cadeau, Viego imprégna alors l’artefact d’un puissant enchantement capable de rendre son porteur immortel. Ainsi, Ottvald disposerait de tout le temps nécessaire pour parcourir le monde et poursuivre, aussi longtemps qu’il le faudrait, sa quête d’un moyen de ramener sa femme à la vie.
+
+
+
+
+
+La Boussole Ixtali : 
+
+
+
+Cette boussole vient tout droit d’Ixtal et permet de retrouver la source la plus proche correspondant à l’élément placé à l’intérieur. Il est également possible d’y combiner plusieurs éléments afin de localiser la source la plus proche qui les réunit tous. La boussole fut créée par Qoyéma Ngaly, un puissant mage élémentaire ayant perdu son sens d’Arcanoception, un syndrome l’empêchant de ressentir les éléments présents autour de lui. Grâce à cette boussole, il pouvait retrouver des lieux fortement chargés en magie élémentaire afin de continuer à s’y entraîner.
+
+
+
+
+
+Les Cartes Bonne-Main : 
+
+
+
+Les Cartes Bonne-Main n’ont aucune apparence particulière et peuvent ressembler à n’importe quel jeu de cartes ordinaire. Elles proviennent pourtant d’une caisse entière de jeux ayant appartenu à un ancien pirate, qui fit enchanter les cinquante paquets qu’elle contenait à la suite d’une mystérieuse rencontre en mer. Leur enchantement permet à celui qui distribue les cartes de devenir véritablement maître de la partie : il peut choisir à sa guise les cartes qu’il distribue à chaque joueur, lui permettant ainsi de manipuler discrètement le déroulement du jeu. Leur ancien propriétaire repose aujourd’hui cent lieues sous les mers, mais ses cartes continuent de circuler et de changer de mains à travers Runeterra. Sur les cinquante paquets originaux, près de la moitié seraient encore en circulation.
+
+
+
+
+
+La Cloche d’Arengarr : 
+
+
+
+Cette Cloche est un objet légendaire qui renferme un puissant esprit du Freljord nommé Arengarr, capable de parler à travers le vent et de contrôler temporairement la météo en faveur de celui qui l’invoque. Arengarr était autrefois un simple mortel lorsqu’un jour, perdu dans un blizzard, il rencontra un demi-dieu du Freljord sans connaître sa véritable nature. Il l’aida à retrouver son chemin au péril de sa propre vie. À sa mort, l’homme fut réincarné en esprit du climat et de la prévention. Son esprit resta lié à l’ancienne cloche qu’il portait lors de ses expéditions. Lorsque celle-ci retentit, Arengarr peut alors apparaître pour venir en aide aux personnes en difficulté.
+
+
+
+
+
+Les Corrs d’Olyfaärg : 
+
+
+
+Les six Corrs d’Olyfaärg furent conçus dans le but de combattre une ancienne et puissante entité, invisible et intangible, qui menaçait la région il y a bien des années. Chaque corr permet de rendre tangible n’importe quelle force durant les vibrations produites par son souffle. S’il en existe six, c’est parce que souffler dans l’un d’eux demande énormément d’énergie et fait vibrer le corr avec une telle intensité qu’il devient rapidement impossible de le tenir. Les six Corrs permettaient ainsi aux combattants de souffler dedans à tour de rôle afin de maintenir l’entité tangible suffisamment longtemps pour parvenir à la tuer. Depuis, les Corrs d’Olyfaärg ont disparu et un seul d’entre eux a été retrouvé. Quelques pistes pourraient mener à au moins deux autres, mais aucune n’est suffisamment concrète pour connaître leur emplacement avec certitude.
+
+
+
+
+
+Les Fioles de l’Eternel :
+
+
+
+Ce sont de très rares fioles conçues par un souffleur de verre enchanteur, qui parvint à modifier les propriétés du verre lors de leur fabrication afin que toute forme de magie puisse y rester concentrée sans parvenir à s’en échapper. Elles sont particulièrement utilisées en nécromancie, puisqu’elles peuvent également emprisonner une âme lorsqu’elle est contenue dans un liquide conçu pour la conserver. Ces fioles sont souvent annonciatrices de mauvais présages et, lorsqu’elles renferment quelque chose, il s’agit rarement de quelque chose de bon.
+
+
+
+
+
+Les Grimarques : 
+
+
+
+Les Grimarques étaient autrefois des insignes permettant d’identifier les Traqueurs de Mages de Demacia et de reconnaître leur fonction. Bien que cet ordre soit aujourd’hui dissous, ces insignes n’ont pas totalement disparu. Les membres de la Semptra continuent de les porter afin de se reconnaître et de se différencier, mais surtout pour exploiter la magie qu’elles renferment, détournant ainsi l’ancien symbole des Traqueurs de Mages à leurs propres fins.
+
+
+
+
+
+Ildrunvirr (Chaudron d’Abondance) : 
+
+
+
+Ce chaudron, construit par Ornn lui-même, fut créé afin de réduire drastiquement la famine qui frappait le peuple de mortels qu’il avait pris sous son aile. Depuis, le chaudron fut perdu et de nombreuses tribus le recherchent encore. Sejuani sait de source sûre qu’il se trouve aujourd’hui entre les mains des Ursidés, probablement sur leurs propres terres, et cherche à s’en emparer en multipliant les attaques et les missions de reconnaissance pour le retrouver.
+
+
+
+
+
+Le Luth du Barde Charlatan : 
+
+
+
+Note
+
+
+
+
+
+Le Pendule Brisé du Lendemain : 
+
+
+
+Le pendule brisé du lendemain est un artéfact magique aujourd’hui cassé, mais lors de sa création, son créateur . Il est composé d’Orhalis un élément extrêmement rare qui agit directement sur le temps. 
+
+
+
+Les Pierres d’Esprit de Rhond :
+
+
+
+Ces pierres proviennent de la roche qui constituait autrefois le corps du Demi-Dieu Rhond. À sa mort, son esprit rejoignit l’activité magmatique de la région, tandis que son immense dépouille de pierre forma ce qui constitue aujourd’hui l’une des plus grandes chaînes de montagnes du Freljord. Cependant, certains fragments arrachés à son ancien corps renferment encore une infime partie de l’esprit du Serpent, imprégnant ces pierres d’une fraction de sa puissance.
+
+
+
+La Pierre de Kumbadge :
+
+
+
+Cette pierre parfaitement sphérique et divisé parfaitement de noir et de blanc appartenait à 
+
+
+
+
+
+La Veillance du Disgracieux : 
+
+
+
+
+
+
+
+
+
+LES RELIQUES DE RYZE:
+
+
+
+Le Grimoire de Medjai : 
+
+
+
+Note
+
+
+
+
+
+Le Sceau Noir : 
+
+
+
+Note
+
+
+
+
+
+LA ROSE NOIRE :
+
+
+
+La Rose Noire est une très ancienne organisation secrète Noxienne dirigée depuis des siècles par la mystérieuse sorcière LeBlanc. Pendant longtemps, elle manipula dans l’ombre les puissants de Noxus et influença une grande partie de sa politique. Elle est également responsable de nombreuses expériences visant à acquérir, reproduire ou contrôler des pouvoirs dépassant largement celui des hommes, avec des résultats souvent instables et parfois totalement hors de son contrôle.
+
+
+
+Sous le règne de Boram Darkwill, son influence atteignit les plus hautes sphères de l’empire. Mais après sa chute et l’arrivée au pouvoir de Swain et du Trifarix, la Rose Noire perdit une grande partie de son influence officielle. Étroitement surveillée et considérée comme une menace intérieure, elle n’a pourtant jamais disparu et poursuit encore aujourd’hui ses activités dans le plus grand secret.
+
+
+
+Son influence s’étend également jusqu’au Freljord, notamment par l’intermédiaire de l’un de ses agents les plus importants, Marcus Du Couteau. La Rose Noire s’intéresse particulièrement à la Flamme Éternelle qui sommeille dans une demeure du Port-de-Rygann. Elle cherche à comprendre l’origine et la véritable nature de cette puissance, tout en préparant l’assassinat du roi Algar II afin de l’empêcher de provoquer son réveil.
+
+
+
+L’organisation est également responsable de la création de l’Owltakan, une expérience ayant échappé à son contrôle et qui sévit désormais au Freljord en quête de vengeance. Même le capitaine Kaïrr sert indirectement ses intérêts sans en avoir conscience. Sa mission consistant à ramener à Noxus les mages capturés par Odvïr dissimule en réalité un objectif bien plus précis : récupérer Laïda, seul mage actuellement connu capable de maîtriser l’Amaretsu.
+
+
+
+Ainsi, malgré l’expansion progressive de Noxus dans le nord du Freljord, la Rose Noire demeure presque invisible. Ses agents peuvent porter les couleurs de l’empire et profiter de son influence, mais leurs véritables missions ne servent pas nécessairement Noxus. La Rose Noire agit avant tout pour elle-même, accumulant secrets, artefacts et pouvoirs dans l’ombre en attendant le moment où ils pourront lui être utiles.
+
+
+
+Membres : LeBlanc (Dirigeante - Sorcière) / Marcus DuCouteau (Grand Assassin) / Maxence (Apprenti) / Maman (Contact) / Otis (Contact)
+
+
+
+
+
+
+
+LA SEMPTRA :
+
+
+
+Il s’agit d’une organisation Demacienne clandestine née à la suite de l’abolition des Traqueurs de Mages par le roi Jarvan IV. Refusant d’abandonner leurs anciennes pratiques, ses membres décidèrent de les perpétuer dans l’ombre, poursuivant la capture, l’asservissement et certains rituels sacrificiels impliquant des mages.
+
+
+
+L’organisation fut longtemps dirigée secrètement par Eldred Crownguard, ancien commandant des Traqueurs de Mages. Après sa mort, son fils Emir reprit les rênes du groupe et poursuivit ses activités. Leur objectif est avant tout de préserver ce qu’ils considèrent comme une ancienne tradition Demacienne, tout en profitant de la situation pour s’enrichir aux dépens des mages qu’ils capturent.
+
+
+
+Bien que leurs activités soient désormais illégales, l’existence d’un tel groupe ne provoque pas autant d’indignation qu’on pourrait l’imaginer au sein de la population. Après des générations durant lesquelles la persécution des mages était institutionnalisée, une partie du peuple Demacien reste encore habituée à ces pratiques et peine à considérer cette organisation avec toute l’horreur qu’elle devrait inspirer.
+
+
+
+Le capitaine Jaredan connaît également l’existence de leurs activités, mais ferme volontairement les yeux en échange de pots-de-vin. L’organisation va même jusqu’à faire commerce de certains de ses prisonniers au-delà des frontières de Demacia. Il lui arrive notamment de troquer des mages au Freljord contre diverses richesses, sans réellement connaître les raisons pour lesquelles certains Freljordiens cherchent à se les procurer. Tant que ces échanges restent suffisamment lucratifs, ses membres ne cherchent pas davantage à le savoir.
+
+
+
+
+
+
+
+LES SUBLIMÉS :     [WIKI]
+
+
+
+Les Sublimés
+
+
+
+
+
+
+
+LA TRIBU BORRVAK :
+
+
+
+Les Borrvaks sont une tribu sédentaire originaire du sud du Freljord, installée sur le mont Borrvok depuis plusieurs générations. Surnommés les Gardiens du Nord, ils contrôlent le passage à travers l’immense barrage de glace de leur faille et surveillent notamment les embarcations empruntant l’étroit canal reliant le Creux-de-Valar à Rakelstake.
+
+
+
+Pourtant, les Borrvaks n’ont pas toujours vécu dans la montagne. Autrefois nomade, la tribu parcourait les terres du Freljord jusqu’au jour où, selon la légende, le mont Borrvok s’adressa à leur ancien chef. La montagne lui aurait déclaré que son cœur était chaud et que vivre auprès de lui revigorerait son peuple. Les Borrvaks s’y installèrent alors pour se reposer, mais finirent par ne jamais repartir.
+
+
+
+Cette légende prit une tout autre importance lorsque, bien des années plus tard, la montagne se fendit en deux et révéla dans ses profondeurs un minerai extrêmement rare : le Fer-Ardent, un métal naturellement imprégné d’une chaleur magique. Pour beaucoup de Borrvaks, cette découverte confirma que les paroles autrefois attribuées à la montagne étaient bien réelles.
+
+
+
+Les membres de la tribu sont réputés pour leur robustesse, mais ce sont surtout les femmes borrvaks qui impressionnent. Particulièrement grandes, fortes et imposantes, elles possèdent naturellement une carrure puissante, un trait héréditaire particulièrement apprécié des hommes de la tribu. Les Borrvaks restent avant tout un peuple de guerriers, même si la découverte du Fer-Ardent et les récentes famines ont poussé nombre d’entre eux à devenir mineurs ou chasseurs.
+
+
+
+Aujourd’hui, la tribu est divisée en deux depuis que leur village s’est retrouvé séparé par la faille. Pourtant, ce ne sont ni la montagne ni son peuple qui sont véritablement à l’origine de cette séparation. Les Borrvaks restent profondément attachés à leurs traditions et à leurs origines. La véritable fracture vient de leurs deux chefs de clan, dont la rivalité grandissante oppose désormais les deux parties du mont Borrvok.
+
+
+
+
+
+
+
+LA TRIBU DRÖMKA :
+
+
+
+Les Drömkas forment une petite tribu indépendante unique dans tout le Freljord. Peuplée exclusivement de Demi-Trolls des Glaces, elle vit cachée des humains dans les terres les plus froides et reculées de la région, préférant l’isolement au conflit.
+
+
+
+Les Drömkas sont particulièrement réputés pour leur maîtrise de l’arc. Dès la naissance, chacun se voit offrir le sien, qui l’accompagnera tout au long de sa vie. Leur vue perçante, capable de traverser la brume, ainsi que leur résistance naturelle au froid leur permettent de chasser dans des conditions où peu d’autres peuples pourraient survivre. C’est principalement grâce à ces facultés que la tribu parvient à subsister dans ces contrées hostiles.
+
+
+
+Pris entre deux mondes, les Drömkas ne nourrissent aucune haine particulière envers les humains ou les trolls à partir du moment où ceux-ci ne se voient pas agressifs. Ils cherchent avant tout à vivre en paix, loin des regards. Cependant, lorsqu’ils sont découverts ou menacés, leur survie les pousse à abattre leurs assaillants sans hésitation.
+
+
+
+Les Avarosans les considèrent généralement comme des infamies, tandis que les trolls se montrent davantage tolérants à leur égard, sans pour autant les considérer pleinement comme les leurs. La Griffe Hivernale ne prend pas position fixe. Certains n’en ont que faire, d’autres les voient comme une menace au même prix que les autres tribus étrangères. Aujourd’hui, on estime que la tribu ne compte guère plus d’une quarantaine d’individus, hommes, femmes et enfants compris.
+
+
+
+
+
+
+
+LES TRIBUS INDEPENDANTES :
+
+
+
+Les tribus indépendantes ne revendiquent aucune appartenance aux grandes factions du Freljord et conservent leur propre autorité. Cette indépendance ne les empêche cependant pas de conclure des accords lorsque leurs intérêts rejoignent ceux d’une autre tribu.
+
+
+
+C’est notamment le cas des Borrvaks et des Lorkaks, qui entretiennent différents arrangements avec les Avarosans. D’autres accords sont purement matériels, comme celui des Kuur’Amuünd avec la Griffe Hivernale. Trop difficiles à soumettre par la force, ces derniers ont négocié un traité de non-agression en échange d’artefacts découverts dans les terres du Nord.
+
+
+
+Certaines tribus refusent au contraire toute forme d’alliance ou de négociation. C’est notamment le cas des Skjalds. Bien que nomade, cette tribu reste volontairement à l’écart des querelles du Freljord, sa cheffe étant bien trop obstinée et absorbée par une quête de grande importance pour se préoccuper des conflits des autres.
+
+
+
+Les tribus indépendantes ne sont donc pas nécessairement les plus grandes, les plus puissantes ou les mieux positionnées stratégiquement. Certaines doivent simplement leur liberté à leur intelligence, à leur capacité à se rendre indispensables ou à la maîtrise d’un savoir et d’un art que les autres tribus ne possèdent pas.
+
+
+
+
+
+
+
+LA TRIBU LORKAK :
+
+
+
+Les Lorkaks sont une tribu nomade d’éleveurs de dragons assermentée aux Avarosans. Ils parcourent le Freljord et déplacent régulièrement leur campement en fonction des périodes de reproduction des dragons, de l’activité magique de certaines régions ou encore de l’apparition d’espèces particulièrement rares.
+
+
+
+La tribu est dirigée par Oldany, la Mère des Lorkaks, une femme accueillante qui accepte volontiers les curieux souhaitant s’initier au dressage des jeunes dragons. Bien qu’assermentés aux Avarosans, les Lorkaks conservent une grande indépendance et prennent position selon leurs propres convictions. Ils veillent notamment sur les régions à forte influence magique ainsi que sur certains lieux qu’ils considèrent comme sacrés.
+
+
+
+Leur principale activité consiste à recueillir et dresser de jeunes dragons. Ils leur apprennent à chasser, à ne pas s’attaquer aux humains et, lorsque cela est possible, à communiquer avec eux. Une fois arrivés à maturité, les dragons sont libérés afin de vivre pleinement leur existence dans la nature. Certains choisissent néanmoins de rester à proximité de la tribu et interviennent parfois pour la protéger lorsqu’un danger se présente.
+
+
+
+Depuis peu, les Lorkaks ont installé leur campement sur le pic dominant Fyord’al Kürgen, à la suite de l’apparition de l’Éclat Perlé Bleu du Grand-Nord, un dragon rare venu s’échouer dans le sud du Freljord. Ils savent que l’un de ses œufs se trouve quelque part dans les Chaînes d’Odmünd et le recherchent activement dans l’espoir de recueillir son petit et d’en faire un membre important de la tribu. Ils parcourent ainsi régulièrement les montagnes environnantes sans pour autant troubler le quotidien des habitants de Fyord’al Kürgen. Les Lorkaks sont profondément pacifistes, mais peuvent se révéler redoutables lorsqu’eux-mêmes ou les dragons sous leur protection sont menacés.
+
+
+
+Les Élus Dragons : 
+
+
+
+Les Élus de Dragons occupent une place particulière parmi eux. Ce nom désigne les rares personnes ayant été choisies spontanément par un dragon sauvage. Nul ne sait réellement pourquoi, mais il arrive exceptionnellement qu’un jeune dragon se lie naturellement d’amitié avec un garçon ou une fille, généralement lorsque tous deux approchent de la fin de leur adolescence. Ce lien ne résulte d’aucun dressage et semble naître instinctivement entre les deux êtres.
+
+
+
+Les Élus ne sont généralement pas originaires de la tribu. Après avoir été choisis, beaucoup finissent cependant par rejoindre les Lorkaks afin d’y apprendre à comprendre, accompagner et dresser leur dragon, trouvant auprès d’eux un peuple capable de les guider dans cette relation exceptionnelle.
+
+
+
+Grades < : Chevaucheurs Apprentis / Transporteurs - Chasseurs - Combattants / Champions - Élus / Mère des Lorkaks
+
+Membres : 
+
+Oldany (Mère des Lorkaks) et Rhal’Orgonn (Éclat Albinos du Grand-Nord - Jeune) / Edvern (Chevaucheur Élu) et Guuld’Ravn (Orük Roc à Bec - Jeune) / Yalmar (Champion) et Gaal’Drogann (Krill Grazier à Cornes - Jeune) / Une trentaines d’autres Lorkaks.
+
+
+
+
+
+
+
+LES TRIBUS NOMADES :
+
+
+
+Il existe plusieurs tribus nomades parcourant le Freljord de part en part, voyageant de région en région et de village en village. C’est notamment le cas des Notaïs, des Skjalds ou encore des Ulfdjars. Certaines revendiquent leur indépendance, tandis que d’autres prêtent allégeance aux Avarosans ou à la Griffe Hivernale. Quelle que soit leur affiliation, aucune ne renonce pour autant à son mode de vie nomade.
+
+
+
+Cette particularité les rend d’ailleurs particulièrement précieuses aux yeux des grandes tribus, qui peuvent parfois se disputer leur alliance. En parcourant continuellement le territoire, les nomades accumulent une quantité considérable d’informations et de connaissances qu’un peuple sédentaire pourrait difficilement obtenir.
+
+
+
+Ils connaissent les routes, les terrains et leurs dangers, mais peuvent également rapporter des informations sur les mouvements des différentes tribus, les événements survenus dans les régions traversées ou encore les perturbations et phénomènes magiques observés sur leur chemin. Leur mobilité fait ainsi d’eux une importante source de renseignements à travers tout le Freljord.
+
+
+
+
+
+
+
+LA TRIBU DES ULV’VAGHARN :
+
+
+
+Cette tribu des régions avancées du Nord est principalement présente dans le Gük’Narrhae. Ces terres sont considérées comme leur héritage. Ils s’en estiment dignes, car ils survivent dans certaines des zones les plus hostiles du Freljord, où peu d’autres peuples peuvent subsister durablement.
+
+
+
+Les Ulv’Vagharn sont physiquement minces et paraissent faibles, mais ils compensent par une endurance remarquable et une grande agilité. Ils sont capables de marcher pendant de longues périodes, sur plusieurs jours, sans accélérer le rythme ni abandonner une piste.
+
+
+
+Il s’agit d’une tribu indépendante de survivants. Ils ne vénèrent aucun dieu et ne revendiquent aucune protection spirituelle. Ils ne possèdent pas de campements fixes et ne construisent pas d’abris permanents. Ils dorment à même le sol, enveloppés dans des peaux de bêtes, et se déplacent continuellement. Les échanges verbaux sont rares et lorsqu’ils parlent, ils utilisent l’ancien Freljordien, peu compréhensible pour les autres habitants du Freljord.
+
+
+
+Les Ulv’Vagharn ne pratiquent pas la chasse. Ils traquent leurs cibles, les isolent progressivement, puis attendent leur épuisement. L’attaque n’a lieu qu’une fois la proie suffisamment faible. Ils consomment ensuite la viande et récupèrent les vivres, équipements et ressources transportés par la victime. Cependant, une proie capable de résister à dix jours de traque est considérée comme digne. Ils sont alors épargnés et, pour certains, peuvent rejoindre la tribu.
+
+
+
+
+
+
+
+LA TRIBU RENAISSANTE :
+
+
+
+La tribu des Hargvonns, plus communément appelée la Harde Immortelle, est une ancienne tribu de barbares originaire de l’ouest du Freljord. Réputés pour leur brutalité et leur force, ses membres dominaient certaines des plus imposantes créatures de la région et repoussaient sans pitié les envahisseurs venus du sud. Installés à Glaserport, ils étaient autrefois considérés comme le véritable bouclier de l’Ouest et vénéraient Ildhaurg, l’esprit du Sanglier de Fer.
+
+
+
+La Harde Immortelle fut pourtant anéantie il y a de nombreuses années par un Darkin du nom d’Aatrox, qui aurait considéré leur surnom comme une offense envers les véritables immortels. Du massacre, un seul survivant fut longtemps connu : le grand guerrier Tryndamere.
+
+
+
+Pourtant, quelques semaines après le carnage, une troupe de reconnaissance Hargvonn revint d’une expédition et découvrit les ruines de son peuple. Anéantis par cette vision et consumés par la rage, les survivants décidèrent d’abandonner Glaserport, cette ville ne représentant désormais plus à leurs yeux que le souvenir d’une terrible défaite. Ils disparurent alors dans les profondeurs du Grand-Ouest.
+
+
+
+Des dizaines d’années plus tard, les Hargvonns commencent progressivement à renaître. Une nouvelle tribu se forme dans les terres hostiles du Grand-Ouest, guidée une fois encore par l’esprit de leur dieu, mais avec une vigilance bien plus grande qu’autrefois. Pour reconstruire leur peuple et reconquérir leurs anciennes terres, ils se sont spécialisés dans la domestication des puissantes bêtes endémiques de la région, renouant ainsi avec les traditions qui faisaient autrefois leur renommée.
+
+
+
+Ayant entendu parler de leur retour, Tryndamere proposa de rejoindre les siens afin de les aider et de les guider dans leur reconstruction. Les Hargvonns déclinèrent cependant son offre. Selon eux, sa place était désormais à Rakelstake, auprès des Avarosans, où sa présence leur permettrait notamment de s’assurer que ces derniers n’interfèrent pas trop dans les ambitions renaissantes de la Harde Immortelle.
+
+
+
+Grades < : Eclaireur - Dresseur / Dompteur / Chef de Meute / (Oracle) / (Gardien des Esprits) / 
+
+
+
+
+
+
+
+LA TRIBU SKJALD :
+
+
+
+Dirigée par Olga, cette tribu nomade indépendante cherche à tout prix à rester en dehors des conflits opposant les grandes puissances du Freljord. Son objectif principal est de permettre à sa cheffe d’accomplir la Grande Destinée qui lui est promise, sans que les guerres et les ambitions des autres tribus ne viennent entraver sa quête.
+
+
+
+Relativement récente, la tribu compte moins de deux cents membres et excelle dans la chasse, la traque, la dissimulation et l’exploration. Elle voyage rarement au complet et se divise généralement en campements de moins de cinquante personnes. Les Skjalds parcourent principalement les terres de l’Ouest et du Nord, entre l’Olbukrn et le Naljaäg, jusqu’aux limites des frontières démaciennes.
+
+
+
+Trouver un campement skjald relève cependant de l’exploit. Leurs tentes et leurs vêtements imitent parfaitement la couleur et la texture des rochers environnants, tout en étant presque dépourvus d’odeur. Même leurs feux sont conçus pour disparaître rapidement : ils brûlent sur des modules de pierre pouvant être immédiatement recouverts, étouffés puis dissimulés à l’intérieur des tentes dès qu’une présence étrangère est détectée.
+
+
+
+Cette surveillance repose principalement sur les Dráras, à la fois éclaireurs, chamans et guetteurs de la tribu. Accompagnés de leur animal lié, ils sont capables de repérer seuls des mouvements ou des sons suspects à plusieurs kilomètres et d’avertir le camp bien avant l’arrivée d’un étranger. En quelques instants, la tribu entière peut alors se fondre dans son environnement et ne laisser presque aucune trace de sa présence.
+
+
+
+Cette maîtrise de la dissimulation est telle qu’il arrive que des voyageurs traversent en plein milieu d’un camp skjald sans même réaliser qu’ils sont entourés de plusieurs dizaines de personnes.
+
+
+
+
+
+
+
+LES TROLLS DES GLACES :     [WIKI]
+
+
+
+Des tribus résidant dans le Nord-Est du Freljord, sauvage, bêtes, mais néanmoins puissantes, qui vivent dans des villages de fortune, menés par des chefs de clans.
+
+
+
+
+
+
+
+LES URSIDÉS :     [WIKI]
+
+
+
+Ils sont les plus grands serviteurs de Valhir, l’Ours aux milles piques. Ils tuent, détruisent, et desservent sa colère à travers le Freljord. Ils sont au nord du Freljord, près de la Mer de Glace et dominent le continent d’en face. Ce sont des tributs de combattants très puissants pour certains à l’apparence d’Ours et ont accès au pouvoir de foudre de Volibear. Sa colère les guident à travers divers rituels perpétrés par des Psalmodieurs.
+
+
+
+
+
+LES VASTAYAS :     [WIKI]
+
+
+
+Espèces :
+
+String : Reptiliens papillons.
+
+Khonlui : Ours Rhinocéros.
+
+Ottrani : Chèvre à cornes et peau violette (Soraka/Minessa).
+
+Oovi-Kat : Caméléons métamorphes (Neeko).
+
+Kiilash : Lions/Tigres (Rengar).
+
+Lhotlan : Humains Volatiles à plumes (Xayah/Rakan).
+
+Shimon : Singes (Wukong/Laïda).
+
+Marai : Poissons humanoïdes (Nami).
+
+Makara : Requins.
+
+Nirask : Rongeurs (Ernest/Bojack).
+
+Vesani : Tribu Ahri.
+
+
+
+Âge :
+
+Vastaya
+
+10 ans
+
+20 ans
+
+30 ans
+
+40 ans
+
+60 ans
+
+100 ans
+
+200 ans
+	Équivalent Humain
+
+~6 ans
+
+~12-14 ans
+
+~ 18-20 ans
+
+~ 22-25 ans
+
+~ 30 ans
+
+~ 40-45 ans
+
+~ 55-60 ans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

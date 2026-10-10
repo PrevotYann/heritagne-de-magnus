@@ -1,0 +1,1056 @@
+
+NORMALE
+
+
+
+
+
+
+
+INFOS MJ
+
+Les potions peuvent avoir un impact considérable dans l’expérience de vos joueurs, attention à bien équilibrer leur impact. A noter que la rareté d’une potion ne dépend pas uniquement de la rareté des ingrédients, il y a différents facteurs a prendre en compte comme par exemple la complexité de création, les connaissances de préparation d’Alchimiste, ou encore l’enchantement qui y est lié. 
+
+
+
+
+
+ANTIDOTE :
+
+
+
+L’Antidote est une préparation alchimique dont la recette s’adapte directement à la nature du mal dont souffre son utilisateur. Poison, venin, maladie ou infection : sa composition doit être ajustée en fonction de l’origine et des effets de l’intoxication.
+
+
+
+Bien que certains ingrédients puissent varier, la base de sa préparation reste toujours la même, permettant à un alchimiste suffisamment compétent d’adapter rapidement la recette à la situation. Selon la qualité de la préparation et la gravité du mal, l’Antidote peut ralentir sa progression, neutraliser ses effets ou guérir complètement l’organisme.
+
+
+
+Facilement adaptable lorsqu’on dispose des bonnes ressources, il constitue une préparation particulièrement précieuse lors de longues expéditions en territoire inconnu, où poisons et maladies peuvent être difficiles à anticiper.
+
+
+
+PRIX : 6/12/24 OrTYPE : Soin - Liquide
+
+RECETTE : Sève de Hue (O.25L) / Feuille Ivnevern (1u) / Bulbe de Jonc-Doré (½u) / Essence de l’infection
+
+DOSES : 0.25L - 1 dose
+
+EFFETS : Soigne Poison, Venin, Maladie et Infection au même niveau que celui de l’antidote.   DANGERS : Après plusieurs utilisations peut réduire la puissance des effets. Si non infecté, risque d’infection aggravée. 
+
+LÉGALE : Oui.
+
+
+
+
+
+
+
+
+
+BESTIALINTUS :
+
+
+
+Cette potion permet à son buveur de prendre temporairement l’apparence d’un animal dont l’essence a été intégrée à sa préparation. Selon la magie employée, ses effets peuvent cependant prendre des formes très différentes.
+
+
+
+La version la plus traditionnelle repose sur une magie d’illusion et de transformation, reproduisant l’apparence de l’animal sans véritablement modifier la nature du buveur.
+
+
+
+Une variante plus complexe utilise la magie spirituelle en puisant dans l’esprit de la créature ciblée. La transformation devient alors beaucoup plus convaincante aux yeux des animaux de la même espèce, permettant au buveur de communiquer plus naturellement avec eux, voire d’exercer une certaine autorité sur le groupe.
+
+
+
+Enfin, une version biologique, beaucoup plus rare, provoque une véritable métamorphose physique. Le processus est lent, douloureux et dure généralement plus longtemps, mais une fois achevé, aucune magie perceptible ne permet de distinguer le buveur d’un véritable animal. Cette transformation possède toutefois un risque majeur : l’individu perd progressivement conscience de son identité originelle et adopte les instincts de la créature. Il devient alors nécessaire de le guider presque comme on dresserait un animal, jusqu’à ce que la transformation prenne fin.
+
+
+
+PRIX : Entre 20 et 35 Or TYPE : Illusion / Spirituel / Biologique - Liquide 
+
+RECETTE : Visque Baorgük (0.5L) / Sève Ivnevern (0.25L) / Essence Animale / Si Spirituel : Glande de Croquin Affamé (½u) / Si Illusion : Poudre d’Ibir (5g) / Si Biologique : Enchantement Hémomancie ou Hématomancie.
+
+DOSES : 0.25L - 1 dose
+
+EFFETS : Transforme le buveur en animal par la magie d'Illusion, Spirituel ou Biologique.DANGERS : 
+
+LÉGALE : Oui, mais surveillé si trouvé dans l’inventaire.
+
+
+
+
+
+
+
+
+
+BOUGIE D’ÉMOTION :
+
+
+
+Cette bougie enchantée permet de diffuser dans son environnement une émotion préalablement vécue et imprégnée dans sa cire. Une fois allumée, elle influence progressivement l’humeur des personnes présentes dans une zone restreinte, dont l’étendue dépend de la qualité et du niveau de maîtrise de son créateur.
+
+Joie, peur, sérénité, colère ou mélancolie peuvent ainsi être transmises afin d’orienter subtilement l’atmosphère générale d’un lieu. Son enchantement reste temporaire et disparaît progressivement lorsque la bougie s’éteint.
+
+Son influence fonctionne toutefois de manière similaire à une forme d’hypnose émotionnelle : une personne qui comprend qu’elle est manipulée peut consciemment tenter d’y résister, réduisant considérablement l’efficacité de la bougie. Pour cette raison, son utilisation est bien plus efficace lorsqu’elle reste discrète et insoupçonnée.
+
+PRIX : 30 OrTYPE : Enchantement - Cire
+
+RECETTE : Sève d’Oklis (500g) / Sève de Hue (0.25L) / Glande de Croquin Affamé (1u) / Essence : Émotion Vécu 
+
+DOSES : 500g - 5H
+
+EFFETS : Transmet l’émotion infusée dans une zone restreinte. Met 30min à agir après l’avoir allumée.  DANGERS : Aucun.
+
+LÉGALE : Oui, mais bien qu’elle ne soit pas illégale, elle est très surveillée.
+
+
+
+
+
+
+
+
+
+CURASOM :
+
+
+
+Le Curasom est la potion de soin la plus répandue au Freljord, bien qu’elle soit aujourd’hui connue et utilisée dans une grande partie de Runeterra. Relativement simple à préparer, elle doit son nom à la contraction de « Cura-Som », signifiant littéralement « Cure-Sommeil ».Une fois consommée, la potion provoque une importante sensation de fatigue et accélère considérablement la régénération naturelle du corps. Son fonctionnement repose cependant sur le repos : plus le corps et l’esprit sont détendus, plus la guérison est efficace. Une dose classique entraîne généralement une fatigue pouvant durer entre une et deux heures.
+
+
+
+Il est possible de lutter contre l’envie de dormir, mais cela diminue temporairement les Réflexes du buveur. À l’inverse, s’abandonner complètement au sommeil permet au Curasom d’exploiter pleinement ses propriétés curatives.
+
+
+
+Consommer plusieurs doses, avec sa limite, peut augmenter légèrement la régénération, mais prolonge surtout considérablement la durée du sommeil. Il convient donc de bien doser la préparation, particulièrement lorsqu’elle est utilisée en voyage ou dans une situation où rester vigilant peut être vital.
+
+
+
+PRIX : 15/25/40 OrTYPE : Soin - Liquide
+
+RECETTE : Bulbe de Jonc-Doré (1u) / Poudre de Mothdragon (2g) / Visque de Baorgük (0.25L)
+
+DOSES : 0.5L - 2 doses
+
+EFFETS : +15/25/40 PV sur 2H / -20/15/10/0 Réflexes. Soigne +05/10/15 PV supplémentaires si Endormi.DANGERS : > 3 doses, risque de Coma.
+
+LÉGALE : Oui.
+
+
+
+
+
+
+
+
+
+HUDVARM ELIXIR :
+
+
+
+Très prisé par les voyageurs souhaitant explorer le Freljord, l’Élixir Hudvarm procure à son buveur une intense sensation de chaleur qui se diffuse progressivement dans tout le corps. Pendant toute la durée de son effet, il permet à l’organisme de mieux résister aux différents froids freljordiens et limite les conséquences d’une exposition prolongée aux températures extrêmes.
+
+
+
+Cette potion est particulièrement recherchée par les explorateurs étrangers, naturellement moins habitués aux conditions climatiques du Freljord. Elle est même fortement recommandée pour ceux qui souhaitent s’aventurer durablement dans les régions les plus froides.
+
+
+
+La puissance et la durée de ses effets dépendent directement de la qualité de sa préparation et du niveau de l’alchimiste qui la confectionne. Les versions les plus perfectionnées permettent ainsi de supporter des froids bien plus intenses.
+
+
+
+Il est cependant déconseillé d’en consommer plusieurs doses successivement. Une chaleur excessive produite à l’intérieur du corps peut provoquer d’importantes douleurs internes et endommager les organes, faisant de son surdosage un risque à ne pas négliger.
+
+
+
+PRIX : 10/25/50 OrTYPE : Renforcement - Liquide
+
+RECETTE : Graines Dedvarn (4u) / Visque de Baorgük (0.5L) / Sève de Hue (0.5L)
+
+DOSES : 0.5L - 2 doses
+
+EFFETS : +1 Résistance au froid pendant ½/2/4 jours /dose.DANGERS : + de 1 dose simultanée brûle de l’intérieur et subit -2 PV/H pendant la durée des effets.
+
+LÉGALE : Oui.
+
+
+
+
+
+
+
+
+
+POMMADARMUR :
+
+
+
+La Pommadarmur est une variante sous forme de pommade de l’Élixir de Fer. Contrairement à ce dernier, son application permet de cibler précisément la partie du corps à renforcer : tête, torse, mains, jambes ou pieds. Une fois appliquée, la préparation se solidifie sur la peau et renforce temporairement la zone concernée.
+
+,
+
+Sa confection reprend la recette de l’Élixir de Fer, mais remplace la Visque de Baorgük par des Sornëlles, permettant à la préparation de s’épaissir et d’adhérer correctement à la peau. L’ajout d’une Fraiseboise permet également de conserver davantage de souplesse et ainsi d’annuler la réduction de mobilité normalement provoquée par la solidification.
+
+
+
+La rareté et la durée d’efficacité de la Pommadarmur dépendent directement de la pierre utilisée dans sa préparation. Plus celle-ci est rare, plus la protection obtenue résistera longtemps. Manipuler et incorporer les pierres les plus rares nécessite cependant un niveau d’Alchimiste suffisamment élevé, augmentant par conséquent la rareté de la création finale.
+
+
+
+! ATTENTION ! Contrairement à l’Élixir de Fer, la Pommadarmur ne doit jamais être ingérée. La préparation se solidifiant très fortement après utilisation, son ingestion peut provoquer un durcissement interne particulièrement dangereux et entraîner la mort.
+
+
+
+PRIX : 25 Or (Variable selon la pierre utilisée) / +5 Or si FraiseboiseTYPE : Renforcement - Pâte
+
+RECETTE : Sève Oklis (1kg) / Sève d’Ivnevern (0.25L) / Sornëlles (100g) / Poudre de Pierre au choix (0.5kg) / Variante : Fraiseboise (1u).
+
+DOSES : 500g - Tête = 200g / Torse = 400g / Mains = 100g / Jambes = 300g / Pieds = 100g
+
+EFFETS : Selon la qualité de la pierre +2/5/10/15 ARM /membre / -10 Agilité (sauf si Fraiseboise ou Pierre légère).
+
+DURÉE : 5/10/20/50 tours . Prend fin après 2H si elle n’absorbe aucun dégâts. DANGERS : Puissante constipation si ingéré à petite dose (5g) / Mort si ingéré (< 50g).
+
+LÉGALE : Oui.
+
+
+
+
+
+
+
+
+
+RAMS CRAFFLE :
+
+
+
+Le Rams Craffle est une mixture particulièrement farfelue considérée comme une drogue alchimique en raison de ses puissants effets sur la perception. Une fois consommée, elle plonge son utilisateur dans un état second où les sens, les mouvements et certains automatismes deviennent totalement imprévisibles.
+
+
+
+Sous son influence, le buveur peut se mettre à voir les sons, sentir les couleurs ou percevoir son environnement d’une manière complètement incohérente. Ses gestes peuvent devenir aléatoires et son comportement changer radicalement, au point que certains consommateurs développent temporairement une personnalité très différente de la leur.
+
+
+
+Les Fruits Ioniens utilisés dans sa préparation apportent une dimension magique supplémentaire à ses effets. Le Rams Craffle peut être confectionné sans eux, mais la mixture n’interagira alors pas avec la magie du consommateur et se limitera principalement à ses effets sensoriels et comportementaux.
+
+
+
+Une fois correctement travaillée, la mixture prend la forme d’une pâte comestible à mâcher. Il suffit alors de la garder en bouche pour en extraire progressivement les propriétés, sans avoir besoin de l’avaler, à la manière d’un chewing-gum.
+
+
+
+PRIX : 15 OrTYPE : Drogue - Pâte à mâcher
+
+RECETTE : Sève de Hue (0.2L) / Poudre d’Ibir (3g) / Champignon Toxique (2g) / Optionnel :  Graines de Fruit Ionien (10g)
+
+DOSES : 10g - 1 Dose
+
+EFFETS : Inverse aléatoirement les Attributs classiques (Ex : la Force devient de la Persuasion). Ajoute les Attributs Spéciaux si Graines de fruit Ionien. DURÉE : 1D6 HeuresDANGERS : Faire un 100 bloque l’inversement des deux Attributs définitivement.
+
+LÉGALE : Non, drogue.
+
+
+
+
+
+
+
+
+
+RENOVIS  LIQUOR :
+
+
+
+Très semblable au Rams Craffle, cette mixture se présente sous la forme d’une boisson énergisante aux effets bien plus maîtrisés. Elle permet d’accroître temporairement certaines capacités du buveur, mais peut tout aussi bien en diminuer d’autres. Sans préparation particulière, la statistique affectée est totalement aléatoire.
+
+
+
+L’ajout d’une graine de Fruit Ionien permet cependant de canaliser les effets de la mixture vers une compétence spécifique, rendant son utilisation beaucoup plus fiable entre les mains d’un mixologue expérimenté.
+
+
+
+La recette aurait été découverte par un mixologue demacien au cours de ses voyages à travers Runeterra, avant qu’il ne mette la main sur sa formule lors d’un séjour en Ionia. Contrairement au Rams Craffle, elle n’est pas considérée comme une drogue, mais plutôt comme une boisson énergisante aux propriétés alchimiques.
+
+
+
+Légèrement alcoolisée, acidulée et subtilement sucrée, elle possède un goût étonnamment agréable. Sa particularité la plus étrange apparaît cependant après l’avoir bue : la boisson ne pétille qu’une fois arrivée dans l’estomac, provoquant une curieuse sensation d’effervescence intérieure caractéristique de la mixture.
+
+
+
+PRIX :TYPE : Renforcement - Liquide
+
+RECETTE : Glande de Baorgük (½u) / Sève de Hue (0.2L) / Bulbe de Jonc-Doré (¼u) / Graine de Fruit Ionien (5g)
+
+DOSES : 
+
+EFFETS : Remplace temporairement un Attribut au choix par la valeur d’un jet d’1D100 lancé au moment de la prise (Malus permanent compris). DURÉE : DANGERS : Chaque prise supplémentaire sans 1 semaine d’intervalle fait perdre -5 définitivement dans l’Attribut utilisé.
+
+LÉGALE : 
+
+
+
+
+
+
+
+
+
+ROUGE VISION :
+
+
+
+La Rouge Vision est une potion considérée comme une drogue alchimique particulièrement puissante, capable d’augmenter considérablement les capacités physiques de son utilisateur pendant une courte période. Elle renforce notamment sa Force et sa Santé, mais au prix d’une perte totale de contrôle émotionnel, faisant temporairement chuter le Mental du consommateur.
+
+
+
+Sous son influence, il entre dans une rage incontrôlable et peut ne plus parvenir à distinguer ses alliés de ses ennemis. La Rouge Vision représente donc autant un danger pour son organisme que pour son entourage, puisqu’un utilisateur submergé par ses émotions peut facilement s’en prendre à ses propres proches.
+
+
+
+Contrairement à une potion traditionnelle, elle ne se boit pas directement. La mixture est versée sur un tissu qui est ensuite appliqué sur le visage, permettant à ses principes actifs d’être rapidement absorbés.
+
+
+
+Son ingrédient principal est le nerf de la corne d’Hyve Bovine, naturellement chargé d’une très forte concentration d’hormones que l’organisme de la créature est capable de supporter, mais dont les effets sont extrêmement puissants chez l’humain. Le reste de la préparation sert à diluer, concentrer et canaliser cette puissance afin d’obtenir l’augmentation physique recherchée tout en limitant autant que possible les effets indésirables.
+
+
+
+! ATTENTION ! Une Rouge Vision mal préparée, trop concentrée ou utilisée à trop forte dose peut cependant devenir extrêmement dangereuse, même pour un utilisateur habitué à ses effets.
+
+
+
+PRIX : 25 OrTYPE : Renforcement - Drogue - Liquide - Inhaler
+
+RECETTE : Glande d’Hystégriffe Marin (1u) / Sève de Hue (1L) / Venin d’Hystégriffe Marin (0.5L) / Bulbe de Jonc-Doré (1u).
+
+DOSES : 0.1L - 1 dose
+
+EFFETS :  Donne temporairement +10 de Force et +20 PV Bonus et baisse le Mental à 0.DURÉE : 10 tours. DANGERS : Le consommateur peut tomber en état d’inconscience, de coma, de paranoïa, peut blesser ses alliés lors d’un combat rapproché, peut s’automutiler.  
+
+LÉGALE : Non, drogue dangereuse.
+
+
+
+
+
+
+
+
+
+TOURNE-CHANCE :
+
+
+
+Cette potion de chance demeure l’une des préparations les plus controversées de la communauté alchimique. Certains la considèrent comme une découverte exceptionnelle, d’autres comme une simple mascarade ou une plaisanterie de mauvais goût. Beaucoup refusent même d’admettre que ses prétendus effets puissent réellement exister.
+
+
+
+Son comportement semble varier selon l’état émotionnel du buveur au moment de sa consommation. Les témoignages concernant son goût sont tout aussi contradictoires : certains ne ressentent absolument rien, tandis que d’autres la décrivent comme amère, délicieuse, indescriptible, extrêmement épicée ou prétendent même pouvoir « goûter la magie ». Un détail revient néanmoins systématiquement : ceux qui ne lui trouvent aucun goût particulier semblent également ne subir aucun de ses effets.
+
+
+
+Pour les autres, quelque chose d’étrange se produit. Plusieurs consommateurs affirment avoir senti leur chance « tourner », comme si certaines situations qui auraient normalement dû leur être défavorables avaient soudainement basculé en leur faveur. Une mauvaise décision peut miraculeusement porter ses fruits, une tentative improbable réussir ou un événement inattendu intervenir au moment opportun.
+
+
+
+L’étrangeté de cette potion vient de son apparence similaire à de l’eau, ce qui pousse beaucoup à croire qu’elle n’a aucun effet. Une fois ses ingrédients mélangés à l’eau, leurs couleurs, odeurs et saveurs s’annulent, laissant une mixture parfaitement transparente et inodore.
+
+
+
+Aucune étude sérieuse n’est cependant parvenue à démontrer clairement son fonctionnement, ni même à prouver que ces événements sont réellement provoqués par la potion. Hasard, magie ou véritable manipulation de la chance, la question reste donc entière.
+
+PRIX : 10 OrTYPE : Enchantement - Liquide 
+
+RECETTE : Graine de Fruit Ionien (1u) / Clavaire Gelée Chargée (10g) / Visque de Baorgük (0.2L)
+
+DOSES : 0.25L - 1 dose
+
+EFFETS : Change temporairement l’ordre des jets de dés (un 72 devient un 27).DURÉE : 30minDANGERS : Absolument aucun, peut être consommé sans modération.
+
+LÉGALE : Oui, la plupart des gens pensent qu’il ne s’agit que d’eau.
+
+
+
+
+
+
+
+
+
+
+
+FORTE
+
+
+
+
+
+APPARENTIUM :
+
+
+
+Très prisé par les assassins et les voleurs, l’Apparentium est une potion capable de modifier la perception des personnes alentour afin de donner à son buveur l’apparence parfaite d’un individu choisi, selon l’essence utilisée lors de sa préparation.
+
+
+
+Son effet ne transforme pas réellement le corps : il dupe directement l’esprit et les sens des observateurs, leur faisant percevoir une apparence différente de la réalité. La puissance, la précision et la durée de l’illusion varient selon la qualité de la potion. Sa nature magique constitue néanmoins sa principale faiblesse, puisque des sorts de révélation ou certains artefacts capables de déceler les duperies peuvent dissiper ou révéler l’illusion.
+
+
+
+Il existerait cependant une variante beaucoup plus puissante et particulièrement rare de l’Apparentium. Celle-ci ne trompe plus les sens mais restructure entièrement le corps du buveur afin de lui donner une véritable nouvelle apparence. Sa confection nécessite de complexes enchantements liés à la magie du sang, dont les pratiques sont souvent considérées comme discutables.
+
+
+
+Extrêmement difficile à réaliser, cette variante peut devenir très dangereuse lorsqu’elle est mal préparée et nécessite de préférence l’expertise d’un Alchimiste Légendaire. Lorsqu’elle fonctionne parfaitement, le buveur ne se contente plus de ressembler à sa cible : son corps reproduit également les attributs biologiques propres à l’individu imité, rendant la transformation presque impossible à distinguer de l’original.
+
+
+
+PRIX : 50 OrTYPE : Enchantement - Illusion - Liquide
+
+RECETTE : Glande de Croquin Affamé (1u) / Bulbe de Jonc-Doré (2u) / Sève Ivnevern (0.5L) / Visque Baorgük (0.5L) / Essence Biologique (Plus l’essence est importante, plus la potion sera réussie) / Si Illusion : Poudre d’Ibir (5g) / Si Biologique : Enchantement Hématomancie.
+
+DOSES : 0.25L - 1 dose.
+
+EFFETS : DURÉE : DANGERS : 
+
+LÉGALE : Non, cette potion est très surveillée car souvent utilisée par des Assassins et des Voleurs.
+
+
+
+
+
+
+
+
+
+ÉLIXIR DE FER :
+
+
+
+L’Élixir de Fer est une puissante potion particulièrement réputée au Freljord pour la résistance exceptionnelle qu’elle procure au corps. Sa consommation renforce temporairement l’organisme de l’intérieur, endurcissant la peau, les muscles, les os et jusqu’aux organes, ce qui permet de mieux supporter les blessures et de réduire considérablement les saignements. Cet effet s’inspire directement de l’Élixir de Fer connu dans Runeterra, associé à une augmentation de la robustesse et de la ténacité de son consommateur.
+
+
+
+Contrairement à la Pommadarmur, qui permet de renforcer précisément une partie du corps depuis l’extérieur, l’Élixir de Fer agit sur l’ensemble de l’organisme simultanément. Le corps devient plus difficile à blesser, mais également plus difficile à déstabiliser : les utilisateurs décrivent une sensation de lourdeur et de stabilité leur permettant de mieux supporter les chocs, la douleur et certaines contraintes physiques. Cette propriété rejoint la Ténacité associée à l’Élixir de Fer dans League of Legends, que j’adapterais dans ton JDR comme une meilleure résistance aux effets susceptibles d’entraver ou de faire perdre le contrôle du personnage.
+
+
+
+Généralement consommé quelques minutes avant une bataille, l’élixir possède une consistance épaisse et métallique particulièrement difficile à avaler pour les personnes les moins robustes. Une fois assimilé, son effet se propage progressivement dans tout le corps. Sa puissance et surtout sa durée dépendent de la pierre utilisée lors de sa fabrication : plus celle-ci est rare et difficile à travailler, plus l’endurcissement peut persister longtemps. Les préparations les plus puissantes sont donc particulièrement recherchées par les guerriers qui savent qu’ils devront tenir une position ou encaisser de lourdes blessures pendant un affrontement prolongé.
+
+
+
+! ATTENTION ! L’Élixir de Fer sollicite énormément l’organisme et ne doit pas être consommé plus de trois fois par semaine. Selon le métabolisme du buveur, deux ou trois prises suffisent généralement à nécessiter une bonne nuit de repos avant toute nouvelle consommation. Dépasser cette limite peut provoquer des séquelles irréversibles : à force d’être artificiellement durcis, les tissus et les organes commencent paradoxalement à s’affaiblir, provoquant des lésions internes et une détérioration progressive du corps.
+
+
+
+PRIX : 40 Or (Variable selon la qualité de la pierre utilisée)TYPE : Renforcement - Liquide 
+
+RECETTE : Visque de Baorgük (0.5L) / Écailles de Buu Fish (1g) / Venin de Grellfeen (0.1L) / Feuilles de Hue (300g) / Poudre de Pierre au choix (1kg)
+
+DOSES : 0.5L - 1 dose.
+
+EFFETS : Selon la qualité de la pierre +2/5/10/15 ARM Globale (s’applique contre les DB) et -1 au Niveau de Saignement subit.DURÉE : 5/10/20/50 tours. Prend fin après 3H si elle n’absorbe aucun dégâts. 
+
+DANGERS : Si >3 doses, retire -10 PV Global, x2 /doses (ex: -10/-20/-40/-80)
+
+LÉGALE : Oui
+
+
+
+
+
+
+
+
+
+LUMERIA SERUM :
+
+
+
+Ce puissant philtre d’amour agit directement sur les émotions de son consommateur et peut avoir de graves conséquences lorsqu’il est mal utilisé. Il fut notamment expérimenté par les Demaciens afin de domestiquer certaines bêtes féroces, à l’image de pratiques employées par Noxus, mais le projet fut rapidement abandonné après plusieurs incidents provoqués par une mauvaise maîtrise de ses effets.
+
+
+
+Le philtre fonctionne aussi bien sur les animaux que sur les humains puisqu’il agit directement sur les mécanismes émotionnels du cerveau. Il stimule fortement la production d’hormones comme l’ocytocine, favorisant l’attachement, ainsi que la sérotonine, associée au bien-être. Le consommateur devient alors plus docile, plus réceptif et peut développer un puissant sentiment d’attachement, voire d’amour, envers une personne déterminée.
+
+
+
+Son utilisation fait encore l’objet de nombreux débats éthiques. Son étude reste autorisée lorsqu’elle est menée par des professionnels dans un cadre contrôlé, mais sa possession et son utilisation sur autrui sont sévèrement réprimandées. Le philtre peut certes permettre d’apaiser temporairement une personne particulièrement agressive, mais ses propriétés peuvent facilement être détournées à des fins de manipulation. Certaines études montrent également que les paroles prononcées avant son administration ainsi que les odeurs présentes au moment de ses effets peuvent influencer la personne ou l’être auquel le consommateur s’attache.
+
+
+
+! ATTENTION ! Un mauvais dosage peut entraîner une perte de raison, des délires et une obsession extrême envers la cible. Le consommateur peut devenir possessif ou violent envers ceux qu’il considère comme des obstacles. Dans les cas les plus graves, l’attachement peut entrer en contradiction avec des pulsions agressives envers la cible elle-même, provoquant une profonde frustration et des comportements autodestructeurs pouvant aller jusqu’à la mort.
+
+
+
+PRIX : 70 OrTYPE : Enchantement - Poudre à diluer dans l’eau
+
+RECETTE : Glande de Croquin Affamé (1u) / Poudre Aurora (2g) / Hrymroot Alvara (1u) / Essence : Biologique (Cible)
+
+DOSES : 5g - Gros effet / 1g - Petit effet.
+
+EFFETS : Plein effet - Rend amoureux de la cible indéfiniment (Mental du Buveur) / Petit effet : Rend la cible plus docile et réceptif à la cible.DURÉE : 1H - Très Longtemps (selon la puissance et le dosage) 
+
+DANGERS : Plonge le consommateur dans un état de délire, d’obsession, agressif, et même ! suicidaire ! si mal dosé.
+
+LÉGALE : Non, mais reste très surveillée. Possession seulement sous haute autorisation.
+
+
+
+
+
+
+
+
+
+MEMORISYS :
+
+
+
+Cette potion permet d’explorer les souvenirs d’une personne afin d’y retrouver des informations précises, y compris celles qu’elle aurait oubliées ou qui ne subsistent plus que dans son subconscient. Pour fonctionner, la préparation nécessite une essence provenant de l’individu ciblé, et la qualité du souvenir accessible dépend directement de celle-ci : cheveux, tissus organiques, sang ou même cœur peuvent ainsi offrir des résultats très différents. Il est également possible d’explorer les souvenirs d’une personne décédée tant qu’une essence suffisamment exploitable peut être récupérée.
+
+
+
+Une fois plongé dans le souvenir, l’utilisateur devient essentiellement spectateur de la mémoire. Il peut observer, écouter et rechercher des détails, mais ne peut pas interagir avec les personnes ou les éléments qui la composent, ni modifier ce qui s’est réellement produit. Cette méthode permet néanmoins de retrouver des informations dont l’individu lui-même n’a parfois plus conscience.
+
+
+
+L’exploration n’est cependant pas sans résistance. Un esprit suffisamment puissant peut bloquer volontairement l’accès à certains souvenirs lorsqu’il sait ce qu’on cherche à lui prendre. Les individus les plus entraînés peuvent même altérer leur propre perception des événements afin de présenter de faux souvenirs et ainsi tromper celui qui les explore.
+
+
+
+Certains esprits développent enfin de véritables défenses mentales, prenant parfois la forme d’un gardien chargé de protéger une information particulièrement sensible. L’explorateur peut alors être contraint de l’affronter directement au sein du souvenir pour poursuivre son investigation. Dans ce cas, le combat ne repose plus sur la force physique, mais principalement sur le Mental des deux adversaires.
+
+
+
+PRIX : ?? OrTYPE : Illusion et Enchantement - Liquide
+
+RECETTE : 1 Glande Baorgük / 5g Poudre d’Ibir / 0.5L Sève de Hue / 200g Feuille de Hue / 1 Essence
+
+DOSES : 0.2L 
+
+EFFETS : DURÉE : DANGERS : 
+
+LÉGALE : Autorisé si justifié / Alchimiste
+
+
+
+
+
+
+
+
+
+VHÆTHERÜD :
+
+
+
+Cette potion permet de rendre temporairement le corps entièrement éthéré. Selon la qualité de sa préparation, ses effets peuvent durer entre une et trois minutes. Durant ce laps de temps, le consommateur devient totalement intangible : il ne peut plus subir de dégâts physiques, mais devient également incapable d’interagir avec la matière qui l’entoure.
+
+
+
+Sous cette forme, le corps peut se déplacer librement dans l’espace, traverser les murs, s’enfoncer dans le sol ou se déplacer dans les airs. La matière solide ne représente alors plus aucun obstacle, permettant notamment de franchir des endroits normalement inaccessibles.
+
+
+
+! ATTENTION ! Cette potion ne doit surtout pas être ingérée : il s’agit d’un liquide à verser directement sur le corps pour déclencher son effet. Il est également impératif de ne jamais laisser une partie de son corps à l’intérieur d’une matière solide lorsque l’effet prend fin. Les deux matières risqueraient alors de fusionner entre elles. Tenter de s’en extraire peut provoquer de graves blessures, entraîner la perte d’un membre ou, dans certains cas, condamner définitivement le consommateur à vivre avec la matière fusionnée à son corps.
+
+
+
+PRIX : 30/40/50 OrTYPE : Renforcement - Liquide
+
+RECETTE : Sève Ivnevern (0.5L) / Visque Baorgük (0.5L) / Visque Pince-Requin (0.5L) / Encre Gekodo (1L)
+
+DOSES : 1L - 1 dose.
+
+EFFETS : Rend temporairement le corps invulnérable, intangible et immatériel. Peut se déplacer à volonté dans l’environnement..DURÉE : 1 à 3 minutes ou 2 à 4 tours en combat. DANGERS : Danger d’empoisonnement grave si ingéré. Peut également fusionner un membre avec de la matière environnante.
+
+LÉGALE : Oui. 
+
+
+
+
+
+
+
+
+
+VIVACIUM :
+
+
+
+Le Vivacium est une drogue originaire du Freljord, aussi bien en raison des ingrédients qui la composent que de sa méthode de fabrication. Sa préparation nécessite un environnement naturellement froid afin de contenir la chaleur importante produite durant sa conception. Sans ce refroidissement constant, les molécules responsables de ses effets se détérioreraient et rendraient la substance inutilisable.
+
+
+
+Le Vivacium est particulièrement réputé auprès des bandits, mercenaires et combattants les plus téméraires. Il agit directement sur les fonctions cérébrales liées à la vivacité et à l’analyse, d’où son nom. Une fois consommé, il augmente temporairement la réactivité, les réflexes et la capacité du cerveau à analyser rapidement une situation.
+
+
+
+Cette amélioration possède cependant un prix important. Les performances offertes par le Vivacium se font au détriment de la santé physique et mentale du consommateur. Son utilisation répétée peut rapidement provoquer une forte dépendance et entraîner une dégradation progressive de l’organisme.
+
+
+
+L’un de ses effets secondaires les plus caractéristiques est l’apparition de saignements de nez, qui deviennent de plus en plus importants à mesure que les effets de la drogue se prolongent. Plus la consommation est importante, plus le corps peine à supporter l’accélération imposée à son système cérébral.
+
+
+
+PRIX : 50 OrTYPE : Renforcement / Drogue - Poudre
+
+RECETTE : Nerf de Corne d’Hyve-Bovine (1u) / Venin de Grellfeen (0.25L) / Poudre d’Aurora (2g) / Sève de Hue (1L) / Graveleuse Argentée (200g)
+
+DOSES : 50g - 5 dose.
+
+EFFETS : +5 Endurance, Réflexes, Concentration et Perception, contre -2 PV /tours en combat.DURÉE : 10 tours ou 1 heure.DANGERS : Fait saigner du nez (-20 PV) et peut vite créer une  dépendance. Faire un jet de Mental après la première dose, puis -5 Mental /doses suivantes. Si échec : -5 PV à chaque même résultat que le nombre du jet loupé tout au long de l’aventure. (Ex : Si 30 en Mental et que le jet fait 21, à chaques prochains 21 perd -5 PV sauf si du Vivacium à été consommé dans la journée). Peut s’en guérir avec du Divina Restrum.
+
+LÉGALE : Non, c’est une drogue uniquement autorisée aux Alchimistes lvl 3.
+
+
+
+
+
+
+
+
+
+
+
+PUISSANTE
+
+
+
+
+
+
+
+APPADRAGON :
+
+
+
+L’Appadragon est une pâte alchimique utilisée comme un puissant encens destiné à attirer les dragons. Une fois exposée à l’air, elle dégage une odeur particulièrement attirante que ces créatures peuvent détecter à grande distance. Les dragons les plus intelligents peuvent toutefois reconnaître cette mixture et comprendre qu’un piège se cache derrière son parfum, tandis que les spécimens plus sauvages se laissent généralement attirer beaucoup plus facilement.
+
+
+
+L’Appadragon possède également une seconde propriété : en mâcher et en avaler une petite quantité permet de communiquer temporairement avec les dragons, facilitant considérablement les interactions avec eux.
+
+
+
+Cette préparation est particulièrement appréciée des dompteurs et dresseurs de dragons, qui l’utilisent pour approcher ces créatures, gagner leur confiance ou tenter de les apprivoiser. Certains s’en servent simplement pour obtenir leur aide et voyager temporairement par les airs.
+
+
+
+Ses propriétés peuvent cependant être détournées à des fins bien moins pacifiques. L’Appadragon permet également de débusquer un dragon vivant dans les environs afin de le capturer, de l’affronter ou de le chasser, ce qui en fait malheureusement une préparation également recherchée par certains braconniers.
+
+
+
+PRIX : 75 OrTYPE : Animale - Pâte
+
+RECETTE : Peut être faite par un Alchimiste Puissant 
+
+1 Essence Foetus de Dragon / 0.5kg Sève Oklis / 1 Glande Croquin / 200g Feuille Dedvarn 
+
+DOSES : 100g. Manger 10g pour communiquer avec les dragons.
+
+EFFETS : Attire les dragons avec 1D100. Si ≤ 10/30, un dragon apparaît. Ajoute +10 toutes les 15 Min (sauf si le résultat dépasse 80/90). Faire 1D20 pour définir la rareté du dragon. Si préparé par un Alchimiste Légendaire, ≤ 20 pour appâter un Dragon Légendaire.
+
+DURÉE : 15min /10g. DANGERS : Si ≥ 80/90, un dragon hostile apparaît. En consommer régulièrement rend aveugle (-05 Perception toutes les 2 doses).LÉGALE : Oui, autorisée.
+
+
+
+
+
+
+
+
+
+AURORA CONTRARIUM :
+
+
+
+Cette potion permet de pénétrer dans les rêves d’une personne afin d’y implanter une idée ou un souvenir de manière subtile, au point que la cible ait l’impression que cette pensée vient d’elle-même. Pour fonctionner, la préparation nécessite une essence de la cible (cheveu, sang, ADN, etc.) ainsi qu’un enchantement spécifique durant lequel l’enchanteur doit définir précisément le contenu du rêve. Celui-ci peut être basé sur un souvenir réel ou sur une fiction entièrement inventée. Plus le scénario paraît crédible et cohérent aux yeux de la cible, plus l’idée implantée aura d’impact sur son esprit.
+
+
+
+La confection de la potion demande également de construire le rêve au préalable dans ses détails : lieu, époque, ambiance et rôles des différents intervenants. Les intervenants peuvent y apparaître sous leur véritable apparence ou incarner une autre personne. Si la cible connaît les individus présents dans le rêve, leur comportement devra rester crédible afin d’éviter d’éveiller ses soupçons. Il est également possible d’ajouter des règles prédéfinies au rêve comme empêcher quiconque d’attaquer les joueurs, supprimer une forme de magie ou rendre une pièce ou un lieu inaccessible pour les autres personnes présentes dans le rêve. Une potion particulièrement bien réussie permet d’ajouter des influences plus complexes, comme renforcer la sympathie envers quelqu’un, ajouter plus de règles prédéfinies au rêve,  instaurer un sentiment de confiance ou provoquer un attachement émotionnel.
+
+
+
+La construction du rêve et de vôtre rôle est totalement libre, mais plus le rêve est réaliste et mieux l’implantation d’une idée est efficace et convaincante. Si vous interprétez le rôle d’une divinité, ou que vous évoluez dans un lieu ou la cible à peu de chance de réellement se trouver, la cible du rêve se verra douter, et plusieurs implémentations d’idées peuvent demander un jet. 
+
+
+
+INFO MJ
+
+
+
+Oui, c’est totalement une référence au film Inception. Le déroulement du rêve peut faire l’objet d’une demi session (ou une session complète) mais peut également être raccourci par le MJ en ne passant seulement que par les éléments importants. Durant le rêve, il peut se produire des événements étranges.
+
+
+
+
+
+Une fois préparée, la potion doit être consommée par la cible 1 à 2 heures avant son sommeil en raison de ses propriétés somnifères. Les joueurs doivent boire leur propre préparation immédiatement après. Pour stabiliser la connexion onirique, les individus doivent dormir à proximité l’un de l’autre, idéalement entre 2 et 5 mètres. Au-delà, les risques de séparation durant le rêve deviennent importants.
+
+
+
+! ATTENTION ! 
+
+- Sortir du scénario prévu peut provoquer des incohérences ou des hallucinations capables de faire comprendre à la cible qu’elle rêve.
+
+- Mourir dans le rêve peut entraîner un coma. Il est important de forcer son réveil en cas de danger. Jet de Mental +10 toutes les heures vécues dans le rêve.
+
+- Une immersion trop profonde ou prolongée peut empêcher le retour à l’état d’éveil.
+
+
+
+PRIX : 95 Or TYPE : Illusion et Enchantement - Liquide
+
+RECETTE : Peut être faite par un Alchimiste et Enchanteur
+
+Memorisys (0.1L) / Poudre de Mothdragon (5g) / Poudre Aurora (10g) / Sornëlles (100g) / Glande de Croquin Affamé (1u) / Essence Biologique (Plus l’essence est importante, plus la potion sera réussie).
+
+DOSES : 0.5L - Idéalement pour 5 personnes. Moins elle est divisée, plus elle est puissante et dure longtemps.
+
+EFFETS : Implémenter une idée ou un souvenir très convaincant dans l’esprit du buveur. L’esprit pense que l’information vient de lui-même (Inception).
+
+DURÉE : Un rêve peut durer entre 2H et 4H selon la qualité de la potion. Le rêve est plus long que le temps réellement vécu (1H dans le rêve = 15min réelles).DANGERS : Coma (Mourir dans le rêve / 1D100 ≥ 96)  / Délires / Mort (1D100 = 100)
+
+LÉGALE : Oui, seulement si neutre (sans essence infusée), Alchimiste lvl 2 ou autorisation spéciale.
+
+
+
+
+
+
+
+
+
+DIVINA RESTRUM :
+
+
+
+Cette potion extrêmement puissante permet de restaurer une grande partie de la santé en seulement quelques secondes, avant de poursuivre progressivement la régénération du corps pendant quelque temps. Lorsqu’elle est consommée, le buveur ressent un profond apaisement et un soulagement presque immédiat, accompagné d’une sensation de fluide glacé parcourant brutalement tout son corps, semblable à un flash.
+
+
+
+Son extraordinaire pouvoir régénérateur provient de son ingrédient principal : l’Eau de Temps, une eau aux propriétés magiques originaire de Bandle, la dimension des Yordles. Coupée du temps de Runeterra, cette eau réagit étrangement lorsqu’elle est assimilée par un organisme appartenant au plan matériel. En restaurant le corps, elle peut également accélérer son vieillissement de plusieurs années si elle est mal digérée. Les Yordles, naturellement liés à Bandle, ne subissent cependant pas cet effet indésirable.
+
+
+
+La Divinis Orientus joue un rôle essentiel dans la préparation en permettant d’établir une transition entre les propriétés magiques des deux plans. Bien qu’elle ne possède aucune magie spirituelle propre, cette fleur utilise les flux magiques invisibles présents dans l’environnement pour créer un lien entre la magie de Bandle et celle de Runeterra, permettant ainsi à l’Eau de Temps d’agir correctement sur le consommateur.
+
+
+
+! ATTENTION ! 
+
+Consommer plusieurs doses n’augmente pas davantage la régénération. Au contraire, chaque dose supplémentaire multiplie par deux le vieillissement provoqué par la précédente, pouvant faire vieillir le corps de plusieurs décennies en quelques instants et entraîner la mort si ses limites biologiques sont dépassées.
+
+
+
+PRIX : 90 OrTYPE : Soin - Liquide
+
+RECETTE : Eau de Temps (0.2L) / Divinis Orientus (1u) / Glande de Buu Fish (1u) / Glande de Baorgük (1u) / Bulbe de Jonc-Doré (1u)
+
+DOSES : 0.4L - 2 doses de 0.2L 
+
+EFFETS : Soigne immédiatement le montant des PV de Base, stop le saignement (-1 Niveau /tour) et Soigne +5 PV /tour pendant 5 Tours. DURÉE : DANGERS : Fais vieillir si 1D100 ≥ 90 du nombre d’année entre 90 et 100 (Ex : 94 = 4 ans)
+
+LÉGALE : Oui.
+
+
+
+
+
+
+
+
+
+ÉPINE CRISTALLIN :
+
+
+
+Bien que le poison de la Fleur Cristalline soit déjà extrêmement puissant, l’Épine Cristalline pousse son utilisation à un tout autre niveau. À la fois mixture létale et technique d’assassinat particulièrement discrète, elle est prisée par certains des assassins les plus expérimentés.
+
+
+
+Son usage demeure extrêmement rare au Freljord, où l’assassinat n’est pas une pratique particulièrement répandue. Pourtant, au-delà de ses frontières, certains ont rapidement compris le potentiel d’une telle arme. Sa préparation comme son utilisation restent cependant très dangereuses : entre de mauvaises mains, l’Épine Cristalline peut tuer son porteur aussi facilement que sa cible.
+
+
+
+La technique consiste à remplacer l’une des dents du fond de la bouche de son hôte par une Épine Cristalline, spécialement préparée pour prendre sa forme et rester stable tant qu’elle demeure intacte.
+
+
+
+Son porteur peut l’utiliser de plusieurs manières. Il peut l’expulser afin de blesser directement une cible et lui administrer son poison, provoquant sa mort en quelques instants.
+
+
+
+Mais l’Épine possède une seconde propriété, bien plus redoutée. En la brisant volontairement dans sa bouche, son contenu se libère et se diffuse progressivement dans l’air. Dans un espace clos, le poison peut alors contaminer les personnes présentes et les tuer lentement. Cette méthode ne fait toutefois aucune distinction : le porteur est lui aussi condamné.
+
+
+
+Pour cette raison, certains assassins conservent leur Épine jusqu’au dernier instant. Lorsqu’ils sont capturés, acculés ou condamnés à parler, il leur suffit de briser leur dent pour transformer leur dernière respiration en arme — ou simplement pour s’assurer que leurs secrets meurent avec eux.
+
+
+
+! ATTENTION ! 
+
+Elle peut tuer son porteur lors de l’installation ou de l’utilisation si elle n’est pas installée ou utilisée par un professionnel (Assassin ou Alchimiste Légendaire). 
+
+
+
+PRIX : 70 OrTYPE : Poison - Liquide
+
+RECETTE : Fleure Cristallin (1u) / Graine Dedvarn (1u) / Glande de Baorgük (1u) / Glande de Dragon (½u)
+
+DOSES : 0.1L - 1 dose. 
+
+EFFETS : Mort en 20 secondes si blessé avec (Ciblé) / Mort progressive au bout de 3 minutes si diffusée dans une pièce fermée (de Zone). DURÉE : DANGERS : Coma si 1D100 ≥ 96 / Meurt si 1D100 = 100.
+
+LÉGALE : Non.
+
+
+
+
+
+
+
+
+
+
+
+
+
+LÉGENDAIRE
+
+
+
+
+
+CHROXURE LIQUIDE :
+
+
+
+Cette potion n’est pas une invention d’Ott, mais le Nécromancien a largement contribué à sa réputation auprès des Avarosans à force de l’utiliser. Autrefois, son existence n’était connue que de quelques érudits et des alchimistes les plus expérimentés. À l’origine, la mixture est parfaitement translucide, presque impossible à différencier de l’eau. Lorsqu’une âme y est infusée, elle devient instantanément noire et une petite lueur bleutée apparaît progressivement en son sein.
+
+
+
+La Fiole de l’Éternel qui la contient est une création magique spécialement conçue pour emprisonner une âme et l’empêcher de s’en échapper. La mixture permet alors à cette dernière d’y diffuser naturellement la magie ou la connaissance qui la caractérisait le plus de son vivant. Une fois la préparation achevée, celui qui la consomme peut assimiler cette part de l’âme et acquérir une partie de son savoir ou de ses capacités.
+
+
+
+Personne ne sait réellement ce qu’il advient de l’âme lorsque la fiole est ouverte et son contenu consommé. Libérée de son réceptacle, elle semble néanmoins conserver son libre arbitre et pourrait choisir de demeurer dans le plan matériel sous forme d’esprit errant ou rejoindre définitivement le plan spirituel.
+
+
+
+PRIX : 350 OrTYPE : Alchimie et Nécromancie - Liquide
+
+RECETTE : Fleure Cristallin (1u) / Glande d’Hyve Corrompue (1u) / Récipient Nécessaire :  Fiole de l’Éternel (1u) / Enchantement : Nécromancie ou Oknuün / 
+
+DOSES : 0.1L - 1 dose.
+
+EFFETS : Peut enfermer l’esprit d’une personne dans une fiole. La boire permet d’absorber son meilleur Attribut Spécial. Ajoutez Nouvel Attribut Spécial à 50 + 1D6 multiple de 5 (Ex : Si le résultat est 3 ajoutez +15).DURÉE : DANGERS : Aucuns.
+
+LÉGALE : Non.
+
+
+
+
+
+
+
+
+
+ELIXIR GLACE PURE :
+
+
+
+La Glace Pure est connue pour tuer quiconque entrerait en contact avec elle sans posséder le pouvoir des Sublimés. Il existe cependant un élixir capable d’offrir, durant un très court instant, une résistance similaire à la leur.
+
+
+
+Cette protection n’annule toutefois pas la douleur. Le froid de la Glace Pure continue de traverser le corps de celui qui la touche, provoquant une souffrance difficilement soutenable. L’élixir empêche simplement cette exposition de lui être immédiatement fatale.
+
+
+
+À l’origine, cette mixture fut conçue pour permettre à son utilisateur de survivre aux blessures infligées par une arme de Glace Pure. Ses propriétés permettent cependant d’aller plus loin : sous son effet, une personne ordinaire pourrait théoriquement saisir et même manier une arme façonnée dans cette glace pendant quelques instants. Une telle utilisation reste extrêmement éprouvante et ne peut être maintenue bien longtemps.
+
+
+
+La fabrication de cet élixir possède une particularité qui explique son extrême rareté : seul un Sublimé maîtrisant également l’alchimie est capable de le préparer. Sa conception repose sur l'étude de l’Arpeka des Glaces, une créature possédant une résistance naturelle à la Glace Pure. En étudiant son organisme et la manière dont celui-ci supporte un froid normalement mortel, les premiers alchimistes sont parvenus à reproduire temporairement une partie de cette résistance.
+
+
+
+Ces recherches sont encore loin d’être achevées et le procédé demeure particulièrement complexe. Les quelques doses pouvant être produites sont donc précieusement conservées et ne sont administrées qu’en cas de stricte nécessité.
+
+
+
+PRIX : 350 OrTYPE : Renforcement / Soin - Liquide
+
+RECETTE : Glande d’Arpeka des Glaces (1u) / Sève de Hue (0.25L) / Venin de Grellfeen (0.1L) / 
+
+DOSES : 0.5L - 5 doses.
+
+EFFETS : Permet de manipuler la Glace Pure temporairement. Subis 10 DB /tour. Jet d’Endurance à chaque tour. Si échec, subit +5 DB /tour. Si échec critique, l’effet se dissipe et tombe dans le coma.DURÉE : Nombre de doses +1D4 Tours /doses. DANGERS : Si l’effet se dissipe ou que l'Élixir ne marche pas, risque de coma et de mort.
+
+LÉGALE : 
+
+
+
+
+
+
+
+
+
+EXUTOIRE PERPÉTUEL :
+
+
+
+Considérée par certains comme le remède ultime, cette potion extrêmement rare n’est administrée qu’à ceux dont la préservation est jugée essentielle. Pourtant, contrairement à ce que son surnom laisse entendre, elle ne guérit aucune maladie. Elle agit plutôt comme une barrière permanente contre celles-ci.
+
+
+
+Une fois ingérée, la potion fige durablement les défenses immunitaires du buveur dans l’état exact où elles se trouvaient au moment de sa consommation. Son organisme devient alors incapable de contracter de nouvelles maladies, ce qui explique pourquoi certains de ses rares bénéficiaires auraient atteint des records de longévité.
+
+
+
+En raison de sa rareté, elle est généralement réservée aux grandes figures de ce monde, dans l’espoir de les préserver aussi longtemps que possible. Pourtant, tous n’acceptent pas ce privilège. Certains craignent les conséquences irréversibles de la potion, tandis que d’autres la refusent simplement par fierté, préférant accepter les risques naturels de l’existence.
+
+
+
+Afin d’empêcher que cette mixture puisse être reproduite par quiconque aurait observé sa préparation, l’un de ses ingrédients est volontairement tenu secret. Seuls les Alchimistes capables de la confectionner en connaissent la véritable nature et se doivent de préserver ce secret afin d’éviter qu’elle ne puisse être utilisée par n’importe qui. Cet ingrédient n’est autre que le sang de celui qui s’apprête à consommer la mixture, indispensable à sa préparation. Toutefois, un Alchimiste de niveau légendaire étudiant attentivement la recette serait capable d’en comprendre le fonctionnement et d’en déduire la nature de l’ingrédient manquant.
+
+
+
+! ATTENTION ! 
+
+Cette potion n’est pas un remède et doit impérativement être consommée en bonne santé. Toute maladie déjà présente dans l’organisme au moment de l’ingestion risque d’être elle aussi figée, condamnant alors le buveur à vivre avec celle-ci pour le restant de ses jours.
+
+
+
+PRIX : 150 OrTYPE : Soin / Enchantement - Liquide
+
+RECETTE :  ??? / Eau de Temps (0.2L) / Antidote (0.25L) / Glande de Baorgük (1u) / Glande de Buu Fish (1u) / Sang du Consommateur (0.1L / -5 PV) 
+
+DOSES : 0.5L - 1 dose. 
+
+EFFETS : Permet de ne plus attraper aucune maladie.DURÉE : A vie.DANGERS : Si une maladie est contractée lors de la prise, elle reste à vie. 
+
+LÉGALE : Oui.
+
+
+
+
+
+
+
+
+
+PERIUS MODERAS :
+
+
+
+Cette mixture étrange et unique permet à son consommateur de se connecter temporairement au monde des défunts afin de communiquer avec ceux qui ne sont plus. D’apparence liquide, elle se distingue par une fine couche de fumée éthérée bleutée qui flotte continuellement à sa surface.
+
+
+
+Une fois ingérée, la mixture plonge presque instantanément son consommateur dans un profond coma. Son corps devient parfaitement immobile et son pouls ralentit au point de devenir à peine perceptible. Pourtant, son esprit demeure pleinement conscient : il s’éveille dans une sorte de zone neutre située entre le monde matériel et le monde spirituel.
+
+
+
+Dans cet état, le consommateur continue de percevoir ce qui se déroule autour de son corps, sans pouvoir le contrôler ni interagir physiquement avec son environnement. En revanche, il devient capable de voir, entendre et communiquer avec les défunts présents à proximité, tout en demeurant partiellement ancré dans le monde matériel.
+
+
+
+Il lui est impossible de contempler sa propre apparence sous cette forme. Pourtant, les esprits semblent naturellement capables de le reconnaître, comme si son âme possédait une apparence qui lui était propre, indépendante de son enveloppe physique.
+
+
+
+Lorsque les effets de la mixture prennent fin, l’esprit regagne brutalement son corps et le consommateur se réveille instantanément en sursaut, comme arraché au monde des morts.
+
+
+
+! ATTENTION ! 
+
+Cette mixture est extrêmement surveillée et son utilisation doit rester exceptionnelle. Chaque passage fragilise le lien entre l’âme et le corps, faisant courir au consommateur le risque de ne jamais parvenir à regagner son enveloppe physique et de rester condamné à errer indéfiniment entre les deux mondes.
+
+
+
+PRIX : 120 OrTYPE : Enchantement - Liquide / Éthérée
+
+RECETTE : Clavaire Gelée Chargée (100g) / Aurora Contrarium (0.25L) / Poudre de Mothdragon (10g) / Venin Grellfeen (0.5L) 
+
+DOSES : 
+
+EFFETS :DURÉE : 
+
+DANGERS : 
+
+LÉGALE : 
+
+
+
+
+
+
+
+
+
+SANG DE L’IMMORTEL :
+
+
+
+Contrairement à ce que son nom pourrait laisser penser, cette potion n’est pas simplement composée de sang. Celui-ci en constitue toutefois l’ingrédient essentiel. Pour agir sur l’organisme du buveur, sa préparation nécessite le sang d’un être, humain ou animal, considéré comme immortel.
+
+
+
+Cette potion fut créée par le grand érudit, alchimiste et enchanteur Colvin Bordesonge, aujourd’hui décédé. En tant qu’Avarosan, il eut l’occasion de mener ses recherches à partir des expériences réalisées sur le grand guerrier Tryndamere, dont le corps avait acquis une forme d’immortalité. Ses travaux s’étendirent ensuite à différentes créatures réputées immortelles, notamment les Yordles.
+
+
+
+C’est d’ailleurs grâce à ces expériences que Colvin parvint à démontrer que les Yordles n’étaient pas véritablement immortels, contrairement à ce que beaucoup pouvaient penser. Ils sont capables de vieillir et de mourir, mais leur existence suit un cycle particulier : après leur mort, ils finissent toujours par réapparaître sous une nouvelle forme, entamant ainsi un nouveau cycle de leur existence.
+
+
+
+Une fois consommée, la potion plonge le buveur dans un état de rage extrême tout en lui conférant une invulnérabilité temporaire. Durant ce court laps de temps, son organisme devient capable de résister à des blessures normalement fatales, allant jusqu’à l’immuniser temporairement contre la mort elle-même.
+
+
+
+! ATTENTION ! 
+
+Cette protection ne soigne aucune blessure. Si le buveur subit des blessures mortelles pendant que la potion fait effet, celles-ci demeurent présentes malgré son invulnérabilité. Lorsque les effets commencent à s’estomper, son corps recommence progressivement à succomber à ses blessures. Il est donc impératif de traiter son état avant la disparition complète des effets de la potion.
+
+
+
+PRIX : 210 OrTYPE : Renforcement / Enchantement - Liquide.
+
+RECETTE : Vivacium (30g) / Pistille de Fleur Cristallin (¼u) / Glande de Grellfeen (1u) / Glande de Buu Fish (1u) / Essence : Sang d’un être Immortel (0.1L) / Enchantement : Magie du Sang
+
+DOSES : 0.3L - 1 dose.
+
+EFFETS : Rend totalement Invulnérable et régénère totalement le corps pendant 2 tours /0.1L. Procure également les effets du Vivacium sans la perte de PV. DURÉE : 
+
+DANGERS : Si les effets s’estompent et que le corps n’a pas eu le temps de se régénérer, alors les derniers dégats subis s’appliquent même s’ils sont lethal. 
+
+LÉGALE : Oui, seulement sous autorisation ou en cas d'extrême nécessité.
+
+
+
+
+
+
+
+
+
+
+
+

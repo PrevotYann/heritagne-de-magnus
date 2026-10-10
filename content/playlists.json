@@ -1,0 +1,96 @@
+{
+  "documents": [
+    {
+      "_id": "24be006348808b3d",
+      "name": "Magnus — Ambiances locales",
+      "mode": 0,
+      "playing": false,
+      "sounds": [
+        {
+          "_id": "948395e51520b129",
+          "name": "THÈME - GUÜRDARL",
+          "path": "modules/heritage-de-magnus/assets/audio/1FQB3zwTusWhZAA66AOt_esElZPnOYAwo.mp3",
+          "repeat": true,
+          "volume": 0.25,
+          "playing": false
+        },
+        {
+          "_id": "6a240a20e26c46ff",
+          "name": "THÈME - FAILLE DE BORRVOK",
+          "path": "modules/heritage-de-magnus/assets/audio/1IpJZP-M6fHvthP-NuQWUMiv_GY5KKAc-.mp3",
+          "repeat": true,
+          "volume": 0.25,
+          "playing": false
+        },
+        {
+          "_id": "bb4fd5b7632e750b",
+          "name": "THÈME - VATHCAER",
+          "path": "modules/heritage-de-magnus/assets/audio/1YRPQeyfB5EJYDgDqdwxepx9OBfDiL0Ms.mp3",
+          "repeat": true,
+          "volume": 0.25,
+          "playing": false
+        },
+        {
+          "_id": "0c3751df1fa5f6f7",
+          "name": "COMBAT - OTT V1",
+          "path": "modules/heritage-de-magnus/assets/audio/1lwB-e7v-SYgeLrQh3kfpylmFtxGJfD4h.mp3",
+          "repeat": true,
+          "volume": 0.25,
+          "playing": false
+        },
+        {
+          "_id": "f74954f436b1e180",
+          "name": "COMBAT - OTT V2",
+          "path": "modules/heritage-de-magnus/assets/audio/1u_7CxO6-yMs0kuUTTjzRN9MISUOsimI3.mp3",
+          "repeat": true,
+          "volume": 0.25,
+          "playing": false
+        },
+        {
+          "_id": "e34ea17a99de51d1",
+          "name": "TAVERNE - SKYRIM GROUPE",
+          "path": "modules/heritage-de-magnus/assets/audio/11dkgd0foGmypg-VTjoNuSXkH1aUzzwyI.mp3",
+          "repeat": true,
+          "volume": 0.25,
+          "playing": false
+        },
+        {
+          "_id": "eb045111bb34bb35",
+          "name": "TAVERNE - SKYRIM TAMTAM",
+          "path": "modules/heritage-de-magnus/assets/audio/1ACUiwysF9-s6MppR1bi5T5_G3UbQ3wlg.mp3",
+          "repeat": true,
+          "volume": 0.25,
+          "playing": false
+        }
+      ],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Drive/MUSIQUES FRELJORD",
+          "key": "playlist",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "7eebbbe3b0e04c62"
+    }
+  ],
+  "folders": [
+    {
+      "_id": "7eebbbe3b0e04c62",
+      "name": "Magnus — Ambiances",
+      "type": "Playlist",
+      "folder": null,
+      "sorting": "m",
+      "color": "#496e87",
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "folder:Playlist:Magnus — Ambiances",
+          "contentVersion": "0.1.0"
+        }
+      }
+    }
+  ]
+}

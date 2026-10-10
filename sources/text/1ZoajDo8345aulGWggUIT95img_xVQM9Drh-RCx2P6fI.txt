@@ -1,0 +1,312 @@
+
+LE DILEMME DE BORRVOK
+
+
+
+
+
+Par Ereborr :Depuis quelque temps Hjorryn à complètement changé, elle refuse de nous fournir des ressources plus équitables sachant que nous sommes plus nombreux. Donc j’ai stoppé la récolte de Fer-Ardent tant qu’elle ne capitule pas. 
+
+
+
+Par Hjorryn :Elle refuse de céder à Ereborr ses exigences. Elle estime que sans elle, il n’aurait aucunes ressources et que probablement le Borrvok aurait déjà perdu son indépendance. 
+
+
+
+Par :
+
+
+
+
+
+INFO MJ
+
+
+
+Hjorryn et Ereborr étaient autrefois amants, mais suite à la perte de leur enfant (Gärnborr), ils se sont séparés. Ils gèrent ensemble les deux parties de Borrvok, mais après leur séparation, Hjorryn décide de s’occuper seule de la partie Est, le Borrvok’Kjal, laissant Ereborr s’occuper avec son frère Rekvynn de la partie Ouest, le Borrvok’Vael. Elle gérait d’une main de fer le commerce du Fer-Ardent dans la région, tandis qu’Ereborr s’occupait de son extraction.
+
+
+
+Une mauvaise gestion de la répartition des ressources a créé un désaccord entre les deux parties. Ereborr, manquant de ressources pour nourrir ses hommes, bien plus nombreux, demande alors une répartition plus équitable en fonction du nombre de personnes. Pour rééquilibrer la situation, il réclame un partage de 70 % pour son camp et 30 % pour celui d’Hjorryn, mais cette dernière refuse. Elle estime jouer un rôle bien plus important dans la protection du village et dans la gestion de la vente du Fer-Ardent, sans lesquelles ils ne percevraient aucun revenu.
+
+
+
+Ereborr a alors stoppé le minage et envisage désormais d’attaquer le village. Cependant, ses hommes verraient cette idée d’un mauvais œil, car ils considèrent encore les habitants du village voisin comme leurs frères. Ereborr se retrouve donc dans une impasse.
+
+
+
+
+
+
+
+1. Vous arrivez au pied de la faille de Borrvok. Vous êtes face à un barrage de glace solidement et magiquement protégé par Valgnar, le gardien de la faille.
+
+-
+
+La faille est protégé à cause de l’exploitation de son rare minerai : le Fer-Ardent ou Cœur d’Ornn (Ramnhjart).
+
+
+
+INFO MJ
+
+
+
+Valgar est le seul qui peut ouvrir le passage le plus sûr et le plus court pour traverser la faille de Borrvok, mais pour cela il lui faut l’accord d’un des deux chefs. Libre à vous de choisir par quel côté monter.
+
+
+
+- Soit d'Erebor à Borrvok’Vael (Ouest) en montant par la Gauche - étape 2-1
+
+- Soit de Hjorryn à Borrvok’Kjal (Est) en montant par la Droite - étape 2-2
+
+(½ journée de marche)
+
+
+
+Valgnar à la magie de voir devenir rouge les yeux de ceux qui lui mentent. En échange les siens deviennent rouges quand il ment. Cela ne s’applique qu'à une vérité relative et non absolue.
+
+
+
+Les joueurs peuvent contourner la Faille de Borrvok pour traverser mais cela prendrait beaucoup plus de temps et devient très risqué. Même à dos de Mouflon Géant. Les prédateurs dans ce coin là sont très fréquents et redoutables. 
+
+
+
+
+
+
+
+2-1. Vous arrivez dans le village de Borrvok’Vael (voir Lieux).
+
+-
+
+Ereborr vous reçoit. 
+
+
+
+- Ereborr : “Vous souhaitez passer la faille de Borrvok n’est ce pas ? Comme tous les droits de passage, celui-ci à également un prix. Nous sommes chargés de surveiller le passage par les Avarosans afin d’éviter les mauvaises surprises au-delà des Chaînes d’Odmund. Prouvez votre valeur en rendant service au village.”
+
+
+
+INFO MJ
+
+
+
+Les joueurs doivent accumuler un total de 10 bonnes actions (BA). Les bonnes actions se gagnent uniquement en réussissant des tâches pour les villageois.Mais ils peuvent garantir leur passage en ne réalisant qu’une seule tâche : convaincre Hjorryn d'accepter le marché qu’Ereborr qui est d’équilibrer au mieux la répartition des ressources pour ses hommes.
+
+
+
+“Mes hommes crèvent de faim et elle pense que je vais rester là à ne rien faire ! Je les représente et qu’importe ce qu’elle attend de moi, nous sommes prêt à le réaliser, mais s’il faut en arriver à prendre les armes, nous nous verront dans l’obligation, bien qu'à contre coeur, de réagir en conséquence.”
+
+
+
+- Si vous partez voir Hjorryn, étape 2-2
+
+- Si vous restez au village, étape 3-1
+
+
+
+
+
+
+
+2-2. Vous arrivez dans le village de Borrvok’Kjal (voir Lieux).
+
+-
+
+Hjorryn vous reçoit.
+
+
+
+- Hjorrny : “Je suppose que vous etes ici pour acheter du Fer-Ardent ? Désolé mais vous vous êtes trompé de côté, on a plus rien ici.”
+
+-
+
+“ Si vous souhaitez passer, sans aucun problème, cela vous fera 300 pièces d’or par personne. Écoutez, on peut sûrement s’arranger. J’organise une réception prochainement et j’aurais sûrement besoin de vous.”
+
+
+
+- Si vous partez voir Ereborr, étape 2-1
+
+- Si vous restez au village, étape 3-2
+
+
+
+
+
+
+
+3-1. Vous cherchez dans le village de quoi gagner pour rentrer dans les bonnes grâces d’Ereborr.
+
+
+
+INFO MJ
+
+
+
+La principale des priorité des villageois est préoccupé par la nourriture. Les chasseurs se multiplient ces derniers temps et plusieurs d’entre eux ne sont jamais revenus.
+
+
+
+Chasser/Pêcher : ½ BA / créatures + ½ BA par tranche de 50 kg 
+
+Miner : 1 BA /j (2 pers max)
+
+Cuisiner : 1 BA /repas. Jet de Cuisine si appris, sinon Dextérité et Concentration. 1 échec retire ½ BA
+
+
+
+Tous les soirs, le village se rassemble pour dîner autour d’un grand bûcher. La cuisine est généralement faite par une personne volontaire et prend la ½ journée à se préparer. 
+
+
+
+
+
+
+
+3-2. Vous cherchez dans le village de quoi gagner pour rentrer dans les bonnes grâces d’Ereborr.
+
+
+
+INFO MJ
+
+
+
+Hjorryn refuse d’équilibrer les ressources car d’après elle, la moitié des ressources qu’elle donne à Ereborr est largement suffisante pour nourrir tout son village. Mais la mauvaise gestion des ressources d’Ereborr fait qu’ils consomment tout en un temps record. 
+
+
+
+- Hjorryn : “Ils mangent bien trop et trop souvent, ils ne sont pas du tout disciplinés sur la gestion de cette ressource si importante. Et quoi ? Je suis censé en payer le prix ? Je suis désolé mais non, c’est à eux de s’éduquer sur le sujet. C’est quelque chose dont ils devaient même être conscients mais Ereborr me l’a dit lui même lors de notre rupture, s'ils se nourrissent tant c’est pour un plaisir que personne ne devrait s’empêcher de vivre. Je ne suis pas d'accord. Dites à son peuple que s’il à faim, il est le bienvenu ici.”
+
+
+
+
+
+
+
+4-1. Hjorryn organise une réception afin de présenter à ses contact la situation actuelle et pourquoi ils ne perçoivent plus de Fer Ardent depuis quelque temps. 
+
+-
+
+Elle peut vous faire travailler lors de cet événement. Elle cherche un valet, un espion et un voleur. 
+
+-
+
+Voyez avec Verna pour plus d'informations.
+
+
+
+Verna vous propose donc les missions suivantes : 
+
+
+
+- Le Valet servira de bonne figure et restera aux côtés de Hjorryn. Il faut qu’il soit présentable, d’un bon parlé, et qu’il sache tant être discret que charismatique. 
+
+
+
+- L’Espion est chargé de rentrer en contact avec Noxus durant la soirée. Elle sait qu’un messager Noxien s’invitera à la soirée mais secrètement. 
+
+
+
+- Le Voleur devra voler une lettre que le Seigneur Rodgar à en sa possession, de la lire ou de copier son contenu et de la remettre à sa place sans se faire repérer. 
+
+
+
+
+
+
+
+4-2. Un des villageois viens vous prévenir que le Rekvynn, le frère d’Ereborr vous cherche et souhaiterai vous parler. 
+
+
+
+INFO MJ
+
+
+
+Hjorryn refuse d’équilibrer les ressources car d’après elle, la moitié des ressources qu’elle donne à Ereborr est largement suffisante pour nourrir tout son village. Mais la mauvaise gestion des ressources d’Ereborr fait qu’ils consomment tout en un temps record. 
+
+
+
+
+
+
+
+5. Les invités commencent petit à petit à arriver. Tout le monde se met en place. Vous êtes conviés à prendre poste. Hjorryn les accueille accompagnée de son Valet (joueur), l’espion (déguisé en Nordique) rentre parmi les convives, et le voleur va à son poste. 
+
+
+
+Invités Demacia (8 Tonnes) : 
+
+La production de Fer-Ardent est important pour les Demaciens car elle leur permet d’avoir une meilleur aptitude au combat sur leur zone de territoire avancé dans le Freljord. 
+
+- Jaredan (Commandant) 
+
+- Anden Mayne (Chercheur Draconophile) - Connaissance Tania Merisan
+
+- 15 Soldats
+
+
+
+Invités Fyord’al Kurgen (3 Tonnes) :
+
+Ashe pense qu’il est préférable d'acquérir du Fer-Ardent pour équiper ses alliés Demaciens à se préparer pour une potentielle guerre des clans à venir.- Seigneur Rodgar (Ivan)
+
+- Yolenda (Alchimiste Enchanteresse)  Ott .
+
+- 15 Avarosans
+
+
+
+Invités Piltover (6 Tonnes) :
+
+Le Conseiller Jayce Talis souhaite créer des armatures en Fer-Ardent combiné à l’Hextech. Personne ne sait réellement ce qu’il a derrière la tête.
+
+- Rosa (Cheffe Forgeronne - Talis)
+
+- Axel (Forgeron Fighter - Talis)
+
+- 10 Hommes 
+
+
+
+ Invité Caché (Noxus - Légion Grise) : 
+
+La Légion Grise est missionné de récupérer du Fer-Ardent afin d’équiper ses soldats, mais également quelques unes de leurs bêtes de combat et d’exploration sensible au froid Freljordien. 
+
+- Ophélia Noradi (Cousine Tyzon) 
+
+- Belliciste Antique (Invocation Démoniaque)
+
+- 4 Hommes (cachés)
+
+
+
+
+
+Elle peut vous faire travailler lors de cet événement. Elle cherche un valet, un espion et un voleur. 
+
+-
+
+Voyez avec Verna pour plus d'informations.
+
+
+
+Verna vous propose donc les missions suivantes : 
+
+
+
+- Le Valet servira de bonne figure et restera aux côtés de Hjorryn. Il faut qu’il soit présentable, d’un bon parlé, et qu’il sache tant être discret que charismatique. 
+
+
+
+- L’Espion est chargé de rentrer en contact avec Noxus durant la soirée. Elle sait qu’un messager Noxien s’invitera à la soirée mais secrètement. 
+
+
+
+- Le Voleur devra voler une lettre que le Seigneur Rodgar à en sa possession, de la lire ou de copier son contenu et de la remettre à sa place sans se faire repérer. 
+
+
+
+
+
+

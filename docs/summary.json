@@ -1,0 +1,39 @@
+{
+  "counts": {
+    "actors": 277,
+    "items": 91,
+    "journal": 142,
+    "scenes": 65,
+    "tables": 4,
+    "playlists": 1,
+    "macros": 10,
+    "folders": 12
+  },
+  "pages": 531,
+  "embeddedItems": 239,
+  "referenceJournals": 9,
+  "referencePages": 409,
+  "sourceDocuments": 53,
+  "sourceSheets": 2,
+  "scenarioJournals": 18,
+  "sourceCharacters": 70110,
+  "driveEntries": 1546,
+  "driveFiles": 1334,
+  "driveFolders": 212,
+  "unavailableLinks": 116,
+  "unlocalizedSourceLinks": 581,
+  "proposedActors": 212,
+  "symbolicPortraits": 47,
+  "mediaFiles": 379,
+  "mediaBytes": 337493235,
+  "scenesByKind": {
+    "regional": 6,
+    "narrative": 55,
+    "tactical": 4
+  },
+  "coverage": {
+    "intégré": 484,
+    "réutilisé depuis le système": 550,
+    "hors périmètre": 26
+  }
+}

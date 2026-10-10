@@ -1,0 +1,25 @@
+{
+  "version": "14.368",
+  "babele": "2.9.1",
+  "checks": [
+    "Adventure translated",
+    "Caption and Adventure description translated",
+    "Embedded item name and description translated",
+    "Adventure import keeps translated embedded item",
+    "Multi-page journal names and body imported",
+    "Variant label translated in Adventure and import",
+    "Table result translated and imported",
+    "Stable IDs",
+    "GM secrecy preserved",
+    "Translated actors",
+    "Translated items",
+    "Source compendium variant translated",
+    "Translated journals",
+    "Source compendium page body translated with UUID preservation",
+    "Translated tables",
+    "Repeat import creates no duplicates",
+    "Repeat import preserves GM changes",
+    "Cancel replacement preserves modified notes"
+  ],
+  "errors": []
+}

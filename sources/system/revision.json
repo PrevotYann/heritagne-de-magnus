@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/PrevotYann/jdr-runterra-foundry",
+  "version": "0.8.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.368",
+    "maximum": "14"
+  },
+  "commit": "5ee3bb16dd539ebc7bd5b4485767f549442aca0c",
+  "api": [
+    "advanceTime(minutes)",
+    "Actor.applyDamage(amount,options)",
+    "Actor.addCondition(status,options)",
+    "Item.use(options)"
+  ]
+}

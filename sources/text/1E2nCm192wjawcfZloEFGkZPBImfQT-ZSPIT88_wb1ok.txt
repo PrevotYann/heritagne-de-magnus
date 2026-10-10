@@ -1,0 +1,2896 @@
+
+Vous connaissez sans doute le monde de Runeterra, si ce n’est pas le cas n’ayez crainte, toutes les coutumes vous seront expliquées si nécessaire. Tout particulièrement les coutumes du Freljord, les terres sur lesquelles vous allez commencer votre aventure, et plus précisément dans le petit village portuaire de Guürdarl tout au Sud du Freljord. Vous y êtes suite au décès de Magnus, un ami que vous avez pu chacun votre tour rencontrer au cours de ses périples en mer. Magnus avait pour habitude de sympathiser avec les gens, mais peu ont eu l’occasion de voyager sur son petit bateau, le “Markyetter”, et encore moins de l'accompagner lors d’un trajet comme vous avez pu le faire. Aujourd’hui, Magnus nous à quitté et vous vous retrouvez entourés de ses proches au bord de la mer.- Scène de funéraillesVous êtes tous les 4 assis autour d’une table dans la Taverne de Jarnot, face à un homme maigrichon et d’un certain âge, en tenue de notaire (Fidelius). Il semble venir de Piltover pour vous transmettre le testament de Magnus en bonne et due forme. Au milieu de la table, vous pouvez apercevoir un coffre fermé. Il dit que vos 4 noms sont mentionnés sur le testament et que ceci est votre héritage.- Faire lire le testament de Magnus 
+
+Une fois le coffre ouvert, vous découvrez un petit sac en toile qui semble contenir quelque chose. (sac en toile ouvert) 4 pierres tombent sur la table. Il y a également une carte dans le fond du coffre.
+
+- Active la Quête : - LA PIERRE VIOLETTE
+
+Testament de Magnus / Pierres / Carte Runeterra de Magnus
+
+
+
+
+
+
+
+
+
+01. GUÜRDARL
+
+[DOC]  -  [LORE]  -  [MUSIQUE] - [PLAN MJ]
+
+
+
+
+
+Taverne de Jarnot :
+
+[DOC]  -  [LORE]  -  [MUSIQUE]
+
+
+
+Vous voyez en face de vous le plus gros bâtiment de Guürdarl avec écrit dessus “Taverne de Jarnot”, qui est en  réalité une auberge. De l’extérieur vous sentez déjà une ambiance chaleureuse, une bonne odeur de nourriture qui sort de la cuisine, et vous voyez des petites plantations de légumes à droite de l’entrée qui bordent le cours d’eau. 
+
+
+
+COFFRE (Fermé - lvl 1) : 36 Or - 28 Arg / 3 Pierres Précieuses / Choppe dédicacée par Garen / 
+
+
+
+JARNOT (TORNEVENT): (Tavernier/Bar) 72 ans / Humain / Freljord (Gentil/Avenant)
+
+Aime parler de Garen, Triste pour Magnus, Père de Wilhelm,
+
+OBJET : 22 Or - 31 Arg / Montre à Rouages (5 Or) / Clé coffre /
+
+VENTE : Carte Guüldarl (1 Arg)/ Repas (voir Menu)/ Diverses Babioles (voir Divers) / Chambre simple (3 Arg /nuit) / Chambre double (5 Arg /nuit)STOCK :  Caisse de Dedvarn (x8) /Stock de nourriture / Stock de boissons / 
+
+QUÊTE : - Chasse à l’Ugvar Royal - étape 1                  - La Dette de Braum 
+
+                  - La Bête de Guürdarl 
+
+                  - Faites partir les pirates Peak et Dale sans dégâts (10 Or + chambres offertes)
+
+
+
+FÉLICIA : (Chasseuse 75) Humaine / Demacia/ 32 ans (Feignante-Sanguine)
+
+Rêve d’affronter Ashe en duel à l’arc, Se drogue au Vivacium, terrifiée par le Olwtakan, Tutoie les gens.
+
+PV : 90/90 / AR-MR : 05-00 / ARME : Ofléor (3.4) / 
+
+OBJET : 18 Or - 12 Arg / Flèche x15 / Doc Owltakan (Infos) /  CACHÉ :  100 Or (Quête Chasse) / Vivacium x3 (6.8) 
+
+QUÊTE : - La Bête de Guürdarl 
+
+
+
+PEAK : (Pirates négociateurs) Humain / Bilgewater / 30 ans (Bavard/Dragueur)
+
+Extraverti, plutôt convainquant, Aime les blagues salaces, aime les femmes, n’aime pas les beaux parleurs.PV : 80/80 / AR-RM : 00-00 / ARMES : Lames Pirate 
+
+OBJET : 12 Or - 8 Arg / Poudre Ygnovarn (5.0) Sac 100g / Lettre de Willburn / Zippo Bilgewater QUÊTE : - La Poudre d’Ygnovar
+
+                  - Une Livraison pour Basile
+
+DALE : (Pirates négociateurs) Minotaure / Bilgewater / 52 ans (Silencieux/Impulsif)Plutôt calme et subtile, prend son temps, cogne fort,  aime le lait d’Elnuk, n’aime pas les bruits forts ou stridents.PV : 120/120 / ARM-RM : 05-00 / ARME : Pistolet Poudre Ygnovarn (3.1)
+
+OBJET : 38 Or - 22 Arg / Shimmer (5.0) 0.2L / 
+
+
+
+Personnages : Fidelius / Alvar / Fjürd /  Ernest  /  Braum  /  Ygnovar  / Soldats Demacien / Villageois / Poros / 
+
+
+
+
+
+
+
+Place du Marché :
+
+[DOC]
+
+Vous voyez au milieu des quelques petites habitations à l’Est du village, une petite place avec un petit marché. Vous pouvez y trouver quelques produits locaux, et des petits objets utiles autant pour les passagers que les locaux.
+
+
+
+MIRANDA : (Recette de Grand-mère) 68 ans / Humaine / Freljord (Ferme-Amicale)
+
+OBJET : 12 Or - 32 Arg / 
+
+VENTE : Nourriture (Légumes / Graines / Viande)
+
+
+
+KILKĒ : (Médecin des plantes) 76 ans / Maréen / Bilgewater-Freljord (
+
+OBJET : 40 Or - 20 Arg / Livre “Apprentissage du Freljordien” / Filigis Bleutée x24 (baies qui réchauffe le corps. +1 Résistance Froid 30 min /baies) 1 Or /baies.
+
+VENTE : Otznendal x3 (soigne la fièvre) 15 Or / Itsē Idbē x4 (soigne les indigestions) 6 Or / Boarqan’ x2 (permet de rendre l’eau potable et adoucit l’eau de mer - 10 utilisations) 20 Or /
+
+
+
+
+
+
+
+Chez Ygnovar (Alchimiste/Enchanteur) :
+
+[DOC]
+
+
+
+Vous voyez une maison qui dégage une sensation étrange, ave des verres aux fenêtres obstrués ou de couleur opaque où on y voit régulièrement des flashs lumineux en jaillir, et des traces de brulures sur la porte.
+
+
+
+YGNOVAR : (Alchimiste Enchanteur/50) ~100 ans / Humain Altéré / Freljord (Pensif - Passionné)
+
+Avare en affaires, déteste les casaniers, morale discutable mais passionné d’alchimie, aime la découverte,
+
+PV : 90/90 / AR-RM : 00-05 / ARME : Bâton Runique (Bâton 2 Mains - DM) / 
+
+OBJET : 33 Or - 20 Arg / 
+
+VENTE : Potions () / Pierres Runiques ()
+
+QUÊTE : - La Poudre d’Ygnovar                   - Ramenez-lui Coeurs d’Hyve Bovine Royale x2 (60 Or) 
+
+                  - Apportez Apparentium x1 (Note) à Yolenda (voir Yolenda) (20 Or)
+
+
+
+
+
+
+
+Port de Guürdarl :
+
+[DOC]  -  [LORE]
+
+Face à vous, un tout petit port de plaisance avec 3 pontons pour moyens bateaux. On y voit un petit refuge pour le maître-port (Fjürd) et des caisses en bois dans deux petites zones de stockage. 
+
+
+
+FJÜRD : (Maître-Port/80) Humain / Freljord-Demacia / 58 ans (Optimiste - Embêté)
+
+OBJET : 55 Or - 54 Arg / VENTE : Kit Réparation - Bateau x1 (5 Or) / Kit de Pêche - au Filet x2 (4 Or) / Canne à pêche x2 (5 Arg)SERVICE : Réparation Bateau / Amélioration Bateau / 
+
+STOCK : Bois (250 kg) / Stock Livraison /
+
+QUÊTE : - Livrez des Cargaisons :                   - 2 caisses d'Ugvar/Ugvar Royal frais à Frostheld - 1.5J (230 Or total / 40 Or joueur)
+
+                  - 2 caisses d'Ugvar/Ugvar Royal frais à Creux-de-Valar - 2J (250 Or total / 50 Or joueur)
+
+                  - 3 caisses PoroSnax et 4 caisses Sève Ivneverr à Vaskasia (Demacia) - 5J (600 Or total / 120
+
+                    Or joueur)
+
+                   - 4 Caisses de Plume-Acier à Treval (Noxus) - 20J (7000 Or total / 550 Or joueur) 
+
+
+
+1. Le F-Med 8 - Petit Bateau Piltovien (Fidelius) 
+
+Le F-Med 8 est un petit bateau de série de la famille Medarda pour les fonctionnaires en petite mission.
+
+
+
+COFFRE (Fermé - lvl 2) :  Ticket Hexgate (1.6) x1 / 1 Pass Demacien 3j (Piltover-Freljord) / BD dédicacé Myakazi /
+
+
+
+FIDELIUS : (Notaire Piltovien) 69 ans / Humain / Piltover (Désintéressé-Discret)
+
+Petit homme, très procédurier, pressé de rentrer, mal de mer, Fan de Myakazi, 
+
+OBJET : 43 Or-12 Arg (Piltovien) / Clé maison (Magnus) / Montre à gousset / Testament pour Isolda / Clé coffre (Fidelius)
+
+QUÊTE : - À LA RECHERCHE D’ISOLDA
+
+
+
+
+
+2. Le Kotei - Petit Bateau Pirate Bilgewater (Peak et Dale) 
+
+Déjà coulé 2 fois, le Kotei n’est pas très résistant, mais il a vécu une grande aventure (réf GoR Sentinelle Ep 3)
+
+
+
+STOCK :  Shimmer trafiqué x2 caisses  (14 fioles 0.5L /caisses) / Pistolet Trafiqué
+
+COFFRE (Fermé - lvl 2) : 97 Or / 
+
+
+
+
+
+
+
+Almar Quincaillerie :
+
+[DOC]
+
+
+
+Note…
+
+
+
+COFFRE (Ouvert - lvl 1) :  12 Or - 21 Arg / 
+
+
+
+ALMAR : (Quincaillier) 68 ans / Human / Freljord (Arrangeant-Astucieux)
+
+Aime surenchérir ses offres,  tiens la jambe, ancien archer Avarosan, passionné de diverses collections.
+
+VENTE : Objets en tout genre (voir Divers)/ Tenues d’Explorateur (voir Armures)/
+
+OBJET : 7 Or - 6 Arg / Clé coffre (Almar) / 
+
+
+
+
+
+Maison de Magnus :
+
+[DOC]
+
+
+
+Vous arrivez devant une jolie maison excentrée du village qui possède un doc d'amarrage dans un petit renfoncement pour le Markyetter que vous voyez accosté dans un piteux état. Elle semble peu entretenue, peut-être même d’avant le décès de Magnus, avec des morceaux de mobilier délabré et de bois partout dans le jardin. 
+
+
+
+Intérieur Maison Magnus
+
+A l’intérieur vous découvrez du mobilier négligé, vous ne sauriez pas déterminer si c’est du fait que Magnus n’était pas soigneux ou si quelqu’un a pénétré sur les lieux pour tout renverser. Vous trouvez cependant des traces de nourriture près d’une grande armoire en bois. 
+
+
+
+ COFFRE (Ouvert) : Pierre Précieuse x2 / [1D6x5] Or
+
+
+
+1. Le Markyetter - Très Petit Bateau Marchand (Magnus / Joueurs) 
+
+Magnus à fait plusieurs fois le tour du monde avec durant toute sa vie, et l’a légué à ses amis.
+
+
+
+PV : 26/90 / AR-MR : 00-00 / ARME : Aucun (1p)
+
+STOCK (2 Places) : 1 - Vide / 2 - Vide COFFRE (Ouvert - lvl 1) : Coco Ionienne x1 / Cahier de Compte de Magnus (Livre) / Clé coffre (Markyetter)
+
+
+
+ERNEST : (Furet Démuni) ??? / Vastaya / Shurima (Apeuré-Craintif)
+
+Rafolle de nourriture cuisinée, à peur des mouvements brusques, Phobie de l’eau.PV : 90/90 / ARM-MR : 00-05 / ARME : 
+
+OBJET : Collier d’Allègement (+05 Agilité) / 
+
+QUÊTE : - La Bête de Guürdarl (étape 3) 
+
+
+
+
+
+
+
+
+
+02. FROSTHELD
+
+[DOC] - [LORE] - [MUSIQUE]- [PLAN MJ]
+
+
+
+
+
+- FROSTHELD VILLE - 
+
+
+
+
+
+Vous arrivez devant l’entrée de Frostheld, gardée par deux gardes Avarosans.-
+
+En arrivant à Frostheld, vous entendez une cloche retentir. C’est la cloche du port qui annonce l’arrivée d’un Bateau (Demacien). La ville, faite de nombreuses maisons robustes en pierre et en bois Freljordien, surplombe les côtes de la mer du sud. Recouverte de son emblématique herbe jaune teintée partiellement de neige fondante au soleil, de sa cathédrale géante avec son immense phoenix en bois massif couvrant son sommet, et des drapeaux jaune et bleu à tête de loup blanc aux couleurs de la ville. Peuplée de villageois souriants et festifs, et abondants de visiteurs principalement Demaciens et Piltoviens, on sent que quelque chose d’agréable se trame. 
+
+Vous êtes face à l’Entrée Ouest de la ville gardée par deux soldats Avarosans, et vous voyez un Tableau des Annonces sur votre gauche.
+
+
+
+TABLEAU D’ANNONCES FROSTHELD - [voir fiche]
+
+JULIE MERISAN : (Petite Fille Noble) 7 ans / Humaine / Demacia (Mignonne - Tête en l’air)
+
+Fille de Tania et Jacob Merisan, pourrie gâtée, déboussolée pour Fiora, adore les papillons, déteste attendre.OBJET  : 
+
+QUÊTE : - Les Magouilles de Jocbar 
+
+
+
+ARYA : (Symbole de Frostheld) 22 ans / Chien-Loup Géant / Freljord (Joyeuse-Courageuse)
+
+Chienne de Wils et Janis, n’aboie que si c’est urgent, flair les mauvaises intentions,  ancienne chienne d’Olga
+
+PV : 110/110 / ARM-RM : 00-00 / 
+
+QUÊTE : - LE PLAN DU NÉCROMANCIEN - étape 1  
+
+
+
+LE MABOULE  (GALDRËL SYLVEBARBE)  :  OBJET : Lunettes (très anciennes)
+
+QUÊTE :  - Trouvez ce que veut le Maboule (voir le MdS) / Indivellium
+
+                   - Trouvez qui est réellement le maboule (par les 5 Papis) / Indivellium
+
+
+
+
+
+
+
+L’Auberge du Typhon :
+
+[DOC]  -  [LORE]  -  [MUSIQUE / CALME / BRUYANTE] 
+
+
+
+Vous arrivez devant une belle et grande bâtisse sur 2 étages, des gens de toute ethnie entrent et sortent en continu, assez grande pour y faire rentrer des centaines de personnes. Face à vous, une devanture en spirale représentant un typhon au-dessus de la porte d’entrée principale. 
+
+
+
+Intérieur Auberge du Typhon
+
+Une fois à l’intérieur, vous sentez des effluves d’odeur de nourriture toutes aussi bonnes les unes que les autres, La taverne est très grande et les tables sont bien remplies, et plusieurs poros font des acrobaties sur les charpentes. Ce lieu semble être l'endroit idéal et suffisamment accueillant pour y séjourner. 
+
+
+
+ARTHUR (Aubergiste Charismatique) 36 ans / Humain / Freljord (Bon Vivant - Émotif)
+
+Champion de bras de fer, n’aime pas les armes, très impulsif pour ses amis, Végétarien, Gay, Déteste Mikhaël
+
+PV : 130/130 / ARM-MR : 05-00 / ARME : Casserole en fonte
+
+OBJET : Graine d’Aphrène (5.2) x4 / 
+
+VENTE : Nourriture (voir Menu)  / Chambres (5 Arg /pers) / Graine d’Aphrène (5.2) x8 (5 Arg) / Hydromel d’Odmünd (5.?) (2 Or/pinte)
+
+COFFRE (Fermé - lvl 2) : QUÊTE : - Des Fournitures Pour Arthur                  - LE REPAS DU COURONNEMENT 
+
+
+
+ODVÏR : (Chef des Bandits) 40 ans / Humain / Freljord (Indifférent-Froid)
+
+Raffole du Poivre de Cendre-Pourpre, les menaces droles, Parler des enfants, respecte les tribus indépendantes
+
+PV : 100/100/ AR-MR : 10-0/ ARME : Tranchevif (3.17) 
+
+OBJETS : 42 Or - 13 Arg / Clé x2 (Trappe et Coffre - Repère Odvïr)/ Flacon de Poivre de Cendre-Pourpre (Noxus) / Vivacium (6.18) x2 / Lettres des Conjoints Éternels  Lié à Ott  (1.13) / Curasom (6.4) x2
+
+QUÊTE : - LE PLAN DU NÉCROMANCIEN 
+
+                  - Les Manigances d’Odvïr 
+
+
+
+
+
+Autres Personnages : Les 5 Papis / Gaby (Serveur) / Janessa (Serveuse) / Chef Galmar (Cuisine) / Odvïr /  Emir  / Ulfar et Ulfriq (Guldor) /Teddyring et Nao (Cuisiniers Ioniens) / Jocbar / Yordles Gitans / Astrid (Dresseuse de Mouflons) / Anden Mayne / Villageois / Demaciens / Soldats Demacien / Soldats Avarosan / 3 Jeunes Riches Piltoviens / 5 Papis / Chapamenta / Goliath (Goyuzi) / Poros / Chats / Mikhaël
+
+
+
+
+
+
+
+Forge des Frères Guldor (Caserne Demacienne) :
+
+[DOC]  -  [LORE]
+
+
+
+A votre droite se tient une forge plutôt grande, avoisinant la caserne Avarosan sur la gauche. La forge est vieille comme le monde, et est tenue de génération en génération par les Guldor. Vous  y accédez par un champ d'entraînement à l’entrée pour les soldats et les clients, et la forge fait également office d’Armurerie.
+
+
+
+ULFAR GULDOR : (Forgerons Jumeaux/85) 37 ans / Humains / Freljord (Concentré -Réservé) 
+
+Apprend la forge à Ulfriq, apprend la drague par Ulfriq, 
+
+PV : 100/100 et 90/90 / AR-RM : 10-00 et 05-05 / ARME : 
+
+OBJETS : 
+
+COFFRE (Fermé - lvl1) : 
+
+VENTE : Oldahviing (3.13) Objet de Quête / Set Avarosan (voir Tenues) / 
+
+SERVICE : Entrainement Arme de Mêlée (Ulfric/80) / Restauration Arme et Équipement (à négocier) / Mercenaire (Ulfric/80) 10 Or/j / STOCK : QUÊTE : - Le Retour des Feux De l’Âtre 
+
+ULFRIQ GULDOR : (Forgerons Jumeaux/80) 37 ans / Humains / Freljord (Entreprenant - Festif) 
+
+Apprend la forge par Ulfar, apprend la drague à Ulfar, 
+
+PV : 100/100 et 90/90 / AR-RM : 10-00 et 05-05 / ARME : 
+
+OBJETS : 
+
+COFFRE (Fermé - lvl1) : 
+
+VENTE : Set Avarosan (voir Tenues) / 
+
+SERVICE : Entrainement Arme de Mêlée (Ulfric/80) / Restauration Arme et Équipement (à négocier) / Mercenaire (Ulfric/80) 10 Or/j / STOCK : QUÊTE : - Laissez Ulfar gagner le bras de fer contre Arthur (voir Quête Courte)
+
+
+
+
+
+
+
+Port de Frostheld :
+
+[DOC]  -  [LORE]
+
+
+
+Vous apercevez une petite taverne tenue par le maître-port des lieux (Vesnir). Vous voyez tout le long des quais des bateaux amarrés de toute taille et de diverses origines : des Freljordiens, des Demaciens, des Piltoviens et même un Ionien. Au nord, vous pouvez voir un Grand bateau Demacien décharger de nombreuses caisses à terre.
+
+
+
+VESNIR : (Maître-Port Frostheld/70) Humain / Freljord / 58 ans (Débordé/Influent)
+
+Père de Geralt,  Ancien Griffe Hivernal , Organisateur du Repas du Couronnement, Déteste le désordre, 
+
+PV : 90/90 / AR-MR : 05-00 / ARME : 
+
+OBJETS : Potion de Neutralisation (6.6) / Clé coffre Vesnir /COFFRE (Fermé - lvl 2) : Pierre de Rhond (Vörnskrifa) (1.31) / 
+
+VENTE : Matériel de pêche (voir Divers)/ 
+
+SERVICE : STOCK : 
+
+QUÊTE : - LE REPAS DU COURONNEMENT 
+
+                  - Livrez des Cargaisons :                   - 6 caisses de ??? à Creux-de-Valar - 4J (550 Or total / 85 Or joueur)
+
+                  - 2 caisses d'Ugvar/Ugvar Royal frais à Creux-de-Valar - 2J (180 Or total / 30 Or joueur)
+
+                  - 2 caisses PoroSnax et 4 caisses Sève Ivneverr à Vaskasia (Demacia) - 5J (600 Or total / 120
+
+                    Or joueur)
+
+
+
+
+
+[REPAS DU COURONNEMENT]
+
+
+
+“OBJETS : Menottes Pétricite (1.6) x10/ Kit Couture Merisan (1.23) / Veillance du Disgracieux (1.30) / Transluiverre (1.14) x2 / 347 Or / 539 ArgCOFFRE (Lvl 3) : 
+
+
+
+Importants et Nobles :
+
+Cithria/ Jaredan/ Emir Dawnguard/ Anden Mayne/ Jacod-Tania-Julie Merisan/ Conseillère Fjona/ Seigneur Rodgar Ivan/ Yolenda (enchanteresse)/ Félicia (cherche Valérian)/Oscar (Myrmidon Noble)
+
+Participants et Employés : 
+
+Vesnir* / Arthur / Boromir / Geralt ou Odel (Luth) / Dako (Flûtiste) / Trevis (Luthier) / Chef Nao, Teddyring et Uzil  Kaïrr  (Cuisiniers) / Goliath (Goyuzi)
+
+PNJ’S :Soldats Demaciens / Soldats Avarosan / Serveurs “
+
+
+
+
+
+1. Le Cosmo Pilto - Petit Bateau Piltover :
+
+Petit bateau Piltovien très bien entretenu, haut de gamme et orné de dorures sur sa structure interne.
+
+ 
+
+CPTN MORIADI (JÉRÔME) : (Capitaine du Cosmo Pilto)
+
+JEUNES NOBLES PILTOVIENS :  Jake Cadwalder / Kento / Gara Myakazi / Cptn Moriadi / Bobo(Poro)
+
+Fils d’Uberti Cadwalder, créateur Locomoteur Autonome / Fille de Ohaya Myakazi, célèbre Dessinatrice Piltovienne
+
+OBJETS : 34 Or Piltovien / Dessin de Gara enfant par Myakazi (Oeuvre Unique) / QUÊTE :  - Récupérez leurs bourse auprès d’Odvïr (négocier 100 Or Piltovien - recompense 30%)
+
+
+
+
+
+2. Le Couronne Ambulant II - Grand Bateau General Demacia :  (Intérieur)
+
+Beau bateau de l’armée Demacienne, adapté au transport de nobles et de troupes. Le 2ème d’une série de 4 permettant d’organiser le Repas du Couronnement à Piltover, Freljord, Targon et Ionia. 
+
+CITHRIA DE NIMBECHAMP : (Cptn du Détachement) Humaine / Demacia / 28 ans (Téméraire/Juste)
+
+Aime les gens déterminés et ambitieux, Protectrice et patriote, déteste le soudoiement, Impartiale,
+
+PV : 100/100 / AR-MR : 10-10 / ARME : Épée Glorieuse (3.8) - Épée 1 main /
+
+OBJETS : Tellstones x1 (cadeau père) / 
+
+QUÊTE : - REPAS DU COURONNEMENT (étape ?)
+
+                  - l’Éclat Perlé Bleu du Grand-Nord (étape ?)
+
+
+
+JAREDAN : (Officer Demacien/ Espion Noxien ) Humain / Demacien / 36 ans (Tacticien/Conspirant)
+
+ Proche de Marcus Du Couteau , officier de l’Avant-garde Audacieuse, 
+
+PV : 110/110 / AR-MR : 10-10 / ARME : Epée 
+
+OBJETS : Pointe d’Épine Cristallin (5.?) / 
+
+QUÊTE : - Retrouvez Laïda (mage captif) pour le libérer/  Contactez Kaïrr
+
+
+
+ANDEN MAYNE : (Chercheur Draconophile) Humain / Demacia / 65 ans (Curieux/Passionné)
+
+OBJETS : 23-7 Or-Ar/ Kit recherche Dragon/ Essence foetus de dragon x3/ Doc Éclat Perlé Bleu/
+
+QUÊTE : Fabriquez de l’Appadragon (50 Or)/ Ramenez lui l’oeuf de l’Éclat Perlé Bleu (200 Or)/
+
+
+
+EMIR CROWNGUARD : ( Maître Semptra )  Humain / Demacien / 33 ans (Vicieux/Imbus)
+
+Déteste la magie, Fils de Eldred Crownguard, Créateur de la Semptra, 
+
+PV : 90/90 / AR-MR : 00-10 / ARME : Galidarium (Sceptre une main)/ Fidèle Nasil (Fouet une main)
+
+OBJETS : 
+
+QUÊTE : - Bienvenu dans la Semptra (étape ?)
+
+
+
+
+
+3. Savorin Maru - Bateau Marchand Ionia (Moyen) Cachette de Kaïrr : 
+
+[DOC]
+
+
+
+Grandes racines de bois brun et ocre en forme de bateau avec une cabine arrondie sur le pont ornée de magnifiques fleures flamboyantes. Certains jurent l’avoir vu bouger et changer de place.
+
+
+
+CHEFS CUISINIERS :  
+
+Teddyring - Nao - Uzil (Kaïrr) - Commis Ioniens
+
+
+
+ Porte Secrète :
+
+
+
+ KAÏRR  (UZIL) : (Chef Uzil- Commandant Noxien ) 65 ans / Humain / Noxus ()
+
+Az
+
+PV : 130/130 / AR-MR : 05-00 / ARME : 
+
+QUÊTE : - En mission pour libérer des Mages esclaves de la Semptra.
+
+      - Un Coup de la Semptra 	      - Les Esclaves sont dans la Cave du Repère d’Odvïr. Parmi eux, un l’intéresse (Laïda).
+
+
+
+
+
+
+
+Jocbar Animalerie :
+
+[DOC]  -  [LORE]
+
+
+
+Note…
+
+
+
+
+
+JOCBAR : (Vendeur Animalier) 101 ans / Vastaya Binkeri / Bilgewater (Arnaqueur - Beau Parleur)
+
+Déteste la violence animale, toujours souriant, n’aime pas les nobles et les brigands, cherche à sauver les bêtes.
+
+PV : 90/90 / ARM-RM : 00-05 / ARME : 
+
+VENTE :  Félice Royale (volé à Julie Merisan) (350 Or)  / Poro (15 Or) / Gekodo (25 Or) / Erblent (20 Or) / Louveteau (30 Or) / Chien des Neiges (35 Or) / Félice Courant (60 Or) / Félice Cornu (90 Or) / Animal courant (20-50 Or) / Arpeka Bebe (40 Or) / Oeufs (selon l’oeuf) / PoroSnax (5.?) x13 (5 Arg/u) /
+
+OBJETS : 1 Or - 5 Arg / Clé coffre Jocbar /COFFRE (Fermé - lvl 2) : 65 Or - 34 Arg /  Lettre demande Buu Fish par “La Semptra” / 
+
+QUÊTE : - Les Magouilles de Jocbar (à négocier)
+
+
+
+
+
+
+
+Cathédrale d’Anivia :
+
+[DOC]  -  [LORE]  -  [MUSIQUE]
+
+
+
+Vous arrivez devant une très grande bâtisse tout en bois, avec un monastère au pied, une petite entrée en couloir qui donne sur le bas de la tour, une immense cathédrale avec une grande bibliothèque à l’étage.
+
+
+
+
+
+BOVIR (AUBÉTOILE): (Disciple du Phoenix-Écrivain) 36 ans / Humain / Freljord (Empoté-Simplet)
+
+Écrivain de Calendrier Pleine Lune, Étudie les Astres, Dévoué aux éclairés d’Anivia.
+
+OBJETS : Amulette d’Anivia (1.1) x10 (1 Or) / Calendrier Freljordien / “Les Astres de Runeterra” (Livre)/ 
+
+QUÊTE : - L’Ombre du Phoenix
+
+
+
+
+
+Personnages : Jaredan / Fjona / Anden Mayne /  Maître des Secrets  / 
+
+
+
+ Étage d'Illusion : 
+
+L’ombre d’Anivia virevolte au pied de la statue sur le sol et tourne en rond jusqu’au centre de la pièce, qui ouvre un escalier en colimaçon. Au loin, vous entendez une voix parler toute seule.Vous arrivez dans une pièce étrange, éclairée par le soleil alors qu’il est censé faire nuit, et la vue d’une fenêtre donne sur la ville comme si vous étiez au sommet de la cathédrale alors que vous êtes censés être au sous-sol. 
+
+
+
+ MAÎTRE DES SECRETS : ~3000 ans / Humain Altéré / Freljord (Parle Doucement - Mystèrieux)
+
+Aveugle, Voit tout ce qui à été écrit, à beaucoup écrit, ancien Mage Draklorn, vu le néant, oublié son nom, oublié sa lignée.
+
+OBJETS : Documents Ancien Freljordien / Plume d’Onn’Vana (1.25) / 
+
+QUÊTE : - SUR LA VOIE DU MAGE BLEU (étape ?)
+
+                  - LA PIERRE VIOLETTE (étape ?)
+
+
+
+
+
+
+
+Salle du Conseil de Frostheld :
+
+[DOC]
+
+
+
+Vous voyez un bâtiment plus structuré que les autres, les murs sont droits, des fenêtres avec des carreaux nets, et un drapeau Avarosan et Frostheldien devant la porte d’entrée de plusieurs mètres de haut.
+
+
+
+
+
+FJONA RODGAR : (Conseillère de Frostheld) 25 ans / Humaine / Freljord (Douce - Réfléchie)
+
+Fille de Ivan Rodgar, Amoureuse d’Arthur,  Proche du MdS , Politicienne de renom, Conseillère Avarosan
+
+OBJETS : COFFRE (Fermé - lvl L) : 5045 Or - 445 Arg / Document de Ashe “Gestion de Frostheld - Objectifs” / 
+
+QUÊTE : - 
+
+
+
+
+
+
+
+Grand Marché Frostheld :
+
+[DOC]  -  [LORE]  -  [MUSIQUE]
+
+
+
+Face à la cathédrale, une très grande place est recouverte tous les matins par divers stands de commerçants en tout genre. On y voit des Elnüks, des calèches, des Mouflons Géants ainsi que des bêtes plus exotiques. Des nobles Demaciens s’y pavanent et achètent des curiosités et produits locaux. D’autres se laissent embarquer dans des activités touristiques. Vous apercevez même quelques Yordles vadrouiller.
+
+
+
+
+
+[STANDS MARCHÉ DE FROSTHELD]
+
+
+
+
+
+TANIA ET JACOB MERISAN : (Couturière 100 - Couple Noble) 37 ans / Humains / Demacia (Hautains - Désintéressés)Parents de Julie Merisan, 
+
+OBJETS : 62 Or - 33 Arg / Pierre de Grétneil (1.10) / Lumivision Hextech (1.5) / Laxatif (6.?)
+
+
+
+
+
+YORDLES GITANS : (Yordles du Voyage) Parlent de Virgule.
+
+Kitze - Kimio - Katsuna - Idris et Bosh (Stand) -  Orionerace (Parti) 
+
+OBJETS : 
+
+SERVICE : Vol / Marchandage / Distraction / Mercenaire (Katsuna et Kimio)
+
+
+
+
+
+
+
+
+
+- PLAINES DORÉES -
+
+MUSIQUE
+
+
+
+
+
+Vous voyez d’immenses plaines d’herbe jaune border tout le tour de Frostheld entre la mer du sur et les chaînes d’Odmünd. 
+
+
+
+
+
+ASTRID : (Éleveuse de Mouflon Géant)
+
+
+
+
+
+ULGOR : (Berger Poro) 85 ans - Humain - Freljord ()
+
+
+
+
+
+
+
+ORIONERACE : (Pèlerin Yordle) ~600 ans - Yordle - Bandle (Optimiste - Perreux)
+
+Voit très mal, peu d'instinct de survie, vraiment très petit (27cm),
+
+
+
+
+
+NADYAH : (Chamane Sacrificielle) 40 ans / Descendante Vastaya / Freljord (Mystérieuse - Intimidante)
+
+Autrefois conquête d’Odvïr, semble vide d’émotion, aime observer les gens, très à l’aise, traumatisée des dragons.
+
+PV : 80/80/ AR-MR : 00-10 / ARME :  
+
+OBJETS : 0 Or - 0 Arg / 
+
+QUÊTE : - En Échange d’un Sacrifice 
+
+
+
+
+
+Repère d’Odvïr :
+
+[DOC]  -  [LORE]  -  [AMBIANCE]
+
+
+
+Vous voyez au loin près d’un bois, des affaissements d’herbe étrangement plats pouvant faire penser à un toit de bâtiment enfouis dans le sol. Au-dessus, un aigle semble faire des rondes.
+
+- Entrée Sud-Ouest (Quartier Général) :
+
+Une fois à l’intérieur, vous découvrez un lieu de vie aménagé à l’intérieur d’une cavité brute, avec tables et des chaises en bois autour desquels l'ambiance semble détendue. Vous pouvez voir une 15aine de bandits. y boire, s'y entraîner, parler et rire entre eux.
+
+
+
+
+
+DAX : (Bras Droit Odvïr) 39 ans / Demi Vastaya (Ours) / Freljord (Stupide - Brute)
+
+Très gros et imposant, bête comme ses pieds, facilement distrayable, rêve d’être alchimiste, fidèle à Odvïr
+
+PV : 130/130 / AR-MR : 10-00 / ARME : Masse / Si volé : Fidèle Nasil (3.2)
+
+QUÊTE : - Rendez-lui la sacoche trouvée à Frostheld (?)
+
+
+
+
+
+GÜLDÜR : (Sublimé Bandit) 
+
+PV : 110/110 / ARM-RM : 10-05 / ARME : 
+
+
+
+
+
+SBIRES D’ODVÏR :
+
+PV : 60/ ARMES : Arcs / Épées / Haches /  Bombes Explosives /
+
+
+
+
+
+- Entrée Nord-Est (Quartier Privé) :
+
+L’ambiance y est d’un coup plus calme. Le lieu semble être réservé à l’élite des Bandits. Beaucoup de matériel y semble entreposé.
+
+
+
+COFFRE (Fermé - lvl 3) : 347 Or - 87 Arg / Vivacium x22 (6.18) / Bombes Fumigènes x10 /  Poudre d’Aurora 30g / Poudre Mothdragon 20g / Aurora Contrarium x1 / Transluiverre x1 (1.15) / Poupée x2 / 
+
+
+
+
+
+ODVÏR (V1) : (Chef des Bandits) 40 ans / Humain / Freljord (Indifférent-Froid)
+
+Raffole du Poivre de Cendre-Pourpre, les menaces droles, Parler des enfants, respecte les tribus indépendantes
+
+PV : 100/100/ AR-MR : 10-0/ ARME : Tranchevif (3.17) 
+
+OBJETS : 42 Or - 13 Arg / Clé x2 (Trappe et Coffre - Repère Odvïr)/ Flacon de Poivre de Cendre-Pourpre (Noxus) / Vivacium x2 (6.18) / Lettres des Conjoints Éternels  Lié à Ott  (1.13) / 
+
+QUÊTE : - LE PLAN DU NÉCROMANCIEN 
+
+                  - Les Manigances d’Odvïr 
+
+
+
+
+
+ - Trappe (mages captifs) : 
+
+
+
+
+
+
+
+
+
+02. CREUX DE VALAR
+
+
+
+Vous arrivez dans un village à quelques mètres d’un port connecté par plusieurs pontons en bois. Les habitations semblent récentes, et les quelques villageois que vous croisez paraissent paisibles et occupés. Sur votre Droite, à l’entrée Sud du village, une grande et large maison avec écrit “Galdraläg” sur sa devanture . A son opposé, vers la sortie Nord du village, en haut d’une petite pente, une bâtisse domine le village et des gardes en armure et cape de couleur jaune et verte tiennent l’entrée.
+
+
+
+TABLEAU D’ANNONCES CREUX DE VALAR (voir fiche)
+
+
+
+
+
+OLGRITE : (Fille Gil et Tjanama) 23 ans / Humaine Altéré (Maudite) / Freljord (Gentille-Entreprenante) 
+
+Cherche l’amour, Apprentie Forgeronne, Maudite, Adore apprendre des coutumes étrangères,
+
+VENTE : (à la forge de RÉGIS)
+
+OBJETS : 
+
+QUÊTE : - La Disparition d’Heeljengdël (étape ?)
+
+
+
+
+
+ MARCUS DU COUTEAU : (General Espion) ~55-60 ans / Humain / Noxus (Calme-Déterminé)
+
+Aime la curiosité,
+
+PV : 170/ ARM-RM : 10-20/ ARME : Lames DuCouteau (Double Dagues une main)
+
+OBJETS : 250 Or - 0 Arg / Cape DuCouteau (équipé) / Ordre de la Rose Noir  /
+
+QUÊTE : - Il ne Doit pas Régner (étape ?)
+
+
+
+
+
+Personnages : Halgrim / Bohort (Oracle) / Rodrick / Gil / Régis  / Pirates / Gardes d’Algar / Villageois / Avarosans (Neutres) / Disciple d’Anivia x2 / 
+
+
+
+
+
+
+
+Au Bribucq Bourré :
+
+CALME - BRUYANTE - MUSIQUE
+
+
+
+[Lore] Vous entrez dans une auberge assez brute, un sol en pierre et en terre, et l’odeur de la mer qui pénétre fortement le bâtiment. Visiblement personne ne sert en salle et le comptoir est vide.
+
+-
+
+Vous voyez un homme se lever, poser de l’argent sur le comptoir et une bière y apparait magiquement devant lui. Vous vous approchez et voyez gravé dans le bois : “Amis de beuverie bienvenu. L’hospitalité ici est à la hauteur de votre donation. Pensez ou dites ce qui vous ferait plaisir, et donnez à hauteur de la qualité que vous cherchez. Attention aux petits malins, la maison fait crédit, mais elle est rancunière avec ceux qui ne payent pas avant de quitter le village. A bon entendeur.”
+
+ISALIA : (Vagabonde Vulpine) 26 ans / Humaine / Freljord (Sûre d’elle-Intimidante)
+
+ GH Espionne , Aime jouer avec les hommes, provocatrice, Raffole d’Hydromel, Déteste la simplicité et l’ennui.
+
+PV : 90/90 / ARM-RM : 10-10 / ARME : Fouet d’Acier 
+
+OBJETS : 14 Or - 21 Arg / 
+
+
+
+BASILE JUNIOR : (Pirate Trafiquant) 30 ans / Humain / Bilgewater (Jojo’s Guy-Intelligent)
+
+Attiré par le charismatiques, Bi, aime les fleurs bleues et le chocolat, phobie des oiseaux.
+
+PV : 130/130 / ARM-RM : 05-00 / ARME : Triple Canon [Triple Canon Trafiqué]
+
+OBJETS : 32 Or - 8 Arg / Lettre de Wilburn / Fiole de Rams Craffle x2 / 
+
+COFFRE : 80 Or / Cartes Bonne-Main / Peluche Renforégo (Virgule) /
+
+QUÊTE : 
+
+
+
+
+
+LES 5 PAPIS : (Piliers de Bar) ? / Humains / ?
+
+QUÊTE : Les 5 Papis (étape 2)
+
+
+
+
+
+Personnages : Kiliann / Halgrim / Bohort (Oracle) / Rodrick / Gil / Régis / Maman / Pirates / Gardes d’Algar / Villageois / Avarosans (Neutres) / 
+
+
+
+
+
+
+
+Chez Maman :
+
+Vous voyez une toute petite maison, qui ne paye pas de mine, avec le strict minimum de mobilier pour vivre. Mais vous voyez également beaucoup de jouets d’enfants dispersés sur des tapis au sol.
+
+
+
+
+
+MAMAN : (Confident intime) 41 ans / Humain / Bilgewater (Fatigué-Rassurant)
+
+Met en confiance aisément, À un immense réseau, proche des orphelins, excellent cuisinier, 
+
+PV : 130/130 / ARM-RM : 10-00 / ARME : Sa Cuisine / Ses paroles
+
+OBJETS : 
+
+COFFRE :
+
+QUÊTE :
+
+
+
+
+
+Galdraläg - Guilde des Musiciens :
+
+[DOC]  -  [LORE]  -  [MUSIQUE]
+
+
+
+Vous entrez dans une grande bâtisse en bois ancien mais bien entretenue. Dans un grand Hall qui donne sur une salle de spectacle et d’instruments de musique, une Vastaya à l’apparence de Mouton vous accueille : “Oh des étrangers, bonjour ! Vous venez pour le Bal d’Algar ?”
+
+
+
+MAYËLLE : (Mage Musicienne 100) 101 ans / Vastaya (Mouton) / Targon (Timide-Taquine)
+
+Malheureuse pour sa Harpe perdue, Chef du groupe “Muramana”, aime les étrangers, aime rendre les gens heureux. 
+
+PV : 90 / ARM-MR: 00-10 / ARME : Heeljengdël (3.21) Disparue /
+
+CAPACITÉES : Brise tympan (40 DM) / Ultime : Charmélodie (Charmé L) / 
+
+QUÊTE : - La Disparition d’Heeljengdël / Si Harpe retrouvée : MAYËLLE (HARPE) 
+
+
+
+
+
+GROUPE “MURAMANA” : (Groupe complet)
+
+Erynda (23 ans / Humaine / Flûte) / Ereborn (25 ans / Humain / 2nd Flûte) / Tuu (222 ans / Yordle Mâle  / Percussions) / Kaleem (23 ans / Humain / Violon) / Blake (? / Vastaya Mâle / Cuisinier 80) 
+
+
+
+
+
+
+
+Palais du Roi Algar :
+
+
+
+
+
+ROI ALGAR II (WILFRIED) : (Descendant du Roi) 32 ans / Humain / Piltover (Grossier-Têtu)
+
+Imbus, Aime la lèche, se croit érudit, 
+
+OBJETS : 
+
+COFFRE : 
+
+QUÊTE : Sécurité pour le Bal(25 Or/p)/ Serveur-Cuisine du Bal(10 Or/p)/ Garde rapprochée (40 Or 1p)/
+
+
+
+
+
+ALFRID : (Conseiller Roi Algar) 36 ans / Humaine / Piltover (Répugnant-Égoïste-Sadique)
+
+Hypocrite et Lèche cul d’Algar, Sans dignité, opportuniste,  
+
+OBJETS : 
+
+COFFRE : 
+
+QUÊTE : Sécurité pour le Bal(30 Or/p)/ Serveur-Cuisine du Bal(10 Or/p)/ Garde rapprochée (50 Or 1p)/
+
+
+
+
+
+ROI ALGAR I (RUDOLPH) : (Roi Creux de Valar) 78 ans / Humain / Piltover (Méprisant-Avare)
+
+Mourant, Rêve d’avoir une tenue crée par Tania Merisan, 
+
+OBJETS : 
+
+COFFRE : 
+
+QUÊTE : 
+
+
+
+
+
+
+
+[BAL D’ALGAR]
+
+
+
+
+
+Le Bal d’Algar - Pièce Commune :  MUSIQUE (Bonus si Harpe Magique) 
+
+
+
+Vous accédez à la Salle commune ou le Bal à déjà commencé. Les musiciens s’installent sur la scène, les gens mangent, boivent, jouent et discutent entre eux.Dans le fond, deux gardes royaux sont de part et d'autre d’une porte fermée de rideaux verts.
+
+
+
+Personnages : Gil/ Regis/ Kiliann/ Blake (cuisine)/ 
+
+
+
+
+
+Le Bal d’Algar - Pièce du Roi : 
+
+
+
+Vous entrez dans la Salle Royale, de riches nobles sont assis à table, et le Roi est sur une grande table avec ses proches devant un feu de cheminée géant.
+
+
+
+MAXENCE : (Assassin Éthérique) 29 ans / Humain / Noxus (Mystérieux-Calme)
+
+PV : 100/ AR-MR : 10-00 / ARME : Dague Éthérée “Ynshaarum” (3.?) / Dague Discrète x1 /
+
+OBJETS: 1 Fiole Poison (puissant) - Dossier “Ryze” /  Message Mission  /
+
+
+
+
+
+Personnages : Algar II / Alfrid / Isaelle / Bohort / Nobles Freljordien / Gardes / Groupe Muramana /
+
+
+
+
+
+
+
+
+
+Port du Creux :
+
+[DOC]  -  [LORE]     
+
+
+
+Vous arrivez sur un port peu entretenu, aux eaux troubles et relativement peu profond sur lequel est amarré quelques petits bateaux, la plupart sans bannières. Bon nombres de pontons disposés de façon chaotique encerclent un bâtiment construit dans un bateau duquel des gens entrent et sortent.
+
+
+
+
+
+RODRICK : (Maître-Port 90) 51 ans / Humain / Freljord (OBJETS : 
+
+QUÊTE : Transportez des Marchandise : 
+
+
+
+1. Le Roncier Rouge - Grand Bateau Pirate :
+
+Grand et beau bateau à la coque noir fumée et aux voiles rouges fambloyante, ornée de dorures. Drapeau d’une étoile à 5 branches de chaque couleur sur fond noir.
+
+
+
+PV : 
+
+ARM-RM : 
+
+ARMES : 
+
+COFFRE : 
+
+STOCK : 
+
+
+
+
+
+OBÉRIN : (Capitaine Pirate) 36 ans / Humain / Bilgewater (Manipulateur-Intimidant)
+
+Met en confiance aisément, À un immense réseau, proche des orphelins, excellent cuisinier, 
+
+PV : 100/100 / ARM-RM : 00-00 / ARME : Vière Rouge (3.?)
+
+OBJETS : 67 Or - 03 Arg / Pièce de Huul (1.L-?) / 
+
+QUÊTE : Une Livraison pour Basile - étape 4
+
+Équipage : 24 pirates / Dago (Félice Aqualite) / 
+
+
+
+
+
+
+
+Forge de Régis :
+
+[DOC]  -  [SON]
+
+
+
+La forge de Régis est plutot grande est proche d’une petite marre. Elle possède une grande source de chaleur et d’un espace extérieur et intérieur. Une jeune fille rousse et corpulente semble s’exercer au métier. 
+
+ 
+
+
+
+RÉGIS : (Forgeron 85) 46 ans / Humain / Freljord (
+
+PV : 80 / ARM-RM : 10/00 / ARME : 
+
+OBJETS : 
+
+SERVICES : 
+
+
+
+
+
+
+
+
+
+03. CHAÎNES D’ODMÜND
+
+[DOC]  -  [LORE]  -  [MUSIQUE]
+
+
+
+
+
+Vous entreprenez un long périple en longeant les montagnes enneigées de la Vallée d’Odmünd. Le sol est chargé en forêts de sapins et d’Hues, puis passé les premières dizaines de kilomètres, uniquement des étendues rocheuses et enneigées. Un peu de végétation peut apparaître au cours de la journée.
+
+
+
+En face de vous, un chemin indiquant la Ville de Fyord’al Kurgën, mais deux chemins hors pistes semblant mener au même endroit s'ouvrent devant vous. 
+
+
+
+
+
+
+
+
+
+- DIRECTION FYORD’AL KÜRGEN -
+
+
+
+
+
+AVAROSANS  PILLARDS  :
+
+
+
+
+
+SOLDATS DEMACIENS :
+
+
+
+
+
+WILHELM TORNEVENT :
+
+
+
+
+
+GAVROCHE (PIERRE) :
+
+
+
+
+
+AYDEN MAYNE :
+
+
+
+
+
+GROS CAILLOUX (GAVROCHE) : (Péagiste Perfide) 68 ans / Humain (Maudit) / Noxien (Égoïste-Vantard)
+
+Déteste les Squatteurs, Aime l'argent, fuyard,
+
+OBJETS : 
+
+QUÊTE : - Il est Bizarre ce Cailloux Non ?! (étape 1)
+
+
+
+
+
+
+
+
+
+- HORS PISTE FYORD’AL KÜRGEN -
+
+
+
+
+
+AVAROSANS :
+
+
+
+BJÖRLD : (Protecteur Animalier) 92 ans / Humain / Freljord (Sur ses gardes-Sympathique)
+
+Adore courir, proche de Braum, Aime tous les animaux, compagnon de Porotecteur,
+
+PV : 130/ AR-MR : 20-10 / ARME : Bolasses Pierre Runique 
+
+OBJETS : Porosnax x20 / Fourrure de Björld (1.9) / 
+
+QUÊTE : - Rapportez des Poros égarés à Ulgor (10 Or/unit)/ 
+
+                  - l’Éclat Perlé Bleu du Grand-Nord 
+
+
+
+
+
+FAMILIERS : POROTECTEUR/ 
+
+                         PV : 80/ ARM-RM : 5-5
+
+                         POROS : (x6)
+
+                         PV : 30 
+
+
+
+
+
+OEUF DE DRAGON :
+
+
+
+PRÊTRE MUET (BALGÜR) :
+
+
+
+TRIBU LORKAK (DRACONIERS) : 
+
+
+
+
+
+
+
+
+
+- DIRECTION FAILLE DE BORRVOK -
+
+
+
+
+
+
+
+
+
+
+
+- DIRECTION FAILLE DE BORRVOK -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+02.1. PORT DE RYGANN
+
+
+
+
+
+Vous arrivez au Port de Rygann. Face à vous un paysage chaotique vraisemblablement figé dans le temps. Des forêts détruites, du bois moisi au sol, des ruines et vestiges d’un ancien village couvert d’une fine couche de brume vous prend d’une angoisse indescriptible. Parmi ces bâtisses détruites, une seule habitation semble relativement entretenue artisanalement, mais surtout éclairée. 
+
+
+
+
+
+Maison de Fortune (Mage) :
+
+Note…
+
+
+
+
+
+OGALVIIN : (Gardien du Maléfice) ??? / Humain / Freljord (Méfiant - Intimidant)
+
+Destiné à garder le village d’un maléfice, garde de génération en génération, 
+
+PV : 180 / AR-MR : 10-20 / ARME : 
+
+QUÊTE : 1.Allez lui chercher des vivres (Bonus: faire à manger/Lui tenir compagnie)
+
+
+
+
+
+
+
+
+
+
+
+04. FAILLE DE BORRVÖK
+
+[DOC]  -  [LORE]  -  [MUSIQUE]
+
+
+
+
+
+Note
+
+
+
+
+
+
+
+- BORRVÖK’VAEL -
+
+
+
+Note
+
+
+
+
+
+
+
+
+
+- BORRVÖK’KJAL -
+
+
+
+Note
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+04. FYORD’AL KÜRGEN
+
+[DOC]  -  [LORE]  -  [MUSIQUE]
+
+
+
+
+
+Vous arrivez devant l’entrée du village, suspendu au sommet d’une montagne, avec une vue - quand le temps est clément - d’un côté sur Frostheld et de l’autre sur le lac géant de Rakelstake comme indiqué sur les panneaux. Face à vous se dessine une grande allée pavée de pierres qui traverse des bâtisses en bois sombre et robuste. Tous derrière, le sommet d’une montagne qui domine la ville, avec sur son flanc des tours de pierres grises et des cheminées qui fument. Divers commerces et services s’offrent aux villageois qui semblent préoccupés par un tout autre événement. A l’entrée du village, vous pouvez y voir une banderole avec écrit dessus “La Grande Tablée”. Le village semble bien peuplé et festif, des musiciens jouent dans les rues, des gens font des spectacles en pleine ruelle, et même les animaux semblent joyeux.
+
+TABLEAU D’ANNONCES FYORD’AL KURGËN (voir fiche)
+
+
+
+
+
+BRONN : (Épéiste Mercenaire) 42 ans / Humain / Demacia (Déloyale-Brute)
+
+Fidèle au plus offrant, N’aime pas la magie, Très égoïste et avare, Ancien proche des Laurent
+
+PV : 100/100 / ARM-RM : 10-00 / ARME : 
+
+
+
+
+
+VASKAN : (Apprenti Avarosan) 212 ans / Yordle / Bandle (Aventurier-Investigateur)
+
+Aime beaucoup le froid, déteste voler, raffole des Rooyes des neiges, vit dans un arbre.
+
+PV : 90/90 / ARM-MR : 05-05 / ARME : Dague Avarosan  
+
+
+
+
+
+
+
+L’Entre du Mouflon :  
+
+[DOC]  -  [MUSIQUE] / [CALME] / [BRUYANTE]
+
+
+
+Note…
+
+
+
+
+
+MOÏR : (Aubergiste Brasseur) 58 ans / Vastaya (Ondrashi) / Freljord (Caractériel-Semi Célèbre)
+
+3 fois vainqueur concour brasseur Gragas,
+
+PV : 120/120 / AR-MR : 05-10 / ARME : 
+
+VENTE : Nourriture / Bière (1 Or) : Houblon Fort / Toundravageuse (Graclure Argentée)* / Triple Nordique / Soufre d’Ornn (Acide Pimentée) / 
+
+SERVICE : Recrute Service (6 Arg /nuit) / Brasse bière sur demande (5-10 Or) / 
+
+OBJETS : 
+
+COFFRE : 88 Or - 41 Arg / 
+
+QUÊTE : - Cherche Aide pour la Grande Tablée                  - Le Péage de Gavroche 
+
+
+
+
+
+LES 5 PAPIS : (Piliers de Bar) ? / Humains / ?
+
+QUÊTE : Les 5 Papis (3 - Fyord’al Kürgen)
+
+
+
+
+
+Personnages : Yësnir / Bolvir / Bronn / Astrid / Vagabond(Vulpin) / Soldat Avarosan / Vaskan / 5 Papis / Wilhelm / Yolenda / 
+
+
+
+
+
+
+
+Chez Bolvir Quincaillerie: 
+
+
+
+
+
+OBJETS : 
+
+COFFRE : 
+
+
+
+
+
+
+
+L'Alchimysterie de Yolenda : 
+
+Vous entrez dans une belle et vaste pièce remplie d’armoires en bois sur lesquelles sont disposées de nombreuses fioles, une immense fenêtre qui donne sur la Tour de Rodgar, et d’un laboratoire des plus modeste et magnifique jamais vu.
+
+
+
+YOLENDA (LABO)  OTT  : (Alchimiste 100) 26 ans / Humaine Altéré / Freljord (Douce-Froide)
+
+Aime son travail plus que tout, Spécialiste poison et malédictions, Proche de Ivan Rodgar, Conspiration.OBJETS : Potions/Fioles
+
+COFFRE :  
+
+
+
+
+
+
+
+Forge de Yësnir : 
+
+
+
+
+
+YËSNIR RODGAR : (Forgeron Armurier) 30 ans - Freljord/Noxus (Souriant - Calme)
+
+Végétarien, Adore les chiens, amoureux de Yolenda, Fils Ivan Rodgar,
+
+
+
+
+
+
+
+Tour de L’assemblée :
+
+
+
+- Salle du Conseil : 
+
+
+
+IVAN RODGAR : (Seigneur de Fyord’Al Kürgen) 57 ans / Humain / Freljord (
+
+Père de Fjona et Yësnir, amoureux de Yolenda, conspire avec Yolenda (ne connaît pas Ott), 
+
+QUÊTE : - La Chute de Algar (étape ?)
+
+
+
+
+
+GUDMUR : (Garde Avarosan) 29 ans - Humain - Freljord (Idiot-Simplet)Paraît complètement idiot et naïf, une mémoire exceptionnelle, rapporte tout au seigneur Rogard, très fidèle. 
+
+PV :  120/ ARM  : 20
+
+
+
+
+
+- Balcon des Sublimés : 
+
+
+
+ASHE : (Archère de Givre) 29 ans - Humaine / Freljord (Préoccupée-Sérieuse)
+
+Dévastée par la perte de Isolda, Aime les stratèges politiques/millitaire, lié par le sang Tryndamere, 
+
+PV : 160 / ARM-RM: 10-10 / ARME : Arc d’Avarosa (Glace Pure)
+
+CAPACITÉS : Salve / Aigle des Augures / Flèche de Cristal (Ult)
+
+OBJETS : Haro de Ashe (1.L-6) / Amulette d’Anivia Chargée (1.1-2) / 
+
+QUÊTE : - À LA RECHERCHE D’ISOLDA - étape ?                   - Le Bizutage Avarosan - étape 3
+
+                  - Ramenez Vrynna vivante (+1 Grade Avarosan)
+
+                  - Retrouvez Hakan l’archer déserteur ( )
+
+
+
+
+
+Vous arrivez à négocier votre départ a Rakelstake : “Départ demain matin 7 heures. Bonne nuit !”
+
+Vous sortez du bâtiment alors que le soleil se couche, et vous retrouvez sur une grande place. 
+
+
+
+
+
+
+
+Au loin, vous pouvez apercevoir par la porte sud, qu’une armée de gardes rentre dans le village suivi d’une Guerrière chevauchant une monture aux allures de cheval à cornes aux poils longs, qui semblait mener le régiment. Le peuple se met à crier “Gloire à ASHE”. Mais la guerrière semble bien préoccupée et va directement se réfugier dans ses habitats précipitamment avec d’autres généraux.
+
+Devant la porte se tient deux Gardes Royaux (Très difficile à convaincre)“Ramenez nous la tête de quelques Parjures des montagnes et peut être alors vous prouverez votre détermination”
+
+Vous réussissez à parvenir jusqu'à ASHE, appuyée sur une table sur laquelle est posée une géante carte stratégique de Freljord avec trois autres généraux autour. Elle vous voit et se précipite vers vous, elle ferme des rideaux et vous menace avec une lame de glace :“Comment êtes-vous entrés ici ?!”
+
+
+
+Lieu : A votre droite un Reliquaire et un poissonnier ; en face une petite fête avec de la musique et des jeux ; à gauche l’Auberge du Verglas et son Pub. Derrière vous une forge et une armurerie collée l’une à l’autre.
+
+
+
+
+
+SNEKKJA : (Bateau Nordique) Petit (4 couches) 
+
+PV : 80 / ARM-RM : 20-00
+
+STOCK : 3 Coffres x10 : Emplacement Caisses x10 :CAGE : P x2 : Vide - Vide / M x2 : Vide - Vide / G x1 : Vide 
+
+
+
+
+
+En marchant près des côtes, vous apercevez un navire accosté sur la plage. Les voiles sont repliées et une échelle est posée du sol au bateau. 
+
+
+
+Soudainement quelqu’un apparaît de la forêt à toute allure sur le dos d’un Griffeur 
+
+Alpha : “Que puis-je pour vous messieurs ? Vous me voliez ?” en tentant de vous impressionner sur le dos de sa bête.
+
+Il vous propose de vous amener au Creux de Valar moyennant un service.
+
+
+
+
+
+
+
+
+
+
+
+05. RAKELSTAKE
+
+MUSIQUE
+
+
+
+
+
+Vous descendez le flanc d’une colline plutôt raide qui s’ouvre sur une immense étendue encerclée de montagnes, un très grand Lac, gelé par endroits, entoure des terres sur lesquelles se dresse une grande ville sur votre droite semblant être la Capitale Avarosan. Tout à gauche, vous pouvez distinguer une statue géante qui domine sur des constructions surplombée par une montagne, laissant deviner qu’il s’agit du Trône ou siège Ashe, la cheffe sublimée. Face à vous, au pied des montagnes bordant le Sud et l’Ouest de Rakelstake se trouve une vaste forêt permettant d’y accéder.
+
+
+
+Si Ashe est présente : [QUÊTE]
+
+Ashe fait signe à la troupe de s'arrêter. Elle vise le ciel avec son arc et tire une flèche brillante qui se transforme en oiseau de lumière. L’oiseau part en quelques secondes à des kilomètres plus loin. Toute la troupe reste silencieuse quelques minutes.
+
+
+
+Puis soudainement, une horde d’Avarosans portant des bannières et différentes armes, chevauchant des Elnuks, des chevaux et d’autres créatures encore inconnues pour vous, cavalent vers vous. Ashe descend de sa monture le sourire au lèvres, c’est la première fois que vous la voyez sourire depuis que vous la connaissez. Elle se précipite vers le guerrier qui mène la horde. Ils s'enlacent et s’embrassent intensément. Après avoir parlé avec le guerrier, Ashe vous présente: “ Voici mon premier et unique Lié-par-le-sang Tryndamere. Il me dit qu’il devait partir pour défendre un des villages qui a été attaqué dans les bouches de Rakelstake vers le croisement des terres. C’est pas très loin de votre destination, vous pouvez donc partir avec lui la-bas, ou venir avec moi combattre les forces de Sejuani.
+
+
+
+
+
+
+
+- FORÊT D’YRRGOVID -
+
+
+
+Vous pénétrez une forêt dense et partiellement enneigée. 
+
+
+
+Direction Rakelstake Trône : 
+
+
+
+BOJACK : (Pellerin Conteur) 67 ans / Vastaya / Runeterra (Souriant-Fouineur)
+
+Il adore distraire les gens, il est un cleptomane à son insu, il a peur des chats.
+
+PV : 80/80 / ARM-MR : 00-10 / ARME : Épée Avarosan
+
+OBJETS : 23 Or - 7 Arg / Boussole Ixtali (1.7) / 
+
+QUÊTE : - Le Bizutage Avarosan
+
+
+
+Direction Rakelstake Village : 
+
+
+
+Maison de Bjëve :
+
+
+
+Vous trouvez une grande étendue d’herbe en plein cœur de la forêt avec une maison en son centre. Elle semble habitée car vous pouvez apercevoir de la lumière à la fenêtre et des draps étendus près du mur. 
+
+
+
+BJËVE : (Vieille dame) 96 ans / Humaine / Freljord (Bienveillante-Entreprenante)
+
+Tante de Odvïr, Fréquente quelques amants vigoureux, joue la sénile pour éviter certains sujets,
+
+OBJETS : 
+
+COFFRE : 
+
+QUÊTE : - Les Manigances d’Odvïr (étape 5)
+
+
+
+ ODVÏR V2 (CACHÉ) : 
+
+
+
+
+
+
+
+
+
+
+
+- RAKELSTAKE TRÔNE -
+
+
+
+
+
+Vous arrivez devant la grande entrée de Rakelstake Trône. Vous voyez de très longues paroies de part et
+
+d’autre d’un immense couloir de pierre submergé par de nombreuses arches d’haches géantes tout au long de l’allée.
+
+
+
+
+
+HRAFNDRA ET SKALDRNN : (Chamane et Apprentie Oracle) 22 ans / Humaine / Freljord (Calme-Curieuse)
+
+PV : 100 / ARM-RM : 00-10 / ARME : 
+
+
+
+
+
+Vous pénétrez dans l’enceinte des murs de Rakelstake Trône, une cité de pierre creusée et construite dans la montagne, où vivent des guerriers Avarosans et leurs familles, des membres de tribu fidèle aux Avarosans et des pèlerins venus prêter serments envers Ashe, la grande cheffe de Guerre.
+
+
+
+La cité est divisée en 3 parties : 
+
+- L’allée Centrale : un immense couloir bordé de géantes haches de pierres qui donne jusqu'à la statue d’Avarosa. 
+
+- La partie de Droite : elle est la plus ensoleillée, avec des camps avarosans, des arènes d'entraînement, des enclos pour les bêtes et diverses activités guerrières.- Et la partie de Gauche : Elle est plongée dans l’ombre de la montagne qui la submerge, avec des quartiers d’habitations à flanc de falaise, une grande Auberge, une place marchande dédiée au troc, une cathédrale et la salle du trône tout au bout.
+
+
+
+
+
+Allée Centrale :
+
+Vous arrivez dans une très longue allée bordée de géantes haches qui surplombent l’immense couloir qui s’étend sur quelques kilomètres devant vous. Vous croisez du beau monde qui s’y balade de long en large. Vous y voyez des Avarosans vaquer à leurs occupations, des pèlerins qui semblent découvrir les lieux, et des montures en tout genre qui transportent de la marchandise ou juste se baladent avec leur propriétaires. 
+
+
+
+
+
+
+
+
+
+Quartier Camps Avarosan :
+
+Note…
+
+
+
+
+
+YUSONEH : (Maître Sabre 80) 33 ans / Humain / Ionien (Calme-Pédagogue)
+
+PV : 100 / ARM/RM : 00-00 / ARME : 
+
+
+
+
+
+Quartier Arènes Avarosan :
+
+Note…
+
+
+
+
+
+
+
+
+
+Quartier du Fond :
+
+Au bout de la grande allée, derrière la statue d’Avarosa, vous trouvez le quartier du fond. Cette zone est toujours dans la pénombre de la montagne qui la surplombe mais le morceau géant de Glace Pure que tient la statue éclaire les lieux d’une lumière bleue. On y trouve les habitations Avarosans et leur famille, mais également les quartiers généraux. 
+
+
+
+
+
+
+
+Quartier du Troc :
+
+Vous arrivez derrière des bâtiments qui surplombent l’intérieur d’une grande cour remplie de divers marchands. Tout le monde semble s’y prêter, les Avarosans et les pèlerins venus de toute part semblent troquer absolument de tout. 
+
+
+
+
+
+
+
+Auberge Le PermaFrost : 
+
+[DOC]  -  [LORE]  -  [MUSIQUE] / [BRUYANTE] 
+
+
+
+Vous arrivez devant une grande bâtisse qui donne sur une cour avec autant de gens dehors que dedans. Il y a beaucoup de bruits, des gens qui rigolent, d’autres qui jouent à des jeux à dos d’Elnuk, et le tout mené par une troupe de musiciens qui égaye tout ce beau monde. Le lieu regorge d’Avarosans et de Pèlerins qui trinquent tous ensemble.
+
+-
+
+Un fois à l’intérieur vous remarquez que le lieu est immense et réparti sur deux étages.
+
+- En bas il y a des tables, un comptoir et une scène avec un groupe qui joue de la musique et des gens qui dansent.
+
+- En haut, vous voyez une grande surface tout autour des murs de l’Auberge, qui donne sur des chambres pour les Pèlerins.
+
+
+
+
+
+RODRUN : (Aubergiste Permafrost) 44 ans / Humain Altéré (Maudit) / Freljord (Taquin-Jovial)
+
+VENTE : Boissons Bizutage Avarosan (5.0) / Vivres (3 Arg à 2 Or)SERVICE : Chambre double x4 (1 Or)/ Chambre simple x3 (5 Arg)OBJETS : Clé coffre Rodrun/COFFRE : 
+
+
+
+
+
+LES 5 PAPIS : (Piliers de Bar) ? - ? - ?
+
+QUÊTE : Les 5 Papis - étape 4
+
+
+
+
+
+
+
+Le Temple des Sublimés :
+
+Note…
+
+
+
+
+
+
+
+La Salle du Trône :
+
+[DOC]  -  [LORE]  -  [MUSIQUE]
+
+
+
+Vous entrez dans le batiment, des soldats Avarosans vous dirigent vers la grande salle ou vous attend Ashe et son Oracle, Tryndamere, Revna, ainsi que la jeune fille (Hrafndra) que vous avez vu à la grande porte, et une drôle de femme exotique (Nilah) à la peau matte, dans une tenue légére, assise non chalament dans le fond de la pièce qui ne semble pas prêter attention à ce qu’il se passe.
+
+
+
+
+
+ASHE : (Archère de Givre) 29 ans - Humaine / Freljord (Préoccupée-Sérieuse)
+
+Dévastée par la perte de Isolda, Aime les stratèges politiques/millitaire, lié par le sang Tryndamere, 
+
+PV : 160 / ARM-RM: 10-10 / ARME : Arc d’Avarosa (Glace Pure)
+
+CAPACITÉS : Salve / Aigle des Augures / Flèche de Cristal (Ult)
+
+OBJETS : Haro de Ashe (1.L-6) / Amulette d’Anivia Chargée (1.1-2) / 
+
+QUÊTE : - À LA RECHERCHE D’ISOLDA - étape ?                   - Le Bizutage Avarosan - étape 3
+
+                  - Ramenez Vrynna vivante (+1 Grade Avarosan)
+
+                  - Retrouvez Hakan l’archer déserteur ( )
+
+
+
+
+
+REVNA : (Gardienne des Traditions) 35 ans - Humaine Sublimé - Freljord (Brutale-Dévouée)
+
+Sublimée, caractère trempé, ne tient pas sa langue dans sa poche, aime les hommes forts, aime la loyauté
+
+PV : 180 / ARM/RM : 20-20/ ARME : Hacharalgär (Hache à une main)
+
+CAPACITÉES : 
+
+OBJETS :
+
+QUÊTE : - LE PLAN DU NÉCROMANCIEN - étape 4
+
+                  - Le Bizutage Avarosan - étape 5 
+
+
+
+
+
+TRYNDAMERE : (Roi Barbare) 34 ans - Humain (Sauvage/Déterminé)
+
+Lié par le sang de Ashe, Chef de troupes, 
+
+PV : 250/ AR-RM : 10-0 / ARME : Fureure (Épée Barbare)
+
+Balafre - Soif de Sang [T3]+20 PV - Rage de Berserker
+
+OBJETS :QUÊTE : - Repousser les indésirables (Rakelstake Bouche)/ 
+
+
+
+
+
+NILAH : (De la 7ème Strate) ??? - Kathkan (Joyeuse-Déterminée)
+
+
+
+
+
+
+
+
+
+
+
+- RAKELSTAKE VILLAGE -
+
+MUSIQUE
+
+
+
+Vous voyez au loin une magnifique ville, visiblement la plus grande que vous ayez vu jusqu'à ce jour. 
+
+cette magnifique ville d’Avarosans est divisée en deux parties : 
+
+Droite : 
+
+Auberge de La Chouette Éméchée / Dario Animalerie / F&K Forge / Enchantarium d’Ulfric (Alchimiste Enchanteur) / Caserne Avarosan / Quartier du Marché /  Le Réseau (Guilde des Voleurs)  / Habitation Quartier Est /  Maison Guy Bessac  / 
+
+
+
+Gauche : 
+
+Helling Deril (École des Guildes) / Enclos d’Edna /  Le Gouffre (Taverne secrète)  / Quartier du Marché /  Le Réseau (Guilde des Voleurs)  / Habitations Quartier Ouest /  Chez Romuald (Papa Grü)  /  Chez Ingvar  / 
+
+
+
+
+
+
+
+INGVAR : (Jeune Aventurière) 
+
+
+
+“On a l’habitude de voyager, on est tout le temps sur la route de l’autre côté des croisements des terres. Mais depuis quelques temps, papa et maman préfèrent que je reste ici parce que c’est devenu trop dangereux là-bas, les villages se font souvent attaquer par des bandits, et même des créatures. Donc par manque d’aventure, j’ai dessiné plein d'histoires. De temps en temps, je pense à tonton Bjerg, il est parti à l’aventure depuis plusieurs semaines et n’est toujours pas rentré, mais j’suis sûr qu’il vit plein d’aventures. J’aimerai trop aller le rejoindre, mais papa et maman disent que c’est trop risqué parce que je suis trop petite. Mais ils me connaissent pas, j’suis plus rusée que tous les trolls réunis. J’ai même déjà combattu un Yéti avec un Abravif des Neiges qui protégeait ses petits, mais mes parents ne me croient pas…
+
+
+
+
+
+
+
+Auberge la Chouette Éméchée :
+
+[DOC]  -  [LORE]  -  [MUSIQUE] / [CALME] / [BRUYANTE] 
+
+
+
+
+
+NESTOR (ET LILIANE) : (Aubergiste Cuisinier) 63 ans / Humain / Freljord (Chaleureux-Avenant)
+
+VENTE :
+
+SERVICE :
+
+OBJETS :
+
+COFFRE :
+
+
+
+
+
+AMALDA : (Jeune Serveuse) 29 ans - Humaine - Freljord (Joyeuse-Manipulatrice)
+
+Adore raconter des rumeures fausses, aime l’argent, joue avec sa beautée,
+
+
+
+
+
+FRIDA : (Serveur Blasée) 31 ans / Humaine / Freljord (Blasée-Nonchalante)
+
+
+
+
+
+SYLVAIN : (Explorateur Avéré) 41 ans - Humain - Demacia (Curieux-Sympathique)
+
+Gradé “Grand Explorateur” par la Guilde, Aime le chocolat chaud, A visité plusieurs continents.
+
+
+
+
+
+LES 5 PAPIS : (Piliers de Bar) Vieux (Johan commence à l’être maintenant) - Humains - ?
+
+QUÊTE : Les 5 Papis - étape 5
+
+
+
+
+
+Personnages : Grete / Marchands Piltoviens /  Malik  / Avarosans / Poros / 
+
+
+
+
+
+
+
+Enchantarium d’Ulfric :
+
+Vous arrivez devant une bâtisse colorée aux structures courbés et asymétriques, portant le nom d’ “Enchantarium d’Ulfric - de Père en Fils”. Les fenêtres émettent par moment des flash de lumière magique qui illuminent la ruelle.
+
+
+
+
+
+ULFRIC : (Alchimiste/Enchanteur 85) 44 Ans / Humain Altéré / Freljord (
+
+Poti Monsieur
+
+VENTE : 
+
+OBJETS: COFFRE : 
+
+QUÊTE : - Les Fromages aux 6 Âmes
+
+
+
+
+
+
+
+F&K Forge :
+
+Note…
+
+
+
+
+
+FISKE : (Père Forgeron 90) 38 ans / Humain / Freljord (Dur mais Juste-Intransigeant)
+
+
+
+
+
+KINDRA : ( Fille Forgeronne 60) 13 ans / Humaine / Freljord (Rêveuse-Ambitieuse)
+
+
+
+
+
+
+
+
+
+
+
+
+
+OLBUKRN
+
+
+
+
+
+Olbukrn est une région au-delà des bouches de Rakelstake plus froide et plus aride. La magie des bouches protège au mieux les dangers de ces régions. C’est l'antre du Nord du Freljord, là où logent les Trolls, les Yétis, la Griffe Hivernale, et toutes sortes de Parjures et Pillards. Plus on progresse, moins la civilisation y est présente.
+
+
+
+
+
+Tribue des Skjaldar (OLGA) :
+
+
+
+
+
+OLGA STORÖK : (Chef de Tribu) 45 ans - Freljord (Dévouée-Rude)
+
+ Championne de Frostheld (morte) Voyage dans le passé , Mère de ???, 
+
+PV : 130/ AR-MR : 10-10/ ARME : Brise Époque
+
+OBJETS : 
+
+QUÊTE : Découvrez le secret des Skjaldar/  Rapportez lui Arya /
+
+
+
+
+
+
+
+
+
+
+
+Maison Abandonnée  (Kegan) :
+
+
+
+Dans les débris, une voix grognant silencieusement “Il n’en n’ont que faire de mes histoires. Ils préfèrent tous les histoires du grand Ryze, et de ses prouesses légendaires, mais jadis… jadis il était différent.”Vous ne voyez personne, mis à part des débris, des ruines et du bois qui flambe et crépite.La voix baissa de ton : “Chuuuut, tu parles trop, des étrangers arrivent, ils vont t’entendre.”*Parler de Ryze*Le feu vous répondit : “Tu vois ! Ils n’ont que ce nom à la bouche ! Personne ne parle de Kegan, ni même de Rygann… Pardonnez moi, je n’ai plus vraiment toute ma raison.. Que faites-vous ici ?”
+
+
+
+“Ne me laissez pas seul ici s’il vous plaît ! Je n’aime pas cet endroit, il est triste et sinistre. J’ai toujours rêvé de rejoindre les flammes d’une belle forge afin d’enchanter une arme. Je veux aussi faire partie des comptes comme le Mage Bleu. Je peux même vous y guider si vous le voulez.”
+
+
+
+
+
+
+
+
+
+
+
+Massif :
+
+(Direction Glaserport - Freljord / près)
+
+
+
+Vous marchez le long des massifs, puis soudainement une meute de Loup Givrecroc vous attaque.
+
+LOUP GIVRECROC x6 :
+
+PV : 40 / FORCE : 70 / AGILITÉ : 70
+
+
+
+Le dernier loup prend la fuite. Il se dirige jusqu'à l'entrée d’une grotte.
+
+
+
+La Grotte de Glaserport (Moyenne) :
+
+
+
+A l’entrée de la grotte vous apercevez un long couloir sombre de roche et de glace. L’air y est agréable et bien moins frais étrangement 
+
+Vous arrivez dans une grande cavité avec un grand lac d’eau bleu turquoise. 
+
+Au bout, petite cascade qui donne sur un palier inférieur. Des chemins qui mènent de part et d’autre de la grotte.
+
+
+
+JACOB : (Sorcier - Maître Loup) Humanoïde Loup (Dérangé/Concentré)
+
+Toge de Mage Noir, Tête et pattes de Loup Gris sur corps humain (automalédiction)
+
+PV : 70 / MAGIE : 80 OBJETS : 
+
+
+
+
+
+Dorovik vous dépose au port de Creux de Valar. En descendant, vous voyez un village en côte, froid et assombri par les nuages épais qui survolent en permanence la Région.
+
+La lumière des feux de cheminés qui éclairent les fenêtres des habitations sont réconfortantes, comme si vous veniez de rentrer chez vous.
+
+
+
+
+
+
+
+Lieu : - Gauche : Chemin vers Port de Rygann- En face-Gauche : Chemin qui monte vers une grande Maison entourés de rochers (Guilde des Musiciens)
+
+- En face-Droite : Habitations , Grande forêt d’Olga.- Droite : Chemin vers Bord de mer 
+
+
+
+
+
+
+
+
+
+
+
+GLASERPORT
+
+
+
+
+
+
+
+
+
+Vous arrivez dans un campement de tribus d’une 40aine de Freljordiens. Des créatures que vous n’avez encore jamais vues, attachés près des souches d’arbres fraîchement abattus pour allumer le grand feu au centre du campement. Des bannières sont piquées aux pieds des tentes en cuir, des hommes mangent en silence autour du feu, où cuit des bêtes aux fortes odeurs faisandées peu appétissantes, derrière des toiles de tentes qui coupent du vent.
+
+Les gardes vous jettent au pied de 3 Guerriers discutant autour d’un feu plus loin de ceux des autres : “Tenez Mère Cicatricielle, ce sont des étrangers qui espionnaient non loin du campement.”
+
+La première guerrière se lève : “j’espère que vous avez une très bonne explication pour nous déranger pendant le repas, auquel cas vous alimenterez le feu et nourrirez nos Ud’vakk.”
+
+
+
+
+
+Campement Ildhaurgar (Indépendant) : 
+
+
+
+
+
+
+
+
+
+
+
+VATHCAER
+
+
+
+
+
+Vous arrivez devant un village construit sur une colline, surplombée de géants blocs de glace couvrant le bas du village. Dans un froid rude, vous traversez le pont pour arriver à l’entrée ou l'accueil y est intimidant. Ceux qui ne vous dévisagent pas, vacillent à des activités peu attrayantes : dépeçage, embaumage,  
+
+Vous arrivez au bout du village devant une bâtisse à peine plus grande que les autres, où l’on vous jettes aux pieds d’une guerrière aux cheveux si blond que l’on croirait qu’il sont blanc, et aux yeux si bleu que leur craletée vous percent et vous glacent le sang. Elle vous regarde d’un air très calme :
+
+
+
+“Pourquoi m’apportes-tu ces étrangers ? et par quel miracle sont-ils encore vivants ?”
+
+
+
+
+
+SEJUANI : (Chef de Guerre GH) Humaine Sublimée/ Freljord / 36 ans (
+
+PV : 350/ AR-MR : 45-20/ ARME : Colère de l’Hiver (Fléau Glace Pure) 
+
+“Vous êtes bien loin de votre monde étrangers… Valhir seul sait comment vous n’êtes pas encore morts du froid de ces terres, mais si ce n’est pas le froid qui prendra vos vies, ce sera sans doute sa nature, sa faune, ses tribus, qui sait, peut être moi même.”
+
+“Avez-vous déjà tué, étrangers ? Tué de vos propres mains ? Avec la volonté de voir ce corps en face de vous inerte, sans vie. Avec cette colère qui vous fait oublier de regretter votre geste. Avec cette tension artérielle si puissante, qu’elle en devient normal à force d’y remédier frénétiquement, corps après corps. Mais une seule chose ne changera jamais dans cet acte, c’est la raison qui vous pousse à le faire. Votre propre vie, votre famille, ma tribu !” 
+
+BRISTLE : (Drüvask Légendaire)
+
+PV : 400 / ARM-RM : 20-00 
+
+
+
+VRYNNA : (Mère Cicatricielle) Humaine / Freljord / 32 ans (Froide-Cruelle)
+
+Native Griffe Hivernale, Possède 102 cicatrices, Déteste les faibles, Aime Sejuani comme une soeur, Déteste Isolda
+
+PV : 180/180 / AR-RM : 10-00 / ARME : Skalbval (Fende-Crâne) (3.16) / Lance GH / Gourde d’Huile Inflammable (5L)
+
+OBJETS : Torche / Viande de Troll (6kg) / Curasom x2 (6.5) / Pierre Runique de Feu Avancée x3 (8.10)
+
+QUÊTE : 
+
+
+
+
+
+THORVA : (Chamanka) Humaine / Freljord / 44 ans (Déterminée-Curieuse)Corps tatoué, ossements d’animaux en vêtement, yeux bleus brillants
+
+PV : 120/120 / AR-MR : 00-20 / ARME :  Morsvarünn (3.?) / 
+
+OBJETS : 
+
+
+
+“Je vois beaucoup de choses en ces régions magiques, je vois la destinée des gens. Je vois votre passé, j’ai vu vos aventures, je connais vos secrets. Pour vous cela semble peut être improbable, incroyable ou mystérieux, mais pour moi ceci est la raison pour laquelle je suis en ce monde. Mais quelque chose cloche avec vous… Quelque chose qui ne concerne normalement que les êtres divins - Votre destiné n’existe plus. Je ne vois plus rien depuis le jour où vous avez touché ces pierres…” 
+
+
+
+
+
+BROKVAR : (Champion Sublimé) 34 ans - Freljord (Superstitieux-Déterminé)
+
+Aime Vrynna, Respecté d’Udyr, Ouvert aux étrangers depuis Sylas, 
+
+PV : 220/220 / AR-MR : 10-05 / ARME :  Feulement d’Hiver (3.L-3)
+
+OBJETS : 
+
+
+
+KJELK   ISOLDA  : (Chevaucheuse de Loup) 26 ans - Freljord (Sérieuse-Déterminée)
+
+Fille de Magnus, Apprentie Sublimée, terre à terre.
+
+PV : 120/120 / ARM-RM : 10-10 / ARME : Grande Hache GH
+
+OBJETS : 
+
+QUÊTE :
+
+Elle n’a pas réellement trahi Ashe mais la cause de la Griffe Hivernale lui semble plus juste. Elle à vu le sort du Freljord sans la sauvagerie de la GH, le Freljord s'écroulait à cause des lois qui y règne, mais également Lissandra qui exploite sa magie corrompue. 
+
+
+
+
+
+DANA : (Yordle Guerrière) Yordle / Bandle-Freljord / 228 ans (Déterminée-Féroce)
+
+Membre important Griffe Hivernale, n’aime pas la Magie Yordle, aime  secrètement  les Porosnax et le Vivacium, 
+
+PV : 110/110 / AR-RM : 00-10 / ARME : Petite Épée GH 
+
+OBJETS : Souvenir de Bandle (parents) / 
+
+QUÊTE :
+
+
+
+
+
+
+
+
+
+
+
+NALJAÄG
+
+
+
+
+
+
+
+HAROLD : (Forgeron Légendaire) 39 ans - Humain Sublimé - Freljord (Protecteur - Imposant) MUSIQUE
+
+Connaît Ornn personnellement, n’aime pas être sollicité pour sa forge, aime aider les gens, Crois au destin.
+
+PV : 150/ AR-RM : 40-30/ ARME : Jakmassa (Longue Masse de l'Âtre Foyer)
+
+OBJETS : Ildrunvirr (Chaudron)/ 
+
+COFFRE : Lingots d’Or x3 (180 Or) - Lingots d’Obsidienne x5 (250 Or) - Cuir tanné x10 (15 Or) - Pierres Runiques x3 (70 Or)
+
+
+
+A la vue des Pierres d’Invocateur, Harold se précipite dessus ! “Par Ornn, quelles sont ces artefactes ?! Je n’ai encore jamais rien vu de tel”.
+
+
+
+
+
+
+
+
+
+LES TRAJETS
+
+
+
+
+
+MER DU SUD 
+
+MUSIQUE
+
+
+
+
+
+
+
+1-3.PETIT BATEAU DEMACIEN : 
+
+PV : 90/ AR-RM : 10-0/ ARME : Baliste
+
+4 SOLDATS : 50-50-50-70/ épées 15/ lances 10
+
+
+
+
+
+2.OTIS ET BARNABET : (Marin aveugle et sa Peluche) ??? - Yordle - Bandle (Amnésique - Perché)
+
+Aime les aventures, n’a pas du but, déteste le poisson cru, 
+
+PV : 100/ AR-MR : 0-10/ ARME : Harpon Robuste
+
+OBJETS : Oeuf (P)/ 
+
+
+
+
+
+4.HYSTÉGRIFFE MARIN : 
+
+PV : 30-30-30-30/ Cri strident - Coup de griffe (venin) - Morsure
+
+OBJETS : Venin/Griffe- (récolter)/ G
+
+
+
+
+
+5.PINCE-REQUIN : 
+
+PV : 60-60/ Casse Coque - Morsure
+
+
+
+
+
+6.CROQUIN AFFAMÉ : (Créature ) 1000 ans - Mer (Intelligent-Manipulateur)
+
+Aime être complimenté, Aime manger, Déteste l’Hypocrisie, Très joueur énigmatique
+
+PV : 120/ 
+
+
+
+____________________________________________________________________________________________________
+
+
+
+Le Flot Persistant - Grand Bateau (Willburn) :
+
+
+
+FLOT PERSISTANT (GRAND BATEAU) : 
+
+PV : 1200/1200 / AR-MR : 20-0 / ARME : COFFRES :
+
+
+
+
+
+WILLBURN : (Capitaine Indestructible) 
+
+ Fils de Ga’Hun  , Ancien ami de Obérin, Ancien matelot de Gangplank, chasseur de malédiction.
+
+PV : 130/130/ AR/MR : 0-20/ ARME : 
+
+CAPACITÉES : 
+
+OBJETS : 32-21 Or-Ar/ 
+
+
+
+
+
+GYOMTHEL : (Premier Matelot) 63 ans - Humain - Piltover (Négociateur - Honnête)
+
+Voyageur, Guilde des Marchands, (réf GoR Sentinelles Ep1)
+
+OBJETS : 
+
+
+
+
+
+DOROVIK (Braconnier Vulpin) 48 ans - Humain Né-Mage - Freljord (Excentrique - Débrouillard)
+
+PV : 100/100/ ARM-RM : 05-05/ ARME : 
+
+VENTE : Rooye des Neiges x4 (45 Or)/ Givreharpie x2 (30)/ Griffeur Alpha (110 Or)/Finisstiers x2 (des Chiens à carapace solide et tête de tortue alligator, forts et agiles / 28 Or)/ Bébé Griffon x2 (Vendre à Demacia)(300 Or)/ Pièges Ingénieux x4 (25 Or)/ PoroSnax Spicy x4 (2 Or)/
+
+OBJETS : 37 Or - 8 Arg/ Pipe en bois/ Antidote x2/
+
+QUÊTE : Son neveux (Bjolfar - Creux-de-Valar) rêve d’avoir une Givreharpie, apportez lui Oarfang 
+
+
+
+Équipage : 
+
+
+
+- DIZ TORENNO (Pirate Brigand) 33 ans - Humain - Freljord
+
+- PETE (Pirate Brute) 45 ans - Humain - Zaun
+
+- OBRILL (Pirate Négociateur)  34 ans - Humain - Bilgewater
+
+- JACQ (Humain Ixtal) 
+
+- DOREI (Vastaya Marchand) ??? - Vastaya (Mouflon) - Ionia
+
+- BILL LEBORGNE (Pirate Voleur) ??? - Vastaya Poisson - Bilgewater - ALBA ROWSKI (Pirate Téméraire) 29 ans - Humaine - Bilgewater
+
+
+
+Le BlackSand - Grand Bateau (Obérin) :
+
+
+
+
+
+OBÉRIN : (Capitaine du BlackSand) 34 ans - Humain - Bilgewater (Vengeur - Trafiquant)
+
+
+
+PV : 100/100/ ARME : Vipère Rouge (Lance 2 mains) 
+
+
+
+
+
+
+
+FRELJORD SUD/EST/CENTRE 
+
+
+
+
+
+Sur le chemin très rocheux, vous longez sur le flanc des montagnes un chemin relativement périlleux. Vous arrivez à une intersection avec un chemin qui remonte la montagne et un qui la descend. Vous voyez un panneau “Fossemont” détérioré  qui dirige vers le bas. (Details : des traces de charette (bas) / des crottes d’animaux (Poro* - haut)
+
+
+
+
+
+BJÖRLD : (Protecteur Animalier) 96 ans - Freljord (Sur ses gardes-Sympathique)
+
+Adore courir, très bon ami de Braum, Aime toutes les bêtes sauvages,
+
+PV : 130/ AR-MR : 20-10 / ARME : Bolasses de Pierre
+
+OBJETS : Sac Porosnax x20/ Fourrure de Björld
+
+QUÊTE : Rapportez des Poros égarés à Ulgor (10 Or/unit)/ Enquêtez sur l’oeuf de Dragon (Fourrure Björld)/
+
+
+
+FAMILIERS : POROTECTEUR/ POROS x6
+
+PV : 80-30-30-30-30-30-30/
+
+
+
+
+
+ALDERIATE : (Guerrier Originel) 29 ans - Jeune Riche Valorant (Simple-Organisé)
+
+Connaît Garen, Tryndamere et Olaf, Est riche, Très combatif et Bourrin, 
+
+PV : 220 / ARM-RM : 20-10 / ARME :   i   (Épée de la Triforce)
+
+
+
+
+
+ERIK : (Tailleur de Pipe] 35 ans / Humain / Freljord (Classe-Confiant)
+
+Freljordien Classe, aime les belles allures, 
+
+PV : 160 / ARM-RM : 10-00 / ARME :
+
+OBJETS : Pipe en bois / Tabac Froid (250g) / 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FRELJORD SUD/OUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ROUTES
+
+MUSIQUE
+
+
+
+
+
+
+
+
+
+
+
+MUSIQUE COMBAT NORD (TRIBU)
+
+
+
+
+
+
+
+GROTTES
+
+MUSIQUE
+
+
+
+
+
+
+
+Vous trouvez 3 colonnes dans une grande salle avec des boutons dessus. Au centre, un cercle qui s’ouvrira si vous vous tenez dessus. Il est écrit que vous devrez trouver lequel des 3 interrupteurs allumera la lumière de l’autre côté, vous ne pourrez pas revenir en arrière si vous ne le trouvez pas du premier coup. 
+
+1. Rester appuyer deux minutes puis éteindre/ 2. Appuyer/ 3. Ne rien faire
+
+
+
+Vous tombez dans une pièce avec une sphère de lumière au centre :
+
+1. Éteinte Chaude/ 2. Allumée/ 3. Éteinte Froide.
+
+Appuyer sur le bon bouton ouvre la porte, de l’autre côté une sphère en pierre moitié blanche, moitié noir (Pierre de Kumbadge) posée sur un socle. Vous trouvez posé au pied un papier : 
+
+“Dans le vaste ballet de la vie, la chance et le destin dansent en harmonie. Étreinte délicate où chaque rêve est une moitié de chance, et chaque chance une moitié de cauchemar”
+
+“La Pierre de Kumbadge contient deux entités opposées qui peuvent réaliser votre plus grand rêve, comme son extrême inverse. On dit qu’elle contient deux anciennes sœurs déesses qui n'arrivaient jamais à se mettre d'accord, à tel point que le gardien des esprits les condamnèrent dans cette prison de granite.La dernière trappe vous fait sortir sous un faux rocher. 
+
+
+
+
+
+
+
+Dans un passage, vous tombez sur une petite cavité avec une lumière qui en jaillit. Vous voyez à l’intérieur, à porté de bras, une pierre luisante, c’est la Pierre de Jaa
+
+
+
+
+
+
+
+
+
+____________________________________________________________________________________________________
+
+
+
+Vous arrivez dans une grande pièce vide en pierre, avec au centre, une grande plaque au sol et une arche avec une porte en pierre fermée (Stock de pierres-3 symboles: Une oreille, un bouche, un oeil) 
+
+
+
+Enigme : 
+
+
+
+U  Y  M  I  L
+
+A  D  P  R  V
+
+I  B  A  H  U
+
+B  O  T  R  K
+
+E  S  N  J  S
+
+
+
+“Au temps jadis, l'aide d'Ornn a t-elle demandé,
+
+ D'une voix perdue, suite à ses erreurs passées,
+
+ Malheureusement trahie par l'une de ses soeurs,
+
+ Elle revient guider l’hiver par le fléau de sa rancœur.”
+
+
+
+La réponse est SERYLDA.
+
+
+
+Un mécanisme s'enclenche : Ne marche pas : Un des 3 symboles se brise, vous perdez 1.l’ouïe : vous ne pouvez plus vous parler/ 2. la parole : vous n’entendez plus rien/ 3. La vue: vous ne voyez plus rien) prend fin en sortant.
+
+Marche : La porte s’ouvre (vous retrouvez vos sens) et donne sur une pièce avec au centre une Lanterne.MUSIQUE
+
+
+
+____________________________________________________________________________________________________
+
+
+
+Idées Grottes : 
+
+
+
+- En sortant de la grotte, “follower” s’est dédoublé.
+
+- Un aventurier (malveillant) cherche également à résoudre l’énigme.
+
+
+
+____________________________________________________________________________________________________
+
+
+
+Enigme des Triangles : 
+
+
+
+Vous entrez dans une pièce et voyez en face de vous 4 triangles placés dans la pièce. Chaque triangle a un miroir sur 1 de ses 3 côtés. Vous avez accès à 4 boutons. Chaque bouton fait tourner deux triangles vers la droite. vous avez également un levier qui ouvre une trappe qui laisse passer un rayon de lumière quand vous restez appuyé dessus, mais bloque les triangles.
+
+
+
+Bouton 1 : 1 et 2Bouton 2 : 1 et 4Bouton 3 : 2 et 3Bouton 4 : 3 et 4
+
+____________________________________________________________________________________________________
+
+
+
+
+
+
+
+La chambre d’Anti-Lois : (Piltover)
+
+
+
+C’est une pièce écrite par des lois qui peuvent changer selon la position d’étiquettes.
+
+
+
+Par exemple, si l'étiquette Pierre est dans la case solide, alors les murs en pierres sont solides mais si on la déplace dans la case liquide, alors les murs en pierre deviennent liquides. Si par défaut ils ne sont pas dans une case alors ils sont dans leur état normal. Ils peuvent avoir plusieurs cases, par exemple Pierre dans Solide et Lourd ou Liquide et Brûlant.
+
+
+
+Les étiquettes sont : Pierre / Bois / Métaux / Air / Feu / Eau / Corps / Gravité /  Les cases sont : Liquide / Solide / Mou / Gazeux / Léger / Lourd / Brûlant / Glacé / Immatériel / Stase
+
+
+
+____________________________________________________________________________________________________
+
+
+
+

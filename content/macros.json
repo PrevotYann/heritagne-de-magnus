@@ -1,0 +1,211 @@
+{
+  "documents": [
+    {
+      "_id": "853d4e02286c3a1d",
+      "name": "Accueil et import",
+      "type": "script",
+      "scope": "global",
+      "command": "await game.magnus.welcome();",
+      "img": "icons/svg/book.svg",
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "macro:welcome",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "0bc208a1a010225f"
+    },
+    {
+      "_id": "f644794b64ce9719",
+      "name": "Changer la phase d’Ott",
+      "type": "script",
+      "scope": "global",
+      "command": "await game.magnus.ottPhase();",
+      "img": "icons/svg/book.svg",
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "macro:ottPhase",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "0bc208a1a010225f"
+    },
+    {
+      "_id": "5277712abe9e9212",
+      "name": "Activer une pierre de Magnus",
+      "type": "script",
+      "scope": "global",
+      "command": "await game.magnus.stone();",
+      "img": "icons/svg/book.svg",
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "macro:stone",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "0bc208a1a010225f"
+    },
+    {
+      "_id": "9e0548de029fd854",
+      "name": "Tirer un mot d’Oknuün",
+      "type": "script",
+      "scope": "global",
+      "command": "await game.magnus.grimoire();",
+      "img": "icons/svg/book.svg",
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "macro:grimoire",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "0bc208a1a010225f"
+    },
+    {
+      "_id": "5bc0e5ae562f059b",
+      "name": "Suivi des événements",
+      "type": "script",
+      "scope": "global",
+      "command": "await game.magnus.timeline();",
+      "img": "icons/svg/book.svg",
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "macro:timeline",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "0bc208a1a010225f"
+    },
+    {
+      "_id": "bc66f69eebb1f511",
+      "name": "Révéler un document",
+      "type": "script",
+      "scope": "global",
+      "command": "await game.magnus.reveal();",
+      "img": "icons/svg/book.svg",
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "macro:reveal",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "0bc208a1a010225f"
+    },
+    {
+      "_id": "f977cf79710a0eab",
+      "name": "Ott — Appliquer la Flamme verte aux cibles",
+      "type": "script",
+      "scope": "global",
+      "command": "await game.magnus.greenFlame();",
+      "img": "icons/svg/book.svg",
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "macro:greenFlame",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "0bc208a1a010225f"
+    },
+    {
+      "_id": "4b762d3948fb458c",
+      "name": "Ott — Éteindre les Flammes vertes (fin de phase 1)",
+      "type": "script",
+      "scope": "global",
+      "command": "await game.magnus.endGreenFlame();",
+      "img": "icons/svg/book.svg",
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "macro:endGreenFlame",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "0bc208a1a010225f"
+    },
+    {
+      "_id": "8d54510dec55ce15",
+      "name": "Oknuün — Appliquer le Gaz mortel",
+      "type": "script",
+      "scope": "global",
+      "command": "await game.magnus.gas();",
+      "img": "icons/svg/poison.svg",
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "macro:gas",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "0bc208a1a010225f"
+    },
+    {
+      "_id": "f8484413062b0983",
+      "name": "Oknuün — Arrêter le Gaz mortel des cibles",
+      "type": "script",
+      "scope": "global",
+      "command": "await game.magnus.endGas();",
+      "img": "icons/svg/poison.svg",
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "macro:endGas",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "0bc208a1a010225f"
+    }
+  ],
+  "folders": [
+    {
+      "_id": "0bc208a1a010225f",
+      "name": "Magnus — Outils MJ",
+      "type": "Macro",
+      "folder": null,
+      "sorting": "m",
+      "color": "#496e87",
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "folder:Macro:Magnus — Outils MJ",
+          "contentVersion": "0.1.0"
+        }
+      }
+    }
+  ]
+}

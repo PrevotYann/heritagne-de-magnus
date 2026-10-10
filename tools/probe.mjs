@@ -1,0 +1,3 @@
+﻿import {chromium}from 'playwright';
+const b=await chromium.launch({headless:true});const p=await b.newPage({viewport:{width:1600,height:1100}});p.on('pageerror',e=>console.log('ERROR',e.message));p.on('console',m=>{if(m.type()==='error')console.log('CONSOLE',m.text().slice(0,500));});await p.goto('http://localhost:30145',{waitUntil:'networkidle'});await p.locator('[name=username]').fill('Gamemaster');await p.locator('button[name=join]').click();await p.waitForFunction(()=>game?.ready,{timeout:60000});console.log(await p.evaluate(()=>({system:game.system.id,modules:game.modules.map(m=>[m.id,m.active]),packs:[...game.packs.keys()]})));await p.evaluate(async()=>{await game.settings.set('core','moduleConfiguration',{'heritage-de-magnus':true});});await b.close();
+

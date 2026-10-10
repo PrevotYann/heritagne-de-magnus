@@ -1,0 +1,180 @@
+
+La Dette de Braum
+
+! Drogue / Cobaye / Alcoolisme !
+
+Par Jarnot : 
+
+Jarnot vous parle de ses affaires qui ne vont pas très bien depuis ces derniers temps. Entre le couvre-feu Demacien (voir Les Demaciens) et leur douane maritime qui à réduit drastiquement son nombre de client essentiellement composé d’escales de marchands, explorateurs et quelques pirates. Pour couronner le tout, son fils Wilhelm a décidé de partir à l’aventure laissant Jarnot seul derrière lui, sans son ingrédient clé pour son plat le plus réputé, le Hrgog à l’Ugvar Royal [voir quête Chasse à l’Ugvar Royal] que son fils chassait pour lui. Bref il ne peut pas se permettre d’avoir des dettes, surtout comme celle que Braum à ici depuis des semaines et qu’il évite de payer.- Jarnot : “Ce gros lourdaud de Braum se cache pour ne pas payer sa dette j’en suis sûr. Et les autres ne savent pas où il se trouve ou ne veulent pas vendre la mèche. Dans tous les cas, j’ai besoin de récupérer mes 150 pièces d'or et je ne peux pas me permettre de quitter ma taverne. Si vous me rendiez ce service, je vous en serais grandement reconnaissant.”
+
+Récompense : 20% de sa dette (30 Or).
+
+
+
+INFO MJ
+
+
+
+Braum n’est pas le Braum de League of Legends mais un villageois alcoolique surnommé Braum l'ivrogne. Il se cache chez Ygnovar et accepte d'être son cobaye pour rembourser sa dette. Il a en sa possession 100 Or et souhaite tenter une dernière expérience pour empocher 50 Or restants mais pour cela il faut qu’Ygnovar trouve des Fleurs Dedvarn (quête La Poudre d’Ygnovar).
+
+
+
+
+
+
+
+
+
+
+
+1. Vous partez pour enquêter où peut bien se trouver Braum. 
+
+
+
+Indices : - Si villageois convaincu : La dernière fois qu’il a été vu, c'était en compagnie d’Ygnovar.- Si jet de Perception réussi : Vous trouvez une piste qui semble provenir d’un Alchimiste. - Si vous fouillez dans la Maison de Braum : Des fioles de potions vides traînent dans la cuisine. 
+
+
+
+La maison de Braum est fermée (Verrou lvl 1).- Une fois à l’intérieur, vous sentez une forte odeur d’alcool, de renfermé, mais aucune trace de vie.Des verres de bières vides sur la table et des fioles de potions vides dans la cuisine. - Jet de Perception. Si réussi : Des traces de vomi sur le sol près des fioles. Visiblement le corps à été trainé jusqu'à l'extérieur.
+
+
+
+
+
+
+
+
+
+2. Vous vous dirigez vers la Maison d’Ygnovar. Personne ne semble répondre bien que vous puissiez voir que des lumières sont allumées à l’intérieur à travers les fenêtres en verre opaque.-Vous entendez un retentissement étouffé suivi instantanément d’un flash lumineux Rouge.
+
+-
+
+Ygnovar finir par vous ouvrir.- Ygnovar : “Je ne suis pas intéressé… sauf si vous vendez de la Dedvarn ? [quête La Poudre d’Ygnovar]. Ces plantes sont devenues difficilement trouvables dans le coin, surement parce que j’en ai un peu trop utilisé dernièrement et qu’elles poussent assez rarement.”
+
+-
+
+INFO MJ
+
+
+
+Braum est dans une pièce au fond de la maison, où il boit les différentes mixtures qu’Ygnovar prépare. La dernière mixture qu’il s’apprête à boire contient 0.10 L de Shimmer (5.?).S’il en boit : Braum se transforme en Créature puissante, et destructrice, assoiffé d’alcool, qui pourrait tuer pour boire et manger. Ygnovar peut faire un antidote avec un jet d’Alchimie (voir niveau).
+
+Les joueurs devront tenter de le calmer et de limiter les dégâts.
+
+
+
+
+
+
+
+
+
+
+
+3. Vous réussissez à ouvrir la porte et découvrez Braum, assis sur une chaise, sourir béant, qui vous salue l’air de rien. Il semble ivre et demande à Ygnovar s’il peut boire sa prochaine mixture. 
+
+
+
+- Si Braum ne boit pas la mixture, allez l’étape 5
+
+
+
+- Si Braum se transforme
+
+
+
+Vous voyez Braum se plier en deux de douleur, grandir et ses veines devenir violettes. Il renifle, et détruit le mur de la pièce pour se diriger vers la cuisine. Ygnovar, surpris mais professionnel, se met à prendre des notes. 
+
+
+
+- Si les joueurs tentent de le maîtriser. Si réussi, allez à l’étape 4
+
+
+
+Ne trouvant rien, Braum détruit le mur et court hors du village.
+
+
+
+INFO MJ
+
+
+
+Braum est affamé et assoiffé, et il court en direction de la seule source d’alcool naturelle du coin : La grotte d’Ugvar pour manger les œufs aux propriétés alcoolisées. 
+
+
+
+Faites aux joueurs la quête de la Chasse à l’Ugvar Royal avec l’aide de Braum sous l’effet du Shimmer.
+
+
+
+Vous sortez et les villageois vous disent l’avoir vu courir à toute vitesse dans cette direction. Son pas est si lourd et puissant que les traces au sol sont bien visibles.-
+
+Les traces vous mènent jusqu'à l'entrée d’une grotte qui grouille d’Ugvar tout autour.
+
+-
+
+Vous trouvez Braum à l’intérieur, encore sous l'effet de la mixture, en train de déguster des œufs gluants étranges. Juste derrière lui, vous apercevez une immense silhouette ramper lentement sur le mur vers Braum. (quête Chasse à l’Ugvar Royal).
+
+-
+
+Une fois la bête maîtrisée, les effets de Braum se dissipent et il retrouve petit à petit ses esprits. Il vous explique tout en détail et vous propose de retourner chez Ygnovar (étape 5).
+
+
+
+
+
+
+
+
+
+4. Ygnovar tenter de trouver une solution pour le calmer à l’aide d’un antidote, mais vous demande de maîtriser Braum le temps qu’il le concocte.
+
+
+
+Jet d’Alchimiste. Si réussi : le temps dépend de la valeur de la réussite. Mieux il est fait, plus vite Ygnovar le fini.
+
+Si échec : l’état de Braum dépend de la valeur de l’échec. Le cas de Braum peut alors stagner, durer plus longtemps, empirer, voire mourir sur échec critique. 
+
+
+
+Une fois Braum stabilisé, il reprend peu à peu ses esprits. Il finit par menacer Ygnovar de lui avoir menti et d'avoir failli le tuer. Braum récupère tout de même sa paye par l’Alchimiste et s’en va avec vous la rendre à Jarnot.
+
+
+
+Récompense : 20% de sa dette (30 Or) / 
+
+
+
+
+
+
+
+
+
+5.  Braum récupère sa paye par l’Alchimiste et s’en va avec vous la rendre à Jarnot. Sur le chemin, Braun vous demande de l’aider à régler son problème d’alcool. Cette expérience de cobaye était celle de trop. Il souhaite devenir un meilleur homme, et aimerait aider les gens de son village mais la boisson à beaucoup trop d'effets sur lui. 
+
+
+
+- Si Attribut Spécial ou Métier le permet, faites un jet. Si réussite : Libère Braum de sa dépendance. 
+
+
+
+Essayez de convaincre au choix : 
+
+Jarnot de le faire travailler pour lui (Chasse Ugvar Royal / Cuisine)
+
+Fjürd de le faire naviguer (Livraison Cargaison / Pêche / Réparation Bateaux)
+
+Lynnae (Villageoise, Humaine, 51 ans) d’accepter de le fréquenter.
+
+
+
+Récompense : Bouteille de Vin Grande Cuvée de Gragas 976 (5.?)
+
+
+
+
+
+
+
+Fin

@@ -1,0 +1,702 @@
+
+ASHE : 
+
+- Elle pense que Isolda à été capturé par Sejuani et veut que vous alliez la sauver. 
+
+- Elle vous envoi ramener Hakan, un déserteur au Nord de Rakelstake, il aurait suivi un archer mystérieux (Varus) pour attaquer la Griffe Hivernal.
+
+
+
+- Raisonnez Ashe à se battre contre une menace bien plus grande que leur conflit.
+
+
+
+- Elle veut connaître qui est le nouveau membre de la Griffe Hivernal (Sylas) on dit de lui qu’il est un mage sans nulle pareil et qu’il a réussi à surprendre le plus fort des sublimés de la GH.
+
+
+
+- Tryndamere veut que vous l’accompagner pour déloger des parias, des ennemis et des parjures vers Olbukrn
+
+
+
+- Elle cherche un nouveau Champion, Explorateur ou Sublimé à ses côtés.
+
+
+
+ _________________________________________________________________________
+
+
+
+
+
+SEJUANI : 
+
+
+
+- Convainquez la à s’allier à Ashe pour se battre contre une menace qui vient du Nord
+
+
+
+- Elle cherche un artefact magique pour sauver son peuple : Ildrunvirr (Chaudron d’Abondance). C’est un chaudron qui nourrit pendant des années la personne qui mange ce qui à été cuisiné dedans.
+
+
+
+- Allez convaincre une ancienne chef de clan (Olga) de rejoindre sa troupe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mage tueur de mages : Frostheld - Vallée d’Odmünd - Fyord’Al Kurgën 
+
+Il se fait appeler Ott, il achète des mages esclaves pour les mettre en flacon et absorber leur magie, mais cherche tout particulièrement un mage (Laïda) avec une puissante magie pour ordonner au Néant. Ott est en réalité l’apparence spectrale corrompue de Yolande.
+
+
+
+1. Pistes : Odvïr travail pour lui car il détient ses 2 enfants et sert d’intermédiaire entre La Semptra et lui.2. Piste : La Semptra leur capture des mages et les vendent à Odvïr.3. Piste : Kaïrr cherche les esclaves pour les libérer et les ramener à Noxus.4. Piste : Jaredan sait pour la transaction, et à prévenu Kaïrr de venir récupérer les mages car il s’y cache Laïda un mage Ionien qui les intéressent fortement.
+
+_________________________________________________________________________
+
+
+
+Isolda (Sublimée) : Guürdarl - Fyord’Al Kurgën - Rakelstake - Olbukrn - Vathcaer
+
+
+
+Si vous donnez la lettre à Isolda, elle la lit, elle vous regarde sans réaction : “C’est tout ? Je prierai pour son âme mais ne pleurerai pas sa mort, il a été un bon père pour moi mais nos différences nous séparent. Ma voie est bien plus grande que la vie de simplet qu’il a vécu.”
+
+
+
+1. Ramenez Isolda chez les Avarosan (ignore qu’elle les as trahi) Prime 200 Or
+
+2. Laissez Isolda dans la Griffe Hivernale, elle y est à sa place.
+
+_________________________________________________________________________
+
+
+
+Mayelle : Creux de Valar - Plaines de Havrebord
+
+On lui à volé sa Harpe, elle ne sait rien. Indices dans sa chambre,La harpe est dans une grotte, en possession de Tjanama (mère d’Olgrite) une puissante sorcière enchanteresse qui cherche à posséder son ancien amour pour revivre avec. 
+
+
+
+1. La tuer (Harpe Heelengdel + Apparence Olgrite)
+
+2. Trouver un moyen de la convaincre de partir ou de rendre la Harpe.
+
+_________________________________________________________________________
+
+
+
+Recherche du Dragon: Frostheld - Vallée d’Odmünd
+
+
+
+Vous vous lancez sur les traces d’un Éclat Perlé Bleu du Grand-Nord, un dragon extrêmement rare et encore plus dans cette région du Freljord. Vous trouvez l’Oeuf.1. Vous rencontrez Björld qui vous demande de l’aider à chercher les traces.
+
+2. Anden Mayne vous envoie chercher l'œuf du dragon sur ses pistes. (Doc Dragon)
+
+_________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+Hakan l’apprenti du Darkin: Olbukrn - Naljaäg
+
+
+
+Hakan à quitté les Avarosan car Ashe fait la sourde oreille sur les dangers qui s'annoncent au Freljord. Il a décidé de lever une petite troupe de soldats résistants aux côtés d’un étrange arché qui lui apprend une magie spéciale. 1. Ramenez Hakan à Ashe.
+
+2. Apportez Hakan à Sejuani.- Empêchez Hakan de devenir un Darkin.
+
+
+
+- Devenez un Darkin
+
+_________________________________________________________________________
+
+
+
+Assassina du Roi Algar II : Creux de Valar - Port du Creux - Fyord’al Kurgën
+
+
+
+Un assassin est engagé par le Seigneur Rodgar pour tuer le roi Algar II. Mais un autre assassin sera également engagé sous le pseudo “MDC” par l’Ordre de la Rose Noire.
+
+Cette quête est liée à la quête de Kegan
+
+
+
+1. Sauvez le Roi Algar2. Tuez le Roi Algar
+
+3. Laissez l’assassin faire4. Convaincre Wilfrid Algar de ne pas toucher au Port de Rygann
+
+_________________________________________________________________________
+
+
+
+Kegan et le Mage Bleu : Port de Rygann
+
+
+
+Découvre Kegan, l’esprit du mage dans la flamme qui est en réalité un des fragment d’âme de Brand
+
+
+
+1. Refaites le venir à la vie
+
+2. Tentez de le faire disparaître
+
+_________________________________________________________________________
+
+
+
+Réunion de Fyord’Al Kurgën : Fyord’Al Kurgën
+
+
+
+Les grands dirigeants du sud de Freljord se retrouvent pour parler des événements récents.
+
+
+
+Mettez au courant Ashe des événements de Frostheld et ces infos en votre possession
+
+Ashe veut connaître qui est ce mage mystérieux et savoir ce que Sejuani manigance.Ivar Rodgar veut s’occuper de cette autoproclamé “Roi Algar” au Creux de Valar.
+
+Revna veut parler de l’attaque de Frostheld et accuse Jaredan d’avoir manigancé contre Demacia et Freljord.
+
+Le Maître des Secrets parle d’un événement à venir sur Freljord (Réveil des Immortels)L’Oracle parle de vous. Votre destin n’est plus visible depuis vos pierres.
+
+_________________________________________________________________________
+
+
+
+Retrouvez Fiora le Félice Royale : Frostheld
+
+
+
+La petite Julie (noble démacienne) à perdu Fiora, son Félice Royale.1. Retrouvez Félice qui est chez Jocbar le vendeur animalier qui tente de faire des petits.
+
+(Bonus: elle est enceinte) 50 Or ou bébé Félice 1D12 (12-7 =Courant/ 6-4=Amphibie/ 3-2=Cornu/1=Royale
+
+_________________________________________________________________________
+
+
+
+Trafic de Poudre à Canon X : Guürdarl - Creux de Valar - Mer
+
+
+
+Récupérez l’échantillon de poudre à Peak et Dale et amenez le à Basile. 
+
+
+
+1. Basile peut bien ou mal vous accueillir, et peut ne pas aimer la poudre.
+
+2. Vous pouvez être interceptés en mer par des Soldats Demaciens.
+
+3. Vous pouvez être interceptés en mer par le pirate Obérin.
+
+4. Vous pouvez rencontrer Dorovik dans le Sud Ouest de Freljord.
+
+_________________________________________________________________________
+
+
+
+Plateau Fromage des 6 Âmes : Rakelstake
+
+
+
+Vous trouvez dans l’enchantarium d’Ulfric un plateau de fromage spécial où chaque fromage est possédé par une entité unique et une volonté.
+
+_________________________________________________________________________
+
+
+
+Nadya s'entraîne en Enchantement Sacrificiel :Plaines Dorées
+
+
+
+Enlève 10 d'un attribut contre une quête. Gagne +20 une fois la quête remplie.
+
+
+
+1. Vivre un véritable amour     2. Trahir un proche     3. Sauver quelqu’un d’une mort certaine
+
+4. Toucher un sublimé     5. Boire du Sang Frais de Yeti    6. Toucher une créature légendaire
+
+_________________________________________________________________________
+
+
+
+
+
+Repas du Couronnement de Jarvan IV :
+
+
+
+Vesnir est chargé d’organiser une grande soirée pour les nobles Demaciens. Il doit organiser le repas et les festivités avec Arthur. Trouver de la nourriture et des spectacles.
+
+
+
+Haute :
+
+Cithria / Jaredan / Emir Dawnguard / Anden Mayne / Jacob-Tania-Julie Merisan / Conseillère Fjona / Seigneur Rodgar Ivan / Yolenda (alchimiste) / 
+
+Basse et Employés : 
+
+Vesnir / Arthur / Jax-Boromir-Gabriel (bodyguard) / Geralt (ou Odel) (Percu) / Dako (Flûtiste) / Trevis (Luthier) / Chef Nao, Uzil (Kaïrr) et Teddyring / 
+
+PNJ’S :Soldats Demaciens / SoldatsAvarosan / Serveurs / Goliath (Goyuzi) / Arya / Oscar
+
+
+
+Les gens sont outrés de ne pas voir Ashe mais Rodgar les remet à leur place.
+
+B. Découvrez la seconde raison de la présence des Demaciens (Cithria/Anden Mayne)
+
+Suivre les pistes du Dragon Éclat Perlé Bleu du Grand Nord.1. Suivre Emir pour voir la transaction secrète avec Ott 
+
+2. Profitez du Buu moment pour espionner pour Vesnir 
+
+3. Attaque de la Griffe Hivernale  Trahi par Vesnir  (Vrynna, Kjelk et Sylas)
+
+4. Volez le Kit couture légendaire de Tania Merisan
+
+5. Mangez de l’Ossille de Skaan (1 = Chance / 8 = Poison)
+
+6. Mangez bouchée Buu
+
+7. Buvez Cocktail Ionien 
+
+_________________________________________________________________________
+
+
+
+Chambre du Maître des Écrits :
+
+
+
+Le Maître des Secret est un vieil homme dans une faille temporelle pour conserver son temps à bon escient. Il est aveugle et connaît absolument tous les secrets de ce monde qui à pu être écrit et mis sur papier (Lettre, livre, acte de naissances, avis de recherche etc)
+
+
+
+Il vous donne un document sur Ryze, un mage Runique très célèbre qui peut surement vous aider plus que lui concernant les pierres. Il serait dernièrement rentré en contact avec un mage au faucons plume-acier étrange.
+
+
+
+Possible d’entrer en contact avec lui grâce à l'amulette d’Anivia (la mettre dans l’eau)
+
+
+
+1. Montrez lui vos pierres et expliquez lui tout ce que vous connaissez (Prend des notes)2. Apprenez lui quelque chose qu’il ne sait pas contre une connaissance (équivalent
+
+B. (Son nom / Son fils / Son passé)
+
+_________________________________________________________________________
+
+
+
+Le Secret des Skjaldar :
+
+
+
+Menée par Olga, les Skjaldar sont une tribu indépendante d’Olbukrn. Une prophétie dite par l’Oracle de Ashe lui-même à touché Olga alors qu'elle n'était encore qu’une Avarosan. Depuis elle s’est juré de protéger les siens coûte que coûte. Grâce à sa magie du temps, elle retourne dans le passé pour se battre contre certains conflits. Alors elle change d’apparence selon ses voyages.1. Découvrez le secret de la tribu des Skjaldar
+
+(1) 2. Aidez Olga à combattre le mal de la prophétie.
+
+2. Découvrez le secret de la mère d’Olga  (elle est en réalité Olga du futur et la pousse à continuer de suivre la prophétie pour vivre éternellement)
+
+3. Rapportez lui Arya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REGAN : 
+
+
+
+- Découvre une plante essentielle à son ultime vaccin contre sa maladie. Fais des études dessus pour le développer. Gagner le Prix Stanwick à la fête du progrès.
+
+
+
+-
+
+
+
+
+
+-
+
+
+
+
+
+
+
+ANDYKA : 
+
+
+
+- 
+
+
+
+
+
+-
+
+
+
+
+
+-
+
+
+
+
+
+
+
+ELIORA : 
+
+
+
+- Rencontre sa mère, capitaine d’une troupe Noxienne en Exploration perdu dans le Nord de Freljord.
+
+
+
+-
+
+
+
+
+
+-
+
+
+
+
+
+
+
+GREVOR : 
+
+
+
+- Lettre de Kaïrr, lui partage sa mission.
+
+
+
+- Sullyvan est libéré et cherche à se venger
+
+
+
+- Choix : Devenir Nécromant ou rester fidèle à Noxus.
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZAOUI : 
+
+
+
+- Son fils (Yesin) apparaît dans une faille temporelle (Ils ne se connaissent pas) Reconnaît le ATINI (Alwan) Peut le réparer pour le faire évoluer. C’est la création de sa mère. Il cherche sa mère perdue dans le temps.
+
+- Rencontre Mila, la mère de Yesin, mais qui n’est pas sa femme. L’a quittée pendant qu’elle était enceite.
+
+
+
+
+
+HALGRIM : 
+
+
+
+- Reçois une lettre de sa mère et un livre (Livre spé sur armur targon) mort de son père.
+
+
+
+- Récupère Spleet, son chien.
+
+
+
+- 
+
+
+
+-
+
+
+
+
+
+SOFIAN : 
+
+
+
+- Possède en lui un parasite du néant qui contrôle une partie de son corps.
+
+
+
+- Connaît le vrai visage d’Ott - Intéresse Odvïr qui veut tuer Ott. 
+
+
+
+-
+
+
+
+
+
+VALÉRIAN : 
+
+
+
+- Lettre de remboursement de sa dette (Baron Eramis) de 150 Or. Réponse rapide ou attaque de sbires d’Eramis.
+
+
+
+- Vendre Eramis à Veraza contre des fleures Cristallin. 
+
+
+
+- Monter sa propre entreprise (Transport de Fleure Cristallin) 
+
+
+
+- Traite avec Rodgar pour vendre 100 explosif Piltoviens.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AZUCENA : 
+
+
+
+- L’appel de la Soeur-Phoque dans les plaines oubliées 
+
+
+
+-
+
+
+
+-
+
+
+
+-
+
+
+
+
+
+DECKARD : 
+
+
+
+- Son équipage le cherche
+
+
+
+-
+
+
+
+-
+
+
+
+-
+
+
+
+
+
+SOFIAN : 
+
+
+
+- Possède en lui un parasite du néant qui contrôle une partie de son corps.
+
+
+
+-
+
+
+
+-
+
+
+
+-
+
+
+
+
+
+TAUREM (THJORVAR BRISEROCHE): 
+
+
+
+- Découvre qui il est vraiment à Frostheld grâce à son parrain Wilson (héritage Glace pure) Il est le fils de Gulvar et Olga Tournevent. Apprend qu’il à une soeur (Szwala)
+
+
+
+- Découvre que sa mère n’est pas morte
+
+
+
+-
+
+
+
+-
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3673 @@
+{
+  "documents": [
+    {
+      "_id": "55ad5a65ad84230b",
+      "name": "Fruits Ionien",
+      "type": "consumable",
+      "img": "modules/heritage-de-magnus/assets/drive/1SV3PpdY7LSFUhxzQo58yqYOhfPhumDBj.webp",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Fruits Ionien</h2><p>0. Fruits Ionien (Sans pépins) / Prix Unitaire <br><br>Poire - Fait bronzer la peau en un court instant (durée réelle de bronzage) / 7 Or<br><br>Goyave - Éveil ou Somnolence + ou - fort (1D6) 5 Or<br><br>Citron Gluant - Permet de voir dans le noir temporairement (20min) 3 Or <br><br>Fraiseboise -  Augmente ou diminue la pesanteur du consommateur (1D6).<br><br>Tomate bleu - Régénéré de la santé sur la durée (+2 PV /1D10min). 7 Or<br><br>Raisins multicolores - 1 Effet aléatoire par raisin. 1 Or /u<br><br>Coco ambrée - Puissant aphrodisiaque euphorisant et alcoolisé. 10 Or<br><br>Baies ivrantes juteuses - Rend instantanément ivre et joyeux (1min /baie) 5 Arg /u<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:5:32044",
+        "damageFormula": "0",
+        "conditions": "0. Fruits Ionien (Sans pépins) / Prix Unitaire \n\nPoire - Fait bronzer la peau en un court instant (durée réelle de bronzage) / 7 Or\n\nGoyave - Éveil ou Somnolence + ou - fort (1D6) 5 Or\n\nCitron Gluant - Permet de voir dans le noir temporairement (20min) 3 Or \n\nFraiseboise -  Augmente ou diminue la pesanteur du consommateur (1D6).\n\nTomate bleu - Régénéré de la santé sur la durée (+2 PV /1D10min). 7 Or\n\nRaisins multicolores - 1 Effet aléatoire par raisin. 1 Or /u\n\nCoco ambrée - Puissant aphrodisiaque euphorisant et alcoolisé. 10 Or\n\nBaies ivrantes juteuses - Rend instantanément ivre et joyeux (1min /baie) 5 Arg /u\n\n\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:5:32044",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "32839b4dc6edaefa",
+      "name": "Bois",
+      "type": "resource",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Bois</h2><p>0. Bois (PV)<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:10:53160",
+        "damageFormula": "0",
+        "conditions": "0. Bois (PV)\n\n\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:10:53160",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "00a8c4c4f3df9ce8",
+      "name": "Fer",
+      "type": "resource",
+      "img": "modules/heritage-de-magnus/assets/drive/1L8ju8jobM60-9mm3Wzt8hUSwxOeniC3m.webp",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Fer</h2><p>0. Fer (ARM)<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:10:53175",
+        "damageFormula": "0",
+        "conditions": "0. Fer (ARM)\n\n\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:10:53175",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "ebe518cb27cee452",
+      "name": "Tissu",
+      "type": "resource",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Tissu</h2><p>0. Tissu (PV)<br><br><br><br><br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:10:53190",
+        "damageFormula": "0",
+        "conditions": "0. Tissu (PV)\n\n\n\n\n\n\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:10:53190",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "45bfaa302fba795c",
+      "name": "Acier",
+      "type": "resource",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Acier</h2><p>0. Acier (ARM)<br><br>Cet alliage est très réputé dans tout Runeterra, il est la base de toute armure de base. Constitué principalement de Fer et de Carbone, il peut facilement s’améliorer, se mélanger avec d’autres éléments pouvant le rendre plus unique et plus résistant voire magique. <br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:10:53209",
+        "damageFormula": "0",
+        "conditions": "0. Acier (ARM)\n\nCet alliage est très réputé dans tout Runeterra, il est la base de toute armure de base. Constitué principalement de Fer et de Carbone, il peut facilement s’améliorer, se mélanger avec d’autres éléments pouvant le rendre plus unique et plus résistant voire magique. \n\n\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:10:53209",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "3e3c065db228c935",
+      "name": "Corne",
+      "type": "resource",
+      "img": "modules/heritage-de-magnus/assets/drive/1Rnv1PV-5Gasmdm1JF9K_1pdIlkBg8aa0.webp",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Corne</h2><p><br>0. Corne (Intimidation)<br><br>Souvent utilisé comme preuve de puissance, les cornes de bêtes peuvent attribuer de l’intimidation à la hauteur de la puissance de la bête à qui appartenait la corne.<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:10:53670",
+        "damageFormula": "0",
+        "conditions": "\n0. Corne (Intimidation)\n\nSouvent utilisé comme preuve de puissance, les cornes de bêtes peuvent attribuer de l’intimidation à la hauteur de la puissance de la bête à qui appartenait la corne.\n\n\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:10:53670",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "541ccd510b16a99d",
+      "name": "Cuir",
+      "type": "resource",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Cuir</h2><p>0. Cuir (PV / ARM)<br><br>Si le porteur possède du cuir sur l’ensemble de son set, il gagne +5 ARM Global.<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:10:53864",
+        "damageFormula": "0",
+        "conditions": "0. Cuir (PV / ARM)\n\nSi le porteur possède du cuir sur l’ensemble de son set, il gagne +5 ARM Global.\n\n\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:10:53864",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "094d7df0c8b808c3",
+      "name": "Or",
+      "type": "resource",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Or</h2><p>0. Or (ARM / Charisme / Persuasion)<br><br>Généralement utilisé en pièces comme moyen de paiement principal, il peut également être utilisé en Arme et Équipement comme symbole de noblesse.<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:10:54419",
+        "damageFormula": "0",
+        "conditions": "0. Or (ARM / Charisme / Persuasion)\n\nGénéralement utilisé en pièces comme moyen de paiement principal, il peut également être utilisé en Arme et Équipement comme symbole de noblesse.\n\n\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:10:54419",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "3770775a212865be",
+      "name": "Oknuün 01 — Illusion cauchemardesque",
+      "type": "ability",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Oknuün 01 — Illusion cauchemardesque</h2><p>1. ЙשגעבדחЖ Оддзурнэкשар Шедулгароссар <br>     Yshgaebdechkhazn Oddzurnek Shedulgarossar<br><br>Permet de modifier une zone des Limbes d&#39;Ott afin d&#39;y créer une illusion cauchemardesque pour provoquer un Traumatisme à la cible. <br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "oknuun:1",
+        "damageFormula": "0",
+        "conditions": "1. ЙשגעבדחЖ Оддзурнэкשар Шедулгароссар \n     Yshgaebdechkhazn Oddzurnek Shedulgarossar\n\nPermet de modifier une zone des Limbes d'Ott afin d'y créer une illusion cauchemardesque pour provoquer un Traumatisme à la cible. \n\n\n\n\n",
+        "abilityKind": "spell",
+        "mode": "magic",
+        "attribute": "first",
+        "damageType": "magic",
+        "targetMode": "targets"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "oknuun:1",
+          "contentVersion": "0.1.0",
+          "spell": 1
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "a7d94480e5e630ee",
+      "name": "Oknuün 02 — Chambre d’Anti-miroir Obscure",
+      "type": "ability",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Oknuün 02 — Chambre d’Anti-miroir Obscure</h2><p>2. Йешгебариматра Шахоротכосэм <br><br>     Afelnekrometkabel Shachorotkosém<br><br>Chambre d&#39;Anti-miroir Obscure : Créé au sol une flaque sombre reflétant la pièce environnante pour y enfermer des cibles. Le lanceur peut observer d&#39;au dessus ce qui s’y passe. La pièce permet de révéler des entités et des propriétés. <br><br><br><br>A Noter : Permet d’entendre la voix de tout ce qui peut contenir une âme enfermée à l&#39;intérieur.<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "oknuun:2",
+        "damageFormula": "0",
+        "conditions": "2. Йешгебариматра Шахоротכосэм \n\n     Afelnekrometkabel Shachorotkosém\n\nChambre d'Anti-miroir Obscure : Créé au sol une flaque sombre reflétant la pièce environnante pour y enfermer des cibles. Le lanceur peut observer d'au dessus ce qui s’y passe. La pièce permet de révéler des entités et des propriétés. \n\n\n\nA Noter : Permet d’entendre la voix de tout ce qui peut contenir une âme enfermée à l'intérieur.\n\n\n\n\n",
+        "abilityKind": "spell",
+        "mode": "magic",
+        "attribute": "first",
+        "damageType": "magic",
+        "targetMode": "targets"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "oknuun:2",
+          "contentVersion": "0.1.0",
+          "spell": 2
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "aa9f09744656b733",
+      "name": "Oknuün 03 — Goules spectrales",
+      "type": "ability",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Oknuün 03 — Goules spectrales</h2><p>3. Рухазаримбар Маведадиматал<br><br>     Gyczaehdethgaän Mavebyathbynaytan<br><br>Fait apparaître 6 +1D6 goules Spectrales brumeuses attaquant les cibles environnantes.<br><br>GOULE : 30 PV / 15 DP <br><br>Si dans Limbes d&#39;Ott : 50 PV / 15 DB<br><br><br><br>Si joueur : Invoque 1 goule /3 tours (selon le niveau de Nécromancie).<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "oknuun:3",
+        "damageFormula": "0",
+        "conditions": "3. Рухазаримбар Маведадиматал\n\n     Gyczaehdethgaän Mavebyathbynaytan\n\nFait apparaître 6 +1D6 goules Spectrales brumeuses attaquant les cibles environnantes.\n\nGOULE : 30 PV / 15 DP \n\nSi dans Limbes d'Ott : 50 PV / 15 DB\n\n\n\nSi joueur : Invoque 1 goule /3 tours (selon le niveau de Nécromancie).\n\n\n\n\n",
+        "abilityKind": "spell",
+        "mode": "magic",
+        "attribute": "first",
+        "damageType": "magic",
+        "targetMode": "targets"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "oknuun:3",
+          "contentVersion": "0.1.0",
+          "spell": 3
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "996093c8cad8a7a0",
+      "name": "Oknuün 04 — Désintégration de l’âme",
+      "type": "ability",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Oknuün 04 — Désintégration de l’âme</h2><p>4. Улдракхосвеתנאר ворскелдרא תхарנакруул улвраתх  דרaукхал<br><br>     Uldrakhosvethnar vorskeldra tharnakruul ulvrath draukhal<br><br>Permet de Désintégrer entièrement une âme séparée de son enveloppe corporelle dans les Limbes d&#39;Ott. Cela se déroule sous forme de combat contre l&#39;entité afin de la détruire entièrement.<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "oknuun:4",
+        "damageFormula": "0",
+        "conditions": "4. Улдракхосвеתנאר ворскелдרא תхарנакруул улвраתх  דרaукхал\n\n     Uldrakhosvethnar vorskeldra tharnakruul ulvrath draukhal\n\nPermet de Désintégrer entièrement une âme séparée de son enveloppe corporelle dans les Limbes d'Ott. Cela se déroule sous forme de combat contre l'entité afin de la détruire entièrement.\n\n\n\n\n",
+        "abilityKind": "spell",
+        "mode": "magic",
+        "attribute": "first",
+        "damageType": "magic",
+        "targetMode": "targets"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "oknuun:4",
+          "contentVersion": "0.1.0",
+          "spell": 4
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "0bd7475ab0d1d53d",
+      "name": "Oknuün 05 — Vulnérabilité de l’âme",
+      "type": "ability",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Oknuün 05 — Vulnérabilité de l’âme</h2><p>5. Яцאלכזов КиеבотбалѦк Баалнедари Атаамнєт Танаѫвелк Барроккуѯמцик<br><br>     Gaalczov Kievotbalök Baalnedari Ataamnèt Tanajhvelk Barrokkuhmczyk<br><br>En combat : Rend l’âme de sa cible plus vulnérable. PM x2<br>Hors combat : Affaiblit suffisamment l’âme de la cible afin de l’extraire pour la mettre dans une fiole spéciale (Fiole de l’Eternel). L’absorber permet d’en acquérir une des propriétés uniques.<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "oknuun:5",
+        "damageFormula": "0",
+        "conditions": "5. Яцאלכזов КиеבотбалѦк Баалнедари Атаамнєт Танаѫвелк Барроккуѯמцик\n\n     Gaalczov Kievotbalök Baalnedari Ataamnèt Tanajhvelk Barrokkuhmczyk\n\nEn combat : Rend l’âme de sa cible plus vulnérable. PM x2\nHors combat : Affaiblit suffisamment l’âme de la cible afin de l’extraire pour la mettre dans une fiole spéciale (Fiole de l’Eternel). L’absorber permet d’en acquérir une des propriétés uniques.\n\n\n\n\n",
+        "abilityKind": "spell",
+        "mode": "magic",
+        "attribute": "first",
+        "damageType": "magic",
+        "targetMode": "targets"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "oknuun:5",
+          "contentVersion": "0.1.0",
+          "spell": 5
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "74885f8e3efeb6ef",
+      "name": "Oknuün 06 — Portail des Limbes",
+      "type": "ability",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Oknuün 06 — Portail des Limbes</h2><p>6. Ѵאלдра пріזвошує дуцхы до Эвиг Агаартһ <br>     Valdra przywołuje duchy do Evig Agaarth&#39;Onu Mrok<br><br>Permet de créer un portail vers les Limbes d&#39;Ott (voir Lore), un lieu unique pour y enfermer des esprits. Une fois fermée, le portail laisse derrière lui une brèche temporairement réouvrable (Nécromancie +25). <br><br><br><br>A Noter : Tout ce qui contient une âme peut y pénétrer spirituellement. Ott y est donc vulnérable magiquement (DM) comme physiquement (DP).<br><br><br><br><br>B. LIVRE NON TENU PAR OTT (DE 7 À 12)<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "oknuun:6",
+        "damageFormula": "0",
+        "conditions": "6. Ѵאלдра пріזвошує дуцхы до Эвиг Агаартһ \n     Valdra przywołuje duchy do Evig Agaarth'Onu Mrok\n\nPermet de créer un portail vers les Limbes d'Ott (voir Lore), un lieu unique pour y enfermer des esprits. Une fois fermée, le portail laisse derrière lui une brèche temporairement réouvrable (Nécromancie +25). \n\n\n\nA Noter : Tout ce qui contient une âme peut y pénétrer spirituellement. Ott y est donc vulnérable magiquement (DM) comme physiquement (DP).\n\n\n\n\nB. LIVRE NON TENU PAR OTT (DE 7 À 12)\n\n\n\n\n",
+        "abilityKind": "spell",
+        "mode": "magic",
+        "attribute": "first",
+        "damageType": "magic",
+        "targetMode": "targets"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "oknuun:6",
+          "contentVersion": "0.1.0",
+          "spell": 6
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "e6bf0b2c0498e764",
+      "name": "Oknuün 07 — Flamme verte",
+      "type": "ability",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Oknuün 07 — Flamme verte</h2><p>7. ??????????????? ??????????? ????????????????????<br><br>     ??????????????? ??????????? ????????????????????<br><br>Créer une Flamme Verte unique à Ott qui n&#39;émet pas de chaleur mais se propage uniquement sur de la matière organique et brûle directement l’âme à travers la matière des personnes touchées. 5 DB /tours. L’effet prend fin qu&#39;à la disparition de Ott (Phase 1).<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "oknuun:7",
+        "damageFormula": "5",
+        "conditions": "7. ??????????????? ??????????? ????????????????????\n\n     ??????????????? ??????????? ????????????????????\n\nCréer une Flamme Verte unique à Ott qui n'émet pas de chaleur mais se propage uniquement sur de la matière organique et brûle directement l’âme à travers la matière des personnes touchées. 5 DB /tours. L’effet prend fin qu'à la disparition de Ott (Phase 1).\n\n\n\n\n",
+        "abilityKind": "spell",
+        "mode": "magic",
+        "attribute": "first",
+        "damageType": "brut",
+        "targetMode": "targets"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "oknuun:7",
+          "contentVersion": "0.1.0",
+          "spell": 7
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "b7c33a8092317bf5",
+      "name": "Oknuün 08 — Cri du monde des morts",
+      "type": "ability",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Oknuün 08 — Cri du monde des morts</h2><p>8. Йаҗаба Pиматра אишуумтаאל <br><br>     Nashamga Bjentamm Ishuumtaal<br><br>Créé un son strident et tétanisant tout droit venu du monde des morts Paralysant toutes les cibles environnantes (jet de Mental pour y résister).<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "oknuun:8",
+        "damageFormula": "0",
+        "conditions": "8. Йаҗаба Pиматра אишуумтаאל \n\n     Nashamga Bjentamm Ishuumtaal\n\nCréé un son strident et tétanisant tout droit venu du monde des morts Paralysant toutes les cibles environnantes (jet de Mental pour y résister).\n\n\n\n\n",
+        "abilityKind": "spell",
+        "mode": "magic",
+        "attribute": "first",
+        "damageType": "magic",
+        "targetMode": "targets",
+        "associatedEffects": [
+          {
+            "status": "paralyzed",
+            "condition": "Jet de Mental pour résister ; durée non précisée par la source, validation MJ.",
+            "id": "3dec5c461e753c66"
+          }
+        ]
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "oknuun:8",
+          "contentVersion": "0.1.0",
+          "spell": 8
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "8ada7e3587df4b2b",
+      "name": "Oknuün 09 — Possession",
+      "type": "ability",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Oknuün 09 — Possession</h2><p>9. Скорваתхрулנах דרקאַïдрн Кроתхваסקуנелдра<br><br>      Skorvathrulnakh Drekaïdrn Krothvaskuneldra<br><br>Peut prendre Possession du corps d&#39;une personne enfermée dans les Limbes d&#39;Ott.<br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "oknuun:9",
+        "damageFormula": "0",
+        "conditions": "9. Скорваתхрулנах דרקאַïдрн Кроתхваסקуנелдра\n\n      Skorvathrulnakh Drekaïdrn Krothvaskuneldra\n\nPeut prendre Possession du corps d'une personne enfermée dans les Limbes d'Ott.\n\n\n",
+        "abilityKind": "spell",
+        "mode": "magic",
+        "attribute": "first",
+        "damageType": "magic",
+        "targetMode": "targets"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "oknuun:9",
+          "contentVersion": "0.1.0",
+          "spell": 9
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "9d8dedccc214cec3",
+      "name": "Oknuün 10 — Gaz mortel",
+      "type": "ability",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Oknuün 10 — Gaz mortel</h2><p><br>10. Тхракк Окмунгавлоσκ РуефКиоваож<br><br>        Thrakk Okmungvālsk Kievotbalök<br><br>Fait propager un Gaz lourd invisible et inodore qui étouffe et tue progressivement. -02 PV /min et x2 toutes les 5min (jet d&#39;Endurance pour diviser /2 les effets).<br><br>Ne fonctionne que dans une pièce fermée ou dans une Chambre Anti-miroir Obscure (11.2). L&#39;effet est plus ou moins rapide selon la taille de la pièce et la valeur du jet.<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "oknuun:10",
+        "damageFormula": "0",
+        "conditions": "\n10. Тхракк Окмунгавлоσκ РуефКиоваож\n\n        Thrakk Okmungvālsk Kievotbalök\n\nFait propager un Gaz lourd invisible et inodore qui étouffe et tue progressivement. -02 PV /min et x2 toutes les 5min (jet d'Endurance pour diviser /2 les effets).\n\nNe fonctionne que dans une pièce fermée ou dans une Chambre Anti-miroir Obscure (11.2). L'effet est plus ou moins rapide selon la taille de la pièce et la valeur du jet.\n\n\n\n\n",
+        "abilityKind": "spell",
+        "mode": "magic",
+        "attribute": "first",
+        "damageType": "magic",
+        "targetMode": "targets"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "oknuun:10",
+          "contentVersion": "0.1.0",
+          "spell": 10
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "0f980db5dfcb92cd",
+      "name": "Oknuün 11 — Dernier passage",
+      "type": "ability",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Oknuün 11 — Dernier passage</h2><p>11. Ѵאלдра пріזвошує дуцхы до Эвиг Агаартһ Киваратсалгар Нефааргамал<br><br>        Valdra przywołuje duchy do Evig Kivaratsalgar Nefjaargmal<br><br>(Phase 3) Permet de transporter toute une zone autour du lanceur dans les Limbes d&#39;Ott avant de Mourir pour tenter de survivre afin de se retrouver un corps ultérieurement.<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "oknuun:11",
+        "damageFormula": "0",
+        "conditions": "11. Ѵאלдра пріזвошує дуцхы до Эвиг Агаартһ Киваратсалгар Нефааргамал\n\n        Valdra przywołuje duchy do Evig Kivaratsalgar Nefjaargmal\n\n(Phase 3) Permet de transporter toute une zone autour du lanceur dans les Limbes d'Ott avant de Mourir pour tenter de survivre afin de se retrouver un corps ultérieurement.\n\n\n\n\n",
+        "abilityKind": "spell",
+        "mode": "magic",
+        "attribute": "first",
+        "damageType": "magic",
+        "targetMode": "targets"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "oknuun:11",
+          "contentVersion": "0.1.0",
+          "spell": 11
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "56db8a83327e9018",
+      "name": "Oknuün 12 — Lambeaux de robe",
+      "type": "ability",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Oknuün 12 — Lambeaux de robe</h2><p>12. ???????????????? ?????????????? <br><br>        ???????????????? ?????????????? <br><br>Déploie des lambeaux de sa robe pour s&#39;agripper aux cibles environnantes. Entrave qui limite fortement les déplacements, voir immobilise. Marque les âmes au bout de 3min afin de les identifier sur de longues distances durant les prochains mois.<br><br><br><br><br><br>C. ÂMES DES FIOLES DE L’ETERNEL : <br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "oknuun:12",
+        "damageFormula": "0",
+        "conditions": "12. ???????????????? ?????????????? \n\n        ???????????????? ?????????????? \n\nDéploie des lambeaux de sa robe pour s'agripper aux cibles environnantes. Entrave qui limite fortement les déplacements, voir immobilise. Marque les âmes au bout de 3min afin de les identifier sur de longues distances durant les prochains mois.\n\n\n\n\n\nC. ÂMES DES FIOLES DE L’ETERNEL : \n\n\n",
+        "abilityKind": "spell",
+        "mode": "magic",
+        "attribute": "first",
+        "damageType": "magic",
+        "targetMode": "targets",
+        "associatedEffects": [
+          {
+            "status": "restrained",
+            "condition": "Limite les déplacements ; marques après 3 min.",
+            "id": "434c1a75f8e305bc"
+          }
+        ]
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "oknuun:12",
+          "contentVersion": "0.1.0",
+          "spell": 12
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "845138a1d3a48409",
+      "name": "Bralof Borderive :",
+      "type": "resource",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Bralof Borderive :</h2><p>1. Bralof Borderive : (Devient un Sublimé et gagne +1 Résistance au Froid)<br><br>Un ancien sublimé mort au combat qui n’est jamais parti en paix. <br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:11:63106",
+        "damageFormula": "0",
+        "conditions": "1. Bralof Borderive : (Devient un Sublimé et gagne +1 Résistance au Froid)\n\nUn ancien sublimé mort au combat qui n’est jamais parti en paix. \n\n\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:11:63106",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "8f8851f0483a39e2",
+      "name": "Freyda Lanedelle :",
+      "type": "resource",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Freyda Lanedelle :</h2><p>2. Freyda Lanedelle : (+10 Concentration + Bonus Langage)<br><br>Était une grande littéraire Demacienne spécialiste dans les langues.<br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:11:63249",
+        "damageFormula": "0",
+        "conditions": "2. Freyda Lanedelle : (+10 Concentration + Bonus Langage)\n\nÉtait une grande littéraire Demacienne spécialiste dans les langues.\n\n\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:11:63249",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "34e72e1d1b840e5a",
+      "name": "Odile Drogbäk :",
+      "type": "resource",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Odile Drogbäk :</h2><p>3. Odile Drogbäk : (Céleste : Sous constellation Hurva = Le corps brille la nuit + Esprit lié aux Momoïcaen)<br><br>Jeune Freljordienne lié à une magie céleste par le bras de la manifestation de Huerva. Celle ci pouvait éclairer des chemins durant la nuit en émanant de son corps des particules lumineuse, et elle pouvait parler et ressentir les émotions des Momoïcaen, un créature endémique de la frontière Freljo-Demacienne.<br><br><br><br><br><br><br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:11:63378",
+        "damageFormula": "0",
+        "conditions": "3. Odile Drogbäk : (Céleste : Sous constellation Hurva = Le corps brille la nuit + Esprit lié aux Momoïcaen)\n\nJeune Freljordienne lié à une magie céleste par le bras de la manifestation de Huerva. Celle ci pouvait éclairer des chemins durant la nuit en émanant de son corps des particules lumineuse, et elle pouvait parler et ressentir les émotions des Momoïcaen, un créature endémique de la frontière Freljo-Demacienne.\n\n\n\n\n\n\n\n\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:11:63378",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "8ee81748a1a946e4",
+      "name": "Bélier : Résistance au froid",
+      "type": "enchantment",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Bélier : Résistance au froid</h2><p>1. Bélier : Résistance au froid (+1 Niveau de Froid).<br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:13:67610",
+        "damageFormula": "0",
+        "conditions": "1. Bélier : Résistance au froid (+1 Niveau de Froid).\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:13:67610",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "38a92d6e735f2ca4",
+      "name": "Sanglier : Peau plus solide",
+      "type": "enchantment",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Sanglier : Peau plus solide</h2><p>2. Sanglier : Peau plus solide (+05 ARM Globale).<br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:13:67665",
+        "damageFormula": "0",
+        "conditions": "2. Sanglier : Peau plus solide (+05 ARM Globale).\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:13:67665",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "261d3de141bfc2ac",
+      "name": "Ours : Frénésie combative",
+      "type": "enchantment",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Ours : Frénésie combative</h2><p>3. Ours : Frénésie combative (Ajoute Spécial Frénésie).<br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:13:67716",
+        "damageFormula": "0",
+        "conditions": "3. Ours : Frénésie combative (Ajoute Spécial Frénésie).\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:13:67716",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "75b0e1836025b204",
+      "name": "Phoenix : Sous son regard et son aile",
+      "type": "enchantment",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Phoenix : Sous son regard et son aile</h2><p>4. Phoenix : Sous son regard et son aile (+10 Prière Anivia). <br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:13:67773",
+        "damageFormula": "0",
+        "conditions": "4. Phoenix : Sous son regard et son aile (+10 Prière Anivia). \n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:13:67773",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "af3d064bb2d9e239",
+      "name": "Jern : Lié à la faune",
+      "type": "enchantment",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Jern : Lié à la faune</h2><p>5. Jern : Lié à la faune (+10 Charisme pour la Faune).<br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:13:67837",
+        "damageFormula": "0",
+        "conditions": "5. Jern : Lié à la faune (+10 Charisme pour la Faune).\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:13:67837",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "1e7f3acec59fb3d0",
+      "name": "Elnük : Plus fort en famille",
+      "type": "enchantment",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Elnük : Plus fort en famille</h2><p>6. Elnük : Plus fort en famille (+10 en Bonus de Force quand il/elle Défend une cible).<br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:13:67893",
+        "damageFormula": "0",
+        "conditions": "6. Elnük : Plus fort en famille (+10 en Bonus de Force quand il/elle Défend une cible).\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:13:67893",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "d8187a424b03cc91",
+      "name": "Loup : Peut manger des aliments crus sans tomber malade",
+      "type": "enchantment",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Loup : Peut manger des aliments crus sans tomber malade</h2><p>7. Loup : Peut manger des aliments crus sans tomber malade (+1 PV /250g).<br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:13:67982",
+        "damageFormula": "0",
+        "conditions": "7. Loup : Peut manger des aliments crus sans tomber malade (+1 PV /250g).\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:13:67982",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "2bffc9d86a76cae6",
+      "name": "Renard : Plus rusé en pleine nature",
+      "type": "enchantment",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Renard : Plus rusé en pleine nature</h2><p>8. Renard : Plus rusé en pleine nature (+5 Concentration lors des Trajets et la Survie).<br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:13:68057",
+        "damageFormula": "0",
+        "conditions": "8. Renard : Plus rusé en pleine nature (+5 Concentration lors des Trajets et la Survie).\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:13:68057",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "671415a7287989b7",
+      "name": "Corbeau : Trouve plus facilement son chemin",
+      "type": "enchantment",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Corbeau : Trouve plus facilement son chemin</h2><p>9. Corbeau : Trouve plus facilement son chemin (le MJ donne des indices lors des Trajets).<br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:13:68147",
+        "damageFormula": "0",
+        "conditions": "9. Corbeau : Trouve plus facilement son chemin (le MJ donne des indices lors des Trajets).\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:13:68147",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "95d989c0d2803bd4",
+      "name": "Phoque : L’eau est le plus pure des éléments",
+      "type": "enchantment",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Phoque : L’eau est le plus pure des éléments</h2><p>10. Phoque : L’eau est le plus pure des éléments (Boire de l&#39;eau redonne +1 PV/0.1L. limité à 10 PV/J).<br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:13:68239",
+        "damageFormula": "0",
+        "conditions": "10. Phoque : L’eau est le plus pure des éléments (Boire de l'eau redonne +1 PV/0.1L. limité à 10 PV/J).\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:13:68239",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "491a2c907a44c827",
+      "name": "Mouflon : La puissance de la Montage",
+      "type": "enchantment",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Mouflon : La puissance de la Montage</h2><p>11. Mouflon : La puissance de la Montage (Chaque élément ne prend plus qu’1 place dans le Sac).<br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:13:68344",
+        "damageFormula": "0",
+        "conditions": "11. Mouflon : La puissance de la Montage (Chaque élément ne prend plus qu’1 place dans le Sac).\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:13:68344",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "a4e73d9d2d3af600",
+      "name": "Baorgük : Peut respirer sous l'eau.",
+      "type": "enchantment",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Baorgük : Peut respirer sous l&#39;eau.</h2><p>12. Baorgük : Peut respirer sous l&#39;eau.<br><br><br><br><br><br><br><br><br></p></article>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "index:13:68441",
+        "damageFormula": "0",
+        "conditions": "12. Baorgük : Peut respirer sous l'eau.\n\n\n\n\n\n\n\n\n"
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "index:13:68441",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "5dbdaaa67e5f852c",
+      "name": "Pierre Jaune",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/drive/1zgZ3UoSWYkMNiff5QKPviA9pecVy95aa.webp",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Pierre Jaune</h2><p>Une pierre singulière reçue dans l’héritage de Magnus. Son pouvoir se découvre en jeu.</p></article>",
+        "source": "https://docs.google.com/document/d/1lPqHL0wexKMNmwuhdv3oRD7zTI8W88AeHorbJw3aQwE/edit",
+        "reference": "stone:yellow",
+        "damageFormula": "0",
+        "conditions": "Une pierre singulière reçue dans l’héritage de Magnus. Son pouvoir se découvre en jeu."
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1lPqHL0wexKMNmwuhdv3oRD7zTI8W88AeHorbJw3aQwE",
+          "key": "stone:yellow",
+          "contentVersion": "0.1.0",
+          "stone": "yellow"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "2730a079667366de",
+      "name": "Pierre Verte",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/drive/1aSNtLBefhTxk0ePJUYOtmiWT2_Xj3--1.webp",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Pierre Verte</h2><p>Une pierre singulière reçue dans l’héritage de Magnus. Son pouvoir se découvre en jeu.</p></article>",
+        "source": "https://docs.google.com/document/d/1lPqHL0wexKMNmwuhdv3oRD7zTI8W88AeHorbJw3aQwE/edit",
+        "reference": "stone:green",
+        "damageFormula": "0",
+        "conditions": "Une pierre singulière reçue dans l’héritage de Magnus. Son pouvoir se découvre en jeu."
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1lPqHL0wexKMNmwuhdv3oRD7zTI8W88AeHorbJw3aQwE",
+          "key": "stone:green",
+          "contentVersion": "0.1.0",
+          "stone": "green"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "4fb60ed33996d911",
+      "name": "Pierre Bleue",
+      "type": "relic",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Pierre Bleue</h2><p>Une pierre singulière reçue dans l’héritage de Magnus. Son pouvoir se découvre en jeu.</p></article>",
+        "source": "https://docs.google.com/document/d/1lPqHL0wexKMNmwuhdv3oRD7zTI8W88AeHorbJw3aQwE/edit",
+        "reference": "stone:blue",
+        "damageFormula": "0",
+        "conditions": "Une pierre singulière reçue dans l’héritage de Magnus. Son pouvoir se découvre en jeu."
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1lPqHL0wexKMNmwuhdv3oRD7zTI8W88AeHorbJw3aQwE",
+          "key": "stone:blue",
+          "contentVersion": "0.1.0",
+          "stone": "blue"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "e506eae31cfc1c3f",
+      "name": "Pierre Marron",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/drive/1b-lVCNLy6SrpzJantg7xhAZL9Tv-oLxE.webp",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Pierre Marron</h2><p>Une pierre singulière reçue dans l’héritage de Magnus. Son pouvoir se découvre en jeu.</p></article>",
+        "source": "https://docs.google.com/document/d/1lPqHL0wexKMNmwuhdv3oRD7zTI8W88AeHorbJw3aQwE/edit",
+        "reference": "stone:brown",
+        "damageFormula": "0",
+        "conditions": "Une pierre singulière reçue dans l’héritage de Magnus. Son pouvoir se découvre en jeu."
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1lPqHL0wexKMNmwuhdv3oRD7zTI8W88AeHorbJw3aQwE",
+          "key": "stone:brown",
+          "contentVersion": "0.1.0",
+          "stone": "brown"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "2b28bad3f5b0a1ce",
+      "name": "Pierre Violette",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/drive/1g0-FUVjyJ1kcF_IS0gYYyt2qXt_95ov_.webp",
+      "system": {
+        "description": "<article class=\"magnus-entry\"><h2>Pierre Violette</h2><p>Une pierre singulière reçue dans l’héritage de Magnus. Son pouvoir se découvre en jeu.</p></article>",
+        "source": "https://docs.google.com/document/d/1lPqHL0wexKMNmwuhdv3oRD7zTI8W88AeHorbJw3aQwE/edit",
+        "reference": "stone:violet",
+        "damageFormula": "0",
+        "conditions": "Une pierre singulière reçue dans l’héritage de Magnus. Son pouvoir se découvre en jeu."
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1lPqHL0wexKMNmwuhdv3oRD7zTI8W88AeHorbJw3aQwE",
+          "key": "stone:violet",
+          "contentVersion": "0.1.0",
+          "stone": "violet"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "0d1bd0c139a3796d",
+      "name": "Attaque spectrale",
+      "type": "weapon",
+      "system": {
+        "description": "<p>Source Oknuün 3 : 15 DP ; dans les Limbes 15 DB.</p>",
+        "damageFormula": "15",
+        "attribute": "force",
+        "variants": [
+          {
+            "id": "material",
+            "label": "Monde matériel",
+            "components": [
+              {
+                "formula": "15",
+                "type": "physical"
+              }
+            ]
+          },
+          {
+            "id": "limbes",
+            "label": "Limbes d’Ott",
+            "components": [
+              {
+                "formula": "15",
+                "type": "brut"
+              }
+            ]
+          }
+        ]
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "summon:goule-attack",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "b02acebd9bb8ef9a"
+    },
+    {
+      "_id": "1113d29af8685a30",
+      "name": "Fidèle Nasil",
+      "type": "weapon",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1YSq0GFtf1SXBe3A7RjqFVP-CNkXg_6K6.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1YSq0GFtf1SXBe3A7RjqFVP-CNkXg_6K6.webp\" alt=\"Fidèle Nasil\"><h1>Fidèle Nasil</h1></div><p>Fidèle Nasil (Fouet - 1 Main) à Emir Crownguard - créé à Demacia [300/800/2000 Or]</p><p>10/20/30 DP et 10/20/30 DM Ciblé. Un coup de fouet à 10/15/25% de chance d’annuler une attaque magique et si ≤ 10/20, la renvoi contre son envoyeur.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:3:2:Fidèle Nasil (Fouet",
+        "category": "Armes",
+        "damageFormula": "20",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "weaponType": "Fouet - 1 Main",
+        "damageType": "physical",
+        "mode": "melee",
+        "attribute": "force",
+        "schemaVersion": 2,
+        "components": [
+          {
+            "formula": "20",
+            "type": "physical",
+            "penetration": 0,
+            "penetrating": false,
+            "source": "20/30 DP"
+          },
+          {
+            "formula": "20",
+            "type": "magic",
+            "penetration": 0,
+            "penetrating": false,
+            "source": "20/30 DM"
+          }
+        ],
+        "variants": [
+          {
+            "id": "choice0",
+            "label": "20/30 DP → 20 + 20/30 DM → 20",
+            "components": [
+              {
+                "formula": "20",
+                "type": "physical",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "20/30 DP"
+              },
+              {
+                "formula": "20",
+                "type": "magic",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "20/30 DM"
+              }
+            ],
+            "conditions": "Fidèle Nasil (Fouet - 1 Main) à Emir Crownguard - créé à Demacia [300/800/2000 Or]  10/20/30 DP et 10/20/30 DM Ciblé"
+          },
+          {
+            "id": "choice1",
+            "label": "20/30 DP → 20 + 20/30 DM → 30",
+            "components": [
+              {
+                "formula": "20",
+                "type": "physical",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "20/30 DP"
+              },
+              {
+                "formula": "30",
+                "type": "magic",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "20/30 DM"
+              }
+            ],
+            "conditions": "Fidèle Nasil (Fouet - 1 Main) à Emir Crownguard - créé à Demacia [300/800/2000 Or]  10/20/30 DP et 10/20/30 DM Ciblé"
+          },
+          {
+            "id": "choice2",
+            "label": "20/30 DP → 30 + 20/30 DM → 20",
+            "components": [
+              {
+                "formula": "30",
+                "type": "physical",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "20/30 DP"
+              },
+              {
+                "formula": "20",
+                "type": "magic",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "20/30 DM"
+              }
+            ],
+            "conditions": "Fidèle Nasil (Fouet - 1 Main) à Emir Crownguard - créé à Demacia [300/800/2000 Or]  10/20/30 DP et 10/20/30 DM Ciblé"
+          },
+          {
+            "id": "choice3",
+            "label": "20/30 DP → 30 + 20/30 DM → 30",
+            "components": [
+              {
+                "formula": "30",
+                "type": "physical",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "20/30 DP"
+              },
+              {
+                "formula": "30",
+                "type": "magic",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "20/30 DM"
+              }
+            ],
+            "conditions": "Fidèle Nasil (Fouet - 1 Main) à Emir Crownguard - créé à Demacia [300/800/2000 Or]  10/20/30 DP et 10/20/30 DM Ciblé"
+          }
+        ],
+        "zone": "torso",
+        "conditions": "Fidèle Nasil (Fouet - 1 Main) à Emir Crownguard - créé à Demacia [300/800/2000 Or]  10/20/30 DP et 10/20/30 DM Ciblé"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.equipment.Item.d0be3ff174ada75e",
+          "key": "reward:Compendium.jdr-runeterra.equipment.Item.d0be3ff174ada75e",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.equipment.Item.d0be3ff174ada75e"
+      }
+    },
+    {
+      "_id": "adce8e70619818e4",
+      "name": "Morsvarünn",
+      "type": "weapon",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"Morsvarünn\"><h1>Morsvarünn</h1></div><p>Morsvarünn (Bâton - 2 Main) - possédé par Thorva [100 Or]</p><p>30 DM de Zone de Givre. Provoque un ralentissement de moyenne zone tout autour du lanceur et à 40% de chance de repousser violemment provoquant 10 DP. Le bâton est d’origine Ursidé et peut sentir une tempête s’approcher.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:3:3:Morsvarünn (Bâton",
+        "category": "Armes",
+        "damageFormula": "30",
+        "price": 100,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "weaponType": "Bâton - 2 Main",
+        "damageType": "magic",
+        "mode": "magic",
+        "attribute": "concentration",
+        "schemaVersion": 2,
+        "components": [
+          {
+            "formula": "30",
+            "type": "magic",
+            "penetration": 0,
+            "penetrating": false,
+            "source": "30 DM"
+          }
+        ],
+        "variants": [],
+        "zone": "area",
+        "conditions": "Morsvarünn (Bâton - 2 Main) - possédé par Thorva [100 Or]  30 DM de Zone de Givre"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.equipment.Item.f14f3bdd685a01e5",
+          "key": "reward:Compendium.jdr-runeterra.equipment.Item.f14f3bdd685a01e5",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.equipment.Item.f14f3bdd685a01e5"
+      }
+    },
+    {
+      "_id": "8bde13cceb9885f1",
+      "name": "Vière Rouge",
+      "type": "weapon",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1M676CZBtwLURSRLgUNXN98TYQJwcLJDG.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1M676CZBtwLURSRLgUNXN98TYQJwcLJDG.webp\" alt=\"Vière Rouge\"><h1>Vière Rouge</h1></div><p>Vière Rouge (Lance - 2 Mains) à Obérin - créé par Obérin [100 Or]</p><p>20 DP. 5% d’appliquer un poison unique -1 PV /Tour jusqu&#39;à la mort (remède unique détenu par Obérin).</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:3:5:Vière Rouge (Lance",
+        "category": "Armes",
+        "damageFormula": "20",
+        "price": 100,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "weaponType": "Lance - 2 Mains",
+        "damageType": "physical",
+        "mode": "melee",
+        "attribute": "force",
+        "schemaVersion": 2,
+        "components": [
+          {
+            "formula": "20",
+            "type": "physical",
+            "penetration": 0,
+            "penetrating": false,
+            "source": "20 DP"
+          }
+        ],
+        "variants": [],
+        "zone": "torso",
+        "conditions": "Vière Rouge (Lance - 2 Mains) à Obérin - créé par Obérin [100 Or]  20 DP"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.equipment.Item.94a3cf66fcc7685f",
+          "key": "reward:Compendium.jdr-runeterra.equipment.Item.94a3cf66fcc7685f",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.equipment.Item.94a3cf66fcc7685f"
+      }
+    },
+    {
+      "_id": "8cb36b59ead0bd7c",
+      "name": "Dague Éthérée “Ynshaarum”",
+      "type": "weapon",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1Egwb_Xn_IUPPsMVspaR-80kRcEjGN2j3.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1Egwb_Xn_IUPPsMVspaR-80kRcEjGN2j3.webp\" alt=\"Dague Éthérée “Ynshaarum”\"><h1>Dague Éthérée “Ynshaarum”</h1></div><p>Dague Éthérée “Ynshaarum” (Dague - 1 Main) - créé à Noxus [300 Or]</p><p>40 DP /60 DB. Rituel Lame Éthérée sur 1D100 (Nom cible : faire -20/ Nom + Ess cible : faire -50). Si rituel réussi : Coup fatal à 50-80 % PV restant de la cible (1 fois par combat)</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:3:8:Dague Éthérée “Ynshaarum” (Dague",
+        "category": "Armes",
+        "damageFormula": "40",
+        "price": 300,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "weaponType": "Dague - 1 Main",
+        "damageType": "physical",
+        "mode": "melee",
+        "attribute": "force",
+        "schemaVersion": 2,
+        "components": [
+          {
+            "formula": "40",
+            "type": "physical",
+            "penetration": 0,
+            "penetrating": false,
+            "source": "40 DP"
+          }
+        ],
+        "variants": [
+          {
+            "id": "choice0",
+            "label": "40 DP → 40",
+            "components": [
+              {
+                "formula": "40",
+                "type": "physical",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "40 DP"
+              }
+            ],
+            "conditions": "Dague Éthérée “Ynshaarum” (Dague - 1 Main) - créé à Noxus [300 Or]  40 DP /60 DB"
+          },
+          {
+            "id": "choice1",
+            "label": "60 DB → 60",
+            "components": [
+              {
+                "formula": "60",
+                "type": "brut",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "60 DB"
+              }
+            ],
+            "conditions": "Dague Éthérée “Ynshaarum” (Dague - 1 Main) - créé à Noxus [300 Or]  40 DP /60 DB"
+          },
+          {
+            "id": "ritual",
+            "label": "Rituel Lame Éthérée",
+            "components": [
+              {
+                "formula": "0",
+                "type": "brut",
+                "penetration": 0
+              }
+            ],
+            "mode": "ritual",
+            "conditions": "Nom : seuil 20 ; nom + essence : seuil 50 (notation -20/-50 à confirmer par le MJ). 50–80 % des PV restants, une fois par combat. Pourcentage et type arbitrés par le MJ."
+          }
+        ],
+        "zone": "torso",
+        "conditions": "Dague Éthérée “Ynshaarum” (Dague - 1 Main) - créé à Noxus [300 Or]  40 DP /60 DB"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.equipment.Item.f6f18f2428ee1a6b",
+          "key": "reward:Compendium.jdr-runeterra.equipment.Item.f6f18f2428ee1a6b",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.equipment.Item.f6f18f2428ee1a6b"
+      }
+    },
+    {
+      "_id": "385167348b5b8455",
+      "name": "Épée Glorieuse",
+      "type": "weapon",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1E3V7bC6eopZTUQQC_mnmgjk3EA4czm_l.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1E3V7bC6eopZTUQQC_mnmgjk3EA4czm_l.webp\" alt=\"Épée Glorieuse\"><h1>Épée Glorieuse</h1></div><p>Épée Glorieuse (Épée - 1 Main) à Cithria - créé à Demacia [Inestimable]</p><p>40/80 DP. L&#39;épée évolue et prend des stats à force de combattre. +05 dans l’Attribut utilisé (sauf Spéciaux) si réussite critique (2 fois max par Attributs). ! Item Indestructible !</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:3:9:Épée Glorieuse (Épée",
+        "category": "Armes",
+        "damageFormula": "40",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "weaponType": "Épée - 1 Main",
+        "damageType": "physical",
+        "mode": "melee",
+        "attribute": "force",
+        "schemaVersion": 2,
+        "components": [
+          {
+            "formula": "40",
+            "type": "physical",
+            "penetration": 0,
+            "penetrating": false,
+            "source": "40/80 DP"
+          }
+        ],
+        "variants": [
+          {
+            "id": "choice0",
+            "label": "40/80 DP → 40",
+            "components": [
+              {
+                "formula": "40",
+                "type": "physical",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "40/80 DP"
+              }
+            ],
+            "conditions": "Épée Glorieuse (Épée - 1 Main) à Cithria - créé à Demacia [Inestimable]  40/80 DP"
+          },
+          {
+            "id": "choice1",
+            "label": "40/80 DP → 80",
+            "components": [
+              {
+                "formula": "80",
+                "type": "physical",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "40/80 DP"
+              }
+            ],
+            "conditions": "Épée Glorieuse (Épée - 1 Main) à Cithria - créé à Demacia [Inestimable]  40/80 DP"
+          }
+        ],
+        "zone": "torso",
+        "conditions": "Épée Glorieuse (Épée - 1 Main) à Cithria - créé à Demacia [Inestimable]  40/80 DP"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.equipment.Item.aa7122ee2825a6ba",
+          "key": "reward:Compendium.jdr-runeterra.equipment.Item.aa7122ee2825a6ba",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.equipment.Item.aa7122ee2825a6ba"
+      }
+    },
+    {
+      "_id": "c431816a2d12f908",
+      "name": "Galidarium",
+      "type": "weapon",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1ORXFFagR_qNWLFENqAQZ63_9X9tNcNMr.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1ORXFFagR_qNWLFENqAQZ63_9X9tNcNMr.webp\" alt=\"Galidarium\"><h1>Galidarium</h1></div><p>Galidarium (Sceptre - 1 Main ) - héritage de Eldred Crownguard - créé à Demacia [1200/2100 Or]</p><p>30/50 RM - 20 % de chance d’annuler totalement une attaque magique. Si Légendaire : Transforme la magie absorbée en chance de réussite. Ex : 30 DM absorbé = +30 au prochain jet. (1 fois par combat)</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:3:11:Galidarium (Sceptre",
+        "category": "Armes",
+        "damageFormula": "30",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "weaponType": "Sceptre - 1 Main",
+        "damageType": "magic",
+        "mode": "melee",
+        "attribute": "force",
+        "schemaVersion": 2,
+        "conditions": "Galidarium (Sceptre - 1 Main ) - héritage de Eldred Crownguard - créé à Demacia [1200/2100 Or]  30/50 RM - 20 % de chance d’annuler totalement une attaque magique"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.equipment.Item.3ea7c75f8d59fbe1",
+          "key": "reward:Compendium.jdr-runeterra.equipment.Item.3ea7c75f8d59fbe1",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.equipment.Item.3ea7c75f8d59fbe1"
+      }
+    },
+    {
+      "_id": "47321575308ee338",
+      "name": "Tranchevif",
+      "type": "weapon",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1WvnVXVuu09qix6F9DTcXPo6MaVopLR5o.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1WvnVXVuu09qix6F9DTcXPo6MaVopLR5o.webp\" alt=\"Tranchevif\"><h1>Tranchevif</h1></div><p>Tranchevif (Épée - 1 Main) à Odvïr - créé par Ulfric Guldor [170 Or]</p><p>30 DP. Chaque blessure prend +10 DP à répétition. Si Légendaire : 30 % de chance d’Infecter les plaies.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:3:18:Tranchevif (Épée",
+        "category": "Armes",
+        "damageFormula": "30",
+        "price": 170,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "weaponType": "Épée - 1 Main",
+        "damageType": "physical",
+        "mode": "melee",
+        "attribute": "force",
+        "schemaVersion": 2,
+        "components": [
+          {
+            "formula": "30",
+            "type": "physical",
+            "penetration": 0,
+            "penetrating": false,
+            "source": "30 DP"
+          }
+        ],
+        "variants": [],
+        "zone": "torso",
+        "conditions": "Tranchevif (Épée - 1 Main) à Odvïr - créé par Ulfric Guldor [170 Or]  30 DP"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.equipment.Item.ced4fc95d2c10f69",
+          "key": "reward:Compendium.jdr-runeterra.equipment.Item.ced4fc95d2c10f69",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.equipment.Item.ced4fc95d2c10f69"
+      }
+    },
+    {
+      "_id": "761a55cb840b1eb6",
+      "name": "Feulement d’Hiver",
+      "type": "weapon",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1DvQ7BhFj3cYUhezOOKqu4-B3kk_J2TgY.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1DvQ7BhFj3cYUhezOOKqu4-B3kk_J2TgY.webp\" alt=\"Feulement d’Hiver\"><h1>Feulement d’Hiver</h1></div><p>Feulement d’Hiver (Espadon  Glace Pure - 2 Mains) à Brokvar - créé par Joana [2500 Or]</p><p>30 DP - 50 DM de Zone - Si ≤ 30 se recouvre totalement de Glace Pure. Chaque coup qui touche fait subir au porteur (Sublimé) entre 10 et 15 DM. Peut faire apparaître des stalagmites de Glace Pure en plantant la lame au sol qui ont 15 % de chance de toucher [1D4] cibles et les tuer sur le coup (sauf Légendaire ou Boss).</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:3:L-3:Feulement d’Hiver (Espadon  Glace Pure",
+        "category": "Armes",
+        "damageFormula": "30",
+        "price": 2500,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "weaponType": "Espadon  Glace Pure - 2 Mains",
+        "damageType": "physical",
+        "mode": "melee",
+        "attribute": "force",
+        "schemaVersion": 2,
+        "components": [
+          {
+            "formula": "30",
+            "type": "physical",
+            "penetration": 0,
+            "penetrating": false,
+            "source": "30 DP"
+          }
+        ],
+        "variants": [
+          {
+            "id": "choice0",
+            "label": "30 DP → 30",
+            "components": [
+              {
+                "formula": "30",
+                "type": "physical",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "30 DP"
+              }
+            ],
+            "conditions": "Feulement d’Hiver (Espadon  Glace Pure - 2 Mains) à Brokvar - créé par Joana [2500 Or]  30 DP - 50 DM de Zone - Si ≤ 30 se recouvre totalement de Glace Pure"
+          },
+          {
+            "id": "choice1",
+            "label": "30 DP → 30 + 50 DM → 50",
+            "components": [
+              {
+                "formula": "30",
+                "type": "physical",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "30 DP"
+              },
+              {
+                "formula": "50",
+                "type": "magic",
+                "penetration": 0,
+                "penetrating": false,
+                "source": "50 DM"
+              }
+            ],
+            "conditions": "Feulement d’Hiver (Espadon  Glace Pure - 2 Mains) à Brokvar - créé par Joana [2500 Or]  30 DP - 50 DM de Zone - Si ≤ 30 se recouvre totalement de Glace Pure"
+          }
+        ],
+        "zone": "area",
+        "conditions": "Feulement d’Hiver (Espadon  Glace Pure - 2 Mains) à Brokvar - créé par Joana [2500 Or]  30 DP - 50 DM de Zone - Si ≤ 30 se recouvre totalement de Glace Pure"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.equipment.Item.2277083832d9e3f7",
+          "key": "reward:Compendium.jdr-runeterra.equipment.Item.2277083832d9e3f7",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.equipment.Item.2277083832d9e3f7"
+      }
+    },
+    {
+      "_id": "98f9083dd7c0d92a",
+      "name": "Heeljengdël",
+      "type": "weapon",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1N5CFHcT5e5n6S3EaRymcWs7Olx5NQED5.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1N5CFHcT5e5n6S3EaRymcWs7Olx5NQED5.webp\" alt=\"Heeljengdël\"><h1>Heeljengdël</h1></div><p>Heeljengdël (Harpe Enchantée - 2 Mains) - créé par Odir Eimüsveg [1200 Or]</p><p>60 DM - Boost de +10 Zone/ +20 Ciblé DM les attaques magiques des alliés. 40 % de chance de charmer temporairement en zone (petite). Si réussite critique : Tombe amoureux du lanceur (sauf Légendaire ou Boss).</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:3:L-4:Heeljengdël (Harpe Enchantée",
+        "category": "Armes",
+        "damageFormula": "60",
+        "price": 1200,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "weaponType": "Harpe Enchantée - 2 Mains",
+        "damageType": "magic",
+        "mode": "magic",
+        "attribute": "concentration",
+        "schemaVersion": 2,
+        "components": [
+          {
+            "formula": "60",
+            "type": "magic",
+            "penetration": 0,
+            "penetrating": false,
+            "source": "60 DM"
+          }
+        ],
+        "variants": [],
+        "zone": "area",
+        "conditions": "Heeljengdël (Harpe Enchantée - 2 Mains) - créé par Odir Eimüsveg [1200 Or]  60 DM - Boost de +10 Zone/ +20 Ciblé DM les attaques magiques des alliés"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.equipment.Item.f73953af40961f79",
+          "key": "reward:Compendium.jdr-runeterra.equipment.Item.f73953af40961f79",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.equipment.Item.f73953af40961f79"
+      }
+    },
+    {
+      "_id": "60aff06729221279",
+      "name": "i",
+      "type": "weapon",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1hD3RRGn9VKwXKsBug4UJ0GwCed8QAale.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1hD3RRGn9VKwXKsBug4UJ0GwCed8QAale.webp\" alt=\"i\"><h1>i</h1></div><p>i     (Épée - 2 Mains) à Alderiate - créé par Meryl [Inestimable]</p><p>80 DP. Tenir l’épée transforme les stats du porteur (Alderiate)<br>100 PV de Base / 80 Force / 30 Agilité / 80 Endurance / 20 Concentration / 20 Perception / 70 Réflexes / 20 Dextérité / 10 Discrétion / 60 Charisme / 30 Persuasion / 80 Intimidation / 60 Mental.<br>(Statistiques Fixes / Ne pas toucher aux Attributs Spéciaux et Métiers)</p></div><div class=\"rt-links\">@UUID[Compendium.jdr-runeterra.rules.JournalEntry.bfe636a9bcf46852]{MÉTIERS}</div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:3:L-6:i     (Épée",
+        "category": "Armes",
+        "damageFormula": "80",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "weaponType": "Épée - 2 Mains",
+        "damageType": "physical",
+        "mode": "melee",
+        "attribute": "force",
+        "schemaVersion": 2,
+        "components": [
+          {
+            "formula": "80",
+            "type": "physical",
+            "penetration": 0,
+            "penetrating": false,
+            "source": "80 DP"
+          }
+        ],
+        "variants": [],
+        "zone": "torso",
+        "conditions": "i     (Épée - 2 Mains) à Alderiate - créé par Meryl [Inestimable]  80 DP"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.equipment.Item.c92905738dfc63df",
+          "key": "reward:Compendium.jdr-runeterra.equipment.Item.c92905738dfc63df",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.equipment.Item.c92905738dfc63df"
+      }
+    },
+    {
+      "_id": "08f5a8043932807a",
+      "name": "UN CHEMIN S’OUVRE DANS LE NORD",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"UN CHEMIN S’OUVRE DANS LE NORD\"><h1>UN CHEMIN S’OUVRE DANS LE NORD</h1></div><p>Guide Biographique d&#39;explorateurs Freljordiens - par Podrick Polter, 371</p><p>Podrick a toujours vécu pour l’inconnu. Explorateur téméraire originaire de Shurima, il fuit dès son plus jeune âge la répression Noxienne qui frappe ses terres natales et trouve dans le voyage une nouvelle raison de vivre. Des déserts brûlants de Shurima aux montagnes mouvantes de Targon, il parcourt Runeterra à la recherche de territoires oubliés, de peuples méconnus et de dangers que peu osent affronter. Mais aucune de ses aventures ne l’a préparé au Freljord.</p><p>Sur cette terre où le froid tue aussi sûrement qu’une lame, où les tribus se disputent des territoires sauvages et où d’anciennes puissances sommeillent encore sous la glace, chaque journée peut être la dernière. Pourtant, Podrick s’est fixé un défi que peu d’hommes seraient assez fous pour tenter : traverser le Freljord du sud au nord, jusqu’aux dernières terres connues. Un voyage au bout du monde où découvrir ce qui se cache derrière l’horizon pourrait bien lui coûter la vie.</p><p>02H : Connaissance sur les Bouches de Rakelstake.</p><p>03H : Connaissance sur  le bateau à réparer au début de l’Olbukrn et prévoir la réparation (voir Quête)</p><p>04H : Connaissance sur les cachettes et pièges Troll le long du Canal d’Olbukrn.</p><p>06H : Technique pour trouver du bois sur les épaves sous l’eau et le faire sécher pour faire du feu.</p><p>08H :  Technique des méthodes de traque de la Griffe Hivernale (-20% de chance de se faire repérer)</p></div><div class=\"rt-links\">@UUID[Compendium.jdr-runeterra.atlas.JournalEntry.a151428593826c84]{OLBUKRN}</div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:UN CHEMIN S’OUVRE DANS LE NORD",
+        "category": "Livres / COMMUNS",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [
+          {
+            "hours": 2,
+            "text": "Connaissance sur les Bouches de Rakelstake.",
+            "id": "hours2",
+            "rewards": []
+          },
+          {
+            "hours": 3,
+            "text": "Connaissance sur  le bateau à réparer au début de l’Olbukrn et prévoir la réparation (voir Quête)",
+            "id": "hours3",
+            "rewards": []
+          },
+          {
+            "hours": 4,
+            "text": "Connaissance sur les cachettes et pièges Troll le long du Canal d’Olbukrn.",
+            "id": "hours4",
+            "rewards": []
+          },
+          {
+            "hours": 6,
+            "text": "Technique pour trouver du bois sur les épaves sous l’eau et le faire sécher pour faire du feu.",
+            "id": "hours6",
+            "rewards": []
+          },
+          {
+            "hours": 8,
+            "text": "Technique des méthodes de traque de la Griffe Hivernale (-20% de chance de se faire repérer)",
+            "id": "hours8",
+            "rewards": []
+          }
+        ],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.fe300be7c08c4cc3",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.fe300be7c08c4cc3",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.fe300be7c08c4cc3"
+      }
+    },
+    {
+      "_id": "7ee950718fa3cf94",
+      "name": "DU PHOENIX AU BÉLIER",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"DU PHOENIX AU BÉLIER\"><h1>DU PHOENIX AU BÉLIER</h1></div><p>Comptes sur les Demi-Divinités du Freljord (réédition traduite)- par Harold Ottmann, -1105</p><p>Cette œuvre rassemble les légendes des demi-dieux du Freljord, des figures incontournables comme Anivia, Ornn et Volibear jusqu’aux divinités oubliées dont les noms ne subsistent plus que dans les récits les plus anciens.</p><p>À travers leurs histoires se dévoilent des secrets enfouis, des croyances ancestrales et les symboles qu’incarnent ces puissances dans la culture freljordienne. Certains récits racontent leurs exploits, d’autres leurs tragédies, tandis que les plus mystérieux invitent à chercher un sens plus profond derrière les légendes.</p><p>Le tout est raconté par un narrateur freljordien héritier de la tradition orale, qui retranscrit les histoires que ses parents lui murmuraient autrefois au coin du feu. Des récits transmis de génération en génération, quelque part entre mythe, poésie et vérité oubliée.</p><p>01H : Nom en Freljordien et ancien Freljordien des demi-dieux (voir Divinités)</p><p>02H : Connaissances sur Anivia (voir Wiki)</p><p>03H : Connaissances sur Ornn (voir Wiki)</p><p>04H : Connaissances sur Volibear (voir Wiki)</p><p>06H : Connaissances sur Ildhaurg (livre Unique-4)</p><p>08H : Connaissances sur la Soeur Phoque (livre Unique-1)</p><p>10H : Connaissances sur Rhond (voir Wiki)</p><p>12H : Connaissances sur Haestryr (voir Wiki)</p><p>14H : Connaissances sur le Kellurel (voir Wiki)</p></div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:DU PHOENIX AU BÉLIER",
+        "category": "Livres / COMMUNS",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [
+          {
+            "hours": 1,
+            "text": "Nom en Freljordien et ancien Freljordien des demi-dieux (voir Divinités)",
+            "id": "hours1",
+            "rewards": []
+          },
+          {
+            "hours": 2,
+            "text": "Connaissances sur Anivia (voir Wiki)",
+            "id": "hours2",
+            "rewards": []
+          },
+          {
+            "hours": 3,
+            "text": "Connaissances sur Ornn (voir Wiki)",
+            "id": "hours3",
+            "rewards": []
+          },
+          {
+            "hours": 4,
+            "text": "Connaissances sur Volibear (voir Wiki)",
+            "id": "hours4",
+            "rewards": []
+          },
+          {
+            "hours": 6,
+            "text": "Connaissances sur Ildhaurg (livre Unique-4)",
+            "id": "hours6",
+            "rewards": []
+          },
+          {
+            "hours": 8,
+            "text": "Connaissances sur la Soeur Phoque (livre Unique-1)",
+            "id": "hours8",
+            "rewards": []
+          },
+          {
+            "hours": 10,
+            "text": "Connaissances sur Rhond (voir Wiki)",
+            "id": "hours10",
+            "rewards": []
+          },
+          {
+            "hours": 12,
+            "text": "Connaissances sur Haestryr (voir Wiki)",
+            "id": "hours12",
+            "rewards": []
+          },
+          {
+            "hours": 14,
+            "text": "Connaissances sur le Kellurel (voir Wiki)",
+            "id": "hours14",
+            "rewards": []
+          }
+        ],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.0c0b264dcd43fe83",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.0c0b264dcd43fe83",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.0c0b264dcd43fe83"
+      }
+    },
+    {
+      "_id": "8f416b0ec4249aa2",
+      "name": "RAGNAR VIT ET REGORGE D’ESPOIR",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"RAGNAR VIT ET REGORGE D’ESPOIR\"><h1>RAGNAR VIT ET REGORGE D’ESPOIR</h1></div><p>Récit auto-biographique (très prétentieux) - par Ragnar Hundbokrn, 996</p><p>Écrit à la première personne, cet improbable manuel de développement personnel s’adresse à ceux qui ne souhaitent pas devenir meilleurs, mais simplement rester convaincus qu’ils le sont déjà. Son auteur y partage ses réflexions, ses méthodes et ses précieux conseils pour entretenir au quotidien une assurance absolue et ne jamais laisser le moindre doute remettre en question sa prétendue supériorité.</p><p>Pensé pour les personnalités à l&#39;égo déjà solidement installé, l’ouvrage explique comment rester au sommet en toutes circonstances, ignorer les critiques et transformer chaque situation en nouvelle preuve de sa propre grandeur.</p><p>Pour les lecteurs plus modestes, en revanche, l’expérience risque d’être différente : entre consternation, agacement et éclats de rire, difficile de savoir si l’on tient entre les mains un véritable livre de coaching ou le témoignage fascinant d’un homme complètement lunaire.</p><p>02H : Hein ?</p><p>04H : Mais quoi ?!</p><p>06H (FIN) : Vaste blague et grande perte de temps.</p></div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:RAGNAR VIT ET REGORGE D’ESPOIR",
+        "category": "Livres / COMMUNS",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [
+          {
+            "hours": 2,
+            "text": "Hein ?",
+            "id": "hours2",
+            "rewards": []
+          },
+          {
+            "hours": 4,
+            "text": "Mais quoi ?!",
+            "id": "hours4",
+            "rewards": []
+          },
+          {
+            "hours": 6,
+            "text": "Vaste blague et grande perte de temps.",
+            "id": "hours6",
+            "rewards": []
+          }
+        ],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.d6f08d26fc872a54",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.d6f08d26fc872a54",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.d6f08d26fc872a54"
+      }
+    },
+    {
+      "_id": "bc5f78f6bd8b9e16",
+      "name": "CALENDRIER DES PLEINES LUNES",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"CALENDRIER DES PLEINES LUNES\"><h1>CALENDRIER DES PLEINES LUNES</h1></div><p>Livre de science et magie sur les astres du Freljord- par Bovir Aubétoile</p><p>Véritable référence pour les astrologues et passionnés du ciel, cet ouvrage répertorie avec précision l’ensemble des pleines lunes de l’an 0 jusqu’à l’an 2000, accompagnées de cartes, de schémas et de nombreuses observations sur leurs particularités.</p><p>Malgré la complexité du sujet, ses nombreux termes techniques sont remarquablement vulgarisés, rendant l’ouvrage accessible aux simples curieux comme aux érudits. L’auteur y étudie notamment l’influence de la lune sur la magie et les phénomènes de Runeterra, allant jusqu’à anticiper certains événements célestes encore à venir.</p><p>Au-delà de son intérêt scientifique, ce calendrier constitue un précieux outil pour élucider certains mystères liés à la magie lunaire ou simplement permettre aux voyageurs de prévoir les nuits les plus lumineuses pour organiser leurs déplacements.</p></div><div class=\"rt-links\">@UUID[Compendium.jdr-runeterra.magic.Item.c7312892acd508e7]{Céleste (}</div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:CALENDRIER DES PLEINES LUNES",
+        "category": "Livres / COMMUNS",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.fd60e29a4bc4fc2a",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.fd60e29a4bc4fc2a",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.fd60e29a4bc4fc2a"
+      }
+    },
+    {
+      "_id": "f25f88844c25eaff",
+      "name": "QUAND LA HACHE DE GUERRE CROISE LA FOUDRE",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"QUAND LA HACHE DE GUERRE CROISE LA FOUDRE\"><h1>QUAND LA HACHE DE GUERRE CROISE LA FOUDRE</h1></div><p>Récit de gloire sur les attaques contre Volibear - par Harold Ottmann</p><p>Note…</p></div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:QUAND LA HACHE DE GUERRE CROISE LA FOUDRE",
+        "category": "Livres / COMMUNS",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.a73392e38dd31996",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.a73392e38dd31996",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.a73392e38dd31996"
+      }
+    },
+    {
+      "_id": "a70638576a384c05",
+      "name": "UNE VIE REMPLIE DE SECRETS",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"UNE VIE REMPLIE DE SECRETS\"><h1>UNE VIE REMPLIE DE SECRETS</h1></div><p>Auto-Biographie sur son passé d’Oracle de Lissandra - par Mance Sylvebarbe</p><p>Note…</p><p>02H : Découverte des Gardiens du Givre et localisation de la Citadelle du Givre.</p><p>04H : Informations sur Lissandra. (voir PNJ)</p><p>06H : Découverte des points faibles des Gardiens du Givre (+10 DP et DM /attaques).</p><p>08H :</p><p>10H : Découverte d’une Entrée secrète de la Citadelle du Givre.</p><p>12H : Découverte de l’Abîme Hurlant et de sa Faille du Néant dans les profondeurs.</p><p>14H : Découverte du secret de Lissandra.</p><p>16H :</p><p>18H :</p><p>20H :</p></div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:UNE VIE REMPLIE DE SECRETS",
+        "category": "Livres / COMMUNS",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [
+          {
+            "hours": 2,
+            "text": "Découverte des Gardiens du Givre et localisation de la Citadelle du Givre.",
+            "id": "hours2",
+            "rewards": []
+          },
+          {
+            "hours": 4,
+            "text": "Informations sur Lissandra. (voir PNJ)",
+            "id": "hours4",
+            "rewards": []
+          },
+          {
+            "hours": 6,
+            "text": "Découverte des points faibles des Gardiens du Givre (+10 DP et DM /attaques).",
+            "id": "hours6",
+            "rewards": [
+              {
+                "kind": "context",
+                "amount": 10,
+                "condition": "Découverte des points faibles des Gardiens du Givre (+10 DP et DM /attaques)."
+              }
+            ]
+          },
+          {
+            "hours": 8,
+            "text": "10H : Découverte d’une Entrée secrète de la Citadelle du Givre.",
+            "id": "hours8",
+            "rewards": []
+          },
+          {
+            "hours": 12,
+            "text": "Découverte de l’Abîme Hurlant et de sa Faille du Néant dans les profondeurs.",
+            "id": "hours12",
+            "rewards": []
+          },
+          {
+            "hours": 14,
+            "text": "Découverte du secret de Lissandra.",
+            "id": "hours14",
+            "rewards": []
+          },
+          {
+            "hours": 16,
+            "text": "18H :",
+            "id": "hours16",
+            "rewards": []
+          },
+          {
+            "hours": 20,
+            "text": "",
+            "id": "hours20",
+            "rewards": []
+          }
+        ],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.22e47efef9cacfd6",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.22e47efef9cacfd6",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.22e47efef9cacfd6"
+      }
+    },
+    {
+      "_id": "ae073c579175eb9f",
+      "name": "LA GLACE PURE EST LA CLÉ",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1BKGkCyod1cPVKDnpcCK3IDoxLiRPMy0V.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1BKGkCyod1cPVKDnpcCK3IDoxLiRPMy0V.webp\" alt=\"LA GLACE PURE EST LA CLÉ\"><h1>LA GLACE PURE EST LA CLÉ</h1></div><p>Histoire et connaissance de la Glace Pure - par Guilius Paumar,</p><p>Note…</p><p>02H :</p></div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:LA GLACE PURE EST LA CLÉ",
+        "category": "Livres / COMMUNS",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [
+          {
+            "hours": 2,
+            "text": "",
+            "id": "hours2",
+            "rewards": []
+          }
+        ],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.1dee03196dfe7bec",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.1dee03196dfe7bec",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.1dee03196dfe7bec"
+      }
+    },
+    {
+      "_id": "2ee1ce6f47402e20",
+      "name": "PIERRES RUNIQUES - TOME I",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"PIERRES RUNIQUES - TOME I\"><h1>PIERRES RUNIQUES - TOME I</h1></div><p>Encyclopédie sur les Pierres Runiques Simples - par Tyrus de Hélia, -61</p><p>Considéré comme l’un des ouvrages de référence sur la magie runique, ce livre rassemble plusieurs années de recherches consacrées aux pierres runiques, à leur fonctionnement et aux différentes méthodes permettant de préserver leur pouvoir à travers le temps.</p><p>Son auteur, expert en runes de longue date, y détaille la nature de leur magie, leur activation, leur conservation ainsi que les risques liés à leur manipulation. Ses travaux constituent encore aujourd’hui l’une des études les plus complètes jamais réalisées sur le sujet.</p><p>Devenu un véritable classique parmi les érudits, cet ouvrage est considéré comme un incontournable pour quiconque souhaite étudier et maîtriser la magie runique de Runeterra.</p><p>02H : Infos et ne brise pas si ≤ 20 sur Rune Neutre (8.1).</p><p>04H : Infos et ne brise pas si ≤ 20 sur Rune de Feu (8.2).</p><p>06H : Infos et ne brise pas si ≤ 20 sur Rune de Glace (8.3).</p><p>08H : Infos et ne brise pas si ≤ 20 sur Rune de Vent (8.4).</p><p>10H : Apprend un nouvel Attribut Spécial : Magie Runique à 50 pour permettre d’utiliser les Pierres Runiques. Permet de recharger les Runes Communes proche de sources de magie similaires.</p><p>12H : Infos et ne brise pas si ≤ 20 sur Rune de Foudre (8.5).</p><p>14H : Infos et ne brise pas si ≤ 20 sur Rune de Roche (8.6).</p><p>14H : Infos et ne brise pas si ≤ 20 sur Rune Aléatoire (8.0).</p><p>18H : Trouve plus facilement les Pierres Runiques Communes et +20 sur les jets de Puissance.</p><p>(voir Règles pour infos supplémentaires)</p></div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:PIERRES RUNIQUES - TOME I",
+        "category": "Livres / COMMUNS",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [
+          {
+            "hours": 2,
+            "text": "Infos et ne brise pas si ≤ 20 sur Rune Neutre (8.1).",
+            "id": "hours2",
+            "rewards": []
+          },
+          {
+            "hours": 4,
+            "text": "Infos et ne brise pas si ≤ 20 sur Rune de Feu (8.2).",
+            "id": "hours4",
+            "rewards": []
+          },
+          {
+            "hours": 6,
+            "text": "Infos et ne brise pas si ≤ 20 sur Rune de Glace (8.3).",
+            "id": "hours6",
+            "rewards": []
+          },
+          {
+            "hours": 8,
+            "text": "Infos et ne brise pas si ≤ 20 sur Rune de Vent (8.4).",
+            "id": "hours8",
+            "rewards": []
+          },
+          {
+            "hours": 10,
+            "text": "Apprend un nouvel Attribut Spécial : Magie Runique à 50 pour permettre d’utiliser les Pierres Runiques. Permet de recharger les Runes Communes proche de sources de magie similaires.",
+            "id": "hours10",
+            "rewards": []
+          },
+          {
+            "hours": 12,
+            "text": "Infos et ne brise pas si ≤ 20 sur Rune de Foudre (8.5).",
+            "id": "hours12",
+            "rewards": []
+          },
+          {
+            "hours": 14,
+            "text": "Infos et ne brise pas si ≤ 20 sur Rune de Roche (8.6).",
+            "id": "hours14",
+            "rewards": []
+          },
+          {
+            "hours": 14,
+            "text": "Infos et ne brise pas si ≤ 20 sur Rune Aléatoire (8.0).",
+            "id": "hours14",
+            "rewards": []
+          },
+          {
+            "hours": 18,
+            "text": "Trouve plus facilement les Pierres Runiques Communes et +20 sur les jets de Puissance.",
+            "id": "hours18",
+            "rewards": [
+              {
+                "kind": "context",
+                "amount": 20,
+                "condition": "Trouve plus facilement les Pierres Runiques Communes et +20 sur les jets de Puissance."
+              }
+            ]
+          }
+        ],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.72aecb6dd9d42d4b",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.72aecb6dd9d42d4b",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.72aecb6dd9d42d4b"
+      }
+    },
+    {
+      "_id": "808b2068a9d1665f",
+      "name": "UNE PORTE SANS CLÉ",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"UNE PORTE SANS CLÉ\"><h1>UNE PORTE SANS CLÉ</h1></div><p>Roman érotique et suspence d’un aubergiste chanceux - par Jarnot Ombreville, 962</p><p>Un jeune aubergiste mène une existence paisible jusqu’au jour où il remarque une étrange anomalie : la porte de l’une de ses chambres refuse obstinément de rester fermée. Plus curieux encore, celle-ci semble constamment attirer de mystérieuses et ravissantes voyageuses, particulièrement enclines à lui offrir compagnie, réconfort et quelques faveurs inattendues.</p><p>D’abord persuadé de profiter d’une incroyable succession de coups de chance, l’aubergiste finit par soupçonner que la chambre elle-même pourrait en être responsable. Il décide alors d’en percer le secret.</p><p>Entre rencontres charnelles, situations embarrassantes et phénomènes toujours plus troublants, son enquête l’entraîne vers une vérité bien différente de ses fantasmes. Car derrière cette chambre miraculeuse se cache un mystère dont il n’est peut-être pas le bénéficiaire… mais la victime.</p><p>02H : +5 Charisme ½ Jour</p><p>03H : +5 Charisme ½ Jour/ Connaissance sur les femmes Freljordiennes</p><p>04H :</p><p>05H :</p><p>06H (FIN) : +5 Charisme (+10 si Freljordien(ne)</p></div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:UNE PORTE SANS CLÉ",
+        "category": "Livres / COMMUNS",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [
+          {
+            "hours": 2,
+            "text": "+5 Charisme ½ Jour",
+            "id": "hours2",
+            "rewards": [
+              {
+                "kind": "attributes",
+                "keys": [
+                  "charisma"
+                ],
+                "amount": 5,
+                "condition": "+5 Charisme ½ Jour"
+              }
+            ]
+          },
+          {
+            "hours": 3,
+            "text": "+5 Charisme ½ Jour/ Connaissance sur les femmes Freljordiennes",
+            "id": "hours3",
+            "rewards": [
+              {
+                "kind": "context",
+                "keys": [
+                  "charisma"
+                ],
+                "amount": 5,
+                "condition": "+5 Charisme ½ Jour/ Connaissance sur les femmes Freljordiennes"
+              }
+            ]
+          },
+          {
+            "hours": 4,
+            "text": "05H :",
+            "id": "hours4",
+            "rewards": []
+          },
+          {
+            "hours": 6,
+            "text": "+5 Charisme (+10 si Freljordien(ne)",
+            "id": "hours6",
+            "rewards": [
+              {
+                "kind": "attributes",
+                "keys": [
+                  "charisma"
+                ],
+                "amount": 5,
+                "condition": "+5 Charisme (+10 si Freljordien(ne)"
+              }
+            ]
+          }
+        ],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.b87a874e09189d0a",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.b87a874e09189d0a",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.b87a874e09189d0a"
+      }
+    },
+    {
+      "_id": "8d96520d9a9f9c5c",
+      "name": "LA MER DE GLACE",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1B1pqd2f24cBLzphCPeGtzCCPbKQxweab.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1B1pqd2f24cBLzphCPeGtzCCPbKQxweab.webp\" alt=\"LA MER DE GLACE\"><h1>LA MER DE GLACE</h1></div><p>Guide des mers au nord du Freljord - par Corvin Gildor</p><p>Note…</p></div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:LA MER DE GLACE",
+        "category": "Livres / COMMUNS",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.8daef1e1eafc687e",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.8daef1e1eafc687e",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.8daef1e1eafc687e"
+      }
+    },
+    {
+      "_id": "45f861dd010d2b32",
+      "name": "LE NOM DE LA SOEUR-PHOQUE",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1VJB9OUhF-LawbT7-y-rsMscdr1ay6F8U.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1VJB9OUhF-LawbT7-y-rsMscdr1ay6F8U.webp\" alt=\"LE NOM DE LA SOEUR-PHOQUE\"><h1>LE NOM DE LA SOEUR-PHOQUE</h1></div><p>Livre historique sur l’histoire de la Soeur-Phoque - par Mance Sylvebarbe, 993</p><p>Ce livre récent est un ouvrage aussi rare que singulier, dont la reproduction est formellement interdite. Et pour cause : il ne s’adresse pas à tous, mais à une infime poignée d’individus ayant un jour entendu l’Appel de la Sœur-Phoque sans succomber à l’irrésistible envie de la rejoindre.</p><p>Pourquoi ont-ils été choisis ? Que cherche réellement la Sœur-Phoque ? Et surtout, qu’attend-elle de ceux qui décident finalement de répondre à son appel ?</p><p>L’ouvrage rassemble les premières réponses destinées à ceux que l’on nomme les Pèlerins Oubliés, des individus dont l’existence semble liée à une mission bien particulière auprès de la divinité. Plus qu’un simple guide, ce livre prépare ses lecteurs à comprendre le rôle qui leur a été confié et ce qui les attend au terme de leur pèlerinage.</p><p>02H : Informations sur la Soeur Phoque, la cause de sa disparition.</p><p>04H : Découverte de l’Eau Pure.</p><p>07H : Information sur les Pèlerins Oubliés.</p><p>10H : Information sur la localisation des Plaines Oubliées.</p></div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:LE NOM DE LA SOEUR-PHOQUE",
+        "category": "Livres / RARES",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [
+          {
+            "hours": 2,
+            "text": "Informations sur la Soeur Phoque, la cause de sa disparition.",
+            "id": "hours2",
+            "rewards": []
+          },
+          {
+            "hours": 4,
+            "text": "Découverte de l’Eau Pure.",
+            "id": "hours4",
+            "rewards": []
+          },
+          {
+            "hours": 7,
+            "text": "Information sur les Pèlerins Oubliés.",
+            "id": "hours7",
+            "rewards": []
+          },
+          {
+            "hours": 10,
+            "text": "Information sur la localisation des Plaines Oubliées.",
+            "id": "hours10",
+            "rewards": []
+          }
+        ],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.c974d0aafe9b1ee3",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.c974d0aafe9b1ee3",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.c974d0aafe9b1ee3"
+      }
+    },
+    {
+      "_id": "1dd326058370c04e",
+      "name": "DANS SA PEAU ET DANS SON OMBRE",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"DANS SA PEAU ET DANS SON OMBRE\"><h1>DANS SA PEAU ET DANS SON OMBRE</h1></div><p>Roman Biographique sur Udyr - par Eydis Stormvein</p><p>Note…</p></div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:DANS SA PEAU ET DANS SON OMBRE",
+        "category": "Livres / RARES",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.ba46b713836cdae4",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.ba46b713836cdae4",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.ba46b713836cdae4"
+      }
+    },
+    {
+      "_id": "85ec76e1243e59d5",
+      "name": "LES SECRETS D’ILDHAURG - LA SURPLOMBE OUBLIÉE",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"LES SECRETS D’ILDHAURG - LA SURPLOMBE OUBLIÉE\"><h1>LES SECRETS D’ILDHAURG - LA SURPLOMBE OUBLIÉE</h1></div><p>Encyclopédie sur Ildhaurg le sanglier de fer et son ancienne tribu - par Mance Sylvebarbe, -2623</p><p>Inspiré des derniers écrits retrouvés d’un ancien membre de la tribu des Hargvonn, ce court et unique ouvrage constitue l’un des rares témoignages encore existants sur ce peuple aujourd’hui disparu. Son auteur y raconte avec fierté leurs coutumes, leur quotidien et leurs traditions, préservant un héritage qui aurait pu servir de fondation à la Tribu Renaissante, mais que celle-ci refusa finalement de suivre.</p><p>Il y raconte également son propre rôle de tracteur de carcasses, chargé de déplacer les immenses dépouilles utilisées pour construire les habitations de son peuple, un travail éprouvant dont il parle pourtant avec une profonde nostalgie.</p><p>Mais les dernières pages prennent une tournure bien plus sombre lorsqu’il raconte la nuit du massacre des Hargvonn. Il décrit l’horreur dont il fut témoin, ainsi que le dernier combat de leur chef de guerre Tryndamere, qu’il vit lutter vaillamment avant de le croire mort et de le voir disparaître dans le chaos.</p><p>L’auteur survivra quelques jours seulement à la destruction de son peuple, laissant derrière lui le témoignage d’un homme fier de ses origines, devenu malgré lui le chroniqueur des derniers instants de sa tribu.</p><p>02H : Découverte de Glaserport, Information et Localisation.</p><p>03H ; Apprentissage du Hale-Coque, Métier qui consiste à créer une habitation fonctionnelle et efficace à partir de choses du quotidien (en l’occurence des bateaux)</p><p>04H : Connaissances des coutumes de la tribu Hargvonn et des zones pour se cacher.</p><p>05H : Connaissance de la puissance d’un Darkin (Aatrox)</p><p>06H : Connaissance des capacités de Tryndamere et de l’origine de la Fiole de l’Immortelle.</p><p>08H :</p></div><div class=\"rt-links\">@UUID[Compendium.jdr-runeterra.atlas.JournalEntry.469c3cd4c8d95eb5]{GLASERPORT}</div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:LES SECRETS D’ILDHAURG - LA SURPLOMBE OUBLIÉE",
+        "category": "Livres / RARES",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [
+          {
+            "hours": 2,
+            "text": "Découverte de Glaserport, Information et Localisation.",
+            "id": "hours2",
+            "rewards": []
+          },
+          {
+            "hours": 3,
+            "text": "Connaissances des coutumes de la tribu Hargvonn et des zones pour se cacher.",
+            "id": "hours3",
+            "rewards": []
+          },
+          {
+            "hours": 5,
+            "text": "Connaissance de la puissance d’un Darkin (Aatrox)",
+            "id": "hours5",
+            "rewards": []
+          },
+          {
+            "hours": 6,
+            "text": "Connaissance des capacités de Tryndamere et de l’origine de la Fiole de l’Immortelle.",
+            "id": "hours6",
+            "rewards": []
+          },
+          {
+            "hours": 8,
+            "text": "",
+            "id": "hours8",
+            "rewards": []
+          }
+        ],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.25e07c3e7330cca7",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.25e07c3e7330cca7",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.25e07c3e7330cca7"
+      }
+    },
+    {
+      "_id": "2047ab8039faad49",
+      "name": "SÉPULTURE D’OAVIR",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"SÉPULTURE D’OAVIR\"><h1>SÉPULTURE D’OAVIR</h1></div><p>Roman Encyclopédique sensibilisant sur l’Onn’vana - par Hodvill Brumegrise, (inachevé)</p><p>D’après les récits de Brigielf Brumegrise, mon lointain ancêtre, l’Onn’Vana était bien plus qu’une simple créature légendaire. C’était un être presque divin, aussi majestueux que sensible, pourtant traqué pendant des générations pour une ressource aussi rare que convoitée : l’Oavir.</p><p>Je me souviens encore des histoires que me racontaient mon père, et son père avant lui. Ils parlaient de Brigielf et du jour où il parvint à approcher puis chevaucher un Onn’Vana, accomplissant quelque chose que le monde pensait impossible. Il fallut attendre près de deux siècles avant qu’une autre femme ne reproduise cet exploit. Depuis, plus rien.</p><p>Aujourd’hui, l’Onn’Vana semble avoir disparu. Certains le pensent éteint, d’autres affirment qu’il ne fut jamais qu’une légende.</p><p>Mais moi, je sais qu’il existe encore. Je sais comment le trouver. Et je compte bien partir sur ses traces pour l’étudier et révéler au monde ce que nos ancêtres n’avaient pas compris : derrière la légende et l’Oavir se cache avant tout une créature d’une extraordinaire sensibilité.</p><p>02H : Information sur l’Onn’Vana (Note Doc)</p><p>04H : Information sur l’Oavir (10.?) et l&#39;existence des Outils d’Oavir pour forger cette matière.</p><p>06H : Information sur la Plume d’Onn’Vana (L-17) et sa magie spirituelle unique de vérité et d’anticipation.</p><p>08H : Information sur la région ou possiblement en trouver (Côtes rocheuses des Plaines Oubliées-Mer du Phoque)</p><p>10H : Information sur les différentes façon de la faire apparaître : Parmi ces 5 éléments, certaines combinaisons marchent mais s&#39;annulent si un autre élément s’y ajoute (non déterminé pour le moment).</p><p>1. Faire cuir un œuf d’Ibir. 5%</p><p>2. Jouer d’un instrument à corde. 10%</p><p>3. Faire brûler de l’Aasman’Uult (une plante sèche qui pousse au Freljord). 15%</p><p>4. Percuter deux morceaux d’Oavir entre eux. 40 %</p><p>5. Magie Spirituel (Communication avec l’esprit de la Grue Ornée). 70%</p><p>INFO MJ</p><p>- 2 et 4 marchent sans 5 ou 1. Rester calme même si elle semble intimidante, elle finit par s’endormir (environ 1H) + 30%</p><p>- 1 et 3 marchent sans 2, 4 ou 5. Danser sans vous préoccuper de la créature. Elle finit par danser avec vous. + 45%</p><p>- 5 marche seul. Jet de Charisme -10. Si échec, la bête attaque</p><p>12H : Bonus d’interaction avec l’Onn’Vana de +20</p></div><div class=\"rt-links\">@UUID[Compendium.jdr-runeterra.magic.Item.26b625fb7a7e7898]{Plume d’Onn’Vana} @UUID[Compendium.jdr-runeterra.magic.Item.4f7c5f7182d4d9f2]{Spirituel (}</div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:SÉPULTURE D’OAVIR",
+        "category": "Livres / RARES",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [
+          {
+            "hours": 2,
+            "text": "Information sur l’Onn’Vana (Note Doc)",
+            "id": "hours2",
+            "rewards": []
+          },
+          {
+            "hours": 4,
+            "text": "Information sur l’Oavir (10.?) et l'existence des Outils d’Oavir pour forger cette matière.",
+            "id": "hours4",
+            "rewards": []
+          },
+          {
+            "hours": 6,
+            "text": "Information sur la Plume d’Onn’Vana (L-17) et sa magie spirituelle unique de vérité et d’anticipation.",
+            "id": "hours6",
+            "rewards": []
+          },
+          {
+            "hours": 8,
+            "text": "Information sur la région ou possiblement en trouver (Côtes rocheuses des Plaines Oubliées-Mer du Phoque)",
+            "id": "hours8",
+            "rewards": []
+          },
+          {
+            "hours": 10,
+            "text": "Information sur les différentes façon de la faire apparaître : Parmi ces 5 éléments, certaines combinaisons marchent mais s'annulent si un autre élément s’y ajoute (non déterminé pour le moment).",
+            "id": "hours10",
+            "rewards": []
+          },
+          {
+            "hours": 12,
+            "text": "Bonus d’interaction avec l’Onn’Vana de +20",
+            "id": "hours12",
+            "rewards": [
+              {
+                "kind": "context",
+                "amount": 20,
+                "condition": "Bonus d’interaction avec l’Onn’Vana de +20"
+              }
+            ]
+          }
+        ],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.387e2b312ecf8c39",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.387e2b312ecf8c39",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.387e2b312ecf8c39"
+      }
+    },
+    {
+      "_id": "b408bf82fe60a049",
+      "name": "GRIMOIRE OKNUÜN",
+      "type": "book",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1-hxMrPMadGa9iFX9Bne-rRbsSH_YfMMF.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1-hxMrPMadGa9iFX9Bne-rRbsSH_YfMMF.webp\" alt=\"GRIMOIRE OKNUÜN\"><h1>GRIMOIRE OKNUÜN</h1></div><p>Livre de dialecte et incantation Nécromancienne - par Ott, ?</p><p>Ce grimoire renferme une partie de la puissance d’Ott, transcrite à travers l’Oknuün, une forme ancienne du Dialecte des Morts mêlée au vieux langage freljordien. Particulièrement difficile à déchiffrer et plus encore à prononcer, ses mots semblent eux-mêmes chargés de magie. Une simple lecture peut provoquer d’importants troubles psychologiques, voire des manifestations physiques, même lorsque l’ouvrage se trouve entre des mains innocentes.</p><p>Une grande partie du grimoire retrace les recherches d’Ott sur sa propre magie et notamment la métamorphose de ses flammes, progressivement devenues ces étranges flammes vertes qui lui sont propres. Il rassemble également de nombreuses observations sur le Néant, rapportant ce qu’Ott affirme y avoir vu, entendu ou compris au cours de ses expériences.</p><p>Mais l’ouvrage est surtout inquiétant pour ce qu’il révèle de son auteur. Ott y expose une grande partie de ses recherches, de ses expériences et de son véritable plan, mêlant nécromancie, magie ancienne et connaissances alchimiques aussi poussées que moralement condamnables.</p><p>Plus qu’un simple recueil de connaissances interdites, ce grimoire constitue ainsi un fragment de l’esprit et du pouvoir d’Ott, dont la lecture permet peu à peu de comprendre jusqu’où le Nécromancien était prêt à aller pour accomplir son dessein.</p><p>02H :</p></div><div class=\"rt-links\">@UUID[Compendium.jdr-runeterra.magic.Item.26734405aedab4f0]{Grimoire Oknuün}</div>",
+        "source": "https://docs.google.com/document/d/1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ/edit",
+        "reference": "1c8y3VA7p2oerNe676EYvD1kHgJBtGbvSYH-7j7GCDoQ:GRIMOIRE OKNUÜN",
+        "category": "Livres / LÉGENDAIRE",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "milestones": [
+          {
+            "hours": 2,
+            "text": "",
+            "id": "hours2",
+            "rewards": []
+          }
+        ],
+        "schemaVersion": 2
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.consumables.Item.8f8e2f50ee2dc061",
+          "key": "reward:Compendium.jdr-runeterra.consumables.Item.8f8e2f50ee2dc061",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.consumables.Item.8f8e2f50ee2dc061"
+      }
+    },
+    {
+      "_id": "abd0d4ad1897b92d",
+      "name": "Cartes Bonne-Main",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1RrfEveoaX8dtW-BBDpmeiyduOpWDZ4by.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1RrfEveoaX8dtW-BBDpmeiyduOpWDZ4by.webp\" alt=\"Cartes Bonne-Main\"><h1>Cartes Bonne-Main</h1></div><p>Cartes Bonne-Main (Relique) - créé à Bilgewater [40 Or]</p><p>Cartes enchantées qui permet à celui qui sert de choisir le rythme de la partie et la possession de chaque joueur.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:3:Cartes Bonne-Main",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 40,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "conditions": "Cartes Bonne-Main (Relique) - créé à Bilgewater [40 Or]  Cartes enchantées qui permet à celui qui sert de choisir le rythme de la partie et la possession de chaque joueur.",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.d49ee9da1395a18c",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.d49ee9da1395a18c",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.d49ee9da1395a18c"
+      }
+    },
+    {
+      "_id": "e92cb4760684914d",
+      "name": "Collier de Marchandage",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1IxonMRrJoV9yHhH_dRTPtS6mSHcJk1h5.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1IxonMRrJoV9yHhH_dRTPtS6mSHcJk1h5.webp\" alt=\"Collier de Marchandage\"><h1>Collier de Marchandage</h1></div><p>Collier de Marchandage (Relique) - Guilde des Marchands [140 Or]</p><p>Donne +10 en Persuasion pour marchander. Négocie automatiquement les prix à -20% avec tous les marchands de la Guilde des Marchands.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:4:Collier de Marchandage",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 140,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "automation": "bargaining",
+        "conditions": "Porter le collier : +10 Persuasion uniquement pour marchander ; -20 % uniquement chez les marchands de la Guilde des Marchands.",
+        "bonuses": {}
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.41a42ed8f418aefd",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.41a42ed8f418aefd",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.41a42ed8f418aefd"
+      }
+    },
+    {
+      "_id": "ba506dadda15a10b",
+      "name": "Menottes Pétricite",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/10pAloGnh-Le8oD7Yr1_UQsDAbWosRjMU.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/10pAloGnh-Le8oD7Yr1_UQsDAbWosRjMU.webp\" alt=\"Menottes Pétricite\"><h1>Menottes Pétricite</h1></div><p>Menottes Pétricite (Item - 1 place) - créé à Demacia [30 Or]</p><p>Menottes qui permettent d’annuler la magie du porteur (sauf Pierres de Sort).</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:7:Menottes Pétricite",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 30,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "conditions": "Menottes Pétricite (Item - 1 place) - créé à Demacia [30 Or]  Menottes qui permettent d’annuler la magie du porteur (sauf Pierres de Sort).",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.f5d16774ac9e3df1",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.f5d16774ac9e3df1",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.f5d16774ac9e3df1"
+      }
+    },
+    {
+      "_id": "78e0fc02ddb0d3e7",
+      "name": "Ticket Hexgate",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"Ticket Hexgate\"><h1>Ticket Hexgate</h1></div><p>Ticket Hexgate (Consommable) - créé à Piltover [200 Or]</p><p>Donne accès à une Hexgate de Piltover pour une des destinations suivantes au choix : Rakelstake (Freljord) - Bastion de l’Immortel (Noxus) - Grande Place de Demacia (Demacia) - Le Placidium de Navori (Ionia) - Place de l’Oasis (Shurima).</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:8:Ticket Hexgate",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 200,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "conditions": "Ticket Hexgate (Consommable) - créé à Piltover [200 Or]  Donne accès à une Hexgate de Piltover pour une des destinations suivantes au choix : Rakelstake (Freljord) - Bastion de l’Immortel (Noxus) - Grande Place de Demacia (Demacia) - Le Placidium de Navori (Ionia) - Place de l’Oasis (Shurima).",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.15b5ff87a6624523",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.15b5ff87a6624523",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.15b5ff87a6624523"
+      }
+    },
+    {
+      "_id": "df26645c8cad5ee4",
+      "name": "Boussole Ixtali",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1-gzRwl5psY1ixc7SG-33KGBo44TFtuhh.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1-gzRwl5psY1ixc7SG-33KGBo44TFtuhh.webp\" alt=\"Boussole Ixtali\"><h1>Boussole Ixtali</h1></div><p>Boussole Ixtali (Relique) - créé à Ixtal [100 Or]</p><p>Mettre un élément dedans permet de savoir dans quelle direction la plus proche trouver de ce même élément. Si l’enchantement ou la source de magie est Élevée, alors la direction mène vers une source du même type. Si elle est Légendaire, alors la direction pointe sur la même source que l’élément utilisé. Le réservoir est limité (3 pierres de sorts max)</p></div><div class=\"rt-links\">@UUID[Compendium.jdr-runeterra.consumables.Item.b2a9a7949387c2ec]{Boussole}</div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:9:Boussole Ixtali",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 100,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "conditions": "Boussole Ixtali (Relique) - créé à Ixtal [100 Or]  Mettre un élément dedans permet de savoir dans quelle direction la plus proche trouver de ce même élément. Si l’enchantement ou la source de magie est Élevée, alors la direction mène vers une source du même type. Si elle est Légendaire, alors la direction pointe sur la même source que l’élément utilisé. Le réservoir est limité (3 pierres de sorts max)   @UUID[Compendium.jdr-runeterra.consumables.Item.b2a9a7949387c2ec]{Boussole}",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.9c6e319a18cec9ee",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.9c6e319a18cec9ee",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.9c6e319a18cec9ee"
+      }
+    },
+    {
+      "_id": "5f8ce4b35e7ececd",
+      "name": "Corr d’Olyfaärg",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1aCOEPp644BW6XR9mKcs3PK9q3SmT9FL9.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1aCOEPp644BW6XR9mKcs3PK9q3SmT9FL9.webp\" alt=\"Corr d’Olyfaärg\"><h1>Corr d’Olyfaärg</h1></div><p>Corr d’Olyfaärg (Item - 1 place) - possédé par Odvïr [250 Or]</p><p>Émet un son qui provoque une vibration si puissante et magique qu’elle rend tangible et vulnérable aux attaques physiques (DP) tout type d&#39;ethération pendant 30sec (1 tour) toutes les 3min (4 tours).</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:10:Corr d’Olyfaärg",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 250,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "conditions": "Corr d’Olyfaärg (Item - 1 place) - possédé par Odvïr [250 Or]  Émet un son qui provoque une vibration si puissante et magique qu’elle rend tangible et vulnérable aux attaques physiques (DP) tout type d'ethération pendant 30sec (1 tour) toutes les 3min (4 tours).",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.8735af9565db40a9",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.8735af9565db40a9",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.8735af9565db40a9"
+      }
+    },
+    {
+      "_id": "0491a3a21aba47e1",
+      "name": "Écharpe en Fourrure de Björld",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1Jm2oxMnjZZoBjlKUA5_UOyR622_7RlpL.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1Jm2oxMnjZZoBjlKUA5_UOyR622_7RlpL.webp\" alt=\"Écharpe en Fourrure de Björld\"><h1>Écharpe en Fourrure de Björld</h1></div><p>Écharpe en Fourrure de Björld (Relique) [75 Or]</p><p>Couvre les odeurs des prédateurs et révèle les bêtes inoffensives environnantes (+30 Charisme bestiaire Commun et Rare / +20 Charisme Rare++ / +10 Charisme Rare+++ )</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:11:Écharpe en Fourrure de Björld",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 75,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "conditions": "Écharpe en Fourrure de Björld (Relique) [75 Or]  Couvre les odeurs des prédateurs et révèle les bêtes inoffensives environnantes (+30 Charisme bestiaire Commun et Rare / +20 Charisme Rare++ / +10 Charisme Rare+++ )",
+        "powers": [
+          {
+            "attribute": "charisma",
+            "value": 30,
+            "condition": "Écharpe en Fourrure de Björld (Relique) [75 Or]  Couvre les odeurs des prédateurs et révèle les bêtes inoffensives environnantes (+30 Charisme bestiaire Commun et Rare / +20 Charisme Rare++ / +10 Charisme Rare+++ )",
+            "id": "d1f70f90d41aaf48"
+          },
+          {
+            "attribute": "charisma",
+            "value": 20,
+            "condition": "Écharpe en Fourrure de Björld (Relique) [75 Or]  Couvre les odeurs des prédateurs et révèle les bêtes inoffensives environnantes (+30 Charisme bestiaire Commun et Rare / +20 Charisme Rare++ / +10 Charisme Rare+++ )",
+            "id": "b93c937f6fa1364b"
+          },
+          {
+            "attribute": "charisma",
+            "value": 10,
+            "condition": "Écharpe en Fourrure de Björld (Relique) [75 Or]  Couvre les odeurs des prédateurs et révèle les bêtes inoffensives environnantes (+30 Charisme bestiaire Commun et Rare / +20 Charisme Rare++ / +10 Charisme Rare+++ )",
+            "id": "cdaab939124fb9ad"
+          }
+        ]
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.d4174df55b86ceb7",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.d4174df55b86ceb7",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.d4174df55b86ceb7"
+      }
+    },
+    {
+      "_id": "fc120bf3425abfaa",
+      "name": "Indivellium",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1wZgy5rEYhQeLX_zQx6gVIpnMVfGxTlpA.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1wZgy5rEYhQeLX_zQx6gVIpnMVfGxTlpA.webp\" alt=\"Indivellium\"><h1>Indivellium</h1></div><p>Indivellium (Item Usage Unique - 1 place) Plusieurs Tomes Possibles [125 Or] voir Note Livres</p><p>Ce livre vous connaît mieux que vous même. Une fois lu, il se détruit. Le lire ajoute +05 dans un Attributs Spécial au choix.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:13:Indivellium",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 125,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "conditions": "Indivellium (Item Usage Unique - 1 place) Plusieurs Tomes Possibles [125 Or] voir Note Livres  Ce livre vous connaît mieux que vous même. Une fois lu, il se détruit. Le lire ajoute +05 dans un Attributs Spécial au choix.",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.82a7acb69d1d8883",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.82a7acb69d1d8883",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.82a7acb69d1d8883"
+      }
+    },
+    {
+      "_id": "7c8dd6daaff1ff7b",
+      "name": "Lettres des Conjoints Éternels",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"Lettres des Conjoints Éternels\"><h1>Lettres des Conjoints Éternels</h1></div><p>Lettres des Conjoints Éternels (Relique) [50 Or]</p><p>Peut communiquer avec quelqu’un qui à sa lettre jumelle. Les messages finissent par s’effacer une fois lu. Possible de jumeler plusieurs lettres entre elles avec un enchantement.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:14:Lettres des Conjoints Éternels",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 50,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "conditions": "Lettres des Conjoints Éternels (Relique) [50 Or]  Peut communiquer avec quelqu’un qui à sa lettre jumelle. Les messages finissent par s’effacer une fois lu. Possible de jumeler plusieurs lettres entre elles avec un enchantement.",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.8703bba0400f9837",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.8703bba0400f9837",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.8703bba0400f9837"
+      }
+    },
+    {
+      "_id": "73bf84f1639aadb9",
+      "name": "Luth du Barde Charlatan",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1-vK473p9U0H4siNOZ7YShPiZatMdUZIT.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1-vK473p9U0H4siNOZ7YShPiZatMdUZIT.webp\" alt=\"Luth du Barde Charlatan\"><h1>Luth du Barde Charlatan</h1></div><p>Luth du Barde Charlatan (Relique) - crée par Odir Eimüsveg [100 Or] SHORT - STYLÉ - CHARME</p><p>Jouer de la musique avec ce luth permet d’utiliser le Charisme du joueur pour les jets de Dextérité et Intelligence.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:15:Luth du Barde Charlatan",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 100,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "conditions": "Luth du Barde Charlatan (Relique) - crée par Odir Eimüsveg [100 Or] SHORT - STYLÉ - CHARME  Jouer de la musique avec ce luth permet d’utiliser le Charisme du joueur pour les jets de Dextérité et Intelligence.",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.2906329ecaef5869",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.2906329ecaef5869",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.2906329ecaef5869"
+      }
+    },
+    {
+      "_id": "8aebdd329791a170",
+      "name": "Memovision Hextech",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1I2r3DukqrqYucnfT98KPFswecqRNq_ze.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1I2r3DukqrqYucnfT98KPFswecqRNq_ze.webp\" alt=\"Memovision Hextech\"><h1>Memovision Hextech</h1></div><p>Memovision Hextech (Item - 2 places) - créé à Piltover par Charles Marigniot [115 Or]</p><p>Permet de voir en images les pensées du porteur. Peut être utilisé avec un composé pour orienter les pensées du porteur.  Si non consenti, Jet de Mental pour y résister.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:16:Memovision Hextech",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 115,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "conditions": "Memovision Hextech (Item - 2 places) - créé à Piltover par Charles Marigniot [115 Or]  Permet de voir en images les pensées du porteur. Peut être utilisé avec un composé pour orienter les pensées du porteur.  Si non consenti, Jet de Mental pour y résister.",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.4c04b68f4ac7ad3b",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.4c04b68f4ac7ad3b",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.4c04b68f4ac7ad3b"
+      }
+    },
+    {
+      "_id": "7954ebc19514482b",
+      "name": "Mobile-Oeil Hextech",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1nUIT0UKJIDE2_80e5Nnvb-I_eBOinXSi.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1nUIT0UKJIDE2_80e5Nnvb-I_eBOinXSi.webp\" alt=\"Mobile-Oeil Hextech\"><h1>Mobile-Oeil Hextech</h1></div><p>Mobile-Oeil Hextech (Relique) [40 Or]</p><p>Permet de mieux voir dans les endroits sombres et détecte les sources de Magies Hextech et certains flux de magies à travers la matière. Doit se séparer d’un de ses yeux pour être installé à la place. Donne +10 Perception et retire -05 PV de Base pour l’installer.<br>! Attention à ne pas le perdre ! (-10 Perception) !</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:17:Mobile-Oeil Hextech",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 40,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "conditions": "Mobile-Oeil Hextech (Relique) [40 Or]  Permet de mieux voir dans les endroits sombres et détecte les sources de Magies Hextech et certains flux de magies à travers la matière. Doit se séparer d’un de ses yeux pour être installé à la place. Donne +10 Perception et retire -05 PV de Base pour l’installer.\n! Attention à ne pas le perdre ! (-10 Perception) !",
+        "powers": [
+          {
+            "attribute": "perception",
+            "value": 10,
+            "condition": "Mobile-Oeil Hextech (Relique) [40 Or]  Permet de mieux voir dans les endroits sombres et détecte les sources de Magies Hextech et certains flux de magies à travers la matière. Doit se séparer d’un de ses yeux pour être installé à la place. Donne +10 Perception et retire -05 PV de Base pour l’installer.\n! Attention à ne pas le perdre ! (-10 Perception) !",
+            "id": "db843b01c2c07520"
+          },
+          {
+            "attribute": "perception",
+            "value": -10,
+            "condition": "Mobile-Oeil Hextech (Relique) [40 Or]  Permet de mieux voir dans les endroits sombres et détecte les sources de Magies Hextech et certains flux de magies à travers la matière. Doit se séparer d’un de ses yeux pour être installé à la place. Donne +10 Perception et retire -05 PV de Base pour l’installer.\n! Attention à ne pas le perdre ! (-10 Perception) !",
+            "id": "28b963e513369055"
+          }
+        ]
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.6ca8a3e3a58f522a",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.6ca8a3e3a58f522a",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.6ca8a3e3a58f522a"
+      }
+    },
+    {
+      "_id": "f03afeacd65b614c",
+      "name": "Transluiverre",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"Transluiverre\"><h1>Transluiverre</h1></div><p>Transluiverre (Relique) [85 Or]</p><p>Une fois versée dans le verre, toutes les substances liquides sont transformées en eau et rend leurs propriétés inefficaces si elles en possédaient.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:18:Transluiverre",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 85,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "conditions": "Transluiverre (Relique) [85 Or]  Une fois versée dans le verre, toutes les substances liquides sont transformées en eau et rend leurs propriétés inefficaces si elles en possédaient.",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.3faf4f1d4323796b",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.3faf4f1d4323796b",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.3faf4f1d4323796b"
+      }
+    },
+    {
+      "_id": "131632890cb404cc",
+      "name": "Bague du Roi Déchu",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1qBkHQ3texu37DUINVqomAuwpCx6Gp2b3.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1qBkHQ3texu37DUINVqomAuwpCx6Gp2b3.webp\" alt=\"Bague du Roi Déchu\"><h1>Bague du Roi Déchu</h1></div><p>Bague du Roi Déchu (Relique) - créé par Viego [2000 Or]</p><p>Mourir avec cette bague au doigt permet de revenir en spectre. Un puissant enchantement permet de posséder un corps récemment sans vie. Permet de visiter temporairement le monde Spirituel. Faire 1D100 pour déterminer le nombre de minutes. Si &lt; 85, l’esprit s’y perd et le corps n’est plus récupérable (Perte du personnage).</p></div><div class=\"rt-links\">@UUID[Compendium.jdr-runeterra.magic.Item.4f7c5f7182d4d9f2]{Spirituel (}</div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:L-1:Bague du Roi Déchu",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 2000,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "schemaVersion": 2,
+        "conditions": "Bague du Roi Déchu (Relique) - créé par Viego [2000 Or]  Mourir avec cette bague au doigt permet de revenir en spectre. Un puissant enchantement permet de posséder un corps récemment sans vie. Permet de visiter temporairement le monde Spirituel. Faire 1D100 pour déterminer le nombre de minutes. Si &lt; 85, l’esprit s’y perd et le corps n’est plus récupérable (Perte du personnage).   @UUID[Compendium.jdr-runeterra.magic.Item.4f7c5f7182d4d9f2]{Spirituel (}",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.01afd72df49a1f7f",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.01afd72df49a1f7f",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.01afd72df49a1f7f"
+      }
+    },
+    {
+      "_id": "fd05d79c28ff4b6b",
+      "name": "Cloche d'Arengarr",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/10dgkDQZv5VHn_FQ4w0B74BCgPJZUuEzg.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/10dgkDQZv5VHn_FQ4w0B74BCgPJZUuEzg.webp\" alt=\"Cloche d&#39;Arengarr\"><h1>Cloche d&#39;Arengarr</h1></div><p>Cloche d&#39;Arengarr (Item Unique - 2 places) 10 Usages [400 Or]</p><p>Faire sonner la cloche fait apparaître l’esprit d’Arengarr et arrête la météo environnante. Il permet au joueur de parler dans le vent pour communiquer un message à quiconque dans tout le Freljord, et peut changer la météo de la zone temporairement.<br>- Divulgation au choix du MJ : Au bout de 10 Usages, l’esprit d’Arengarr disparaît et la cloche se met à rouiller de jour en jour.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:L-3:Cloche d'Arengarr",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 400,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "schemaVersion": 2,
+        "conditions": "Cloche d'Arengarr (Item Unique - 2 places) 10 Usages [400 Or]  Faire sonner la cloche fait apparaître l’esprit d’Arengarr et arrête la météo environnante. Il permet au joueur de parler dans le vent pour communiquer un message à quiconque dans tout le Freljord, et peut changer la météo de la zone temporairement.\n- Divulgation au choix du MJ : Au bout de 10 Usages, l’esprit d’Arengarr disparaît et la cloche se met à rouiller de jour en jour.",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.9931387b28e30d45",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.9931387b28e30d45",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.9931387b28e30d45"
+      }
+    },
+    {
+      "_id": "9421961275a80da0",
+      "name": "Fiole de l'Éternel",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/16e3cnIiVMRjQpmpIrbjs3wZl4b7-2jYI.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/16e3cnIiVMRjQpmpIrbjs3wZl4b7-2jYI.webp\" alt=\"Fiole de l&#39;Éternel\"><h1>Fiole de l&#39;Éternel</h1></div><p>Fiole de l&#39;Éternel - (Item vide / Relique si rempli) [200 Or]</p><p>Permet d&#39;empêcher à toute forme de magies de s’en échapper. Peut conserver une âme si elle est remplie de Chroxure liquide (6.L-2).</p></div><div class=\"rt-links\">@UUID[Compendium.jdr-runeterra.consumables.Item.bb184d73568bf7e2]{CHROXURE LIQUIDE}</div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:L-5:Fiole de l'Éternel",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 200,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "schemaVersion": 2,
+        "conditions": "Fiole de l'Éternel - (Item vide / Relique si rempli) [200 Or]  Permet d'empêcher à toute forme de magies de s’en échapper. Peut conserver une âme si elle est remplie de Chroxure liquide (6.L-2).   @UUID[Compendium.jdr-runeterra.consumables.Item.bb184d73568bf7e2]{CHROXURE LIQUIDE}",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.00849b028642ae2e",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.00849b028642ae2e",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.00849b028642ae2e"
+      }
+    },
+    {
+      "_id": "2bb95dccd205436c",
+      "name": "Haro de Ashe",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1-tEXpeC_cB2R8TobBWeNGBCV8emTinmw.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1-tEXpeC_cB2R8TobBWeNGBCV8emTinmw.webp\" alt=\"Haro de Ashe\"><h1>Haro de Ashe</h1></div><p>Haro de Ashe (Relique Unique) - créé par Ornn [1200 Or]</p><p>Permet d’appeler Braum à travers tout le Freljord pour l’invoquer à vos côtés le temps d’un combat important ou d’une quête. Le bruit peut également réveiller ou révéler les Demi-Dieux environnants.<br>! Ne s’utilise qu’en cas de réelle nécessité, trop l’utiliser peut attirer les foudres des dieux !</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:L-7:Haro de Ashe",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 1200,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "schemaVersion": 2,
+        "conditions": "Haro de Ashe (Relique Unique) - créé par Ornn [1200 Or]  Permet d’appeler Braum à travers tout le Freljord pour l’invoquer à vos côtés le temps d’un combat important ou d’une quête. Le bruit peut également réveiller ou révéler les Demi-Dieux environnants.\n! Ne s’utilise qu’en cas de réelle nécessité, trop l’utiliser peut attirer les foudres des dieux !",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.fa7d72ee893c9e83",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.fa7d72ee893c9e83",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.fa7d72ee893c9e83"
+      }
+    },
+    {
+      "_id": "7ded41c56b97a9db",
+      "name": "Ildrunvirr (Chaudron d’Abondance)",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1rSO5kLbmjfA0jrNR1elN8-t7L2b7rryv.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1rSO5kLbmjfA0jrNR1elN8-t7L2b7rryv.webp\" alt=\"Ildrunvirr (Chaudron d’Abondance)\"><h1>Ildrunvirr (Chaudron d’Abondance)</h1></div><p>Ildrunvirr (Chaudron d’Abondance) (Item Unique - 10 places) - créé par Ornn [Inestimable]</p><p>Toute nourriture cuisinée dedans permet de combler l’estomac sur toute l’aventure. Ajoute 1D4x5 PV de base.<br>! Ne pas en consommer plusieurs fois, risque de s’étouffer de l’intérieur (50% de chance de mourir) !</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:L-9:Ildrunvirr (Chaudron d’Abondance)",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "schemaVersion": 2,
+        "conditions": "Ildrunvirr (Chaudron d’Abondance) (Item Unique - 10 places) - créé par Ornn [Inestimable]  Toute nourriture cuisinée dedans permet de combler l’estomac sur toute l’aventure. Ajoute 1D4x5 PV de base.\n! Ne pas en consommer plusieurs fois, risque de s’étouffer de l’intérieur (50% de chance de mourir) !",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.6a7c8f10531ee997",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.6a7c8f10531ee997",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.6a7c8f10531ee997"
+      }
+    },
+    {
+      "_id": "f4b713a57472499d",
+      "name": "Kit Couture Merisan",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1yEQ7qqdXzKg0vWSjL5Nao7l2jqCrZkK9.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1yEQ7qqdXzKg0vWSjL5Nao7l2jqCrZkK9.webp\" alt=\"Kit Couture Merisan\"><h1>Kit Couture Merisan</h1></div><p>Kit Couture Merisan (Item Unique - 1 place) - créé par Tania Merisan [350 Or]</p><p>Kit d&#39;outil permettant de fabriquer des tenues en tissu et cuir pour enchantement Légendaires.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:L-11:Kit Couture Merisan",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 350,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "schemaVersion": 2,
+        "conditions": "Kit Couture Merisan (Item Unique - 1 place) - créé par Tania Merisan [350 Or]  Kit d'outil permettant de fabriquer des tenues en tissu et cuir pour enchantement Légendaires.",
+        "powers": [],
+        "kitKind": "sewing"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.24091820237670f3",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.24091820237670f3",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.24091820237670f3"
+      }
+    },
+    {
+      "_id": "15daf45d73d89be9",
+      "name": "Pendule Brisé du Lendemain",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1-QgjwM-bkr9T0ssOk-6ABTRZjvPbNofG.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1-QgjwM-bkr9T0ssOk-6ABTRZjvPbNofG.webp\" alt=\"Pendule Brisé du Lendemain\"><h1>Pendule Brisé du Lendemain</h1></div><p>Pendule Brisé du Lendemain (Relique Unique - Recharge si retrouvé) [800 Or]</p><p>Permet de remonter le temps de 1D12 heure et disparaît une fois utilisée (séquence alternative en accéléré). 1 chance sur 2 d&#39;être cassée si trouvée. Si cassée : lancer 1D100 1x/j pour le réparer. Une fois les résultats des jets =100, la montre est réparée.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:L-16:Pendule Brisé du Lendemain",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 800,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "schemaVersion": 2,
+        "conditions": "Pendule Brisé du Lendemain (Relique Unique - Recharge si retrouvé) [800 Or]  Permet de remonter le temps de 1D12 heure et disparaît une fois utilisée (séquence alternative en accéléré). 1 chance sur 2 d'être cassée si trouvée. Si cassée : lancer 1D100 1x/j pour le réparer. Une fois les résultats des jets =100, la montre est réparée.",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.b1672b005a75ae02",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.b1672b005a75ae02",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.b1672b005a75ae02"
+      }
+    },
+    {
+      "_id": "880e8bf7f7b5dd16",
+      "name": "Pièce de Huul",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"Pièce de Huul\"><h1>Pièce de Huul</h1></div><p>Pièce de Huul (Relique Unique) - de Bilgewater [300 Or]</p><p>Tirer pile ou face pour avoir une info qui peut être une vérité ou un mensonge. (3x Face)</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:L-17:Pièce de Huul",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 300,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "schemaVersion": 2,
+        "conditions": "Pièce de Huul (Relique Unique) - de Bilgewater [300 Or]  Tirer pile ou face pour avoir une info qui peut être une vérité ou un mensonge. (3x Face)",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.966de518b03ea862",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.966de518b03ea862",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.966de518b03ea862"
+      }
+    },
+    {
+      "_id": "5e2ed2bac688e8d6",
+      "name": "Plume d’Onn’Vana",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1-GHUqPhA1OzJepaVgcLFRurG_tvMx5Vl.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1-GHUqPhA1OzJepaVgcLFRurG_tvMx5Vl.webp\" alt=\"Plume d’Onn’Vana\"><h1>Plume d’Onn’Vana</h1></div><p>Plume d’Onn’Vana (Relique) [170 Or]</p><p>Possède une magie de Révélation d’Intention (voir 4.0). Ne peut écrire que la vérité (subjective à l’utilisateur). (+20 Persuasion/Charisme/Intimidation par écrit).</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:L-18:Plume d’Onn’Vana",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 170,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "schemaVersion": 2,
+        "conditions": "Plume d’Onn’Vana (Relique) [170 Or]  Possède une magie de Révélation d’Intention (voir 4.0). Ne peut écrire que la vérité (subjective à l’utilisateur). (+20 Persuasion/Charisme/Intimidation par écrit).",
+        "powers": [
+          {
+            "attribute": "persuasion",
+            "value": 20,
+            "condition": "Plume d’Onn’Vana (Relique) [170 Or]  Possède une magie de Révélation d’Intention (voir 4.0). Ne peut écrire que la vérité (subjective à l’utilisateur). (+20 Persuasion/Charisme/Intimidation par écrit).",
+            "id": "8cbb826f906ee166"
+          }
+        ]
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.26b625fb7a7e7898",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.26b625fb7a7e7898",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.26b625fb7a7e7898"
+      }
+    },
+    {
+      "_id": "2093ebbcc5da2f95",
+      "name": "Sphère de Kumbadge",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/icons/item.svg",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/icons/item.svg\" alt=\"Sphère de Kumbadge\"><h1>Sphère de Kumbadge</h1></div><p>Sphère de Kumbadge (Relique Unique - Usage unique) [1500 Or]</p><p>Faire un vœu à 50% de chance de marcher, ou de faire son exacte inverse. (1D100)</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:L-19:Sphère de Kumbadge",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 1500,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "schemaVersion": 2,
+        "conditions": "Sphère de Kumbadge (Relique Unique - Usage unique) [1500 Or]  Faire un vœu à 50% de chance de marcher, ou de faire son exacte inverse. (1D100)",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.693844abb5655e24",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.693844abb5655e24",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.693844abb5655e24"
+      }
+    },
+    {
+      "_id": "5db6dc1d8d5c215d",
+      "name": "Veillance du Disgracieux",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/1-6_3SVj2KBEkQSdTyl6yIu49L7kw_INW.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/1-6_3SVj2KBEkQSdTyl6yIu49L7kw_INW.webp\" alt=\"Veillance du Disgracieux\"><h1>Veillance du Disgracieux</h1></div><p>Veillance du Disgracieux (Relique Unique) Pendentif [350 Or]</p><p>Peut permuter un échec critique avec une réussite critique et inversement. (1-5 à 96-100)<br>Permute automatiquement une réussite critique s’il est chargé par un échec critique.</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:1:L-20:Veillance du Disgracieux",
+        "category": "Reliques",
+        "damageFormula": "0",
+        "price": 350,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "violet",
+        "integrity": {
+          "indestructible": true
+        },
+        "schemaVersion": 2,
+        "conditions": "Veillance du Disgracieux (Relique Unique) Pendentif [350 Or]  Peut permuter un échec critique avec une réussite critique et inversement. (1-5 à 96-100)\nPermute automatiquement une réussite critique s’il est chargé par un échec critique.",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.80a73bbc8f4480a3",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.80a73bbc8f4480a3",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.80a73bbc8f4480a3"
+      }
+    },
+    {
+      "_id": "e13bee0416a6384c",
+      "name": "Flûte Auto-magique",
+      "type": "relic",
+      "img": "modules/heritage-de-magnus/assets/system/drive/16NcIWMHFjhu44mO7UnK_ii_7zvMC02hd.webp",
+      "folder": "b02acebd9bb8ef9a",
+      "system": {
+        "description": "<div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/16NcIWMHFjhu44mO7UnK_ii_7zvMC02hd.webp\" alt=\"Flûte Auto-magique\"><h1>Flûte Auto-magique</h1></div><p>Flûte Auto-magique (Item) Possession actuelle : Dako</p><p>Une flûte qui fait de très belles musiques juste en soufflant dedans.</p><p>20. <br>Notes…</p><p>SERVICES :</p></div>",
+        "source": "https://docs.google.com/document/d/19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg/edit",
+        "reference": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg:12:19:Flûte Auto-magique",
+        "category": "Curiosités",
+        "damageFormula": "0",
+        "price": 0,
+        "recipe": "",
+        "dangers": "",
+        "legal": "",
+        "rarity": "blue",
+        "schemaVersion": 2,
+        "conditions": "Flûte Auto-magique (Item) Possession actuelle : Dako  Une flûte qui fait de très belles musiques juste en soufflant dedans.  20. \nNotes…  SERVICES :",
+        "powers": []
+      },
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "Compendium.jdr-runeterra.magic.Item.51bbc89d87d02e39",
+          "key": "reward:Compendium.jdr-runeterra.magic.Item.51bbc89d87d02e39",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.jdr-runeterra.magic.Item.51bbc89d87d02e39"
+      }
+    }
+  ],
+  "folders": [
+    {
+      "_id": "b02acebd9bb8ef9a",
+      "name": "Magnus — Objets de campagne",
+      "type": "Item",
+      "folder": null,
+      "sorting": "m",
+      "color": "#496e87",
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "folder:Item:Magnus — Objets de campagne",
+          "contentVersion": "0.1.0"
+        }
+      }
+    }
+  ]
+}

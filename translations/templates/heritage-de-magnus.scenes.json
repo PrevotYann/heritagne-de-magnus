@@ -1,0 +1,324 @@
+{
+  "label": "Magnus — Scènes",
+  "mapping": {
+    "name": {
+      "path": "name",
+      "converter": "magnus-text"
+    },
+    "navName": {
+      "path": "navName",
+      "converter": "magnus-text"
+    },
+    "tokens": {
+      "path": "tokens",
+      "converter": "magnus-tree"
+    },
+    "regions": {
+      "path": "regions",
+      "converter": "magnus-tree"
+    }
+  },
+  "entries": {
+    "9481ef296d1fc1c6": {
+      "name": "Guürdarl",
+      "navName": "Guürdarl"
+    },
+    "0906481998126bd4": {
+      "name": "Frostheld",
+      "navName": "Frostheld"
+    },
+    "ba07c5e7d4534a22": {
+      "name": "Creux-de-Valar",
+      "navName": "Creux-de-Valar"
+    },
+    "48ffed45222b1ea7": {
+      "name": "Fyord’al Kürgen",
+      "navName": "Fyord’al Kürgen"
+    },
+    "c11694412b142dba": {
+      "name": "Rakelstake",
+      "navName": "Rakelstake"
+    },
+    "8d57866a61738647": {
+      "name": "Freljord — Carte régionale",
+      "navName": "Freljord — Carte régionale"
+    },
+    "a4c85f1ae761ea84": {
+      "name": "Taverne de Jarnot",
+      "navName": "Taverne de Jarnot"
+    },
+    "63db5a7d9aa94289": {
+      "name": "Place du Marché",
+      "navName": "Place du Marché"
+    },
+    "fe5fe138a96a62e5": {
+      "name": "Port de Guürdarl",
+      "navName": "Port de Guürdarl"
+    },
+    "b02ddeca7e1a7e58": {
+      "name": "Almar Quincaillerie",
+      "navName": "Almar Quincaillerie"
+    },
+    "7c33c64a65f47615": {
+      "name": "Maison de Magnus",
+      "navName": "Maison de Magnus"
+    },
+    "8cb894148057befe": {
+      "name": "02. FROSTHELD",
+      "navName": "02. FROSTHELD"
+    },
+    "14a4fddf5f45b58d": {
+      "name": "L’Auberge du Typhon",
+      "navName": "L’Auberge du Typhon"
+    },
+    "423caeb6c11158cd": {
+      "name": "Port de Frostheld",
+      "navName": "Port de Frostheld"
+    },
+    "da0a07b9beccb8a7": {
+      "name": "[REPAS DU COURONNEMENT]",
+      "navName": "[REPAS DU COURONNEMENT]"
+    },
+    "66538d968f8fe7b3": {
+      "name": "2. Le Couronne Ambulant II - Grand Bateau General Demacia :  (Intérieur)",
+      "navName": "2. Le Couronne Ambulant II - Grand Bateau General Demacia :  (Intérieur)"
+    },
+    "56ce7f4ec95d22e8": {
+      "name": "3. Savorin Maru - Bateau Marchand Ionia (Moyen) Cachette de Kaïrr",
+      "navName": "3. Savorin Maru - Bateau Marchand Ionia (Moyen) Cachette de Kaïrr"
+    },
+    "1dd42176a3bb50c6": {
+      "name": "Jocbar Animalerie",
+      "navName": "Jocbar Animalerie"
+    },
+    "d49c14039f9049f6": {
+      "name": "Cathédrale d’Anivia",
+      "navName": "Cathédrale d’Anivia"
+    },
+    "4e63d32999fc5a96": {
+      "name": "Salle du Conseil de Frostheld",
+      "navName": "Salle du Conseil de Frostheld"
+    },
+    "f4a1eb6ff17df035": {
+      "name": "Grand Marché Frostheld",
+      "navName": "Grand Marché Frostheld"
+    },
+    "56fdc91b6b7fc424": {
+      "name": "- PLAINES DORÉES -",
+      "navName": "- PLAINES DORÉES -"
+    },
+    "b60c6a68e42c555d": {
+      "name": "MUSIQUE",
+      "navName": "MUSIQUE"
+    },
+    "09bcc2233c6ef73e": {
+      "name": "Repère d’Odvïr",
+      "navName": "Repère d’Odvïr"
+    },
+    "54ce443f7ae93331": {
+      "name": "- Entrée Nord-Est (Quartier Privé)",
+      "navName": "- Entrée Nord-Est (Quartier Privé)"
+    },
+    "9b2eb93a39aea3d3": {
+      "name": "02. CREUX DE VALAR",
+      "navName": "02. CREUX DE VALAR"
+    },
+    "5688b477f78ab6fe": {
+      "name": "Au Bribucq Bourré",
+      "navName": "Au Bribucq Bourré"
+    },
+    "5ad6608b3b7477da": {
+      "name": "Galdraläg - Guilde des Musiciens",
+      "navName": "Galdraläg - Guilde des Musiciens"
+    },
+    "0598e67aec529169": {
+      "name": "Palais du Roi Algar",
+      "navName": "Palais du Roi Algar"
+    },
+    "b96f498629e3af12": {
+      "name": "[BAL D’ALGAR]",
+      "navName": "[BAL D’ALGAR]"
+    },
+    "169da1181c4631ad": {
+      "name": "03. CHAÎNES D’ODMÜND",
+      "navName": "03. CHAÎNES D’ODMÜND"
+    },
+    "37fce61b8895ce06": {
+      "name": "Maison de Fortune (Mage)",
+      "navName": "Maison de Fortune (Mage)"
+    },
+    "e4c273ac68ae64cb": {
+      "name": "04. FAILLE DE BORRVÖK",
+      "navName": "04. FAILLE DE BORRVÖK"
+    },
+    "1dd872596581f603": {
+      "name": "- BORRVÖK’VAEL -",
+      "navName": "- BORRVÖK’VAEL -"
+    },
+    "3dea819bfe721f43": {
+      "name": "L’Entre du Mouflon",
+      "navName": "L’Entre du Mouflon"
+    },
+    "61732f93fea218a4": {
+      "name": "Tour de L’assemblée",
+      "navName": "Tour de L’assemblée"
+    },
+    "05fef75eee7ad803": {
+      "name": "- Balcon des Sublimés",
+      "navName": "- Balcon des Sublimés"
+    },
+    "ce01e15a82835129": {
+      "name": "05. RAKELSTAKE",
+      "navName": "05. RAKELSTAKE"
+    },
+    "665aa93d2d952575": {
+      "name": "- FORÊT D’YRRGOVID -",
+      "navName": "- FORÊT D’YRRGOVID -"
+    },
+    "2ff52821841ad6f8": {
+      "name": "- RAKELSTAKE TRÔNE -",
+      "navName": "- RAKELSTAKE TRÔNE -"
+    },
+    "f8d2a0590829bba1": {
+      "name": "Allée Centrale",
+      "navName": "Allée Centrale"
+    },
+    "6e063025bff392cc": {
+      "name": "Quartier Camps Avarosan",
+      "navName": "Quartier Camps Avarosan"
+    },
+    "eb8d8e26766979b5": {
+      "name": "Quartier du Troc",
+      "navName": "Quartier du Troc"
+    },
+    "73d4a73cb1c55f7f": {
+      "name": "Auberge Le PermaFrost",
+      "navName": "Auberge Le PermaFrost"
+    },
+    "57cbfdb347034af1": {
+      "name": "Le Temple des Sublimés",
+      "navName": "Le Temple des Sublimés"
+    },
+    "d96b1640b6e08a5d": {
+      "name": "La Salle du Trône",
+      "navName": "La Salle du Trône"
+    },
+    "47656b1c37fbd443": {
+      "name": "- RAKELSTAKE VILLAGE -",
+      "navName": "- RAKELSTAKE VILLAGE -"
+    },
+    "0388012dde32035d": {
+      "name": "Auberge la Chouette Éméchée",
+      "navName": "Auberge la Chouette Éméchée"
+    },
+    "9db1d8a66d96feee": {
+      "name": "F&K Forge",
+      "navName": "F&K Forge"
+    },
+    "851621106c9685a7": {
+      "name": "OLBUKRN",
+      "navName": "OLBUKRN"
+    },
+    "7c5920979b24e58e": {
+      "name": "Tribue des Skjaldar (OLGA)",
+      "navName": "Tribue des Skjaldar (OLGA)"
+    },
+    "817c0439c6249cbb": {
+      "name": "La Grotte de Glaserport (Moyenne)",
+      "navName": "La Grotte de Glaserport (Moyenne)"
+    },
+    "1fbac89d211ce161": {
+      "name": "GLASERPORT",
+      "navName": "GLASERPORT"
+    },
+    "3d3d4c79f4f88325": {
+      "name": "Campement Ildhaurgar (Indépendant)",
+      "navName": "Campement Ildhaurgar (Indépendant)"
+    },
+    "9b9ad82400555a59": {
+      "name": "VATHCAER",
+      "navName": "VATHCAER"
+    },
+    "2606fd1221be2d87": {
+      "name": "Le Flot Persistant - Grand Bateau (Willburn)",
+      "navName": "Le Flot Persistant - Grand Bateau (Willburn)"
+    },
+    "4c65de7df5bc7e9f": {
+      "name": "GROTTES",
+      "navName": "GROTTES"
+    },
+    "8d2cf48ba2bd5aab": {
+      "name": "BATAILLE OTT",
+      "navName": "BATAILLE OTT"
+    },
+    "f852a2672ef4c57d": {
+      "name": "LABORATOIRE YOLENDA",
+      "navName": "LABORATOIRE YOLENDA"
+    },
+    "49ead4189fe87d76": {
+      "name": "LAC - GROTTE DE JOLDÜNGRAAD",
+      "navName": "LAC - GROTTE DE JOLDÜNGRAAD"
+    },
+    "d34b6504e5df25c8": {
+      "name": "PIERRES SUR TABLE (PLEINES)",
+      "navName": "PIERRES SUR TABLE (PLEINES)"
+    },
+    "a4567a6c4c5d8bb3": {
+      "name": "À la recherche d’Isolda — Hgar",
+      "navName": "À la recherche d’Isolda — Hgar",
+      "tokens": {
+        "72c2cc8aeaffae8c": {
+          "name": "Hgar"
+        }
+      },
+      "regions": {
+        "226d8bb509eae317": {
+          "name": "Col — zone de rencontre"
+        }
+      }
+    },
+    "62f6a028cf5a84b3": {
+      "name": "Col enneigé — Loups givrecrocs",
+      "navName": "Col enneigé — Loups givrecrocs",
+      "tokens": {
+        "1650d9eafad06581": {
+          "name": "LOUP GIVRECROC"
+        },
+        "afceb802e9bc54a6": {
+          "name": "LOUP GIVRECROC"
+        },
+        "1afd2a872d174419": {
+          "name": "LOUP GIVRECROC"
+        }
+      },
+      "regions": {
+        "9f28c9a64ec40983": {
+          "name": "Col — zone de rencontre"
+        }
+      }
+    },
+    "2f04c982f581d630": {
+      "name": "Approche de la planque — Ott",
+      "navName": "Approche de la planque — Ott",
+      "tokens": {
+        "bc3f3da66f243e9e": {
+          "name": "Ott — Forme humaine"
+        }
+      },
+      "regions": {
+        "b9fad8a6144e939a": {
+          "name": "Col — zone de rencontre"
+        }
+      }
+    },
+    "684f7caab0ee437b": {
+      "name": "Planque d’Ott — Laboratoire",
+      "navName": "Laboratoire",
+      "tokens": {
+        "2affbfbbcd55cb53": {
+          "name": "Ott"
+        }
+      }
+    }
+  }
+}

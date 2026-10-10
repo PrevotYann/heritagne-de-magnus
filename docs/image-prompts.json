@@ -1,0 +1,17 @@
+{
+  "provider": "image_gen.imagegen",
+  "originalPreparation": true,
+  "maps": [
+    {
+      "path": "assets/maps/olbukrn-ravine.png",
+      "prompt": "Use case: illustration-story. Asset type: Foundry VTT tactical battle map, landscape 1536 by 1024. Strict orthographic top-down view, hand-painted high quality detailed terrain. Snowy northern fantasy mountain pass, winding narrow ravine between two dark rock and blue ice cliffs along left and right margins. Open playable snowy ground in broad central channel; scattered boulders for cover, fallen tree trunk, small footprints, frozen stream meandering on right, two paths at north and south. Night light blue snow but easily legible terrain. No grid, no labels, no text, no people, no tokens, no watermark. This is a preparation addition for Hgar troll ambush in the frozen ravines of Olbukrn. Keep center navigable, complex organic natural rock edges, no geometric diagram.",
+      "usage": "Col d’Isolda / Hgar, loups et approche d’Ott. Murs et positions sont des propositions MJ."
+    },
+    {
+      "path": "assets/maps/ott-laboratory.png",
+      "prompt": "Top-down tactical fantasy map of a sinister necromancer laboratory in a ruined snowy mountain complex. Central circular stone chamber with green occult altar and ritual floor; study in upper left, alchemical laboratory in upper right, cages in lower left, entrance vestibule in lower right. Stone walls, wooden doors, torches, readable interconnected rooms. No characters, no labels, no text, no grid. Landscape 1536x1024.",
+      "usage": "Planque d’Ott, ajout de préparation distinct du plan source.",
+      "promptDescription": "Consigne résumée de génération, conservée à titre de documentation"
+    }
+  ]
+}

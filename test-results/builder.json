@@ -1,0 +1,14 @@
+{
+  "version": "14.368",
+  "application": "foundry.applications.sheets.AdventureExporter",
+  "counts": {
+    "actors": 277,
+    "items": 91,
+    "journal": 142,
+    "scenes": 65,
+    "tables": 4,
+    "playlists": 1,
+    "macros": 10,
+    "folders": 12
+  }
+}

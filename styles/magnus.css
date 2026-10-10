@@ -1,0 +1,6 @@
+.magnus-entry{font-size:1rem;line-height:1.6;max-width:80ch;margin:auto;color:var(--color-text-primary)}
+.magnus-entry h1,.magnus-entry h2,.magnus-entry h3{line-height:1.3;margin-top:1.5em}
+.magnus-entry table{width:100%;border-collapse:collapse;margin:1em 0}
+.magnus-entry td{padding:.5em;border:1px solid var(--color-border-light-primary);vertical-align:top}
+.magnus-source-warning{font-weight:bold;text-decoration:underline}
+.magnus-entry a,.magnus-entry .content-link{overflow-wrap:anywhere}

@@ -1,0 +1,300 @@
+
+Le Bizutage Avarosan
+
+
+
+Par Ashe : 
+
+Ashe vous accueille afin de découvrir ce que vous avez à lui rapporter. Si vos objectifs coïncident, elle vous propose de rejoindre la tribu Avarosan. Elle semble dévastée par la disparition de Isolda et multiplie les expéditions au Nord pour tenter de la retrouver mais en vain.
+
+Récompense : Grade Avarosan (voir Grades) /
+
+Par Revna : 
+
+Vous venez de rejoindre la Tribue Avarosan et avant que Revna vous missionne, vous avez quartier libre. Le lendemain vous léaccompagnerez à Rakelstake Village pour faire vos preuves en accomplissant des tâches et des quêtes avec les citoyens selon leurs besoins.
+
+
+
+
+
+Par Bojack : 
+
+Vous rencontrez Bojack, un jeune Vastaya Pèlerin en quête de devenir un Avarosan, mais il semble totalement perdu et ne trouve pas le chemin pour Rakelstake Trône. Il semble vous avoir à la bonne et vu que vos destinations coïncident, pourquoi pas vous suivre.
+
+
+
+Récompense : Boussole Ixtali (1.7)
+
+
+
+INFO MJ
+
+
+
+Mettre une Pierre de Sort dans la Boussole marche et pointe la Pierre de Sort la plus proche vu qu'elles sont faites du même élément unique dans tout Runeterra. Mais seulement 3 pierres max peuvent rentrer dedans.
+
+
+
+
+
+
+
+
+
+
+
+1. Vous dormez paisiblement dans votre campement jusqu’au petit matin.
+
+
+
+- Jet de Perception. Si réussi :
+
+
+
+Vous entendez un léger grabuge, et vous voyez une silhouette (voir PNJ) qui semble fouiner dans vos affaires. 
+
+
+
+Bojack - “Oh bonjour ! J’espère ne pas vous avoir réveillé, je cherchais simplement de la nourriture, j’ai terriblement faim.”
+
+
+
+Le jeune Vastaya vous sourit naïvement.
+
+
+
+“Je tourne en rond depuis plusieurs mois (4 mois) et malgré cette boussole spéciale, je n’arrive pas à trouver le chemin pour Rakelstake Trône.
+
+
+
+INFO MJ
+
+
+
+Bojack est en pèlerinage pour Rakelstake Trône mais il est perdu entre les Chaînes d’Odmünd et la Forêt d’Yrrgovid depuis près de 5 mois (périmètre d’environ 40km). Il a un très mauvais sens de l’orientation évident. Mais il n’a pas spécialement de mal à survivre en autonomie dans le coin. Il vient des Plaines de Dalmor à l’Ouest de Noxus et doit aller à Rakelstake pour terminer son pèlerinage et devenir enfin un Avarosan. 
+
+
+
+
+
+Récompense : Boussole Ixtali (1.7)
+
+
+
+
+
+
+
+2. Vous arrivez devant les grandes portes de Rakelstake Trône. Vous entendez une voix s’adresser à vous.
+
+
+
+Hrafndra - “Qui êtes-vous ?”
+
+
+
+Vous levez la tête et observez une jeune femme accoupie sur l’extrémité de la paroie qui vous surplombe accompagnée d’un corbeau posé sur son épaule.
+
+
+
+Hrafndra - “Je sens beaucoup d’énergie provenir de votre petit groupe. Mon ami Skaldrnn (le Corbeau) n’arrive pas à voir en vous, cela lui semble assez étrange. Vos intentions sont bonnes ?”
+
+
+
+INFO MJ
+
+
+
+Hrafndra (voir PNJ) est une puissante Chamane et peut voir les visions de Skaldrn un corbeau Oracle. Il est inquiet car avec la magie des pierres (voir Pierres) les joueurs n’ont plu de destiné, et tous les Oracles y voient un mystère, comme un trou noir dès que les joueurs interviennent dans le destin des autres.
+
+
+
+
+
+- Si convaincue : vous ouvre les portes (voir Rakelstake Trône)
+
+
+
+
+
+
+
+3. Vous vous présentez devant les portes de la salle du Trône. Deux gardes vous accueillent. 
+
+
+
+- Si lié à quête :
+
+
+
+Les gardent vous ouvrent la porte. Vous entrez dans une immense pièce aussi froide que l’extérieur, seul un petit feu dans un coin semble plus être utile à éclairer qu'à chauffer la pièce. Vous passez devant un banc sur lequel semble patienter une jeune femme souriante.
+
+INFO MJ
+
+
+
+Cette femme s’appelle Nilah, elle est présente car elle sait qu’elle ont un but commun et souhaite en apprendre plus sur son prochain adversaire : Volibear. 
+
+
+
+À la table de Ashe se trouvent : Ashe / Tryndamere / Revna / Kaëlvyrr / 4 Avarosans gradés
+
+
+
+Vous arrivez jusqu'à une grande table autour de laquelle se dresse plusieurs personnes et semblent discuter entre eux. Quand vous passez, vous attisez particulièrement la curiosité de l’un d’entre eux qui semble soudainement surpris en vous voyant.
+
+-
+
+Ashe interrompt son discours.
+
+
+
+Ashe - “Désolé, ces derniers temps la troupe subit beaucoup d’agitation. Il parait que vous souhaitez me voir en personne, que me voulez-vous ?”
+
+
+
+- Si vous évoquez Isolda : 
+
+
+
+Vous voyez son visage se décomposer.
+
+
+
+Ashe - “Vous connaissez Isolda ? Elle était mon apprentie, je l'entraînais à maîtriser son don similaire au mien (Sublimée). Mais suite à une expédition au Nord elle à été capturée par la Griffe-Hivernale. Cette… Vrynna, dénué de sentiments à part la colère et l’orgueil, s’en est emparée ! Je jure que si Sejuani s’en est prise à elle, elle le paiera de sa vie. On n’a pas eu de nouvelles depuis sa disparition et plus de visite de la Griffe Hivernale depuis l’attaque de Frostheld.”
+
+-
+
+“Si votre expédition consiste à aller au Nord, alors peut être que vous pourriez faire quelque chose pour moi. Vous semblez plutôt discret, vous n’êtes pas d’ici et vos intentions sont encore inconnues. Peut-être que vous pourriez infiltrer la Griffe Hivernale. Mes hommes sont soit connus, soit trop fidèles pour échapper aux visions de son Oracle, mais vous, vous pourriez bien y arriver.“
+
+
+
+Mission : Allez vers le nord pour infiltrer la Griffe Hivernale et tenter de retrouver Isolda.
+
+
+
+Récompense : Prime Isolda (500 Or) / +1 Grade Avarosan / 
+
+
+
+En quittant la salle, Revna viens vers vous (voir quête LE PLAN DU NÉCROMANCIEN - étape 4)
+
+
+
+
+
+
+
+4. Vous avez quartier libre. Vous pouvez vous balader dans les différents quartiers de la ville. 
+
+
+
+-
+
+
+
+- Si Auberge du Permafrost (voir Aventure): 
+
+
+
+Vous vous approchez du comptoir et l’aubergiste vous dit : 
+
+Rodrun - “Mes amis, allez-y, installez-vous. Vous ne m’êtes pas familier, vous êtes nouveau dans le coin ?
+
+-
+
+Donc c’est votre première fois ici ? Alors comme le veut la tradition, c’est l’heure de votre bizutage Avarosan. Choisissez parmis une de ces boissons laquelle vous donne le plus envie - offerte par la maison bien entendu.”
+
+
+
+Il vous propose au choix parmi ces boissons quelque peu spéciales (voir 5.0). A tour de rôle vous récupérez vos boissons et en subissez les effets atypiques de chacune.
+
+-
+
+La soirée bat son plein et d’autres Avarosans vous invitent à danser, parmi eux, vous attirez l’attention de certains/certaines. 
+
+-
+
+
+
+
+
+
+
+5-1. Durant la nuit, (follower ou joueur) se réveille et voit un homme accroupi sur une commode en train de vous observer sans un bruit, les yeux exorbitant, stupéfait. Le cri de (celui qui s’est réveillé) vous réveille tous. Vous le reconnaissez, c’est l’homme qui était présent lors de votre entretien avec Ashe.
+
+-
+
+L’homme vous dit : Kaëlvyrr - “N’ayez crainte, je ne vous veut aucun mal. Veuillez me pardonner pour mon intrusion mais depuis que je vous ai croisé un peu plus tôt je suis perturbé par… vous ! Je n’ai pas osé le dire à ma cheffe de guerre par peur qu’elle réagisse mal mais… je ne vous vois pas ! Enfin plutôt votre destinée, impossible de la distinguer. Et partout où vous apparaissez dans la destinée des autres, il y a comme un trou noir. Impossible de voir ni de savoir. Il semblerait que votre destinée ne soit plus, et je n’en sais pas du tout la cause. Je ne saurais dire si cela est un mauvais présage ou non puisque justement, je n’y vois aucun présage. Mais cela peut être très mal perçu, surtout en ces terres superstitieuses. Cependant je ne pense pas que vos intentions soient mauvaises.”
+
+-
+
+
+
+INFO MJ
+
+
+
+Kaëlvyrr, l’Oracle Chamane de Ashe, ne voit pas la destinée des joueurs du au fait que la magie de la pierre le leur retire.
+
+
+
+S’il possèdent Page du Grimoir de Medjay et Sceau Noir, et qu’ils retirent la magie et la remettent dans la pierre, alors toute leur destinée apparaît soudainement aux yeux de l’Oracle en une fraction de seconde. (voir 1.L-22)
+
+
+
+
+
+Il vous parle d’un ancien mythe d’une créature : 
+
+Kaëlvyrr - “Il existe une créature capable de capter outre l’âme des gens afin d’y voir des choses que le commun des mortels ne peut voir. Elle serait originaire de Targon mais je sais de source sûre qu’il y en a une sur ces terres. Je suis sur sa piste depuis des semaines justement, mais je dois rester auprès de ma cheffe de guerre et elle est préoccupée par autre chose en ce moment. Vous qui allez justement au Nord, peut-être que vous pourriez m’aider.”
+
+Il vous donne une Pierre Runique Neutre Avancée chargé d’une magie qui marquera la bête pour qu’il puisse la retrouver plus tard et communiquer avec elle. 
+
+
+
+
+
+
+
+5-2. Du
+
+
+
+
+
+
+
+
+
+6. Vous retrouvez aux aurores Revna et sa troupe devant les portes de la ville prêt à décamper.
+
+
+
+INFO MJ
+
+
+
+Revna fait le traver avec une 10aines de ses hommes à travers la Forêt d’Yrrgovid afin de vous y escorter mais également de délivrer un message au passage.Elle enverra un homme déposer discrètement un message (et le Grimoire Oknuün si elle l’a en sa possession) à la Maison de Bjëve disant qu’elle à trouvé une équipe qui souhaites participer au plan contre Ott (voir quêtes Les Manigances d’Odvïr - étape ?).
+
+
+
+
+
+Vous reprenez votre route, vous marchez quelques heures.
+
+- Interaction au choix du MJ
+
+Vous êtes suffisamment proche de Rakelstale Village (voir Doc).
+
+
+
+Une fois entré, Revna vous laisse quelque jours pour que vous fassiez vos preuves en aidant les villageois en tant qu’Avarosan. Elle vous dirige vers le Tableau des Quêtes pour y trouver des missions que vous pourriez faire. 
+
+
+
+
+
+
+
+Fin

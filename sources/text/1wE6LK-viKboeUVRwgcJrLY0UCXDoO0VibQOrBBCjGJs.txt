@@ -1,0 +1,112 @@
+
+
+
+Le lexique vous sera d’une grande utilité pour lire et comprendre les Règles et le Doc Aventure.
+
+
+
+
+
+Style et Scénario :
+
+Info ou Personnage : Secret (Inconnu des gens, voir de la personne concerné).
+
+Info : Green Flag. Permet une très bonne interaction avec la personne.
+
+Info : Relation ou penchant.
+
+! Info ! : Trigger Warning, avertissement au contenu potentiellement sensible pour les joueurs.
+
+Personnage : Personne qui peut également être présente selon l’heure ou la volonté du MJ.
+
+Personnage : Familiers.
+
+“QUÊTE” : Se référer à la quête.
+
+[Quête] : Ce sont les différentes possibilités pour engager ou finir une quête. si Gras = Fin.
+
+(Attribut) : Nécessite un jet réussi pour que cela marche (proposé par vous ou vos joueurs).
+
+Italique : L’italique est souvent utilisé pour suggérer ou rappeler au MJ des infos HRP. Il peut également citer le dialogue d’un personnage.
+
+- ou Sauter à la ligne : Permet aux joueurs de discuter et marquer un temps (“Que faites-vous ?”).
+
+
+
+
+
+
+
+Acronyme : 
+
+MJ : Maître de Jeu AOE : Dégâts de Zone (Area Of Effect - Zone d’effet)
+
+Pts : PointsLvl (ou lvl) : Level (Niveau)u : UnitéR : Ultimate (Compétence Ultime)PNJ : Personnage non JoueurIRL : Hors du jeu, Situation réelle (Définition de In Real Life)RP : Dans le jeu, en immersion (Définition de Role Play)HRP : Désir du joueur hors du jeu (Définition de Hors Role Play)
+
+Buff / Boost : Amélioration ou RenforcementTank : Basé sur les Résistances (ARM - RM - PV)
+
+/j - /h - /min : Par jours - heures - minutes
+
+
+
+
+
+
+
+Statistiques : 
+
+PV : Points de vie
+
+PV de Base : Points de vie Native du personnage
+
+PV Total : Points de vie cumulés avec l’équipement et autres bonus.
+
+ARM : Armure
+
+RM : Résistance Magique
+
+DP : Dégâts Physiques
+
+DM : Dégâts Magique
+
+PP : Pénétration PhysiquePM : Pénétration Magique
+
+PA : Pénétration Adaptative
+
+DB : Dégâts Bruts (tape directement dans les PV de Base) 
+
+IPV : Item PV
+
+IPVG : Item PV Global
+
+Or-Arg : Or et Argent 
+
+≤ 5 : Réussite Critique
+
+> 95 : Échec critique  /
+
+
+
+A noter : Si un personnage n’a pas de statistique, c’est qu’il n’est pas combatif (stats de base : entre 40 et 60 PV).
+
+
+
+
+
+
+
+Classement : 
+
+Qualité Item et Objets : Usé-Cassé / Moyen / Bon / Excellent / Parfait / Légendaire
+
+Niveau de Métiers PNJ : B = Lvl 1 (Débutant) / R = Lvl 2 (Avancé) / O = Lvl 3 (Expérimenté / L = Légendaire. (Niveau - Attribut). Exemple : (O-80) = Orange (Métier Lvl 3) et ≤ 80 pour réussir.
+
+Taille et Puissance : P = Petit / M = Moyen / G = Grand / L = Légendaire.
+
+
+
+
+
+
+
+

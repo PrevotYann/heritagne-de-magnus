@@ -1,0 +1,41 @@
+{
+  "label": "Magnus — Ambiances",
+  "mapping": {
+    "name": {
+      "path": "name",
+      "converter": "magnus-text"
+    },
+    "sounds": {
+      "path": "sounds",
+      "converter": "magnus-tree"
+    }
+  },
+  "entries": {
+    "24be006348808b3d": {
+      "name": "Magnus — Ambiances locales",
+      "sounds": {
+        "948395e51520b129": {
+          "name": "THÈME - GUÜRDARL"
+        },
+        "6a240a20e26c46ff": {
+          "name": "THÈME - FAILLE DE BORRVOK"
+        },
+        "bb4fd5b7632e750b": {
+          "name": "THÈME - VATHCAER"
+        },
+        "0c3751df1fa5f6f7": {
+          "name": "COMBAT - OTT V1"
+        },
+        "f74954f436b1e180": {
+          "name": "COMBAT - OTT V2"
+        },
+        "e34ea17a99de51d1": {
+          "name": "TAVERNE - SKYRIM GROUPE"
+        },
+        "eb045111bb34bb35": {
+          "name": "TAVERNE - SKYRIM TAMTAM"
+        }
+      }
+    }
+  }
+}

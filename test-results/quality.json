@@ -1,0 +1,28 @@
+{
+  "version": "14.368",
+  "checks": [
+    "Exact fresh import: actors",
+    "Exact fresh import: items",
+    "Exact fresh import: journal",
+    "Exact fresh import: scenes",
+    "Exact fresh import: tables",
+    "Exact fresh import: playlists",
+    "Exact fresh import: macros",
+    "Actors private to players",
+    "Scenario and clues private; menus and announcements public",
+    "All source packs private",
+    "Campaign UUID links resolve after import: ",
+    "Native brut damage",
+    "Green flame: native 5 DB per round",
+    "Green flame ends explicitly",
+    "Gas: 2 PV/min then 4 at sixth minute",
+    "Ghoul Limbes variant uses native brut components",
+    "Ott phases use stable flags",
+    "Grimoire has twelve complete spells",
+    "Tactical canvas rendered",
+    "Laboratory: walls, doors, lights, linked hidden token"
+  ],
+  "links": 549,
+  "missing": [],
+  "errors": []
+}

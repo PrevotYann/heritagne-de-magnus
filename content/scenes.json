@@ -1,0 +1,4718 @@
+{
+  "documents": [
+    {
+      "_id": "9481ef296d1fc1c6",
+      "name": "Guürdarl",
+      "navName": "Guürdarl",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1z1FsgaXcfarVmTkhcQb9mDw4yw2BO1hL.webp"
+      },
+      "width": 9600,
+      "height": 4019,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "km"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "0b7cfa06566e7e10",
+      "notes": [
+        {
+          "_id": "6e2097b7a726d8e5",
+          "entryId": "0b7cfa06566e7e10",
+          "pageId": "72ff5aa06af080c2",
+          "x": 480,
+          "y": 201,
+          "text": "01 — 01. GUÜRDARL",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1z1FsgaXcfarVmTkhcQb9mDw4yw2BO1hL",
+          "key": "scene:1z1FsgaXcfarVmTkhcQb9mDw4yw2BO1hL",
+          "contentVersion": "0.1.0",
+          "kind": "regional"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d",
+      "playlist": "24be006348808b3d",
+      "playlistSound": "948395e51520b129"
+    },
+    {
+      "_id": "0906481998126bd4",
+      "name": "Frostheld",
+      "navName": "Frostheld",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1eZjabyhf-tVdJRG4WaPgEVGg8gloH9fN.webp"
+      },
+      "width": 12906,
+      "height": 5400,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "km"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "1f71d23a596dc81b",
+      "notes": [
+        {
+          "_id": "5e8aa7ecf43d8deb",
+          "entryId": "1f71d23a596dc81b",
+          "pageId": "5a7283f456f0c674",
+          "x": 645,
+          "y": 270,
+          "text": "02 — 02. FROSTHELD",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1eZjabyhf-tVdJRG4WaPgEVGg8gloH9fN",
+          "key": "scene:1eZjabyhf-tVdJRG4WaPgEVGg8gloH9fN",
+          "contentVersion": "0.1.0",
+          "kind": "regional"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "ba07c5e7d4534a22",
+      "name": "Creux-de-Valar",
+      "navName": "Creux-de-Valar",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1781w_zckIopTssqDDJHHnjUdhYDc3TAU.webp"
+      },
+      "width": 9600,
+      "height": 4019,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "km"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "8a1482cd7d54c18c",
+      "notes": [
+        {
+          "_id": "ed4239bd95edf101",
+          "entryId": "8a1482cd7d54c18c",
+          "pageId": "83f4bfebd4a02f1a",
+          "x": 480,
+          "y": 201,
+          "text": "03 — 02. CREUX DE VALAR",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1781w_zckIopTssqDDJHHnjUdhYDc3TAU",
+          "key": "scene:1781w_zckIopTssqDDJHHnjUdhYDc3TAU",
+          "contentVersion": "0.1.0",
+          "kind": "regional"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "48ffed45222b1ea7",
+      "name": "Fyord’al Kürgen",
+      "navName": "Fyord’al Kürgen",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1vPD61tRZKUo3QkRlpmvK5vnxH0kiCOWW.webp"
+      },
+      "width": 12906,
+      "height": 5400,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "km"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "9cefd1f5b37ddfb2",
+      "notes": [
+        {
+          "_id": "14dfe64e39e96f23",
+          "entryId": "9cefd1f5b37ddfb2",
+          "pageId": "3a94fbede07e65c4",
+          "x": 645,
+          "y": 270,
+          "text": "07 — 04. FYORD’AL KÜRGEN",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1vPD61tRZKUo3QkRlpmvK5vnxH0kiCOWW",
+          "key": "scene:1vPD61tRZKUo3QkRlpmvK5vnxH0kiCOWW",
+          "contentVersion": "0.1.0",
+          "kind": "regional"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "c11694412b142dba",
+      "name": "Rakelstake",
+      "navName": "Rakelstake",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/12e_mx-mfEwOoERC9CIoAnzwfKRjoV3XH.webp"
+      },
+      "width": 9600,
+      "height": 4019,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "km"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "5bb2cb6bb2c08606",
+      "notes": [
+        {
+          "_id": "1165468f8da9fd5a",
+          "entryId": "5bb2cb6bb2c08606",
+          "pageId": "e7b4e3e3b0c99f66",
+          "x": 480,
+          "y": 201,
+          "text": "08 — 05. RAKELSTAKE",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "12e_mx-mfEwOoERC9CIoAnzwfKRjoV3XH",
+          "key": "scene:12e_mx-mfEwOoERC9CIoAnzwfKRjoV3XH",
+          "contentVersion": "0.1.0",
+          "kind": "regional"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "8d57866a61738647",
+      "name": "Freljord — Carte régionale",
+      "navName": "Freljord — Carte régionale",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1wHmgFjCQj2pwxgpRYdJQqtdq6GlgD4kI.webp"
+      },
+      "width": 2562,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "km"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "477b4ad1240c8344",
+      "notes": [
+        {
+          "_id": "c81352d486853771",
+          "entryId": "477b4ad1240c8344",
+          "pageId": "dfe54381e9fc8577",
+          "x": 128,
+          "y": 72,
+          "text": "14 — FRELJORD SUD/EST/CENTRE",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1wHmgFjCQj2pwxgpRYdJQqtdq6GlgD4kI",
+          "key": "scene:1wHmgFjCQj2pwxgpRYdJQqtdq6GlgD4kI",
+          "contentVersion": "0.1.0",
+          "kind": "regional"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "a4c85f1ae761ea84",
+      "name": "Taverne de Jarnot",
+      "navName": "Taverne de Jarnot",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1MWUnnmfu_-UjCzOeH6WsTO657WC75C3m.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "1f8608efe6f056e9",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1MWUnnmfu_-UjCzOeH6WsTO657WC75C3m",
+          "key": "scene:1MWUnnmfu_-UjCzOeH6WsTO657WC75C3m",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "63db5a7d9aa94289",
+      "name": "Place du Marché",
+      "navName": "Place du Marché",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1yZfA6JkFrpWXE_OyKToZ7I6IbkIRrDVO.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "a1f64e307bad675d",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1yZfA6JkFrpWXE_OyKToZ7I6IbkIRrDVO",
+          "key": "scene:1yZfA6JkFrpWXE_OyKToZ7I6IbkIRrDVO",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "fe5fe138a96a62e5",
+      "name": "Port de Guürdarl",
+      "navName": "Port de Guürdarl",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1w-s_6pM6NvSz6c_7oVbQQLSysb6VYhBO.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "32cb66484934d800",
+      "notes": [
+        {
+          "_id": "b2fb039da4371115",
+          "entryId": "32cb66484934d800",
+          "pageId": "b564009c1881b92c",
+          "x": 128,
+          "y": 72,
+          "text": "05 — 02.1. PORT DE RYGANN",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1w-s_6pM6NvSz6c_7oVbQQLSysb6VYhBO",
+          "key": "scene:1w-s_6pM6NvSz6c_7oVbQQLSysb6VYhBO",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d",
+      "playlist": "24be006348808b3d",
+      "playlistSound": "948395e51520b129"
+    },
+    {
+      "_id": "b02ddeca7e1a7e58",
+      "name": "Almar Quincaillerie",
+      "navName": "Almar Quincaillerie",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1GDXvOvAdoUNDB4sepA6riZLOSFNgx2nf.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "d8b76ea90e8a4824",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1GDXvOvAdoUNDB4sepA6riZLOSFNgx2nf",
+          "key": "scene:1GDXvOvAdoUNDB4sepA6riZLOSFNgx2nf",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "7c33c64a65f47615",
+      "name": "Maison de Magnus",
+      "navName": "Maison de Magnus",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/11UlL4brgHFAyOt2v7FZUPFTa-w2EKPxS.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "00169d1a06cb120a",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "11UlL4brgHFAyOt2v7FZUPFTa-w2EKPxS",
+          "key": "scene:11UlL4brgHFAyOt2v7FZUPFTa-w2EKPxS",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "8cb894148057befe",
+      "name": "02. FROSTHELD",
+      "navName": "02. FROSTHELD",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1yIO-ukOexldGL6uzfozjSWm1rndLSWjB.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "1f71d23a596dc81b",
+      "notes": [
+        {
+          "_id": "38613c0de3a8cb7b",
+          "entryId": "1f71d23a596dc81b",
+          "pageId": "5a7283f456f0c674",
+          "x": 128,
+          "y": 72,
+          "text": "02 — 02. FROSTHELD",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1yIO-ukOexldGL6uzfozjSWm1rndLSWjB",
+          "key": "scene:1yIO-ukOexldGL6uzfozjSWm1rndLSWjB",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "14a4fddf5f45b58d",
+      "name": "L’Auberge du Typhon",
+      "navName": "L’Auberge du Typhon",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1HdzPEAjILGzbNfSqJY8sDTR5jfcP_nBN.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "0b7cfa06566e7e10",
+      "notes": [
+        {
+          "_id": "116efac6a6b71730",
+          "entryId": "0b7cfa06566e7e10",
+          "pageId": "72ff5aa06af080c2",
+          "x": 128,
+          "y": 72,
+          "text": "01 — 01. GUÜRDARL",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1HdzPEAjILGzbNfSqJY8sDTR5jfcP_nBN",
+          "key": "scene:1HdzPEAjILGzbNfSqJY8sDTR5jfcP_nBN",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "423caeb6c11158cd",
+      "name": "Port de Frostheld",
+      "navName": "Port de Frostheld",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1y_7pJHU0_Jna2331UZoP2rwQW09eZq1E.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "32cb66484934d800",
+      "notes": [
+        {
+          "_id": "0f9bf5d643014499",
+          "entryId": "32cb66484934d800",
+          "pageId": "b564009c1881b92c",
+          "x": 128,
+          "y": 72,
+          "text": "05 — 02.1. PORT DE RYGANN",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1y_7pJHU0_Jna2331UZoP2rwQW09eZq1E",
+          "key": "scene:1y_7pJHU0_Jna2331UZoP2rwQW09eZq1E",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "da0a07b9beccb8a7",
+      "name": "[REPAS DU COURONNEMENT]",
+      "navName": "[REPAS DU COURONNEMENT]",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1yh6wGNrwpxQgxqxOR5gGeiPbfGXzp7Wg.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "314f5d4be40bddd7",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1yh6wGNrwpxQgxqxOR5gGeiPbfGXzp7Wg",
+          "key": "scene:1yh6wGNrwpxQgxqxOR5gGeiPbfGXzp7Wg",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "66538d968f8fe7b3",
+      "name": "2. Le Couronne Ambulant II - Grand Bateau General Demacia :  (Intérieur)",
+      "navName": "2. Le Couronne Ambulant II - Grand Bateau General Demacia :  (Intérieur)",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/16SUIZQ-C7VvKlKNQObHv53ipB_HlW3BR.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "1f71d23a596dc81b",
+      "notes": [
+        {
+          "_id": "f6e885b24bb8f8aa",
+          "entryId": "1f71d23a596dc81b",
+          "pageId": "5a7283f456f0c674",
+          "x": 128,
+          "y": 72,
+          "text": "02 — 02. FROSTHELD",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "16SUIZQ-C7VvKlKNQObHv53ipB_HlW3BR",
+          "key": "scene:16SUIZQ-C7VvKlKNQObHv53ipB_HlW3BR",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "56ce7f4ec95d22e8",
+      "name": "3. Savorin Maru - Bateau Marchand Ionia (Moyen) Cachette de Kaïrr",
+      "navName": "3. Savorin Maru - Bateau Marchand Ionia (Moyen) Cachette de Kaïrr",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/13pBMNhSZ_92wg1A-b8Q4RSkLTabsN6LT.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "8a1482cd7d54c18c",
+      "notes": [
+        {
+          "_id": "a413e9e2e8372549",
+          "entryId": "8a1482cd7d54c18c",
+          "pageId": "83f4bfebd4a02f1a",
+          "x": 128,
+          "y": 72,
+          "text": "03 — 02. CREUX DE VALAR",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "13pBMNhSZ_92wg1A-b8Q4RSkLTabsN6LT",
+          "key": "scene:13pBMNhSZ_92wg1A-b8Q4RSkLTabsN6LT",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "1dd42176a3bb50c6",
+      "name": "Jocbar Animalerie",
+      "navName": "Jocbar Animalerie",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1zCbZ7o4xBDv6sN4-g1TFgKTRWX8q92ik.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "039b7c9dc0029f46",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1zCbZ7o4xBDv6sN4-g1TFgKTRWX8q92ik",
+          "key": "scene:1zCbZ7o4xBDv6sN4-g1TFgKTRWX8q92ik",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "d49c14039f9049f6",
+      "name": "Cathédrale d’Anivia",
+      "navName": "Cathédrale d’Anivia",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/18jbd5xNflLpkvo9Se_gIk-wWUWF8NgZu.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "27f144448faea149",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "18jbd5xNflLpkvo9Se_gIk-wWUWF8NgZu",
+          "key": "scene:18jbd5xNflLpkvo9Se_gIk-wWUWF8NgZu",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "4e63d32999fc5a96",
+      "name": "Salle du Conseil de Frostheld",
+      "navName": "Salle du Conseil de Frostheld",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1zfEOFBfXXyijXVD8tJUeRE0MfI3Koaw-.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "85bd0a118ab1242e",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1zfEOFBfXXyijXVD8tJUeRE0MfI3Koaw-",
+          "key": "scene:1zfEOFBfXXyijXVD8tJUeRE0MfI3Koaw-",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "f4a1eb6ff17df035",
+      "name": "Grand Marché Frostheld",
+      "navName": "Grand Marché Frostheld",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1MqyzJPOT9cX_JMRmqJmhQjSY8s4pVAXw.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "e12e098169f2feb8",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1MqyzJPOT9cX_JMRmqJmhQjSY8s4pVAXw",
+          "key": "scene:1MqyzJPOT9cX_JMRmqJmhQjSY8s4pVAXw",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "56fdc91b6b7fc424",
+      "name": "- PLAINES DORÉES -",
+      "navName": "- PLAINES DORÉES -",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1zt_fx6b5Np_kMBe7AeHvN67PI_KiuotC.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "883217d9bddef8d2",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1zt_fx6b5Np_kMBe7AeHvN67PI_KiuotC",
+          "key": "scene:1zt_fx6b5Np_kMBe7AeHvN67PI_KiuotC",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "b60c6a68e42c555d",
+      "name": "MUSIQUE",
+      "navName": "MUSIQUE",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1Gd7BKFPmN9y2o2Fy5FYHcAZl3-pdoKUo.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "3959d90c7c720c33",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1Gd7BKFPmN9y2o2Fy5FYHcAZl3-pdoKUo",
+          "key": "scene:1Gd7BKFPmN9y2o2Fy5FYHcAZl3-pdoKUo",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "09bcc2233c6ef73e",
+      "name": "Repère d’Odvïr",
+      "navName": "Repère d’Odvïr",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1DFLZSu_WSymTiIBrxjgpa3ptHQ41ZJiF.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "fcbe093a02c0a925",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1DFLZSu_WSymTiIBrxjgpa3ptHQ41ZJiF",
+          "key": "scene:1DFLZSu_WSymTiIBrxjgpa3ptHQ41ZJiF",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "54ce443f7ae93331",
+      "name": "- Entrée Nord-Est (Quartier Privé)",
+      "navName": "- Entrée Nord-Est (Quartier Privé)",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1lJ3tkgccNV22GeOcGxlNFatlbbzOmrrx.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "1a2f68d2231925d0",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1lJ3tkgccNV22GeOcGxlNFatlbbzOmrrx",
+          "key": "scene:1lJ3tkgccNV22GeOcGxlNFatlbbzOmrrx",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "9b2eb93a39aea3d3",
+      "name": "02. CREUX DE VALAR",
+      "navName": "02. CREUX DE VALAR",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1w56IyAKyZ1MFIS4hXbHPXxYh5HOr1c2E.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "1f71d23a596dc81b",
+      "notes": [
+        {
+          "_id": "15017fc2f33273ca",
+          "entryId": "1f71d23a596dc81b",
+          "pageId": "5a7283f456f0c674",
+          "x": 128,
+          "y": 72,
+          "text": "02 — 02. FROSTHELD",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1w56IyAKyZ1MFIS4hXbHPXxYh5HOr1c2E",
+          "key": "scene:1w56IyAKyZ1MFIS4hXbHPXxYh5HOr1c2E",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "5688b477f78ab6fe",
+      "name": "Au Bribucq Bourré",
+      "navName": "Au Bribucq Bourré",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1GqBqv9mwDYsPj_pYgEPlGRRfzazhBmnB.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "f3b93c733c38bf34",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1GqBqv9mwDYsPj_pYgEPlGRRfzazhBmnB",
+          "key": "scene:1GqBqv9mwDYsPj_pYgEPlGRRfzazhBmnB",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "5ad6608b3b7477da",
+      "name": "Galdraläg - Guilde des Musiciens",
+      "navName": "Galdraläg - Guilde des Musiciens",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1RHj7T86wVIDuTwTBVXL5tK4j16_Cz2CU.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "368e604ed12d5451",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1RHj7T86wVIDuTwTBVXL5tK4j16_Cz2CU",
+          "key": "scene:1RHj7T86wVIDuTwTBVXL5tK4j16_Cz2CU",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "0598e67aec529169",
+      "name": "Palais du Roi Algar",
+      "navName": "Palais du Roi Algar",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1EfV2RrGJdeog9XgXpVPuG0hg4iglVoNT.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "564325c35d5fca95",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1EfV2RrGJdeog9XgXpVPuG0hg4iglVoNT",
+          "key": "scene:1EfV2RrGJdeog9XgXpVPuG0hg4iglVoNT",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "b96f498629e3af12",
+      "name": "[BAL D’ALGAR]",
+      "navName": "[BAL D’ALGAR]",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1HFo6F3VRK42Ki0VGVH0wEWAARAa2Jw5-.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "03643e2fce31675b",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1HFo6F3VRK42Ki0VGVH0wEWAARAa2Jw5-",
+          "key": "scene:1HFo6F3VRK42Ki0VGVH0wEWAARAa2Jw5-",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "169da1181c4631ad",
+      "name": "03. CHAÎNES D’ODMÜND",
+      "navName": "03. CHAÎNES D’ODMÜND",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1G1kVV2oJR78bFuSLClSWDaWiaLLBVJ8F.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "8a1482cd7d54c18c",
+      "notes": [
+        {
+          "_id": "d2b1515b7ee0b113",
+          "entryId": "8a1482cd7d54c18c",
+          "pageId": "83f4bfebd4a02f1a",
+          "x": 128,
+          "y": 72,
+          "text": "03 — 02. CREUX DE VALAR",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1G1kVV2oJR78bFuSLClSWDaWiaLLBVJ8F",
+          "key": "scene:1G1kVV2oJR78bFuSLClSWDaWiaLLBVJ8F",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "37fce61b8895ce06",
+      "name": "Maison de Fortune (Mage)",
+      "navName": "Maison de Fortune (Mage)",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1AyPWxSledNFgc2k5qKAMDYgfC8gIJ4Li.webp"
+      },
+      "width": 2784,
+      "height": 2784,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "26f5825212999e24",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 139,
+          "y": 139,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1AyPWxSledNFgc2k5qKAMDYgfC8gIJ4Li",
+          "key": "scene:1AyPWxSledNFgc2k5qKAMDYgfC8gIJ4Li",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "e4c273ac68ae64cb",
+      "name": "04. FAILLE DE BORRVÖK",
+      "navName": "04. FAILLE DE BORRVÖK",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/105D6J8438rD5h6mwCxFdnkkBo2WV8qI8.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "c303462142d0e442",
+      "notes": [
+        {
+          "_id": "317146c870d865fb",
+          "entryId": "c303462142d0e442",
+          "pageId": "7c608eae739a54f1",
+          "x": 128,
+          "y": 72,
+          "text": "04 — 03. CHAÎNES D’ODMÜND",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "105D6J8438rD5h6mwCxFdnkkBo2WV8qI8",
+          "key": "scene:105D6J8438rD5h6mwCxFdnkkBo2WV8qI8",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "1dd872596581f603",
+      "name": "- BORRVÖK’VAEL -",
+      "navName": "- BORRVÖK’VAEL -",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1OHT4mhSlHTkrwupYY3lHRHNG5LL47AFK.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "f2cc409803aa6806",
+      "notes": [
+        {
+          "_id": "1d22372c40d9f45b",
+          "entryId": "f2cc409803aa6806",
+          "pageId": "90c6c4f2be398899",
+          "x": 128,
+          "y": 72,
+          "text": "06 — 04. FAILLE DE BORRVÖK",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1OHT4mhSlHTkrwupYY3lHRHNG5LL47AFK",
+          "key": "scene:1OHT4mhSlHTkrwupYY3lHRHNG5LL47AFK",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "3dea819bfe721f43",
+      "name": "L’Entre du Mouflon",
+      "navName": "L’Entre du Mouflon",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1QYr7Cd3mlpoYnMZ_IpINPZHbYRinVVyT.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "0b7cfa06566e7e10",
+      "notes": [
+        {
+          "_id": "984ff4e3a47d10c0",
+          "entryId": "0b7cfa06566e7e10",
+          "pageId": "72ff5aa06af080c2",
+          "x": 128,
+          "y": 72,
+          "text": "01 — 01. GUÜRDARL",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1QYr7Cd3mlpoYnMZ_IpINPZHbYRinVVyT",
+          "key": "scene:1QYr7Cd3mlpoYnMZ_IpINPZHbYRinVVyT",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "61732f93fea218a4",
+      "name": "Tour de L’assemblée",
+      "navName": "Tour de L’assemblée",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1Jy_834QFIRIAbdY-HJKJeYGxFLMcKsla.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "2ca93b3cfba2285a",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1Jy_834QFIRIAbdY-HJKJeYGxFLMcKsla",
+          "key": "scene:1Jy_834QFIRIAbdY-HJKJeYGxFLMcKsla",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "05fef75eee7ad803",
+      "name": "- Balcon des Sublimés",
+      "navName": "- Balcon des Sublimés",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/17PsvH3CQMQW7wvmQ0ZcVAyjmmqS5jBe4.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "5366842e5e966561",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "17PsvH3CQMQW7wvmQ0ZcVAyjmmqS5jBe4",
+          "key": "scene:17PsvH3CQMQW7wvmQ0ZcVAyjmmqS5jBe4",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "ce01e15a82835129",
+      "name": "05. RAKELSTAKE",
+      "navName": "05. RAKELSTAKE",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1e_ciIiQkBfMNAb4lpTuvz8BQvgfFYOpF.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "32cb66484934d800",
+      "notes": [
+        {
+          "_id": "1ab50a381dfb171f",
+          "entryId": "32cb66484934d800",
+          "pageId": "b564009c1881b92c",
+          "x": 128,
+          "y": 72,
+          "text": "05 — 02.1. PORT DE RYGANN",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1e_ciIiQkBfMNAb4lpTuvz8BQvgfFYOpF",
+          "key": "scene:1e_ciIiQkBfMNAb4lpTuvz8BQvgfFYOpF",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "665aa93d2d952575",
+      "name": "- FORÊT D’YRRGOVID -",
+      "navName": "- FORÊT D’YRRGOVID -",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1ZsisfgPDkpsECPrLTqKPnsOtWDDYEleK.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "673c1791012179f7",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1ZsisfgPDkpsECPrLTqKPnsOtWDDYEleK",
+          "key": "scene:1ZsisfgPDkpsECPrLTqKPnsOtWDDYEleK",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "2ff52821841ad6f8",
+      "name": "- RAKELSTAKE TRÔNE -",
+      "navName": "- RAKELSTAKE TRÔNE -",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1PETUjVybBdvrTvaHGSB-4YjeIOmG13g7.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "5bb2cb6bb2c08606",
+      "notes": [
+        {
+          "_id": "8cdf21d09db31bd2",
+          "entryId": "5bb2cb6bb2c08606",
+          "pageId": "e7b4e3e3b0c99f66",
+          "x": 128,
+          "y": 72,
+          "text": "08 — 05. RAKELSTAKE",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1PETUjVybBdvrTvaHGSB-4YjeIOmG13g7",
+          "key": "scene:1PETUjVybBdvrTvaHGSB-4YjeIOmG13g7",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "f8d2a0590829bba1",
+      "name": "Allée Centrale",
+      "navName": "Allée Centrale",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1LlXzu7gDYmBZVdzea69cRRgRLcLw9zV1.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "dca33dfd4c19b632",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1LlXzu7gDYmBZVdzea69cRRgRLcLw9zV1",
+          "key": "scene:1LlXzu7gDYmBZVdzea69cRRgRLcLw9zV1",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "6e063025bff392cc",
+      "name": "Quartier Camps Avarosan",
+      "navName": "Quartier Camps Avarosan",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1cakcoutJsOzUIAyH2vR5ThpQIbJM6hSu.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "dc9c879aee8bfa97",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1cakcoutJsOzUIAyH2vR5ThpQIbJM6hSu",
+          "key": "scene:1cakcoutJsOzUIAyH2vR5ThpQIbJM6hSu",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "eb8d8e26766979b5",
+      "name": "Quartier du Troc",
+      "navName": "Quartier du Troc",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1NiqsAge5_SfKwKtVZqNWoaVwYUKrcJEy.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "b12841a859398043",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1NiqsAge5_SfKwKtVZqNWoaVwYUKrcJEy",
+          "key": "scene:1NiqsAge5_SfKwKtVZqNWoaVwYUKrcJEy",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "73d4a73cb1c55f7f",
+      "name": "Auberge Le PermaFrost",
+      "navName": "Auberge Le PermaFrost",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1NmaGtNqqr5ZwoE6thFGnHzrIX60E4jE0.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "aad44f09c18a7dab",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1NmaGtNqqr5ZwoE6thFGnHzrIX60E4jE0",
+          "key": "scene:1NmaGtNqqr5ZwoE6thFGnHzrIX60E4jE0",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "57cbfdb347034af1",
+      "name": "Le Temple des Sublimés",
+      "navName": "Le Temple des Sublimés",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1HBTHwdDFT8hZpmSxjMOqoFikzqK9vvLv.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "f2cc409803aa6806",
+      "notes": [
+        {
+          "_id": "951795e4bf765738",
+          "entryId": "f2cc409803aa6806",
+          "pageId": "90c6c4f2be398899",
+          "x": 128,
+          "y": 72,
+          "text": "06 — 04. FAILLE DE BORRVÖK",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1HBTHwdDFT8hZpmSxjMOqoFikzqK9vvLv",
+          "key": "scene:1HBTHwdDFT8hZpmSxjMOqoFikzqK9vvLv",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "d96b1640b6e08a5d",
+      "name": "La Salle du Trône",
+      "navName": "La Salle du Trône",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1dyFCl0ETS2N5RiMdHGF-LFJHtqeuN5sU.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "8a1482cd7d54c18c",
+      "notes": [
+        {
+          "_id": "6052ca37eaa99c4d",
+          "entryId": "8a1482cd7d54c18c",
+          "pageId": "83f4bfebd4a02f1a",
+          "x": 128,
+          "y": 72,
+          "text": "03 — 02. CREUX DE VALAR",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1dyFCl0ETS2N5RiMdHGF-LFJHtqeuN5sU",
+          "key": "scene:1dyFCl0ETS2N5RiMdHGF-LFJHtqeuN5sU",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "47656b1c37fbd443",
+      "name": "- RAKELSTAKE VILLAGE -",
+      "navName": "- RAKELSTAKE VILLAGE -",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1HHiaLisB2hLsuBXh0k3g2EcJLeqvdXXD.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "5bb2cb6bb2c08606",
+      "notes": [
+        {
+          "_id": "408a37bc66d81411",
+          "entryId": "5bb2cb6bb2c08606",
+          "pageId": "e7b4e3e3b0c99f66",
+          "x": 128,
+          "y": 72,
+          "text": "08 — 05. RAKELSTAKE",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1HHiaLisB2hLsuBXh0k3g2EcJLeqvdXXD",
+          "key": "scene:1HHiaLisB2hLsuBXh0k3g2EcJLeqvdXXD",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "0388012dde32035d",
+      "name": "Auberge la Chouette Éméchée",
+      "navName": "Auberge la Chouette Éméchée",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1AH4KOUBo5JjXguIJ763_4gngYxu0nX7I.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "f508e968fc2dc088",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1AH4KOUBo5JjXguIJ763_4gngYxu0nX7I",
+          "key": "scene:1AH4KOUBo5JjXguIJ763_4gngYxu0nX7I",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "9db1d8a66d96feee",
+      "name": "F&K Forge",
+      "navName": "F&K Forge",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1sNm5-WQp6NqF7LOiXOlisI73zbcDK3Qm.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "1f71d23a596dc81b",
+      "notes": [
+        {
+          "_id": "a0db89c690327b6c",
+          "entryId": "1f71d23a596dc81b",
+          "pageId": "5a7283f456f0c674",
+          "x": 128,
+          "y": 72,
+          "text": "02 — 02. FROSTHELD",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1sNm5-WQp6NqF7LOiXOlisI73zbcDK3Qm",
+          "key": "scene:1sNm5-WQp6NqF7LOiXOlisI73zbcDK3Qm",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "851621106c9685a7",
+      "name": "OLBUKRN",
+      "navName": "OLBUKRN",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1fn8sOYyaDLwLTJ97jbHUSFuG4_y0UsNp.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "953d9528df280b97",
+      "notes": [
+        {
+          "_id": "1c58162b8ace977a",
+          "entryId": "953d9528df280b97",
+          "pageId": "4649d827836d503e",
+          "x": 128,
+          "y": 72,
+          "text": "09 — OLBUKRN",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1fn8sOYyaDLwLTJ97jbHUSFuG4_y0UsNp",
+          "key": "scene:1fn8sOYyaDLwLTJ97jbHUSFuG4_y0UsNp",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "7c5920979b24e58e",
+      "name": "Tribue des Skjaldar (OLGA)",
+      "navName": "Tribue des Skjaldar (OLGA)",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1A_zYInwM0adYVUziHoRp7xrpphhFJWl8.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "f2bbafa34485505a",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1A_zYInwM0adYVUziHoRp7xrpphhFJWl8",
+          "key": "scene:1A_zYInwM0adYVUziHoRp7xrpphhFJWl8",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "817c0439c6249cbb",
+      "name": "La Grotte de Glaserport (Moyenne)",
+      "navName": "La Grotte de Glaserport (Moyenne)",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/17Iy4YiIMKJ_8FJFyY84aFXUQMK5vqCj9.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "8a1482cd7d54c18c",
+      "notes": [
+        {
+          "_id": "d393d298f717df03",
+          "entryId": "8a1482cd7d54c18c",
+          "pageId": "83f4bfebd4a02f1a",
+          "x": 128,
+          "y": 72,
+          "text": "03 — 02. CREUX DE VALAR",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "17Iy4YiIMKJ_8FJFyY84aFXUQMK5vqCj9",
+          "key": "scene:17Iy4YiIMKJ_8FJFyY84aFXUQMK5vqCj9",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "1fbac89d211ce161",
+      "name": "GLASERPORT",
+      "navName": "GLASERPORT",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1A46tDHF7xaH0LnTqMmRyCp9UlmxSlSXN.webp"
+      },
+      "width": 2562,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "4d4fc75da6946377",
+      "notes": [
+        {
+          "_id": "522a50bd8bbd49a7",
+          "entryId": "4d4fc75da6946377",
+          "pageId": "a965afd0269ea386",
+          "x": 128,
+          "y": 72,
+          "text": "10 — GLASERPORT",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1A46tDHF7xaH0LnTqMmRyCp9UlmxSlSXN",
+          "key": "scene:1A46tDHF7xaH0LnTqMmRyCp9UlmxSlSXN",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "3d3d4c79f4f88325",
+      "name": "Campement Ildhaurgar (Indépendant)",
+      "navName": "Campement Ildhaurgar (Indépendant)",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/10BuTTJ2Fg9Zeuq0CNViqWsJtpJkKqXm8.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "ce9c02e64af5dd59",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "10BuTTJ2Fg9Zeuq0CNViqWsJtpJkKqXm8",
+          "key": "scene:10BuTTJ2Fg9Zeuq0CNViqWsJtpJkKqXm8",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "9b9ad82400555a59",
+      "name": "VATHCAER",
+      "navName": "VATHCAER",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/13j6m1sPe7C8sLaLTR13x4qKS-Xy-Y3pO.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "c57088122331ef55",
+      "notes": [
+        {
+          "_id": "cb2d355fd315f717",
+          "entryId": "c57088122331ef55",
+          "pageId": "9002a1d214326e97",
+          "x": 128,
+          "y": 72,
+          "text": "11 — VATHCAER",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "13j6m1sPe7C8sLaLTR13x4qKS-Xy-Y3pO",
+          "key": "scene:13j6m1sPe7C8sLaLTR13x4qKS-Xy-Y3pO",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "2606fd1221be2d87",
+      "name": "Le Flot Persistant - Grand Bateau (Willburn)",
+      "navName": "Le Flot Persistant - Grand Bateau (Willburn)",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1Rw8k0znpaqS6-mpLuVTIvNJq4JVAZBCp.webp"
+      },
+      "width": 2562,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "f2cc409803aa6806",
+      "notes": [
+        {
+          "_id": "f87f33024f61c492",
+          "entryId": "f2cc409803aa6806",
+          "pageId": "90c6c4f2be398899",
+          "x": 128,
+          "y": 72,
+          "text": "06 — 04. FAILLE DE BORRVÖK",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1Rw8k0znpaqS6-mpLuVTIvNJq4JVAZBCp",
+          "key": "scene:1Rw8k0znpaqS6-mpLuVTIvNJq4JVAZBCp",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "4c65de7df5bc7e9f",
+      "name": "GROTTES",
+      "navName": "GROTTES",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/17LXC-thDufNyJZy1ePK0BIs0akSsAH4J.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "2e77b1acd1eb21cb",
+      "notes": [
+        {
+          "_id": "a984eee4e1102cd1",
+          "entryId": "2e77b1acd1eb21cb",
+          "pageId": "3647e0b5780d2674",
+          "x": 128,
+          "y": 72,
+          "text": "17 — GROTTES",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "17LXC-thDufNyJZy1ePK0BIs0akSsAH4J",
+          "key": "scene:17LXC-thDufNyJZy1ePK0BIs0akSsAH4J",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "8d2cf48ba2bd5aab",
+      "name": "BATAILLE OTT",
+      "navName": "BATAILLE OTT",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1LeL9USxlGZHuhY7uZH3AxRaiYLimvSkq.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "302d42148692ce1d",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1LeL9USxlGZHuhY7uZH3AxRaiYLimvSkq",
+          "key": "scene:1LeL9USxlGZHuhY7uZH3AxRaiYLimvSkq",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "f852a2672ef4c57d",
+      "name": "LABORATOIRE YOLENDA",
+      "navName": "LABORATOIRE YOLENDA",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1L9xUS9triMUigLqJp6kJsISRCmRS2j_T.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "034d290564fd4039",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1L9xUS9triMUigLqJp6kJsISRCmRS2j_T",
+          "key": "scene:1L9xUS9triMUigLqJp6kJsISRCmRS2j_T",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "49ead4189fe87d76",
+      "name": "LAC - GROTTE DE JOLDÜNGRAAD",
+      "navName": "LAC - GROTTE DE JOLDÜNGRAAD",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/1EL8vO-Mgpz4LwOdqklDj_IgPQnLszzB5.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "e0b518deca2c860b",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "1EL8vO-Mgpz4LwOdqklDj_IgPQnLszzB5",
+          "key": "scene:1EL8vO-Mgpz4LwOdqklDj_IgPQnLszzB5",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "d34b6504e5df25c8",
+      "name": "PIERRES SUR TABLE (PLEINES)",
+      "navName": "PIERRES SUR TABLE (PLEINES)",
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/drive/19h9uMh6nCz62ZvMdEn-GskxN8ouZA96i.webp"
+      },
+      "width": 2560,
+      "height": 1440,
+      "padding": 0,
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false
+      },
+      "navigation": false,
+      "active": false,
+      "journal": "64a45ca92096fcd6",
+      "notes": [
+        {
+          "_id": "dfebe795e1de2a84",
+          "entryId": "64a45ca92096fcd6",
+          "pageId": "4480dc517b9f42ae",
+          "x": 128,
+          "y": 72,
+          "text": "Introduction — Présentation",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "tokens": [],
+      "walls": [],
+      "lights": [],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19h9uMh6nCz62ZvMdEn-GskxN8ouZA96i",
+          "key": "scene:19h9uMh6nCz62ZvMdEn-GskxN8ouZA96i",
+          "contentVersion": "0.1.0",
+          "kind": "narrative"
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "a4567a6c4c5d8bb3",
+      "name": "À la recherche d’Isolda — Hgar",
+      "navName": "À la recherche d’Isolda — Hgar",
+      "width": 1536,
+      "height": 1024,
+      "padding": 0,
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/maps/olbukrn-ravine.png"
+      },
+      "grid": {
+        "type": 1,
+        "size": 64,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": true,
+      "fog": {
+        "exploration": true
+      },
+      "environment": {
+        "globalLight": {
+          "enabled": true
+        }
+      },
+      "navigation": false,
+      "journal": "2958c2052eb66d59",
+      "walls": [
+        {
+          "_id": "abf683bec3eac0ae",
+          "c": [
+            550,
+            0,
+            545,
+            165
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "54191fdffad70b78",
+          "c": [
+            545,
+            165,
+            500,
+            315
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "4462fbd446f93f69",
+          "c": [
+            500,
+            315,
+            405,
+            500
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "a12ed5574e4365b6",
+          "c": [
+            405,
+            500,
+            340,
+            660
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "c8c3f8e36d8d8516",
+          "c": [
+            340,
+            660,
+            500,
+            800
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "4d64f81ca8a1f9ee",
+          "c": [
+            500,
+            800,
+            565,
+            1024
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "2ee51bc64fdd8740",
+          "c": [
+            1070,
+            0,
+            1180,
+            210
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "28b9d19c226623ef",
+          "c": [
+            1180,
+            210,
+            1110,
+            400
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "6987bab9c2d1fcc0",
+          "c": [
+            1110,
+            400,
+            1130,
+            600
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "a4c7854c51b01476",
+          "c": [
+            1130,
+            600,
+            1250,
+            775
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "19702f9ae91e3795",
+          "c": [
+            1250,
+            775,
+            1370,
+            1024
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        }
+      ],
+      "lights": [],
+      "tokens": [
+        {
+          "name": "Hgar",
+          "texture": {
+            "src": "modules/heritage-de-magnus/assets/drive/1ej8Uv2viN94k81ll89-P8LREhd8X6qdv.webp"
+          },
+          "actorLink": true,
+          "displayName": 20,
+          "displayBars": 20,
+          "bar1": {
+            "attribute": "health"
+          },
+          "sight": {
+            "enabled": true,
+            "range": 10
+          },
+          "width": 1,
+          "height": 1,
+          "depth": 1,
+          "_id": "72c2cc8aeaffae8c",
+          "actorId": "6ab3d6ac70b787dd",
+          "x": 700,
+          "y": 300,
+          "hidden": true,
+          "disposition": -1
+        }
+      ],
+      "notes": [
+        {
+          "_id": "e81b01d7efb7d7e0",
+          "entryId": "2958c2052eb66d59",
+          "pageId": "5c7154ba89aec685",
+          "x": 760,
+          "y": 900,
+          "text": "À LA RECHERCHE D'ISOLDA",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "regions": [
+        {
+          "_id": "226d8bb509eae317",
+          "name": "Col — zone de rencontre",
+          "color": "#526d89",
+          "visibility": 0,
+          "shapes": [
+            {
+              "type": "rectangle",
+              "x": 540,
+              "y": 160,
+              "width": 520,
+              "height": 700,
+              "rotation": 0,
+              "hole": false
+            }
+          ],
+          "behaviors": [],
+          "elevation": {
+            "bottom": null,
+            "top": null,
+            "topInclusive": true
+          }
+        }
+      ],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "tactical:hgar",
+          "contentVersion": "0.1.0",
+          "kind": "tactical",
+          "proposal": "Carte, grille, murs et positions ajoutés pour la préparation MJ ; effectifs à vérifier dans le passage source."
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "62f6a028cf5a84b3",
+      "name": "Col enneigé — Loups givrecrocs",
+      "navName": "Col enneigé — Loups givrecrocs",
+      "width": 1536,
+      "height": 1024,
+      "padding": 0,
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/maps/olbukrn-ravine.png"
+      },
+      "grid": {
+        "type": 1,
+        "size": 64,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": true,
+      "fog": {
+        "exploration": true
+      },
+      "environment": {
+        "globalLight": {
+          "enabled": true
+        }
+      },
+      "navigation": false,
+      "journal": "2e77b1acd1eb21cb",
+      "walls": [
+        {
+          "_id": "5c950a459fb8b980",
+          "c": [
+            550,
+            0,
+            545,
+            165
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "9005d167fb784240",
+          "c": [
+            545,
+            165,
+            500,
+            315
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "4a613a039bd08010",
+          "c": [
+            500,
+            315,
+            405,
+            500
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "470d6d3b9d64a2b9",
+          "c": [
+            405,
+            500,
+            340,
+            660
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "dc3f209494988380",
+          "c": [
+            340,
+            660,
+            500,
+            800
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "407c787cd65ee947",
+          "c": [
+            500,
+            800,
+            565,
+            1024
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "cc4761de11b19666",
+          "c": [
+            1070,
+            0,
+            1180,
+            210
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "32accb6059ec1603",
+          "c": [
+            1180,
+            210,
+            1110,
+            400
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "4613d2df0db7fd16",
+          "c": [
+            1110,
+            400,
+            1130,
+            600
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "efadbb4860fbbfed",
+          "c": [
+            1130,
+            600,
+            1250,
+            775
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "1300c1bbd1eeabfb",
+          "c": [
+            1250,
+            775,
+            1370,
+            1024
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        }
+      ],
+      "lights": [],
+      "tokens": [
+        {
+          "name": "LOUP GIVRECROC",
+          "texture": {
+            "src": "modules/heritage-de-magnus/assets/system/drive/1mvub_Rs9x29vM_FpE5O-eYZXTw4ycPid.webp"
+          },
+          "actorLink": false,
+          "bar1": {
+            "attribute": "health"
+          },
+          "width": 1,
+          "height": 1,
+          "depth": 1,
+          "_id": "1650d9eafad06581",
+          "actorId": "ca42c8ecd4040471",
+          "x": 700,
+          "y": 300,
+          "hidden": true,
+          "disposition": -1
+        },
+        {
+          "name": "LOUP GIVRECROC",
+          "texture": {
+            "src": "modules/heritage-de-magnus/assets/system/drive/1mvub_Rs9x29vM_FpE5O-eYZXTw4ycPid.webp"
+          },
+          "actorLink": false,
+          "bar1": {
+            "attribute": "health"
+          },
+          "width": 1,
+          "height": 1,
+          "depth": 1,
+          "_id": "afceb802e9bc54a6",
+          "actorId": "ca42c8ecd4040471",
+          "x": 810,
+          "y": 450,
+          "hidden": true,
+          "disposition": -1
+        },
+        {
+          "name": "LOUP GIVRECROC",
+          "texture": {
+            "src": "modules/heritage-de-magnus/assets/system/drive/1mvub_Rs9x29vM_FpE5O-eYZXTw4ycPid.webp"
+          },
+          "actorLink": false,
+          "bar1": {
+            "attribute": "health"
+          },
+          "width": 1,
+          "height": 1,
+          "depth": 1,
+          "_id": "1afd2a872d174419",
+          "actorId": "ca42c8ecd4040471",
+          "x": 920,
+          "y": 600,
+          "hidden": true,
+          "disposition": -1
+        }
+      ],
+      "notes": [
+        {
+          "_id": "4d49532b1ac50087",
+          "entryId": "2e77b1acd1eb21cb",
+          "pageId": "3647e0b5780d2674",
+          "x": 760,
+          "y": 900,
+          "text": "17 — GROTTES",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "regions": [
+        {
+          "_id": "9f28c9a64ec40983",
+          "name": "Col — zone de rencontre",
+          "color": "#526d89",
+          "visibility": 0,
+          "shapes": [
+            {
+              "type": "rectangle",
+              "x": 540,
+              "y": 160,
+              "width": 520,
+              "height": 700,
+              "rotation": 0,
+              "hole": false
+            }
+          ],
+          "behaviors": [],
+          "elevation": {
+            "bottom": null,
+            "top": null,
+            "topInclusive": true
+          }
+        }
+      ],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "tactical:wolves",
+          "contentVersion": "0.1.0",
+          "kind": "tactical",
+          "proposal": "Carte, grille, murs et positions ajoutés pour la préparation MJ ; effectifs à vérifier dans le passage source."
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "2f04c982f581d630",
+      "name": "Approche de la planque — Ott",
+      "navName": "Approche de la planque — Ott",
+      "width": 1536,
+      "height": 1024,
+      "padding": 0,
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/maps/olbukrn-ravine.png"
+      },
+      "grid": {
+        "type": 1,
+        "size": 64,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": true,
+      "fog": {
+        "exploration": true
+      },
+      "environment": {
+        "globalLight": {
+          "enabled": true
+        }
+      },
+      "navigation": false,
+      "journal": "2e77b1acd1eb21cb",
+      "walls": [
+        {
+          "_id": "e30c5f9b61d4cc85",
+          "c": [
+            550,
+            0,
+            545,
+            165
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "9eae8b5a7e3ea556",
+          "c": [
+            545,
+            165,
+            500,
+            315
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "f9fc22a1b33e5201",
+          "c": [
+            500,
+            315,
+            405,
+            500
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "d50ae7956bc0a672",
+          "c": [
+            405,
+            500,
+            340,
+            660
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "911dcc98344bdb72",
+          "c": [
+            340,
+            660,
+            500,
+            800
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "46722dcf0e533c32",
+          "c": [
+            500,
+            800,
+            565,
+            1024
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "dbc4d05ba74d2e10",
+          "c": [
+            1070,
+            0,
+            1180,
+            210
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "23f76ae0d7863155",
+          "c": [
+            1180,
+            210,
+            1110,
+            400
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "465be44cba9be162",
+          "c": [
+            1110,
+            400,
+            1130,
+            600
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "ad9d19d633b1bcd6",
+          "c": [
+            1130,
+            600,
+            1250,
+            775
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "8f5eefe4bced43dc",
+          "c": [
+            1250,
+            775,
+            1370,
+            1024
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        }
+      ],
+      "lights": [],
+      "tokens": [
+        {
+          "name": "Ott — Forme humaine",
+          "texture": {
+            "src": "modules/heritage-de-magnus/assets/drive/1LZuNwAiN-6lnm2rZrOZzC_xdiKVZkwJ_.webp"
+          },
+          "actorLink": true,
+          "displayName": 20,
+          "displayBars": 20,
+          "bar1": {
+            "attribute": "health"
+          },
+          "sight": {
+            "enabled": true,
+            "range": 10
+          },
+          "width": 1,
+          "height": 1,
+          "depth": 1,
+          "_id": "bc3f3da66f243e9e",
+          "actorId": "a48bde358f5395e1",
+          "x": 700,
+          "y": 300,
+          "hidden": true,
+          "disposition": -1
+        }
+      ],
+      "notes": [
+        {
+          "_id": "7318f3ae5e1324f8",
+          "entryId": "2e77b1acd1eb21cb",
+          "pageId": "3647e0b5780d2674",
+          "x": 760,
+          "y": 900,
+          "text": "17 — GROTTES",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "regions": [
+        {
+          "_id": "b9fad8a6144e939a",
+          "name": "Col — zone de rencontre",
+          "color": "#526d89",
+          "visibility": 0,
+          "shapes": [
+            {
+              "type": "rectangle",
+              "x": 540,
+              "y": 160,
+              "width": 520,
+              "height": 700,
+              "rotation": 0,
+              "hole": false
+            }
+          ],
+          "behaviors": [],
+          "elevation": {
+            "bottom": null,
+            "top": null,
+            "topInclusive": true
+          }
+        }
+      ],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "tactical:ott",
+          "contentVersion": "0.1.0",
+          "kind": "tactical",
+          "proposal": "Carte, grille, murs et positions ajoutés pour la préparation MJ ; effectifs à vérifier dans le passage source."
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    },
+    {
+      "_id": "684f7caab0ee437b",
+      "name": "Planque d’Ott — Laboratoire",
+      "navName": "Laboratoire",
+      "width": 1536,
+      "height": 1024,
+      "padding": 0,
+      "background": {
+        "src": "modules/heritage-de-magnus/assets/maps/ott-laboratory.png"
+      },
+      "grid": {
+        "type": 1,
+        "size": 64,
+        "distance": 1,
+        "units": "m"
+      },
+      "tokenVision": true,
+      "fog": {
+        "exploration": true
+      },
+      "navigation": false,
+      "journal": "2e77b1acd1eb21cb",
+      "walls": [
+        {
+          "_id": "3e2a881ebe6193ba",
+          "c": [
+            160,
+            70,
+            500,
+            70
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "2b78f7dd630e3640",
+          "c": [
+            500,
+            70,
+            515,
+            245
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "5329d055237ca802",
+          "c": [
+            515,
+            245,
+            490,
+            285
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 1,
+          "ds": 0
+        },
+        {
+          "_id": "48c3ad06deab772d",
+          "c": [
+            490,
+            285,
+            430,
+            330
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "600cb183a0fa42e2",
+          "c": [
+            430,
+            330,
+            160,
+            330
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "5fc192a4eb36cd90",
+          "c": [
+            160,
+            330,
+            160,
+            555
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "b1eae262aba33c33",
+          "c": [
+            160,
+            555,
+            395,
+            555
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "4223513c4981ed09",
+          "c": [
+            395,
+            555,
+            465,
+            610
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 1,
+          "ds": 0
+        },
+        {
+          "_id": "7f24385ce30990d3",
+          "c": [
+            465,
+            610,
+            510,
+            805
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "a99c268130ccebec",
+          "c": [
+            510,
+            805,
+            510,
+            875
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "e5c244b0f4cecb2b",
+          "c": [
+            510,
+            875,
+            160,
+            875
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "2daa1ccdf77b9970",
+          "c": [
+            160,
+            875,
+            160,
+            70
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "ae098a37df6adb93",
+          "c": [
+            1040,
+            70,
+            1360,
+            70
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "053acc6c3fe3c432",
+          "c": [
+            1360,
+            70,
+            1360,
+            940
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "a1d476e2d9a56fdc",
+          "c": [
+            1360,
+            940,
+            1210,
+            940
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "ceb661bc3d98951c",
+          "c": [
+            1210,
+            940,
+            1090,
+            940
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 1,
+          "ds": 0
+        },
+        {
+          "_id": "72900262825cf53c",
+          "c": [
+            1090,
+            940,
+            1040,
+            890
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "b88b5ccf25e544ee",
+          "c": [
+            1040,
+            890,
+            1040,
+            610
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "15499a274178421d",
+          "c": [
+            1040,
+            610,
+            1110,
+            550
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 1,
+          "ds": 0
+        },
+        {
+          "_id": "0f265566d8767fb7",
+          "c": [
+            1110,
+            550,
+            1360,
+            550
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "a25e424d619bb72b",
+          "c": [
+            1360,
+            330,
+            1090,
+            330
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "0f0d8936b5193447",
+          "c": [
+            1090,
+            330,
+            1020,
+            250
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 1,
+          "ds": 0
+        },
+        {
+          "_id": "7e4824d364e75c1b",
+          "c": [
+            1020,
+            250,
+            1010,
+            70
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "85a5a3b2e642d4e0",
+          "c": [
+            1010,
+            70,
+            910,
+            30
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "1e7f97bfb77085b9",
+          "c": [
+            910,
+            30,
+            590,
+            30
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "c4669066e7db2d0e",
+          "c": [
+            590,
+            30,
+            500,
+            70
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        },
+        {
+          "_id": "179f45eb430cb728",
+          "c": [
+            510,
+            805,
+            1040,
+            890
+          ],
+          "move": 20,
+          "sight": 20,
+          "light": 20,
+          "sound": 20,
+          "door": 0,
+          "ds": 0
+        }
+      ],
+      "lights": [
+        {
+          "_id": "44b4621f32e86bb0",
+          "x": 650,
+          "y": 260,
+          "config": {
+            "dim": 8,
+            "bright": 3,
+            "color": "#56c994",
+            "alpha": 0.35
+          }
+        },
+        {
+          "_id": "c997fa979e8f5267",
+          "x": 900,
+          "y": 260,
+          "config": {
+            "dim": 8,
+            "bright": 3,
+            "color": "#56c994",
+            "alpha": 0.35
+          }
+        },
+        {
+          "_id": "b35a041b0990347f",
+          "x": 650,
+          "y": 650,
+          "config": {
+            "dim": 8,
+            "bright": 3,
+            "color": "#56c994",
+            "alpha": 0.35
+          }
+        },
+        {
+          "_id": "8b2d129e53a7b11a",
+          "x": 900,
+          "y": 650,
+          "config": {
+            "dim": 8,
+            "bright": 3,
+            "color": "#56c994",
+            "alpha": 0.35
+          }
+        },
+        {
+          "_id": "aebf25c033c003e3",
+          "x": 1140,
+          "y": 760,
+          "config": {
+            "dim": 8,
+            "bright": 3,
+            "color": "#e8a04d",
+            "alpha": 0.35
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "name": "Ott",
+          "texture": {
+            "src": "modules/heritage-de-magnus/assets/drive/16FjXGNOp6njLsdzTNcj7G0Y28vX4Uy4x.webp"
+          },
+          "actorLink": true,
+          "displayName": 20,
+          "displayBars": 20,
+          "bar1": {
+            "attribute": "health"
+          },
+          "sight": {
+            "enabled": true,
+            "range": 10
+          },
+          "width": 1,
+          "height": 1,
+          "depth": 1,
+          "_id": "2affbfbbcd55cb53",
+          "actorId": "00eb4c38a5d93cc1",
+          "x": 736,
+          "y": 416,
+          "hidden": true,
+          "disposition": -1
+        }
+      ],
+      "notes": [
+        {
+          "_id": "d86c707aad89c896",
+          "entryId": "2e77b1acd1eb21cb",
+          "pageId": "3647e0b5780d2674",
+          "x": 760,
+          "y": 850,
+          "text": "17 — GROTTES",
+          "global": false,
+          "texture": {
+            "src": "icons/svg/book.svg"
+          }
+        }
+      ],
+      "regions": [],
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "tactical:lab",
+          "contentVersion": "0.1.0",
+          "kind": "tactical",
+          "proposal": "Carte de préparation originale inspirée de la planque, ajoutée pour le combat ; ce plan ne provient pas du créateur. Murs, portes et lumières préparés."
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "folder": "a05f71650dfc278d"
+    }
+  ],
+  "folders": [
+    {
+      "_id": "a05f71650dfc278d",
+      "name": "Magnus — Scènes",
+      "type": "Scene",
+      "folder": null,
+      "sorting": "m",
+      "color": "#496e87",
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "folder:Scene:Magnus — Scènes",
+          "contentVersion": "0.1.0"
+        }
+      }
+    }
+  ]
+}

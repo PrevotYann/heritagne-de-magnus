@@ -1,0 +1,51 @@
+{
+  "label": "Magnus — Personnages",
+  "mapping": {
+    "name": {
+      "path": "name",
+      "converter": "magnus-text"
+    },
+    "prototypeToken": {
+      "path": "prototypeToken",
+      "converter": "magnus-tree"
+    },
+    "system": {
+      "path": "system",
+      "converter": "magnus-tree"
+    },
+    "items": {
+      "path": "items",
+      "converter": "magnus-tree"
+    }
+  },
+  "entries": {
+    "1a3187f48443cac7": {
+      "name": "[EN] AGATHE ET BRITA",
+      "prototypeToken": {
+        "name": "AGATHE ET BRITA"
+      },
+      "system": {
+        "biography": "<p>AGATHE ET BRITA</p>",
+        "gmNotes": "<article class=\"magnus-entry\"><h3>A@UUID[Compendium.heritage-de-magnus.actors.Actor.1a3187f48443cac7]{GATHE ET BRITA :} <br></h3><p><u>Humaines / Freljord / 15 et 8 ans<br></u></p><p><u><em>Trajets du Nord</em></u><br></p><p>Agathe et Brita sont les <strong>deux filles d’Odvïr</strong>, auxquelles leur père a toujours accordé une importance immense. Durant leur enfance, il leur apprit à <strong>se défendre</strong>, à manier une arme et surtout à se <strong>débrouiller seules </strong>dans les terres hostiles du Freljord. Des enseignements qui finirent par leur <strong>sauver la vie</strong>.<br></p><p>Pendant près de <strong>deux ans</strong>, les deux sœurs furent <strong>spirituellement retenues prisonnières par Ott </strong>dans ses <strong>Limbes</strong>, quelque part dans le nord du Freljord. Leurs esprits arrachés à leurs corps y restèrent enfermés jusqu’à la disparition du nécromancien. Lorsque son <strong>emprise se dissipa </strong>enfin, Agathe et Brita retrouvèrent leurs enveloppes physiques considérablement <strong>affaiblies </strong>par ces longues années de captivité.<br></p><p>Livrées à elles-mêmes dans une région particulièrement dangereuse, elles puisèrent dans tout ce que leur père leur avait enseigné pour survivre. Elles entreprirent alors de <strong>redescendre vers le sud </strong>à la recherche de leur père, sans savoir s’il était encore en vie ni ce qui avait pu lui arriver durant leur absence.<br></p><p>Leur captivité les a profondément <strong>changées</strong>. Toutes deux sont désormais particulièrement <strong>méfiantes </strong>envers les <strong>étrangers</strong>, et davantage encore envers ceux qu’elles rencontrent dans les terres du Nord. Elles restent néanmoins <strong>débrouillardes</strong>, <strong>rusées </strong>et capables de se sortir de situations particulièrement difficiles. Malgré leur état et les dangers du voyage, retrouver leur père reste leur priorité absolue.<br></p><div class=\"magnus-table\"><table><tr><td><p><em>Quêtes liées : <br></em></p></td></tr></table></div></article><p>@UUID[Compendium.heritage-de-magnus.journals.JournalEntry.0b97801b51ed6a37]{Source complète et informations de campagne}</p>",
+        "notes": "<p>Proposition MJ : attributs non chiffrés préparés à 50, PV à 90 si absents. Modifiables ; ces valeurs ne sont pas officielles. Champs concernés : force, agility, endurance, concentration, perception, reflexes, dexterity, stealth, charisma, persuasion, intimidation, mental</p><p>Préparation MJ : vision 10 m, réserves spéciales à 50 si absentes ; AR/RM à 0 si non chiffrées.</p>",
+        "specials": {
+          "first": {
+            "name": "Spécial 1"
+          },
+          "second": {
+            "name": "Spécial 2"
+          }
+        }
+      },
+      "items": {
+        "4cb79b80cc689525": {
+          "name": "[EN] Embedded item",
+          "system": {
+            "description": "<p>[EN] Equipment description.</p><div class=\"rt-entry\"><div class=\"rt-entry-hero\"><img src=\"modules/heritage-de-magnus/assets/system/drive/14B4S-OOZrbfKOSnQppQnF8ynLAb6YMcW.webp\" alt=\"Spirituel (\"><h1>Spirituel (</h1></div><p>Spirituel (</p><p>Note…</p></div>",
+            "conditions": "Spirituel (  Note…"
+          }
+        }
+      }
+    }
+  }
+}

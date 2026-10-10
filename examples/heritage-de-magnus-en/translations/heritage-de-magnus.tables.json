@@ -1,0 +1,61 @@
+{
+  "label": "Magnus — Tables",
+  "mapping": {
+    "name": {
+      "path": "name",
+      "converter": "magnus-text"
+    },
+    "description": {
+      "path": "description",
+      "converter": "magnus-text"
+    },
+    "results": {
+      "path": "results",
+      "converter": "magnus-tree"
+    }
+  },
+  "entries": {
+    "8bda6ba46654cc28": {
+      "name": "[EN] Oknuün — Grimoire tenu (1D12)",
+      "description": "<p>Table issue de la source ; le MJ choisit le contexte avant de tirer.</p>",
+      "results": {
+        "75b7456ec8ea124f": {
+          "name": "[EN] Table result"
+        },
+        "9b681619c88508b4": {
+          "name": "Oknuün 02 — Chambre d’Anti-miroir Obscure"
+        },
+        "6f3a3da66c379d8c": {
+          "name": "Oknuün 03 — Goules spectrales"
+        },
+        "133a46d374828b86": {
+          "name": "Oknuün 04 — Désintégration de l’âme"
+        },
+        "e95e772f6efa8f91": {
+          "name": "Oknuün 05 — Vulnérabilité de l’âme"
+        },
+        "d2c430507f1e3b25": {
+          "name": "Oknuün 06 — Portail des Limbes"
+        },
+        "c859160dda7db99d": {
+          "name": "Oknuün 07 — Flamme verte"
+        },
+        "e2067004976c527e": {
+          "name": "Oknuün 08 — Cri du monde des morts"
+        },
+        "c8420d75796b4451": {
+          "name": "Oknuün 09 — Possession"
+        },
+        "4770a6b2536ff309": {
+          "name": "Oknuün 10 — Gaz mortel"
+        },
+        "79ce98c0ef46f98c": {
+          "name": "Oknuün 11 — Dernier passage"
+        },
+        "4bc388cfbb571cc7": {
+          "name": "Oknuün 12 — Lambeaux de robe"
+        }
+      }
+    }
+  }
+}

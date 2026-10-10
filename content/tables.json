@@ -1,0 +1,435 @@
+{
+  "documents": [
+    {
+      "_id": "8bda6ba46654cc28",
+      "name": "Oknuün — Grimoire tenu (1D12)",
+      "description": "<p>Table issue de la source ; le MJ choisit le contexte avant de tirer.</p>",
+      "formula": "1d12",
+      "replacement": true,
+      "displayRoll": false,
+      "results": [
+        {
+          "_id": "75b7456ec8ea124f",
+          "type": "document",
+          "name": "Oknuün 01 — Illusion cauchemardesque",
+          "description": "",
+          "range": [
+            1,
+            1
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.3770775a212865be"
+        },
+        {
+          "_id": "9b681619c88508b4",
+          "type": "document",
+          "name": "Oknuün 02 — Chambre d’Anti-miroir Obscure",
+          "description": "",
+          "range": [
+            2,
+            2
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.a7d94480e5e630ee"
+        },
+        {
+          "_id": "6f3a3da66c379d8c",
+          "type": "document",
+          "name": "Oknuün 03 — Goules spectrales",
+          "description": "",
+          "range": [
+            3,
+            3
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.aa9f09744656b733"
+        },
+        {
+          "_id": "133a46d374828b86",
+          "type": "document",
+          "name": "Oknuün 04 — Désintégration de l’âme",
+          "description": "",
+          "range": [
+            4,
+            4
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.996093c8cad8a7a0"
+        },
+        {
+          "_id": "e95e772f6efa8f91",
+          "type": "document",
+          "name": "Oknuün 05 — Vulnérabilité de l’âme",
+          "description": "",
+          "range": [
+            5,
+            5
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.0bd7475ab0d1d53d"
+        },
+        {
+          "_id": "d2c430507f1e3b25",
+          "type": "document",
+          "name": "Oknuün 06 — Portail des Limbes",
+          "description": "",
+          "range": [
+            6,
+            6
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.74885f8e3efeb6ef"
+        },
+        {
+          "_id": "c859160dda7db99d",
+          "type": "document",
+          "name": "Oknuün 07 — Flamme verte",
+          "description": "",
+          "range": [
+            7,
+            7
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.e6bf0b2c0498e764"
+        },
+        {
+          "_id": "e2067004976c527e",
+          "type": "document",
+          "name": "Oknuün 08 — Cri du monde des morts",
+          "description": "",
+          "range": [
+            8,
+            8
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.b7c33a8092317bf5"
+        },
+        {
+          "_id": "c8420d75796b4451",
+          "type": "document",
+          "name": "Oknuün 09 — Possession",
+          "description": "",
+          "range": [
+            9,
+            9
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.8ada7e3587df4b2b"
+        },
+        {
+          "_id": "4770a6b2536ff309",
+          "type": "document",
+          "name": "Oknuün 10 — Gaz mortel",
+          "description": "",
+          "range": [
+            10,
+            10
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.9d8dedccc214cec3"
+        },
+        {
+          "_id": "79ce98c0ef46f98c",
+          "type": "document",
+          "name": "Oknuün 11 — Dernier passage",
+          "description": "",
+          "range": [
+            11,
+            11
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.0f980db5dfcb92cd"
+        },
+        {
+          "_id": "4bc388cfbb571cc7",
+          "type": "document",
+          "name": "Oknuün 12 — Lambeaux de robe",
+          "description": "",
+          "range": [
+            12,
+            12
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.56db8a83327e9018"
+        }
+      ],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "table:grimoire-full",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "1e2b9b6d276a1e62"
+    },
+    {
+      "_id": "4dbbd292ee74a81e",
+      "name": "Oknuün — Grimoire non tenu (1D6 + 6)",
+      "description": "<p>Table issue de la source ; le MJ choisit le contexte avant de tirer.</p>",
+      "formula": "1d6",
+      "replacement": true,
+      "displayRoll": false,
+      "results": [
+        {
+          "_id": "107992b82ed1152b",
+          "type": "document",
+          "name": "Oknuün 07 — Flamme verte",
+          "description": "",
+          "range": [
+            1,
+            1
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.e6bf0b2c0498e764"
+        },
+        {
+          "_id": "46991de0f764b783",
+          "type": "document",
+          "name": "Oknuün 08 — Cri du monde des morts",
+          "description": "",
+          "range": [
+            2,
+            2
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.b7c33a8092317bf5"
+        },
+        {
+          "_id": "3f7eb1f7510b8bf4",
+          "type": "document",
+          "name": "Oknuün 09 — Possession",
+          "description": "",
+          "range": [
+            3,
+            3
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.8ada7e3587df4b2b"
+        },
+        {
+          "_id": "572712b0e9c540b6",
+          "type": "document",
+          "name": "Oknuün 10 — Gaz mortel",
+          "description": "",
+          "range": [
+            4,
+            4
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.9d8dedccc214cec3"
+        },
+        {
+          "_id": "efca3115ce535963",
+          "type": "document",
+          "name": "Oknuün 11 — Dernier passage",
+          "description": "",
+          "range": [
+            5,
+            5
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.0f980db5dfcb92cd"
+        },
+        {
+          "_id": "7ebf3d8bbaf2c861",
+          "type": "document",
+          "name": "Oknuün 12 — Lambeaux de robe",
+          "description": "",
+          "range": [
+            6,
+            6
+          ],
+          "weight": 1,
+          "drawn": false,
+          "documentUuid": "Item.56db8a83327e9018"
+        }
+      ],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "table:grimoire-half",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "1e2b9b6d276a1e62"
+    },
+    {
+      "_id": "3c3a502517eee0d7",
+      "name": "Maison de Magnus — Or du coffre",
+      "description": "<p>Table issue de la source ; le MJ choisit le contexte avant de tirer.</p>",
+      "formula": "1d6",
+      "replacement": true,
+      "displayRoll": false,
+      "results": [
+        {
+          "_id": "a682442b78f996d1",
+          "type": "text",
+          "name": "5 Or",
+          "description": "",
+          "range": [
+            1,
+            1
+          ],
+          "weight": 1,
+          "drawn": false
+        },
+        {
+          "_id": "d630d56fc59a3af2",
+          "type": "text",
+          "name": "10 Or",
+          "description": "",
+          "range": [
+            2,
+            2
+          ],
+          "weight": 1,
+          "drawn": false
+        },
+        {
+          "_id": "deb8db83a87309cd",
+          "type": "text",
+          "name": "15 Or",
+          "description": "",
+          "range": [
+            3,
+            3
+          ],
+          "weight": 1,
+          "drawn": false
+        },
+        {
+          "_id": "4dd24c6a0dadc9fb",
+          "type": "text",
+          "name": "20 Or",
+          "description": "",
+          "range": [
+            4,
+            4
+          ],
+          "weight": 1,
+          "drawn": false
+        },
+        {
+          "_id": "32ec2d48d6557678",
+          "type": "text",
+          "name": "25 Or",
+          "description": "",
+          "range": [
+            5,
+            5
+          ],
+          "weight": 1,
+          "drawn": false
+        },
+        {
+          "_id": "b723af87fd80565d",
+          "type": "text",
+          "name": "30 Or",
+          "description": "",
+          "range": [
+            6,
+            6
+          ],
+          "weight": 1,
+          "drawn": false
+        }
+      ],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "table:magnus-gold",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "1e2b9b6d276a1e62"
+    },
+    {
+      "_id": "ef12db0b85111169",
+      "name": "Sphère de Kumbadge — Deux entités opposées",
+      "description": "<p>Table issue de la source ; le MJ choisit le contexte avant de tirer.</p>",
+      "formula": "1d2",
+      "replacement": true,
+      "displayRoll": false,
+      "results": [
+        {
+          "_id": "614d922251496d74",
+          "type": "text",
+          "name": "Rêve",
+          "description": "Réalise le plus grand rêve. Le MJ interprète le souhait.",
+          "range": [
+            1,
+            1
+          ],
+          "weight": 1,
+          "drawn": false
+        },
+        {
+          "_id": "ecf4cdf4e8db51ae",
+          "type": "text",
+          "name": "Inverse",
+          "description": "Réalise l’extrême inverse du rêve. Le MJ interprète la contrepartie.",
+          "range": [
+            2,
+            2
+          ],
+          "weight": 1,
+          "drawn": false
+        }
+      ],
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "19VoqV6N9Kmo2m3ypyGciReNnoqtA-w8OmdjozhtU7Gg",
+          "key": "table:kumbadge",
+          "contentVersion": "0.1.0"
+        }
+      },
+      "folder": "1e2b9b6d276a1e62"
+    }
+  ],
+  "folders": [
+    {
+      "_id": "1e2b9b6d276a1e62",
+      "name": "Magnus — Tables",
+      "type": "RollTable",
+      "folder": null,
+      "sorting": "m",
+      "color": "#496e87",
+      "flags": {
+        "heritage-de-magnus": {
+          "source": "preparation",
+          "key": "folder:RollTable:Magnus — Tables",
+          "contentVersion": "0.1.0"
+        }
+      }
+    }
+  ]
+}

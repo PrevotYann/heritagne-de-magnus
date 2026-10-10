@@ -1,0 +1,41 @@
+{
+  "label": "Magnus — Outils MJ",
+  "mapping": {
+    "name": {
+      "path": "name",
+      "converter": "magnus-text"
+    }
+  },
+  "entries": {
+    "853d4e02286c3a1d": {
+      "name": "Accueil et import"
+    },
+    "f644794b64ce9719": {
+      "name": "Changer la phase d’Ott"
+    },
+    "5277712abe9e9212": {
+      "name": "Activer une pierre de Magnus"
+    },
+    "9e0548de029fd854": {
+      "name": "Tirer un mot d’Oknuün"
+    },
+    "5bc0e5ae562f059b": {
+      "name": "Suivi des événements"
+    },
+    "bc66f69eebb1f511": {
+      "name": "Révéler un document"
+    },
+    "f977cf79710a0eab": {
+      "name": "Ott — Appliquer la Flamme verte aux cibles"
+    },
+    "4b762d3948fb458c": {
+      "name": "Ott — Éteindre les Flammes vertes (fin de phase 1)"
+    },
+    "8d54510dec55ce15": {
+      "name": "Oknuün — Appliquer le Gaz mortel"
+    },
+    "f8484413062b0983": {
+      "name": "Oknuün — Arrêter le Gaz mortel des cibles"
+    }
+  }
+}

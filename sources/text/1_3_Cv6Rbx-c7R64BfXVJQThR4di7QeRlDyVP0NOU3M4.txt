@@ -1,0 +1,3672 @@
+
+
+
+Voir Lexique 
+
+RAPPEL DE L’UNIVERS
+
+
+
+
+
+Pour ceux qui découvrent l’Univers de Runeterra, vous évoluerez dans un monde régi par des lois similaires aux nôtres, à l’exception d’un élément essentiel : Les différentes Formes de Magies, omniprésentes de cet univers.Runeterra, comme son nom l’indique (Rune – Terra, la terre des runes) est un monde créé en partie par la magie. Certaines espèces qui l’habitent sont elles-mêmes issues de cette magie, et bien que le monde soit en perpétuelle évolution, celle-ci demeure le pilier central de nombreuses civilisations. Ce monde est si vaste et varié que l'on y trouve aussi bien des tribus sauvages, sans dialecte, sans foi ni lois, que des régions dotées de technologies bien plus modernes.L’histoire de cette aventure se déroule au Freljord. C’est une terre froide, peuplée de nombreuses tribus aux idéologies variées et perpétuellement en contradiction sur la manière de la gouverner. Cette région nordique s’inspire des Vikings et d’autres contes celtiques de notre univers. C’est une contrée riche en coutumes et traditions de toute sorte, imprégnée de magies uniques liées aux Demi-Divinités ayant façonné de nombreuses légendes, ainsi qu’aux tribus elles-mêmes. [voir Lore du Freljord]Les tribus les plus importantes du Freljord sont les Avarosans et la Griffe Hivernale, toutes deux dirigées par deux grandes cheffes de guerre aux idéologies totalement opposées. L’une gouverne les régions du Sud et cherche à unifier les tribus, ainsi qu’à rendre ses terres plus accessibles aux autres civilisations, tandis que l’autre, bien plus dispersée dans le Nord, souhaite préserver cet état de guerre entre les peuples, qu’elle considère nécessaire à la survie de ses terres. Cependant, toutes deux s’opposent à une troisième cheffe, bien plus sombre et dangereuse, qui règne sur l’extrême Nord du Freljord.
+
+
+
+La première saison de cette aventure commence à l'ère contemporaine du jeu, en l’an 998 du calendrier Noxien (voir TimeLine Runeterra). À cette période, plusieurs événements majeurs ont récemment marqué l’histoire du monde :
+
+
+
+- Le Cataclysme de la Glorieuse Évolution à Piltover, orchestrée par Viktor et Ambessa Medarda (986)
+
+- Le Coup d’État de Jericho Swain contre Boram Darkwill à Noxus (989)
+
+- La Résurrection de Azir l'empereur de Shurima (992)
+
+- La répartition de la Brume noire dans le monde, qui à corrompu bon nombre de peuples et s’est dispersée de partout sur Runeterra (993-994).
+
+- La Rébellion des Mages de Demacia et la traque de Sylas (996-997)
+
+
+
+
+
+
+
+
+
+
+
+LES ATTRIBUTS
+
+
+
+
+
+
+
+LES ATTRIBUTS GÉNÉRAUX
+
+
+
+
+
+	Comme tout bon JDR, les attributs sont les caractéristiques générales de votre personnage. Elles définissent un large choix d’action à déterminer parmis ces 12 :
+
+1. Force : Elle détermine vos actions qui requièrent votre force pour déplacer ou casser des objets, vous battre à main nues, ou accompagner un mouvement avec une arme. Elle représente votre forme physique.
+
+
+
+2. Agilité : Elle détermine la mobilité et la souplesse, l’équilibre, l’escalade de paroies ou de bâtiment, et tous vos déplacements qui nécessitent de la minutie par le mouvement. Elle permet également l’esquive d’un coup anticipé. 
+
+
+
+3. Endurance : Cette caractéristique est utilisée pour les efforts sur le long terme. C’est une force physique liée à la respiration et vous permet de vous acharner sur la durée.
+
+
+
+4. Concentration : Lié à l'Intelligence, elle permet au joueur d’essayer de décrypter des éléments, d’essayer de comprendre un mécanisme ou autre. Elle permet aussi de réussir des fonctions cérébrales plus ou moins complexes, d’apprendre et de comprendre plus  de détails d'une situation ou d’un élément.
+
+
+
+5. Perception : La vue, l'ouïe, le goût, le toucher et l’odorat sont déterminées par cette caractéristique. Elle permet de viser, d’observer et d’entendre attentivement de près ou de loin. Elle permet également de goûter et de flairer, une piste ou un plat pour sentir des saveurs.
+
+
+
+6. Réflexes : Les réflexes sont principalement utilisés pour esquiver des attaques surprises et non anticipés. Mais également à anticiper certains mouvements utiles pour rattraper des choses, ou sauver une situation.
+
+
+
+7. Dextérité : C’est la minutie des mains. Elle est utilisée pour la fabrication, la visée à proximité, le crochetage, etc. Tout ce qui nécessite de la précision avec les mains.
+
+
+
+8. Discrétion : Elle permet d’éviter de vous faire repérer; vous faire voir, mais aussi vous faire entendre, autant dans vos mouvements que dans vos discussions.
+
+
+
+9. Charisme : C’est l’aura que vous dégagez au premier contact. Utile pour les intéraction sociales mais également envers les animaux.
+
+
+
+10. Persuasion : Le fait de mentir ou de convaincre se détermine avec cet attribut. Permet d’essayer de changer les idées d’une personne.
+
+
+
+11. Intimidation : Permet de provoquer au duel, ou justement de l’éviter en utilisant la menace sous forme agressive ou plus stratégique.
+
+
+
+12. Mental : Il est votre force et votre détermination psychologique. Permet d’éviter ou de succomber à la tentation. 
+
+Le MJ peut parfois l’utiliser pour forcer les joueurs à faire un choix difficile et tentant.
+
+
+
+
+
+
+
+
+
+
+
+LES ATTRIBUTS SPÉCIAUX
+
+
+
+
+
+	Durant la création de personnage, le joueur doit choisir entre deux attributs spéciaux (Spécial 1 et Spécial 2) et un métiers qu’il maîtrise relativement bien (lvl 3).
+
+
+
+
+
+Attribut Spéciale 1 et Spécial 2 : 
+
+Les attributs spéciaux sont là pour justifier l’utilisation des compétences spéciales du joueur. Elles peuvent être générique selon une forme de magie ou de maîtrise (Magie Yordle, Hémomancie, Maîtrise des lames, etc) ou peuvent être personnalisées - et équilibré avec le MJ - selon la spécialité du personnage créé (Cartomancie, Craintivité, Démence, etc).
+
+
+
+- Spécial 1 : Avec 80 de valeure de base, c’est généralement la compétence que le joueur maîtrise le mieux. Elle est en lien avec sa première compétence et la variante de sa troisième compétence (voir rubrique Les Compétences).
+
+
+
+- Spécial 2 : Avec 70 de valeure de base, c'est la compétence secondaire du joueur. Elle est liée à sa deuxième compétence et l’autre variante de la troisième compétence (voir rubrique Les Compétences).
+
+
+
+
+
+Attribut de Métier : 
+
+Le joueur commence avec un métier dans lequel il se spécialise (voir rubrique Les Métiers) d'une valeur de base de 60 et de lvl 3. Le métier peut être choisi pour donner l’opportunité au joueur de se faire un peu d’argent en interagissant avec des PNJ, des sommes plus conséquentes avec des missions plus grandes, et utiliser ses connaissances de ce domaine dans la vie de tous les jours.
+
+Exemple : Un architecte peut dessiner la maison d’un PNJ pour une petite somme (petite mission), gérer la construction d’une caserne Avarosan contre une somme plus conséquente (grande mission), ou utiliser ses connaissances pour potentiellement trouver une trappe secrète dans une maison. 
+
+
+
+
+
+Attribut Caché :
+
+Il existe un attribut caché de Métabolisme qui peut s’utiliser pour la résistance à l’alcool. Il suffit de prendre la statistique de PV de Base, et d’y enlever -50 pour avoir la valeur.
+
+Exemple : Si le joueur à 90 PV de Base, il aura donc (90 - 50 =) 40 en Métabolisme.
+
+
+
+
+
+
+
+
+
+
+
+CRÉATION PERSONNAGE
+
+
+
+Avant toute chose, il est important de préciser que la liberté de création du personnage est grande… Très grande ! Autant par le choix de la Race, de la Région, de ses compétences uniques etc. Mais il y a un prérequis important : La rencontre de Magnus (voir Magnus).
+
+
+
+
+
+LES DIFFÉRENTES RACES
+
+
+
+
+
+Les Humains :      [WIKI]
+
+La plus grande partie de la civilisation à Runeterra est peuplée d’humains. Ils sont réputés pour leur détermination, leur adaptation et leur diversité tant psychologique que physique. Les humains sont à l’origine de beaucoup de civilisations encore dominantes sur Runeterra.
+
+
+
+- Humain : Simplement un humain, sans pouvoir, sans croisement, sans altérations. Juste leur maîtrise, leur expertise et leur curiosité. Une faculté à s’adapter, à s’améliorer et à se développer en société. 
+
+Ex : Garen / Fiora / Draven
+
+- Demi-Vastaya : Sachant que les humains peuvent se reproduire avec les Vastayas, certains d’entre eux portent la marque d’une descendance Vastaya avec des parties du corps animales ou des parties supplémentaires magiques.
+
+Ex : Sett / Udyr
+
+
+
+- Né Mage : Les Nés mages sont des humains qui n’ont pas eu besoin d’apprendre la magie pour la maîtriser. Ils peuvent nativement connaître des formes de magies Élémentaires, Spirituelles, 
+
+Ex : Taliyah / 
+
+
+
+- Altéré (Humain) : Il arrive que certains Humains soient altérés par une forme de magie, de la technologie, des artéfacts, des produits, des malédictions ou autres possibilités originales rendant le corps de votre personnage unique.
+
+Ex : Ryze (magie) / Camille (Technologie Hextech) / Mundo (Chemtech) /
+
+
+
+
+
+
+
+
+
+Les Vastayas :      [WIKI]
+
+Les Vastayas sont des êtres magiques souvent proches du monde spirituel et très concentrés dans la région d’Ionia, mais on peut en retrouver un peu de partout dans Runeterra grâce aux nombreuses tribus qui ont élu domicile dans des zones plus propices à leurs caractéristiques et leur mode de vie. Ils se différencient en plusieurs catégories de sous-espèces . On peut également trouver différentes hybridations de ces mêmes sous espèces.  
+
+
+
+Bonus : Possèdent nativement 05 de RM de Base 
+
+Malus : Doit obligatoirement avoir de la Magie Vastaya en Spécial 1 ou 2
+
+
+
+
+
+- Binkehri : Ces Vastayas ont une apparence d’un mélange de cochon et de singe avec de longues griffes, et souvent des poils sombres, gris parfois un peu bleutés ou violet. Ils aiment ce qui brille et détestent la mer. 
+
+Ex : Jocbar /
+
+
+
+- Bryni : Tribu de Vastaya du Freljord, ils sont plutôt discrets et ont une apparence humaines avec des traits de lièvres des neiges. 
+
+Ex : Aurora
+
+
+
+- Kiilash : Tribu de chasseurs originaires d’Ixtal, les Kiilash ont une apparence de félins bipèdes doués pour la dissimulation, leur rapidité et leur spécialité : la traque.
+
+Ex : Rengar / Torkan
+
+
+
+- Khonlui : Cette espèce de vastaya à l’apparence d’Ours-Rhinocéros est très peu développée dans Runeterra. Ils sont des forces de la nature évidentes.Ex : 
+
+
+
+Bonus : Possèdent nativement 05 d’ARM de Base 
+
+Malus : Peu de Discrétion et de Dextérité (un de ces Attributs au choix doit être en Malus Permanent et l’autre à 50 max et à -10).
+
+
+
+- Lhotlan : Ce sont des Vastayas assez répandus à l’apparence humaine et aux pattes digitigrade ornées de griffes acérées. Ils ont de grandes oreilles pointues velues sur la tête et certains d’entre eux possèdent des plumes et parfois même des ailes mais inutiles pour le vol. Ex : Xayah / Rakan
+
+
+
+- Marai : Originaires d’une ville sous-marine, les Marais sont un peuple de vastaya des mers proche d’une apparence de poissons humanoïdes, mais se différencient des Homme-Poissons par leur origine magique. C’est un peuple pacifique et discret mais protecteur et curieux. 
+
+Ex : Nami /
+
+
+
+- Mōhkura : Ces Ours-Castors sont une tribu de Vastayas endémique d'Ixtal (au même titre que les Kiilash). De nature pacifiste, ils vivent dans les immenses arbres d'Ixtal où ils construisent leurs campements. Leur imposante carrure est complétée par une immense queue de castor, leur principal atout, ainsi que de puissantes incisives et de longues moustaches. Ils cultivent un miel magique unique qui renforce considérablement leur magie vastaya. 
+
+Ex : Chepu /
+
+
+
+Bonus : Possèdent une imposante queue de Castor (arme et outil principale). Si consommé, leur miel leur confère +10 de DM sur leurs compétences magiques.
+
+Malus : Peu de Discrétion et d’Endurance (un de ces Attributs au choix doit être en Malus Permanent et l’autre à 50 max et à -10).
+
+
+
+- Nirask : Ce sont des vastayas aux traits de rongeurs humanoïdes en tout genre. Du furet à la fouine en passant par le porc-épic ou l'opossum. Ils sont plutôt répandus dans tout Runeterra. 
+
+Ex : Ernest / Bojack
+
+
+
+- Ondrashi : Tribu des montagnes Ioniennes, les Ondrashis ont une apparence de bouc, de chèvres, de mouflons et de chamois. Doués pour le déplacement en terrain arpenté, ils se sont spécialisés dans le combat et le soin. C’est un peuple craintif et sur ses gardes de différentes menaces qui les entourent, ils ne communiquent que très peu et peuvent passer des jours sans parler.
+
+Ex : Wako /
+
+
+
+- Oovi’kat (Spécial 1 ou 2 : Métamorphe) : Ces Vastayas Reptiles possèdent une forme de magie unique à Runeterra. Contrairement aux simples illusions, ils sont capables de se métamorphoser biologiquement en d'autres espèces. Extrêmement rares, ils sont la cible de nombreux bandits et braconniers, qui convoitent cette espèce aussi fascinante qu'exceptionnelle.
+
+Ex : Neeko / Daani
+
+
+
+Bonus : Peut se transformer physiquement et biologiquement en une autre espèce observée suffisamment de temps à l’avance. Possèdent une “mémoire métamorphe” qu’ils apprennent à développer pour se retransformer en des êtres déjà transformés au préalable. 
+
+Malus : L’Attribut de Magie Vastaya doit obligatoirement correspondre à ses compétences de  Métamorphose. Ils sont victimes de fréquentes attaques de braconniers et bandits en tout genre. Les PV de Base sont limités à 110 max et ont -20 d’Attributs à placer dedans. Ex : Si je veux 60 de PV de Base (minimum obligatoire) je dois placer 80 points. Si j’en veux 110 (Maximum obligatoire) je dois placer 130 points.
+
+- Ophelis : Avec des traits de Cerf, ils sont reconnaissables grâce à leur apparence mi humaine mi Cerf, avec des oreilles de cervidés, des bois, des sabots, et une peau ou une fourrure brune à tache blanche.
+
+Ex : LoR Ex /
+
+
+
+- Ottrani : C’est une Tribu Vastayas que l’on retrouve en majorité à Targon. Ils ont la peau violette ou bleue avec des rayures ou des marques. Leur apparence est très inspirée des chèvres des montagnes, mais parfois des zèbres et léopards. Il peuvent tirer plus vers l’humain que l’animal, avec des cheveux et des cornes. Ils sont proches des Cabricornes (Familier / Monture) et sont plus susceptibles de posséder une forme de Magie Céleste.
+
+Ex : Soraka / Minessa / 
+
+
+
+- Shimon : Cette espèce de Vastaya à l’apparence de singe est répandue et variée. Il en existe autant des combatifs que des pacifistes. Leur taille varie selon leur apparence aux différents types de singes existants. 
+
+Ex : Wukong / Laïda 
+
+- Strig : Ils ont une apparence de “Papillons Reptiliens” et appartiennent aux Tribus du Ciel. Il ne s'agit pas de véritables papillons, mais d'une apparence mêlant des caractéristiques de reptiles et d'insectes ailés.
+
+Ex : 
+
+Bonus : Peuvent planer et voler temporairement. 
+
+Malus : Sont très peu mobiles au sol. 50 d’Agilité max, -10 de Réflexes et -30 d’Endurance au sol
+
+
+
+- Vesani (Spécial 1 : Appétit Vesani) : Bien que cette espèce de Vastaya ait disparu il y a de nombreuses années, il est tout de même possible qu’il en subsistent encore quelques-uns dans Runeterra (avec une bonne explication). Ils ont une apparence humaine, avec plusieurs queues de renard, des oreilles pointues et une forme de magie unique et dangereuse (Appétit Vesani) capable de vider un corps de ses émotions voir son énergie spirituelle s’il est mal maîtrisé. 
+
+Ex : Ahri / 
+
+
+
+- Hybridation : 
+
+
+
+
+
+- Altéré (Vastaya) : Comme toutes les autres espèces, il arrive que certains Vastayas soient altérés par une forme de magie, de la technologie, des artéfacts, des produits, des malédictions ou autres possibilités originales rendant le corps de votre personnage unique.
+
+Ex : 
+
+
+
+
+
+
+
+Les Yordles :      [WIKI]
+
+Les Yordles sont de petites créatures magiques originaires de Bandle, un royaume dissimulé par la magie et inaccessible à quiconque n'en connaît les secrets. Leur apparence est aussi variée que leur personnalité : poils courts ou longs, barbes, couleurs multiples, cornes, oreilles, tout sauf la queue qui elle à disparu avec leur évolution. Bref, chaque Yordle est unique tant par son physique que son tempérament.
+
+
+
+Sous leur allure inoffensive se cachent des êtres très curieux. Dotés d'une magie aussi étrange qu'imprévisible, ils possèdent un tempérament fantasque, même si certains s'adaptent bien mieux au monde des humains que d'autres, on les appelle les civilisés.
+
+
+
+Les Yordles sont techniquement immortels. Lorsqu'ils meurent, ils réapparaissent à Bandle sous une forme légèrement différente. Leur personnalité, leur manière de penser et parfois même certains de leurs traits physiques peuvent alors être modifiés.
+
+
+
+Bonus : Possèdent nativement 05 de RM de Base. S’ils meurent, ils peuvent être rejoué mais en changeant tous leurs Attributs, et en changeant totalement leur caractère. 
+
+Malus : Doit obligatoirement avoir de la Magie Yordle en Spécial 1 ou 2. PV de base entre 50 et 110 max.
+
+
+
+
+
+- Yordles Communs : Les Yordles de Bandle sont généralement déconnectés des réalités de Runeterra. Bien qu'il leur arrive de voyager à travers le monde, ils demeurent peu familiers avec les coutumes et les modes de vie des autres peuples. Avec le temps, ils finissent toutefois par les comprendre et à s'y adapter. Cependant, seuls les Yordles civilisés s'accommodent naturellement de la société.
+
+Ex : Corki / Tristana / Lulu
+
+
+
+- Yordles Civilisés : Contrairement à leurs congénères, ces Yordles vivent à Runeterra depuis de nombreuses années et se sont parfaitement adaptés à ce monde. Cette différence s'explique généralement par leur tempérament et leur personnalité, qui les poussent à se sentir davantage chez eux de ce côté de la dimension que dans leur Bandle natal. Ce phénomène survient le plus souvent après une ou plusieurs morts, chaque renaissance modifiant subtilement leur nature et les rapprochant un peu plus de Runeterra.
+
+
+
+Avec le temps, leur caractère fantasque s'estompe progressivement. Leur magie, devenue presque inutile dans leur quotidien, s'estompe peu à peu jusqu'à parfois tomber dans l'oubli, tant ils en font rarement usage.
+
+Ex : Heimerdinger / Silvio / Poppy / Kennen
+
+
+
+- Yordles Préhistoriques : Cette variété de Yordles est unique et d'une extrême rareté. Il n'en existerait qu'une poignée à travers Runeterra. Leur principal trait distinctif est la présence d'une queue, un attribut que les Yordles ont perdu au fil des siècles.
+
+
+
+Cependant ces Yordles ont la fâcheuse tendance à se transformer temporairement en une immense bête sauvage et destructrice.
+
+Ex : Gnar
+
+
+
+Bonus : Peut se transformer en un grosse bête sauvage et destructrice et booster tous ses Attributs temporairement.
+
+Malus : Cette transformation prend la place du Passif et de l’Ultime.
+
+
+
+- Altéré (Yordle) : Comme toutes les autres espèces, il arrive que certains Yordles soient altérés par une forme de magie, de la technologie, des artéfacts, des produits, des malédictions ou autres possibilités originales rendant le corps de votre personnage unique.
+
+
+
+
+
+
+
+
+
+Les Chiréens :
+
+Ces créatures chauve-souris humanoïdes ne sont pas des Vastayas mais bien une espèce à part entière. Contrairement aux Vastayas, ils sont démunis de magie. Les premiers ont été découverts à Zaun et bien que certains d’entre eux se soient répandus à travers Runeterra, la plupart restent dans cette région. Ils sont dans l'incapacité de parler les langages humains à cause de leurs systèmes de communication unique à base de gazouillis et de clics, mais ils peuvent comprendre selon leur facultés (Concentration). Ce sont des êtres un peu plus grands que la moyenne humaine, à la peau grise, claire, sombre et violette, avec de grandes oreilles pointues et des yeux vert capable de voir dans l'obscurité. Bien qu’ils aient 5 doigts aux mains, ils possèdent des jambes digitigrades de 3 doigts. Ils sont généralement habiles, agiles et très à l'aise avec la technologie et ont une résistance innée aux environnements hostiles comme Zaun grâce à leur adaptation hors du commun.
+
+Ex : Scar / Bo
+
+
+
+Bonus : +10 en Social au choix parmis Charisme, Persuasion ou Intimidation
+
+Malus : Ne peut physiquement pas parler de langues humaines (les autres joueurs le comprennent).
+
+
+
+
+
+- Altéré (Chiréens) : Comme toutes les autres espèces, il arrive que certains Chiréens soient altérés par une forme de magie, de la technologie, des artéfacts, des produits, des malédictions ou autres possibilités originales rendant le corps de votre personnage unique.
+
+
+
+
+
+
+
+Les Maréens : 
+
+Ces créatures à l’apparence de différents poissons au corps humanoïde ne sont pas des Vastayas car ils sont démunis de magie. Ils ont été découverts dans la région de Bilgewater. Ils sont naturellement fait pour la navigation et se sont bien répandus à travers tout Runeterra par ce fait. Presque tous les équipages de Bilgewater en ont au moins un sur leur flotte. Il n’y a pas vraiment de sous-espèces bien qu’ils se différencient selon la race du poisson auquel ils tirent leur ressemblance. Il en existe des petits (environ 1 mètre) comme de très grands (2 à 3 mètres) et ont des caractéristiques propres à leur apparence physique.
+
+Ex: Jack / Steb / Nukkle / Leonard / Angel / Jericho 
+
+
+
+Bonus : Peuvent respirer sous l’eau. Possèdent un Attribut Spécial selon leur morphologie unique lié à leur compétences.
+
+
+
+Ex : Si type Espadon, possède un Attribut lié à son utilisation de son bec pointu. Si type Diodon, possède un Attribut lié à son gonflement et ses piques. 
+
+Malus : Multiplie x2 les Effets de Froid s’ils sont subis.
+
+
+
+
+
+- Altéré (Maréens) : Comme toutes les autres espèces, il arrive que certains Maréens soient altérés par une forme de magie, de la technologie, des artéfacts, des produits, des malédictions ou autres possibilités originales rendant le corps de votre personnage unique.
+
+
+
+
+
+
+
+Les Minotaures :      [WIKI]
+
+Les minotaures ne sont pas très répandus à Runeterra. Leurs tribus étaient plutôt centrées aux alentours de Noxus et Piltover. Mais une grande partie d’entre eux ont rejoint les rangs de Noxus. Doté d’une grande bravoure et de beaucoup de détermination, la plupart sont de très grande taille et forte corpulence. Mais dans de rares cas, ils se peut qu'ils aient une taille plus commune et une silhouette plus svelte mais cela ne les empêche pas d’avoir une peau robuste naturellement. Étant peu communs dans Runeterra, ils peuvent avoir des difficultés à s’adapter et s’intégrer aux autres régions du monde.
+
+Ex : Alistar / Aelana / Broadmane /
+
+
+
+Bonus : Leur peau solide leur confère 5 ARM de Base.
+
+Malus : Les autres espèces ont tendance à être méfiantes envers eux. Ils peuvent subir de la discrimination et de la crainte plus facilement. -20 en Charisme et Persuasion avec les autres espèces, mais si le jet échoue, ils gagnent +10 en Intimidation. 
+
+
+
+
+
+- Altéré (Minotaure) : Comme toutes les autres espèces, il arrive que certains Minautores soient altérés par une forme de magie, de la technologie, des artéfacts, des produits, des malédictions ou autres possibilités originales rendant le corps de votre personnage unique.
+
+Ex : Thea /
+
+
+
+
+
+
+
+Les Demi-Trolls : 
+
+Nous n'avons que très peu d’informations sur les Demi-Trolls mais nous savons qu’il en existe deux types distincts, ceux des Sables et ceux des Glaces. Ils sont souvent rejetés par les leurs, que ce soit du côté des Trolls pour leur petite apparence et leur similitudes avec les Humains, et du côté des Humains pour les mêmes raisons. 
+
+
+
+- Demi-Trolls des Sables : 
+
+Ex : Jax / 
+
+
+
+- Demi-Trolls des Glaces :
+
+Ils sont un croisement magique (et non biologique) entre les Humains et les Trolls des Glaces. Très mal vu au Freljord, ils sont souvent victime de discrimination par les hommes qui les considèrent comme des abominations et des traintres à la race humaine. Ils sont cependant tolérés sur les territoires des Trolls et certains se sont même ralliés à leur cause. Il n’existe qu’une seule petite tribu des Demi-Trolls dans tout le Freljord nommés les Drömkas. Cette tribu nomade vit dans les zones les plus reculées du Freljord ou peu d’humains s’aventurent. 
+
+Ils sont très doués avec les arc, ils en possèdent un dès leur naissance qu’il feront évoluer avec eux. C’est un symbole de leur force. Ils apprennent également à se battre avec au corps à corps.
+
+Ex : Kimök / Mekra 
+
+
+
+Bonus : Possèdent un Arc en arme supplémentaire. Minimum 50 de Perception et +10 Perception Supplémentaires. Tous leurs jets à l’Arc (sauf si Spécial) se font sur la Perception.
+
+Peuvent être tolérés sur les territoires des Trolls des Glaces.
+
+Malus : Sont très discriminés par les Freljordiens. Doivent se cacher au maximum. Peuvent être interdits dans des Habitations, voire des Villes.
+
+
+
+
+
+- Altéré (Demi-Troll) : Comme toutes les autres espèces, il arrive que certains Demi-Trolls soient altérés par une forme de magie, de la technologie, des artéfacts, des produits, des malédictions ou autres possibilités originales rendant le corps de votre personnage unique.
+
+
+
+
+
+
+
+Les Golems et Mechas : 
+
+Les machines de Runeterra sont en grande partie créées à Piltover, mais certains Golems peuvent être issus d’enchantement de toute part du monde. 
+
+Leur organisme étant différents de ceux des autres espèces, les Mechas et les Golems voient leur vitalité être gérée différemment.
+
+
+
+Bonus : +20 PV de Base. Leur PV de Base est une barre de vie liée à leur mécanisme ou leur composition physique. Les PV d’équipement agissent normalement. Peuvent se soigner avec des éléments différents (Minerais, Magie, Bricolage, etc). Ne peuvent techniquement pas mourir.
+
+Malus : Leur santé est plus difficile à se régénérer. Pas de soin par l’alimentation ou le repos. Uniquement liée à leur métabolisme. Une fois à 0 PV, ils sont soit détruits soit hors-service et doivent être reconstruit ou réparé. 
+
+
+
+
+
+- Les Golems :
+
+Ex : Galio / 
+
+
+
+- Les Mechas : 
+
+Ex : Blitzcrank / 
+
+
+
+
+
+
+
+
+
+
+
+RÉGIONS
+
+
+
+	Runeterra est divisé en plusieurs régions avec chacunes d’entre elles leur 
+
+
+
+
+
+Freljord :
+
+Région principale de l’aventure, le Freljord est une terre unique et particulièrement froide. Les Freljordiens sont nativement plus résistants au froid
+
+Bonus : Résiste nativement (sans équipement) au Froid du Freljord de Niveau 1 et 2. Puis 2 niveaux de différence au Niveau 3, 1 Niveau de différence au Niveau 4 et le Niveau 5 pareil pour tous.
+
+Malus : Plus la résistance native au froid est élevée, plus le joueur doit connaître les coutumes des régions du froid concernées (Voir Carte Niveau de Froid).
+
+Ex : 
+
+- S’il est résistant de +2 Niveaux de Froid il devra apprendre les coutumes des régions du Niveau 1 et 2. Dans le Niveau 3 de Froid, il devra s’équiper avec du Niveau 1. S’il est au Niveau 4 de Froid, avec du Niveau 3.- S’il est résistant de +1 Niveaux de Froid il devra apprendre les coutumes des régions du Niveau 1. Dans le Niveau 2 de Froid, il devra s’équiper avec du Niveau 1. S’il est au Niveau 3 de Froid, avec du Niveau 2, etc…
+
+
+
+
+
+Demacia : 
+
+Très présente dans ce jeu, Demacia est une région voisine au Freljord. Elle est un symbole de justice, de droiture et de politique. Les habitants ont récemment connu une guerre civile, une révolte des mages enfermés et stigmatisés. Caractérisé par ces immenses et somptueux batiments blanc d’un matériaux rare nomé Pétricite, la ville offre à ses habitants une protection naturelle contre la magie environante. La ville possède une armée des plus puissantes et des plus disciplinées de tout Runeterra, des bataillons uniques, mais peu de mixité d’espèce dû à sa longue période de sanction aux différentes formes de magies.
+
+
+
+Noxus : 
+
+Souvent perçue comme une région sombre et menaçante, l’empire Noxien est un empire conquérant. Il ne fait de distinction que par la puissance et l’ambition d’une personne. Sa ville grisâtre et brut semble apporter aux habitants tout le nécessaire pour s’y développer convenablement : Sécurité grâce à l’armée Noxienne très disparate et dévouée, Divertissement grâce aux nombreuses attractions comme les Arènes et autres lieu de plaisirs, 
+
+
+
+Piltover : 
+
+Comme le reste du monde l’appelle, la ville du progrès est la ville la plus développée technologiquement parlant grâce à ses nombreux ingénieurs et sa technologie unique : l’Hextech. 
+
+
+
+Zaun : 
+
+La nation de Zaun est littéralement dans les bas-fond de Piltover. Elle est dans l’ombre de cette dernière et y vivre (ou plutôt y survivre) demande plusieurs facteurs importants. La réputation, la malice, la détermination, … Contrairement à Piltover et à la pureté de l’Hextech, Zaun doit son succès au Chemtech. Cette Techno-chimie lui permet d’altérer et d’augmenter son corps.
+
+
+
+Shurima : 
+
+Terre aride et chaude, Shurima est à l’antipode de ce qu’est le Freljord. C’est un une région qui est sur le continent du même nom au sud de Valoran. Inspiré de l'Égypte antique, Shurima est une terre difficile à s'y aventurer sans en connaître les dangers qui sévissent de part et d’autre de la région. Un Shurimien est souvent formé dès sa naissance à faire face à ces différents dangers pour survivre. Ils sont souvent bien vus dans tout Runeterra. 
+
+
+
+Bonus : +10 sur tous les jets liés à l'exploration et à la survie, connaissances de survie dans les lieux hostiles, et connaissances sur le Néant.
+
+Malus : -1 de Résistance au Froid.
+
+
+
+Ionia : 
+
+
+
+
+
+Bilgewater : 
+
+
+
+
+
+Ixtal : 
+
+
+
+
+
+Targon : 
+
+
+
+
+
+Les îles Obscures : 
+
+
+
+
+
+Camavor : 
+
+
+
+
+
+Bandle : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAGIE ET TECHNOLOGIE
+
+
+
+
+
+La magie est omniprésente sur Runeterra. Certaines personnes en sont dotées dès la naissance, de par leur race ou grâce à un attribut inné (comme les Nés Mages). Mais même démuni de magie, il reste possible d’en apprendre certaines formes (Magie Runique et Élémentaires), ou de recourir à de puissants rituels pour en acquérir les capacités (Rituel de l’Ascension ou Ascension du Mont Targon).
+
+
+
+
+
+LES DIFFÉRENTS TYPES DE MAGIES : 
+
+
+
+
+
+Magie Élémentaire : 
+
+La magie élémentaire est la forme de magie la plus répandue à travers Runeterra. Bien qu'elle soit maîtrisée avec une expertise inégalée à Ixtal, de nombreux individus, aux quatre coins du monde, en possèdent l'affinité, parfois dès leur naissance.
+
+
+
+Son énergie circule à travers les éléments qui composent Runeterra, des plus communs, comme le feu, l'eau ou l’électricité, aux manifestations les plus rares et inattendues, comme le fer, le son et même le temps (oui oui). Certaines affinités élémentaires peuvent également se combiner entre elles, voire fusionner avec d'autres formes de magie, donnant naissance à des pouvoirs uniques.
+
+
+
+- Feu : Chaleur, matérialisation, manipulation, destruction - Offensive,  santé 
+
+
+
+- Vent : Rafales et déplacements - Offensive (Matérialisation du vent), défensive (Bouclier et déviation), Manipulation (Contrôle de poche d’air).
+
+
+
+- Roche : Manipulation de Terrain et Prolongation de forme - Offensive, défensive, construction, déplacement.
+
+
+
+- Terre : 
+
+
+
+- Eau : Manipulation - Défensive, santé, contrôle, déplacement.
+
+
+
+- Électricité/Foudre : Offensive, déplacement, santé.
+
+
+
+- Glace : Manipulation de glace, création de glace, contrôle de température, offensive, défensive, Manipulation Glace Pure (si sublimé ou très grande maîtrise)
+
+
+
+- Lumière (Très Rare) : Création, contrôle, manipulation, matérialisation, onde magnétique - offensive, défensive, contrôle, santé, illusion, 
+
+
+
+- Métal (Feromancie) (Très Rare) : Manipulation, prolongation, - Défensive,  offensive, contrôle, déplacements,
+
+
+
+- Magnétisme (Rare) : Manipulation, - Contrôle, déplacement
+
+
+
+- Flore : Matérialisation, manipulation, prolongation, - Soin, contrôle, déplacement, offensive.
+
+
+
+- Son (Rare) : Manipulation, vibration, ondes, émotion, état - Support, contrôle, offensif, (Lien Spirituel)
+
+
+
+- Temps/Chronomancie (Oui à Runeterra, le temps est un élément) (Extrêmement Rare) : Manipulation, - Contrôle, 
+
+
+
+
+
+Magie Spirituelle : 
+
+La magie spirituelle est bien plus complexe qu'une simple forme de magie liée au monde des esprits. Elle trouve son origine dans les différents plans d'existence de Runeterra, chacun obéissant à ses propres lois et possédant un degré de compréhension plus ou moins accessible aux mortels.Le Monde Spirituel est séparé du monde matériel par un voile invisible. Au-delà de cette frontière se trouve un royaume où prennent forme les esprits, les concepts et les forces fondamentales qui influencent Runeterra. Certains esprits incarnent l'essence même d'espèces animales ou végétales, d'autres personnifient des émotions, des idées ou des concepts nés de la conscience des peuples de Runeterra. Enfin, certaines entités représentent des principes si anciens ou si abstraits qu'ils échappent totalement à la compréhension des êtres vivants.Les divinités elles-mêmes puisent leur pouvoir dans les lois fondamentales qui régissent ce plan d'existence. Elles en comprennent les mécanismes et en manipulent les énergies sans pour autant résider nécessairement au sein du Monde Spirituel.Les liens qu'un mortel peut tisser avec ces royaumes sont multiples. Certains naissent d'une faveur accordée par un esprit, d'autres sont le fruit d'une magie ancienne ou d'un rituel ayant altéré leur essence. Il arrive également que certains individus soient liés, parfois dès leur naissance, à un esprit intimement connecté aux mécanismes du Monde Spirituel, faisant d'eux des intermédiaires privilégiés entre les deux mondes. Dans de rares cas, certains êtres sont parvenus à façonner leur propre plan d'existence. Bien que ces mondes possèdent leurs propres lois, les fondements de la magie y demeurent inchangés.
+
+
+
+
+
+- Lien des Esprits  : La magie spirituelle permet d'entrer en communion avec les esprits. Toutefois, cette communication est rarement aussi claire qu'une simple conversation ou qu'une vision parfaitement limpide. Elle se manifeste le plus souvent à travers des signes, des pressentiments, des ressentis, des manifestations magiques ou encore des phénomènes d'incarnation.
+
+Les individus les plus talentueux peuvent parfois entendre distinctement les paroles des esprits, voire entrevoir ce qui se cache au-delà du voile séparant le monde matériel du monde spirituel. Dans de très rares cas, certains sont même capables de franchir ce voile et de pénétrer dans le royaume des esprits eux-mêmes.
+
+
+
+
+
+- Rituel : Des formules anciennes ainsi que de mystérieux symboles ont permis de démontrer que la magie peut traverser les frontières séparant les différents mondes. Cependant, peu d’individus sont capables de maîtriser ce langage. Même après l'avoir appris, il faut de nombreuses années d'étude, de pratique et d'expérience pour en comprendre les subtilités et l'utiliser correctement.
+
+
+
+Cette discipline permet d'invoquer et de canaliser les pouvoirs magiques des êtres qui peuplent le monde spirituel, qu'il s'agisse de sa faune, de sa flore ou d'autres entités qui y résident.
+
+
+
+
+
+- Méditation : La méditation constitue une forme de magie spirituelle centrée sur son propre état. Elle puise sa force dans la spiritualité du lanceur, lui permettant d'atteindre différents états de conscience. Grâce à cette maîtrise intérieure, il peut accélérer sa régénération, renforcer temporairement ses capacités physiques ou mentales, ou encore accéder à des facultés hors du commun.Dans de plus rares cas, un maître suffisamment expérimenté peut étendre l'influence de sa propre spiritualité à son entourage. Il est alors capable de partager ses états bénéfiques avec ses alliés, ou au contraire d'imposer à ses ennemis des émotions, des visions ou des états spirituels déstabilisants, pouvant aller jusqu'à les plonger dans des troubles psychiques ou des altérations de l'esprit.
+
+
+
+
+
+- Art Martiaux : Il existe de nombreuses formes d'arts martiaux permettant de canaliser les différentes magies liées à la spiritualité de Runeterra. Chacune repose sur une philosophie et une manière unique d'interagir avec les forces spirituelles.Le Wuju, par exemple, consiste à harmoniser sa propre essence spirituelle avec celle de son adversaire afin de transcender les limites du corps et de l'esprit. L'Ordre Kinkou, quant à lui, cherche à préserver l'équilibre entre les mondes matériel et spirituel grâce à une discipline fondée sur la méditation et la maîtrise de soi.D'autres écoles mêlent également la spiritualité à la magie élémentaire. C'est notamment le cas des Techniques du Vent de l'ancien maître Souma, transmises à Yasuo et Yone, ou encore de la Danse des Lames d'Irelia, où la volonté et l'énergie spirituelle se fondent pour guider des armes avec une précision surnaturelle.
+
+
+
+
+
+Magie Runique : 
+
+La magie runique est l'essence même de Runeterra. Elle repose sur un langage ancien qui puise son énergie dans la magie, invisible à l'œil nu, naturellement présente dans le monde. Grâce à elle, il est possible de manipuler les lois des différentes formes de magie existantes afin de les ancrer dans un environnement, un objet ou même un être vivant.
+
+
+
+Contrairement aux autres types de magie, qui tirent directement leur pouvoir de leur propre source, la magie runique dépend des énergies qu'elle canalise. Si ces dernières viennent à manquer ou s'éloignent, les runes finissent par perdre leur puissance. Cependant, certains des plus grands mages sont parvenus à contourner cette limite grâce à des mécanismes, des artefacts ou des ressources d'une rare ingéniosité.Accessible en théorie à quiconque souhaite l'étudier, la magie runique demeure l'une des disciplines les plus complexes à maîtriser, en particulier pour les individus dépourvus de toute affinité magique. Néanmoins, les découvertes récentes ont bouleversé bien des certitudes, notamment lorsqu'un simple humain est parvenu à associer la science à la magie runique pour donner naissance à une nouvelle forme de pouvoir : l'Hextech.
+
+
+
+
+
+- Les Pierres Runiques : 
+
+Ce sont des pierres, naturelles ou façonnées, gravées de symboles déterminant leurs propriétés magiques. Elles peuvent être utilisées directement à travers son détenteur ou activées par certaines aptitudes physiques, à condition d'en maîtriser le fonctionnement.Leur énergie n'est pas infinie : une fois épuisée, une rune peut toutefois se recharger si elle est exposée à une source de magie correspondant à celle dont elle tire son pouvoir.
+
+
+
+- Les Artefacts : 
+
+Certains objets peuvent contenir de la magie. Pour cela, ils doivent être gravés de runes et imprégnés de la forme de magie correspondante. À l'image des pierres runiques, les artefacts exploitent cette énergie selon leur propre fonctionnement.Leur efficacité est toutefois bien supérieure lorsque leur magie est directement alimentée par son propriétaire. À défaut, ils doivent être régulièrement exposés à une source de magie compatible afin de reconstituer leurs réserves d'énergie.
+
+
+
+- Les Environnements magiques : 
+
+Certains mages runiques sont capables d'interagir directement avec leur environnement grâce aux runes. Soit en utilisant l'énergie contenue dans une pierre runique ou un artefact, soit en puisant directement dans la magie présente autour d'eux. Plus cette source de magie est abondante, plus leurs sorts gagnent en puissance.
+
+
+
+
+
+Magie Céleste (Manifestation) : 
+
+Sans doute la forme de magie la plus puissante de Runeterra, la magie céleste puise son origine dans le Royaume Céleste, où résident les puissances cosmiques qui veillent sur l'équilibre de l'univers. Ces entités, appelées Manifestations, incarnent chacune un astre, une constellation et/ou un concept fondamental, et peuvent choisir de transmettre une partie de leur pouvoir à un mortel jugé digne de devenir leur avatar.
+
+
+
+Nul ne peut véritablement incarner une Manifestation, tant leur essence dépasse celle des êtres mortels. En revanche, certains élus sont capables d'accueillir une fraction de leur puissance et d'en devenir les réceptacles, héritant ainsi de capacités dépassant l'entendement. Chaque Manifestation possède une nature qui lui est propre, qu'elle soit liée à un corps céleste, à une constellation ou à une idée universelle. En voici quelques exemples.
+
+Ex : Léona (Soleil) / Diana (Lune) / Mira (Justice) / Taric (Protection)
+
+
+
+
+
+Magie Yordle : 
+
+D'origine inconnue, la magie Yordle est intimement liée à la nature même de cette espèce et ne peut être pleinement comprise par les autres peuples de Runeterra. Chaque Yordle développe sa propre manière d'exprimer cette magie, faisant de chacun d'eux un être unique. Malgré cette diversité, ils partagent plusieurs caractéristiques communes.
+
+
+
+Les Yordles sont des êtres immortels, capables de vivre pendant des siècles, voire des millénaires. Lorsqu'ils trouvent la mort, ils ne disparaissent pas définitivement : leur essence retourne à Bandle, où ils finissent par réapparaître. Toutefois, cette renaissance n'est jamais parfaitement identique. L'expérience de leur mort les transforme, modifiant leur personnalité, leur tempérament et parfois même certains de leurs traits physiques. Bien qu'ils conservent leurs souvenirs et leur identité, chaque retour à Bandle marque une nouvelle étape de leur existence. 
+
+
+
+Enfin, ils peuvent rejoindre Bandle, leur royaume d'origine, en empruntant divers portails magiques dissimulés à travers Runeterra.
+
+
+
+Leur magie est aussi imprévisible que leur personnalité. Elle peut se montrer féérique, fantastique, loufoque ou, au contraire, inquiétante et mystérieuse. Selon les individus, elle peut s'apparenter à de la magie d'altération, d'enchantement, de soin, d'illusion, voire à des formes de magie uniques qui défient toute classification.
+
+
+
+Encore largement méconnue des érudits de Runeterra, la magie yordle laisse une grande place au mystère. Ses véritables limites demeurent inconnues, offrant ainsi un vaste champ à l'imagination.
+
+
+
+
+
+Magie Interdite : 
+
+Lorsque l'on parle de magie interdite, il ne s'agit pas d'une forme de magie à part entière, mais d'une appellation désignant des pratiques jugées dangereuses, immorales ou contraires à l'ordre établi. Si certains royaumes et organisations en interdisent formellement l'usage, cette magie est, dans la plupart des régions de Runeterra, avant tout source de crainte, de méfiance et de jugement lorsqu'elle est pratiquée au grand jour.
+
+
+
+Pourtant, malgré sa réputation, la magie interdite n'est pas dénuée d'intérêt. Dans l'ombre, de nombreux érudits, mages, dirigeants ou individus aux intentions plus ambiguës reconnaissent son immense potentiel et n'hésitent pas à l'étudier, voire à l'utiliser discrètement lorsque les circonstances l'exigent. Car si son pouvoir est souvent considérable, le prix à payer l'est bien souvent tout autant.
+
+
+
+
+
+- Glace Obscure (ou Glace Noire) : Uniquement utilisée par Lissandra, la Glace Obscure est de la Glace Pure corrompue par le Néant qu’elle maintient enfermé. 
+
+
+
+- Nécromancie : 
+
+
+
+- Brume Noire : Cette magie provient inéluctablement de la Ruine. Fortement lié avec le monde spirituel mais corrompue ce qui lui donne cette teinte verte. 
+
+
+
+- Langages Interdits : Il existe dans ce monde des langues magiques si puissantes que le commun des mortels les ont interdits. Bien qu’ils soient presque impossibles à apprendre, cela peut arriver que certaines personnes en aient le savoir.Ex : Ochnun / Oknuün / Amaretsu
+
+
+
+- Magie des Ombres : Ordre de l’Ombre (Yànlèi) se téléporte, créer des objets, invoque être éthéré d’ombre, manipule les émotions, drain énergie spirituel (Quinlon)- Hémomancie : C’est une magie sombre, qui permet de se rajeunir, se soigner, modifier son corps et de contrôler le corps des êtres vivants.
+
+
+
+
+
+Technologies : 
+
+Toutes les formes de technologies 
+
+
+
+
+
+- Hextech : La « magie » hextech puise son énergie dans une gemme, façonnée afin de lui conférer une fonction précise à l’aide de runes. Une fois intégrée à un mécanisme ou à un artefact, et associée à une ingénierie souvent complexe, cette gemme alimente l'appareil en énergie magique, lui permettant d'accomplir des prouesses impossibles par des moyens conventionnels. Les propriétés obtenues dépendent autant de la qualité de la gemme que de l'ingéniosité de son concepteur.
+
+
+
+- Chemtech : Le Chemtech est un dérivé bâtard de l'Hextech, née à Zaun, avec la volonté de reproduire ou de surpasser ses prouesses par des moyens plus instables et moins coûteux. Elle exploite des composés chimiques aux propriétés parfois aussi puissantes que dangereuses.
+
+
+
+Grâce à eux, il est possible d'améliorer les performances de machines, de modifier durablement la biologie d'un organisme, ou encore de concevoir des explosifs, des toxines et des armes d'une puissance redoutable. Si son potentiel est immense, son utilisation reste souvent imprévisible et s'accompagne de risques considérables pour son créateur comme pour son environnement.
+
+
+
+- Technologie : Souvent confondue avec l'hextech, l'ingénierie mécanique repose pourtant sur des technologies plus conventionnelles. Elle englobe les armes à feu et tous les mécanismes fonctionnant grâce à la poudre, l'électricité, la vapeur, la pression ou toute autre ingénierie cohérente avec l'univers de Runeterra.
+
+
+
+Dépourvue de toute magie, elle n'en reste pas moins capable de produire des inventions aussi ingénieuses qu'efficaces.
+
+
+
+
+
+
+
+
+
+
+
+LES COMBINAISONS DE MAGIES
+
+
+
+
+
+Les magies combinées sont courantes dans le Lore du jeu, et donnent naissance à de puissants phénomènes quand elles sont maîtrisées. Cependant des dérivés ou pratiques limitées de ces magies sont possibles pour les joueurs. Beaucoup de magies imaginées par les joueurs seront possibles grâce à la magie combinée. 
+
+
+
+Magie des Mots/Langages (Spirituelle/Runique) : 
+
+Certains dialectes, inconnus ou même imprononçables pour la plupart des mortels, possèdent des propriétés magiques régies par leurs propres lois. Chaque langue renferme un pouvoir qui lui est propre : certaines permettent d'apaiser les esprits troublés, tandis que d'autres éveillent leur colère ou provoquent des effets bien plus redoutables.
+
+
+
+Perdus dans le temps, à peine audibles ou issus d'origines oubliées, ces langages puisent tous leur pouvoir dans une source magique, parfois connue, parfois profondément énigmatique.
+
+Ex : Ochnun / Oknuün / Amaretsu 
+
+
+
+
+
+Magie des Marques et Tatouages (Runique/Spirituelle/Hemomancie) : 
+
+On sait que certaines marques, formes, glyphes et autres symboles sont capables de puiser dans les énergies magiques qui les entourent. Fascinés par ce phénomène, certains individus ont commencé à expérimenter en gravant ces symboles directement sur le corps humain.
+
+
+
+Selon leur origine et la magie exploitée, ces tatouages peuvent être réalisés à l'aide d'encres aux propriétés uniques, de gravures, de scarifications ou d'autres procédés mystiques. Chacun confère des effets différents, en fonction de la magie qu'il canalise et de l'usage qui en est fait.
+
+
+
+
+
+Hématomancie (Hémomancie/Élémentaire) : 
+
+L'Hématomancie est une branche plus douce de l'Hémomancie, surveillée mais généralement tolérée, car considérée comme non immorale et non violente. Plutôt que de manipuler le sang directement, elle permet d'en exploiter les composants sans avoir à l'extraire du corps.
+
+
+
+Cette magie est utilisée pour renforcer les capacités physiques, modifier l'organisme, accélérer la guérison ou encore créer des structures organiques à partir des éléments naturellement présents dans le corps.
+
+
+
+
+
+Hémomancie (Élémentaire/Spirituelle) : 
+
+Techniquement, l'Hémomancie est une évolution de l'Hématomancie, développée pour repousser les limites de cette discipline. Bien plus agressive et invasive, elle ne se contente plus d'exploiter les composants du sang : elle permet de le manipuler directement, qu'il appartienne au lanceur ou à sa cible.
+
+
+
+Cette puissance lui offre des possibilités considérables de régénération instantanée allant à l’encontre des lois et valeurs humaines. Mais son caractère violent en fait une magie étroitement surveillée, voire interdite dans de nombreuses régions de Runeterra.
+
+
+
+
+
+Magie des Transfigurés/Baccai (Céleste/Élémentaire) : 
+
+Bien qu’il ne soit pas possible de jouer un Transfiguré, il est possible d'être connecté, de vénérer et d’accéder à la magie des Transfiguré, via un lien spirituel ou un artéfact directement lié au Transfiguré souhaité (Possible de l’inventer)Ex : 
+
+
+
+
+
+Magie des Darkin (Élémentaire/Spirituelle/Céleste/Hémomancie) : 
+
+
+
+
+
+
+
+Magie du Temps et Visions Prophétiques  (Élémentaire/Spirituelle/Céleste) : 
+
+Ces formes de magie doivent être utilisées avec la plus grande précaution. La Chronomancie ne permet pas de simplement « voyager dans le temps ». Toute tentative d'ouvrir une brèche temporelle entraîne en réalité l'ouverture d'une nouvelle dimension. Le monde semble alors presque identique, mais il ne s'agit plus exactement de la même réalité.
+
+
+
+Les visions prophétiques, quant à elles, peuvent être aussi bien symboliques que d'un réalisme saisissant. Elles ne révèlent que rarement des réponses explicites et sont souvent sujettes à interprétation. Mais elles peuvent aussi permettre d'entrevoir des événements ou des informations encore inconnus des joueurs, en observant une autre dimension où ces éléments se sont déjà révélés.
+
+
+
+Les choix des personnages peuvent influencer leur propre avenir, mais le cours du temps ne peut jamais être brisé au sein d'une même dimension. Le destin existe alors, mais il est propre à toutes les dimensions possibles du même univers. Ainsi, tout est possible à l'échelle du multivers, mais ce qui doit arriver dans la dimension vécue finira toujours par s'y produire.
+
+
+
+
+
+
+
+
+
+
+
+CRÉATION DE LA FICHE PERSO
+
+
+
+
+
+La liberté de création est l'un des principaux atouts de ce jeu de rôle. Les possibilités offertes aux joueurs et aux MJ sont immenses, et seule votre imagination en fixe les limites. Bien que quelques prérequis et contraintes existent afin de préserver l'équilibre du jeu, ils restent suffisamment légers pour ne pas brider votre créativité.
+
+
+
+Dans l'idéal, créez votre personnage en présence de votre MJ afin de définir ensemble des compétences équilibrées et cohérentes dès le début de l'aventure.
+
+
+
+
+
+Les personnages impossibles : 
+
+
+
+- Les Darkins
+
+- Les Néantins
+
+- Les Transfiguré
+
+- Les Baccai
+
+- Les Manifestations
+
+- Les Ursidés 
+
+- Les Démons
+
+- Les Vastayashai’rei
+
+- Les Spectres
+
+- Les Dieux (ou Demi-Dieux)
+
+
+
+A noter : 1. Il est possible de jouer un personnage possédant un lien avec des caractéristiques liées à l’entité tant que c’est équilibré et scénaristiquement cohérent. 
+
+
+
+Exemple : Personnage en contact avec une Manifestation (ou sa constellation) et prêche sa parole contre une partie de sa magie. 
+
+
+
+2. Il est déconseillé de jouer un personnage provenant de la région dans laquelle se déroule cette aventure sans connaître un minimum les coutumes.
+
+
+
+
+
+
+
+
+
+
+
+VOTRE PERSONNAGE
+
+
+
+
+
+Une fois votre Race et votre Région choisies, il est temps de créer les compétences de votre personnage. Elles peuvent provenir de l'une des différentes formes de magie ou de technologie présentées précédemment, d'un enchantement lié à une arme ou à un artefact unique que possède le joueur, ou de toute autre idée issue de votre imagination, tant qu'elle reste cohérente avec l'univers de Runeterra.
+
+
+
+Veillez toutefois à valider vos choix avec votre MJ afin qu'ils s'intègrent harmonieusement à son scénario.
+
+
+
+Ces compétences dépendent directement de vos 2 Attributs Spéciaux. Choisissez-les donc avec soin, car ils définissent une grande partie de l'identité et du gameplay de votre personnage.
+
+
+
+
+
+Les Résistances : 
+
+Les joueurs commencent avec des PV de Base entre 60 et 130 à se répartir depuis les points d’attributs de base. Certaines races ou Passifs peuvent conférer de l’ARM de Base ou de la RM de Base. Cette statistique étant très forte doit être au dépend d’un malus sur le personnage.
+
+
+
+A noter : Le joueur ne peut pas commencer avec plus de 5 en ARM de Base ou RM de Base à définir selon son Bonus de Race ou de Région. 
+
+
+
+
+
+Les Attributs Normaux : 
+
+Le joueur doit répartir ses 600 points dans ses Attributs de base. De la Force à l’Agilité en passant par le Charisme jusqu’au PV, tous ces Attributs sont à répartir selon les préférences du joueur, mais avec certaines règles à respecter dans leur répartition.	- Le Spécial 1 est automatiquement à 80, le Spécial 2 est automatiquement à 70 et le Métier est automatiquement à 60 et au Niveau 3 (Ces points ne sont pas comptabilisés dans les points de répartition).	- Les PV sont à prendre en compte dans les points de répartition. Le Minimum est de 60 (équivalent à un ADC) et le Maximum est à 130 (équivalent à un Tank).
+
+
+
+- Les 12 Attributs normaux sont à placer entre 20 et 70 sachant qu’il est obligatoire d’en avoir uniquement un à 80, et uniquement un à 10 qui sera le Malus Permanent. 
+
+
+
+A noter : 
+
+le Malus Permanent est un attribut qui ne peut être augmenté, ni avec des effets bonus, ni avec de l'équipement. Il est fixé à 10 tout au long de l’aventure. 
+
+Il est préférable de placer les valeurs d’Attributs par tranche de 10 et d’éviter les divisibles par 5 pour faciliter de potentiels calculs lors de la campagne.
+
+
+
+
+
+Les Attributs Spéciaux : 
+
+Choisissez 2 Attributs Spéciaux qui définissent vos compétences, une fois votre choix fait, voir Attributs Spéciaux pour en savoir plus.
+
+
+
+
+
+Le Passif : 
+
+Souvent là pour vous avantager une grande partie, il peut également desservir dans certains cas. Il peut être lié au Spécial 1 et/ou au Spécial 2 (1), ou même au caractère de votre personnage (2).
+
+
+
+
+
+(1) Lié au Spécial 1 (Magie Statique) du personnage, il peut se recharger plus rapidement
+
+s’il est en mouvement. 
+
+
+
+(2) Lié au caractère social du personnage (Charisme), il laisse souvent une impression
+
+positive, et parfois négative. 
+
+
+
+
+
+Les Compétences :
+
+Les compétences doivent être obligatoirement liées à Spécial 1 et Spécial 2. 
+
+La première compétence est liée au Spécial 1
+
+La deuxième compétence est liée au Spécial 2.
+
+La troisième compétence doit être utilisable avec le Spécial 1 et le Spécial 2. L’effet varie en fonction du Spécial utilisé.
+
+
+
+Ce format est le Format Standard.
+
+
+
+Exemple : Spécial 1 : Métamorphose / Spécial 2 : Analyse
+
+
+
+
+
+
+
+Il est également possible, en équilibrant convenablement les compétences, de rendre les 3 utilisables avec le Spécial 1 et le Spécial 2. Les deux spéciaux donnent chacun un effet différent pour chaque compétence.
+
+
+
+Ce format est le Format Polyvalent.
+
+Exemple : Spécial 1 : Magie Spirituel / Spécial 2 : Encre
+
+
+
+
+
+
+
+L’Ultimate : 
+
+Votre sort le plus fort, l’ultimate peut vous sortir d’une situation très critique ou périlleuse. Il peut être très fort, mais à utiliser avec précaution car il est limité à 3 utilisations durant toute la campagne. Utiliser les 3 peut être une mécanique pour créer un ultimatum à votre personnage, ou le faire changer de voie au cours de la partie.
+
+A noter : Certaines rares mécaniques du jeu peuvent ajouter une stack au cours de l’aventure.
+
+
+
+
+
+L’Équipement de Base : 
+
+Afin que vos joueurs ne commencent pas nu, vous pouvez leur donner un petit équipement de base. L’équipement peut être de qualité Usé ou Normal donc sans valeurs de statistiques ou d’enchantement ou de passif. Il peut s’inspirer de la région dont ils proviennent. 
+
+
+
+
+
+
+
+
+
+
+
+LE SYSTÈME
+
+
+
+
+
+JETS DE DÉS
+
+
+
+
+
+	Le système est basé sur du D100 (1 dé 10 et 1 dé Dizaine). Quand l’action d’un joueur demande utilisation d’un de ses attributs, alors le joueur lance un dé 100. 
+
+Si le résultat est ≤ à l’attribut, c’est une réussite. Plus l’écart est important, plus la réussite l’est également. 
+
+S’il est > à l’attribut, c’est un échec. 
+
+Si le résultat est entre 1 et 5 c’est une réussite critique et entre 96 et 100, un échec critique.
+
+
+
+
+
+Le D100 (1 dé dizaines et 1 dé unités) :
+
+Ces dés sont utilisés pour une très grande partie des actions communes et plus le résultat est haut, plus il représente un échec (sauf cas spécifiques précisés). 
+
+
+
+Les autres dés :
+
+Mon système est libre de faire les types de jets que vous désirez pour apporter la touche aléatoire au jeu, mais voici ce que j’utilise pour les dés.
+
+
+
+- 
+
+- D6 : Choix Trajet / Résistances (ARM/RM) / 
+
+- D4 : 
+
+- D12 :  
+
+
+
+
+
+
+
+
+
+
+
+INITIATIVE ET TOURS DES JOUEURS
+
+
+
+
+
+	Ce système vous aidera à déterminer l'ordre de prise de décision des joueurs. Toutefois, si vous êtes un MJ expérimenté, n'hésitez pas à l'adapter ou à y intégrer vos propres méthodes.
+
+
+
+L'initiative n'est pas quantifiée : les joueurs agissent à tour de rôle selon leur proximité avec l'événement ou la situation en cours.
+
+
+
+
+
+Initiative IRL :
+
+Si un joueur réagit spontanément avant les autres avec une idée ou une action immédiate, il prend naturellement l'ascendant et agit en premier.
+
+
+
+
+
+Action durant un Tour :
+
+Un tour représente une courte période durant laquelle chaques joueurs et chaques adversaires disposent d'un nombre limité d'actions, à déterminer selon la nature de celles-ci et le contexte de la scène. Une fois que chacun a agi, un nouveau tour commence.
+
+
+
+En combat, un tour représente environ 30 secondes de temps de jeu. Hors combat, il représente environ 5 minutes.
+
+
+
+
+
+Ordre des Tours :
+
+En règle générale, l'ordre de jeu commence par le personnage le plus proche de l'action, puis se poursuit selon l'ordre d'arrivée des autres protagonistes dans la scène. Si la situation vous semble difficile à visionner, n'hésitez pas à réaliser un plan rapide afin de mieux visualiser les positions de chacun. Veillez également à faire agir tous vos joueurs de manière équitable.
+
+
+
+
+
+En Combat : 
+
+Durant un combat, si un personnage est directement concerné par une attaque, il peut tenter de l'esquiver afin d'en réduire les dégâts, voire de les éviter totalement (Voir Réflexes en combat).
+
+
+
+Si une action s'étend sur plusieurs tours, elle peut être interrompue par une action adverse. Le MJ peut alors demander un nouveau jet de Réflexes afin de permettre au personnage de tenter d'esquiver cette interruption.
+
+
+
+Enfin, si un autre joueur se trouve suffisamment proche de la scène, il peut intervenir pour prêter assistance. Cette intervention nécessite toutefois un jet approprié, déterminé par le MJ en fonction de la situation.
+
+
+
+
+
+
+
+
+
+
+
+LES QUÊTES
+
+
+
+
+
+	Dans ce jeu de rôle, le scénario se découvre principalement au travers des différentes quêtes disponibles dans le Doc Quêtes. Certains PNJ possèdent également, dans le Doc Aventure, une rubrique « QUÊTES » contenant un lien direct vers le scénario correspondant.
+
+
+
+Ce système permet aux joueurs d'accumuler plusieurs quêtes au fil de leur aventure et de choisir librement celles qu'ils souhaitent poursuivre. Ils peuvent ainsi faire évoluer l'histoire à leur rythme, sans être contraints de terminer une quête avant de passer à une autre.
+
+
+
+
+
+Le Lexique des Quêtes :
+
+Dans une quête, on commence toujours par la manière ou par les personnages qui donnent accès à la quête, puis un paragraphe qui explique la manière dont la quête est donnée, et enfin les récompenses , de toutes étapes confondues s’il y en a plusieurs.
+
+
+
+Exemple : Par Personnage 1 :
+
+…
+
+
+
+Par Personnage 2 : 
+
+…Récompense : … 
+
+
+
+Par Avis de Recherche : 
+
+…Récompense : … 
+
+
+
+Ensuite, il y a dans un encadré la NOTE MJ qui permet au MJ de lire dans un paragraphe un résumé des éléments essentiels à savoir avant de lancer la quête.
+
+
+
+Puis la quête est divisée en plusieurs étapes (4.) et sous étapes(4-1.). Chaque étape peut être séparée par le temps, la distance, ou un nouveau personnage qui prend le relais de la quête. Durant les étapes il est possible d’ajouter des éléments d’informations supplémentaires pour le MJ sous le format NOTE MJ.
+
+
+
+Et enfin chaque étape peut avoir des récompenses, mais si elles n’en ont pas, la récompense est écrite à la fin.
+
+A noter : Il est possible que certains personnages vous proposent la quête à une étape déjà avancée sans que les joueurs n'aient à faire les étapes précédentes. 
+
+
+
+
+
+Les Quêtes Longues (ou Quêtes Principales) :
+
+Elles sont le scénario principal du jeu et permettent de lire les quêtes longues via les différents donneurs de missions, les PNJs liés à cette quête, les récompenses, etc. Les quêtes longues sont le pilier du Scénario du Jeu. Elles peuvent durer plusieurs sessions, permettent de vivre de véritables accomplissements, et donnent également souvent accès à d’autres plus petites quêtes.On retrouve dans le Doc Aventure, entre parenthèses à la fin du lien de la quête, l’étape à laquelle se référer dans le fichier en lien.
+
+
+
+Exemple : QUÊTE : - SUR LA VOIE DU MAGE BLEU (étape 2)
+
+
+
+
+
+Les Quêtes Courtes (ou Quêtes Secondaires) :
+
+Elles sont généralement bien plus rapides à accomplir, certaines sont finissables en une seule session, d’autres peuvent prendre plus de temps, mais elles restent relativement courtes. Elles se lisent exactement de la même façon que les Quêtes Longues. Elles peuvent également avoir plusieurs étapes que l’on retrouve entre parenthèses à la fin du lien de la quête.
+
+
+
+
+
+Les Quêtes Basiques :
+
+Elles ne sont pas présentées sous scénario car elles peuvent simplement rentrer en une seule phrase dans la rubrique QUÊTE des PNJs ou dans le Tableau des Quêtes à l’entrée des villes dans Fichier Aventure. On y retrouve généralement la récompense directement en parenthèse à la fin de la ligne de la quête.
+
+
+
+Exemple : 
+
+QUÊTE : - Livrez des cargaisons :                             - 2 caisse d'Ugvar/Ugvar Royal frais à Frostheld - 1.5J (60 Or)
+
+                                        - 3 caisses d'Ugvar/Ugvar Royal frais à Creux-de-Valar - 2J (60 Or)
+
+                             - Apportez lui 5kg de viande d’Elnük (Hache de Combat - 1 Main)
+
+
+
+
+
+
+
+
+
+
+
+L’ÉCONOMIE
+
+
+
+
+
+	Afin de simplifier la gestion des échanges, une monnaie commune est utilisée tout au long de votre aventure. Il est toutefois possible de rencontrer des devises locales, comme les Krakens d'Or et les Serpents d'Argent de Bilgewater. Au Freljord, en revanche, le troc reste le moyen d'échange le plus répandu.
+
+
+
+Pour connaître le prix des ressources, des équipements et des différents services, consultez le document Economie.
+
+
+
+
+
+Les pièces d’Or (Or) :
+
+Monnaie courante dans le Sud du Freljord, les pièces d’Or seront dans un premier temps le moyen de paiement principal du jeu. 
+
+
+
+A noter : Un “Salaire Moyen” équivaut à environ 60-70 Or. Se nourrir et se loger de façon modeste coûte 2 pièces d’Or par jour.
+
+
+
+
+
+Les pièces d’Argent (Arg) :
+
+Étant la monnaie secondaire, les pièces d'argent sont principalement utilisées pour les petits paiements (Nourriture / Logement / Ustensiles). 
+
+
+
+A noter : 10 pièces d’Argent = 1 pièce d’Or.
+
+
+
+
+
+Paiement selon le lieu :
+
+La monnaie est bien plus utilisée dans le Sud du Freljord (Frostheld, Creux-de-Valar) et à la capitale (Rakelstake Village) car l’économie de ces zones est bien plus développée. Les Avarosans cherchent à réunifier le Freljord et l’ouvrir au reste du monde, donc ces régions commencent à s'accommoder au système économique d’autres régions de Runeterra.
+
+
+
+Dans le Nord du Freljord, la monnaie devient presque obsolète pour les tribus présentes sur ces terres. La Nourriture et le Troc deviennent la principale source de paiement. 
+
+
+
+Le Troc et la Nourriture :
+
+Cependant, une grande partie de la région continue à pratiquer le troc, notamment contre de la Nourriture car le Freljord peut rencontrer du mal à nourrir son peuple. 
+
+
+
+
+
+La Monnaie Étrangère :
+
+Il se peut que selon les endroits et les personnages croisés, de tomber sur de la monnaie étrangère. Il est possible de payer avec dans les endroits ouverts au monde (Rakelstake/Frostheld/Fyord’al Kurgen) en négociant suffisamment bien. Il est également possible de faire fondre l’Or par un forgeron pour en faire des pièces mais avec un peu de perte (faire un jet pour déterminer la perte selon le Niveau du Forgeron). 
+
+
+
+
+
+ATTENTION : Le gameplay qui suit ne s’active qu’en cas de Voleur parmi votre équipe.
+
+
+
+La Fausse Monnaie :
+
+Bien que l’économie soit quelque chose d’encore peu répandu au Freljord, on peut déjà y retrouver de la fausse monnaie. Cependant pour éviter de se méfier à chaque paiement, elle n’est utilisée que par les Voleurs. C’est dans la Guilde des Voleurs qu’on en entend parler et que la fausse monnaie peut s’ajouter au gameplay des joueurs.
+
+Pour s’en procurer, il suffit d’en acheter à un Receleur. Les voleurs ont la possibilité de s’en fabriquer à partir d’un niveau avancé (voir Métier Voleur).
+
+
+
+A noter : 1 fausse pièce d'or coûte 5 Argent. Il n’y a pas de fausses pièces d'argent.
+
+
+
+
+
+Détection de la Fausse Monnaie :
+
+A partir du moment où vous ajoutez le gameplay de fausse monnaie, toute monnaie est susceptible d'être analysée lors de paiement. Un jet de Voleur est alors nécessaire pour duper sa victime. Si vous n’êtes pas voleur, alors le pourcentage de chances de réussite est basé sur la moyenne de la Persuasion du joueur la rareté du PNJ.- Commun : 60% 
+
+- Spécifique : 40%
+
+- Rare : 20%
+
+- Légendaire : 5%
+
+
+
+(Pour faire la moyenne additionnez les deux valeur et divisez le résultat par 2)
+
+
+
+Exemple : 
+
+- Si le joueur à 40 de Persuasion et qu’il essaye de convaincre un PNJ Commun (40+60 = 100 /2 =  50%) Il doit faire 1D100 ≤ 50.
+
+- Si le joueur à 70 de Persuasion et qu’il essaye de convaincre un PNJ Rare (70+20 = 90 /2 = 45%) Il doit faire 1D100 ≤ 45.
+
+
+
+
+
+
+
+
+
+
+
+LA COMMUNICATION
+
+
+
+
+
+	On sait que dans le monde de Runeterra, le courrier existe. Il est bien plus développé dans ces villes telles que Piltover, Zaun, Demacia, etc. Mais au Freljord également leur système de communication doit être élaboré pour éviter de fuiter et échanger des informations d’une tribu à l’autre.
+
+
+
+
+
+Les Lettres et Messages de Corbeaux :
+
+Les moyens de communications les plus classiques sont bien souvent les meilleurs. Il est même possible de dresser vous même une créature afin de transmettre un message ou un objet. Il est important que la bête connaisse le lieu d’origine, connaisse la direction à emprunter, et qu’elle évite de se faire attaquer en cours de route.
+
+
+
+
+
+Les Messages Importants :
+
+Il existe deux principaux moyen de communication pour les messages de haute importance :
+
+
+
+- Les Messagers : Ils sont utilisés pour transmettre une information codée unique. Le messager va apprendre un code et transmettre le message dont il est le seul à connaître la manière de le déchiffrer. Bien que cela soit plus difficile que la norme, il reste possible de déchiffrer le code avec un jet adéquat, mais il faut que la réussite soit conséquente. 
+
+
+
+- Les Navillons : Cette espèce d'oiseaux est réputée pour voler à très haute altitude la rendant inatteignable des potentielles attaques. Idéal pour transmettre un message secret ou de grande importance. Cependant cette bête est rare à l'état sauvage, et encore plus rare dressée. 
+
+
+
+
+
+Les Colis :
+
+Bien que ce terme n’existe pas au Freljord, il existe cependant une espèce unique nommée le Faucon Plume-Acier capable de transporter des charges très lourdes. Certains sont dressés afin de livrer des objets massifs d’un point A à un point B. Cependant, plus la charge est lourde, plus elle mettra du temps à arriver car le Faucon Plume-Acier s’épuise vite et doit faire de nombreuses pauses.
+
+
+
+
+
+La Magie :
+
+Il est possible de communiquer via de la magie ou certaines Relique présente dans le jeu (comme les Lettres conjointes).
+
+
+
+
+
+
+
+
+
+
+
+LES PIERRES RUNIQUES
+
+
+
+
+
+	Les pierres runiques sont utiles pour utiliser des sorts issue de différents types de magie sans être doté d’une quelconque source de magie. Elles peuvent
+
+
+
+Utilisation de Pierre Runique : 
+
+Utiliser une pierre demande un jet 1D100. Plus la valeur est haute, plus le jet est puissant. Inversement, la rune peut ne pas fonctionner, faire peu de dégâts voir se briser. 
+
+
+
+- Pierres Simples : Dotées d’une magie basique, elles sont à usage unique. Si > 80, alors son utilisation ne la brise pas et elle peut se recharger près d’une source naturelle de magie du même type. 
+
+
+
+- Pierres Avancées : Leur puissance est bien plus forte, et souvent de magies plus complexes. Si > 60, alors son utilisation ne la brise pas et elle peut se recharger près d’une source naturelle de magie du même type.
+
+
+
+- Pierres Complexes : De magie souvent rare, elles peuvent avoir une utilisation plus longue que les précédentes. Une fois vide, elles peuvent se recharger près d’une source naturelle (ou non) de magie du même type (se brise si < 20). 
+
+
+
+- Pierres Légendaires : Leur source de magie, non seulement très puissante mais bien souvent unique, est illimitée. Elles ne peuvent pas se briser et peuvent également enchanter des armes et les rendre légendaires. 
+
+
+
+Pierre Runique - Enchantement et Forge : 
+
+Oui
+
+
+
+
+
+
+
+
+
+
+
+LES GUILDES
+
+
+
+
+
+	À travers Runeterra, de nombreuses guildes proposent leurs services et offrent à leurs membres l'opportunité de se développer, d'acquérir de nouvelles compétences et d'étendre leur réseau grâce aux connaissances et au soutien des autres membres.
+
+
+
+Il existe des guildes pour de nombreux corps de métier, mais seules les professions les plus courantes de chaque région sont représentées. Afin de préserver l'équilibre du jeu, leur fonctionnement est soumis à quelques règles spécifiques.
+
+
+
+
+
+Introduire une Guilde :
+
+Au cours de leur aventure, les joueurs pourront rencontrer des membres de guilde, aussi bien sur les routes que dans les lieux où celles-ci sont établies. Si l'un d'eux souhaite rejoindre une guilde, il devra convaincre le membre responsable de son recrutement.
+
+
+
+Si le personnage possède déjà de l'expérience dans le métier concerné, le MJ peut lui demander un test d'aptitudes professionnelles afin de déterminer le rang correspondant à son niveau d'expertise. À l'inverse, s'il est novice, la guilde pourra lui confier quelques tâches d'initiation. Une fois celles-ci accomplies, il obtiendra ce métier en tant que nouvel Attribut Spécial.
+
+
+
+
+
+Evolution au sein d’une Guilde :
+
+Une fois admis dans une guilde, le joueur pourra y rencontrer de nombreux membres et développer son réseau. Les différentes missions proposées lui permettront de gravir les échelons, d'améliorer son niveau de métier et d'accroître sa réputation au sein de l'organisation.
+
+
+
+Chaque réussite dans une mission de guilde double les points de progression gagnés dans le métier concerné (voir Métier).
+
+
+
+
+
+Gérer une Guilde :
+
+Si un joueur atteint le palier Légendaire dans son métier, qu’il a accompli plus de 10 missions et la mission finale de sa guilde, il peut être nommé Représentant Officiel de celle-ci dans sa région. Son expertise est alors reconnue à travers tout Runeterra.
+
+
+
+Dès lors, les gains liés à son métier sont doublés et il n'a plus besoin de prouver ses compétences pour exercer sa profession. Il devra cependant gérer et rendre fréquemment des comptes pour sa guilde (possible par courrier).
+
+
+
+
+
+
+
+
+
+ÉVOLUTION DU PERSONNAGE
+
+
+
+
+
+La liberté d'évolution est l'un des principaux atouts de ce jeu de rôle. Au fil de l'aventure, de nombreuses possibilités s'offrent aux joueurs pour faire évoluer leur personnage, aussi bien à travers sa personnalité, ses idéaux et ses choix, que par l'acquisition de nouvelles compétences ou, plus rarement, de nouveaux Attributs Spéciaux.
+
+
+
+Sa quête personnelle peut également marquer un tournant décisif dans son évolution, en façonnant durablement son identité et son destin.
+
+
+
+Nouveaux Attributs : 
+
+Durant la campagne, il est possible qu’un joueur découvre une nouvelle compétence, un nouveau métier qu’il aimerait apprendre ou une nouvelle forme de magie. Pour cela il est possible d’ajouter sa
+
+nouvelle compétence dans la case dédiée à cette fonctionnalité
+
+
+
+Fiche perso Physique                                Fiche perso Lets Role
+
+
+
+Pour établir la valeur d’attributs des nouveaux métiers, se référencer à la règle (voir Métiers des PJ). Pour les autres, c’est au MJ d’en déterminer la valeur de base soit prédéfinie, soit selon ses préférences. 
+
+
+
+
+
+Niveaux des Compétences :
+
+La montée de niveau de compétences se fait une fois un certain nombre de points accumulés. Ces point s'obtiennent de manière continu au fur et à mesure de l’aventure en fonction de la fréquence de l’utilisations des compétences :
+
+
+
+Un échec critique ne rapporte aucun point.
+
+Un échec rapporte ½ point.
+
+Une réussite rapporte 1 point
+
+Une réussite critique rapporte 2 points 
+
+
+
+
+
+A noter : 
+
+1. Les points cumulés avec une compétence ne peuvent pas servir à augmenter une autre compétence.
+
+2. Une fois le nombre de points nécessaire à l’évolution du sort atteint, le sort passe au niveau suivant. 
+
+
+
+
+
+- Niveau 1 : Accumuler 15 points dans sa compétence le fait passer Niveau 2.Cela permet une amélioration du sort en fonction de l’orientation du joueur au fil de son utilisation (à équilibrer avec le MJ).
+
+
+
+- Niveau 2 : Accumuler 30 points le fait passer 3. Même principe pour faire évoluer le sort que lors du passage au Niveau 2. 
+
+
+
+- Niveau 3 : C’est le dernier stade de la compétence, il est donc impossible de l’augmenter ou l’améliorer.
+
+
+
+Exemple : Sort 2 : Signes de Huul (Spirituel/Encre) : Augmente son intuition ou partage une info avec ses liés. 
+
+Niveau 2 : Les liés peuvent maintenant transmettre une pensée spontanée en réponse à l’information donnée.
+
+ATTENTION : Il est impossible de passer une compétence Niveau 3 si les deux autres ne sont encore qu'au Niveau 1. Il en faut minimum une au Niveau 2 pour pouvoir le faire. 
+
+
+
+
+
+Évolution des Résistances :
+
+Durant l’aventure, il est possible de gagner via certains PNJs, Quêtes ou Enchantements des Résistances (PV/ARM/RM) de Base.
+
+
+
+A noter : 
+
+L’ARM et la RM de base sont fixés à 20 max. Si la valeur est supérieure, elle ne sera pas prise en compte.
+
+
+
+
+
+Amélioration Arme et Équipement :
+
+Le joueur peut conserver la même arme ou le même équipement tout au long de son aventure. Plutôt que de le remplacer, il peut le faire évoluer en faisant appel à un Forgeron, un Enchanteur, ou aux deux. Les améliorations possibles dépendent des matériaux disponibles, des compétences de l'artisan et de l'appréciation du MJ.
+
+
+
+- Excellent (Rouge) : seuls des artisans et des matériaux de ce palier (ou inférieur) peuvent réparer ou améliorer cet équipement. Les travaux sont souvent longs. Demander une somme plus conséquente sauf si le joueur fournit lui-même certains matériaux.
+
+
+
+- Parfait (Orange) : seuls des artisans et des matériaux de ce palier (ou inférieur) peuvent améliorer cet équipement. Les délais sont généralement plus courts et les artisans sont capables de répondre à des demandes plus spécifiques.
+
+
+
+- Légendaire (Violet) : seuls des artisans et des matériaux de ce palier (ou inférieur) peuvent créer ou améliorer un équipement légendaire. Ils sont en mesure de concrétiser des idées uniques, sous réserve de l'équilibrage du MJ. Les matériaux nécessaires sont extrêmement rares et leur recherche constitue souvent une véritable quête personnelle.
+
+
+
+Le joueur peut également choisir de personnaliser son équipement avec l'accord du MJ. Cette personnalisation nécessite généralement des composants spécifiques en fonction de l'effet recherché. Leur obtention peut donner lieu à une quête plus longue et plus exigeante, mais la récompense n'en sera que plus gratifiante.
+
+
+
+A noter : Un jet sera demandé au PNJs (réalisé par le MJ). S’il réussit, tout se passe bien. S’il le loupe, le PNJs peut avoir oublié d’intégrer une des statistiques de l’équipement, ou a cassé l’arme (selon la qualité et la valeur de l’échec). Au MJ de s’adapter en conséquence.
+
+
+
+
+
+
+
+
+
+
+
+LES DÉGÂTS
+
+
+
+
+
+
+
+LES SOURCES DE DÉGÂTS
+
+
+
+
+
+Les Dégâts Physiques (DP) : 
+
+Les dégâts physiques représentent toutes les atteintes infligées au corps ou à l'équipement par une force matérielle. Provenant le plus souvent d'armes de mêlée ou à distance, ils peuvent également entraîner différents effets secondaires (voir Effets de Dégâts).
+
+
+
+Contrairement aux dégâts magiques, ils peuvent être réduits par l'Armure (ARM), qui absorbe une partie de leur puissance. Plus l'armure est élevée, plus elle est efficace pour limiter les dégâts physiques subis.
+
+
+
+Exemple : Une arme contondante / Une lame tranchante / Une masse assommante / Un fouet entravant / Un feu naturel / Un éboulement / 
+
+
+
+
+
+Les Dégâts Magiques (DM) : 
+
+Les dégâts magiques correspondent aux atteintes infligées par l'une des Arcanes présentes dans l'univers de Runeterra (voir Magie et Technologie). Ils résultent de la manipulation d'énergies dont l'impact ne dépend pas de la force physique. Souvent immatériels, ils peuvent contourner les protections matérielles pour affecter directement la vitalité, l'esprit ou l'essence de leur cible.
+
+
+
+Généralement plus puissants que les dégâts physiques, ils restent toutefois limités par leur coût en magie et les ressources nécessaires à leur utilisation.
+
+
+
+Exemple : Une magie des ombres / Un poison chimique / Un décharge Hextech / Un feu de source magique / De la glace de magie élémentaire / De l'absorption de sang hémomancienne  / 
+
+
+
+
+
+❗Les règles suivantes sont facultatives. Si vous êtes novice, vous pouvez ne pas les appliquer❗
+
+
+
+
+
+La Pénétration Physique (PP) : 
+
+La Pénétration Physique permet à une attaque d'ignorer tout ou partie de l'Armure (ARM) de Base et d'équipement de la cible. Elle ne s'applique que si l'arme ou la compétence possède la mention PP, ou si l'arme utilisée est d'une qualité supérieure à celle de l'armure portée par la cible.
+
+
+
+Si les IPV (voir IPV) sont utilisés, l'équipement subit les mêmes dégâts que le personnage lorsqu'il est touché.
+
+
+
+A noter : Arme / Armure Légendaire
+
+
+
+Exemple : 
+
+
+
+
+
+La Pénétration Magique (PM) : 
+
+Elle permet à une attaque magique de passer à travers la Résistance Magique (RM) de l’équipement du joueur. Elle ne s’applique que si l’arme ou l’attaque contient la mention PM ou si l’arme est de qualité supérieure à l’armure portée par la cible. 
+
+(Si les IPV sont utilisés, alors l’équipement prend les même dégâts que le joueur)
+
+
+
+
+
+La Pénétration Adaptative (PA) : 
+
+Cette forme de dégât est un mélange des PP et PM mais s’adapte à la statistique de résistance selon le choix du lanceur.
+
+
+
+
+
+A noter : 
+
+1. La PA ne peut pas être native, elle ne peut être qu’une évolution ou dépendre d’un Item avancé du jeu.2. La PA ne marche que si une compétence est un mélange de Physique et de Magique.
+
+
+
+
+
+Les Dégâts Bruts (DB) : 
+
+Les Dégâts de Base tapent directement dans la structure biologique et/ou spirituelle de la cible et permettent à une attaque, physique ou magique, d'ignorer les PV d'équipement pour infliger directement des dégâts aux PV de base du personnage. Si ces derniers tombent à 0, le personnage meurt, même si ses PV d'équipement ne sont pas épuisés.
+
+
+
+
+
+
+
+
+
+
+
+L’ÉVOLUTION DES DÉGÂTS DU JOUEUR
+
+
+
+
+
+
+
+Début de partie : 
+
+En début de jeu, les dégâts des armes (B) varient entre 10 et 15 DP/DM selon la taille de l’arme. Les sorts des joueurs (Spécial 1 / Spécial 2) varient entre 10 et 20 DP/DM selon la puissance et le type de ciblage (voir Combat).Si un joueur commence avec une Arme unique (L) lié à son Spécial 1 / Spécial 2 les dégâts suivent le même schémas, mais il bénéficie des effets passifs de l’arme lié à ses compétences.
+
+
+
+Une arme améliorée (R) peut alors augmenter ses dégâts, soit avec un dé attribué à jeter lors d’une attaque, soit une valeur fixe, soit un mélange des deux. Cela dépendra de l’équilibrage de l’arme.
+
+
+
+A Noter : Évitez de spécifier sur la Fiche de Personnage le nombre de dégâts, mentionnez seulement la source (DM, DP, PM, PP, etc). Les Compétences sont évolutives, et donc les dégâts peuvent se voir augmenter au long de l’aventure. 
+
+
+
+
+
+Partie avancée : 
+
+…
+
+
+
+
+
+
+
+
+
+
+
+SUBIR DES DÉGÂTS
+
+
+
+
+
+Dégâts sur la durée (Saignements, Empoisonnement, Brûlure) : 
+
+Pour les dégâts de saignement, prenez en compte la profondeur et la taille de la blessure pour fixer les dégâts en continu. Ils sont répartis par niveaux selon la puissance de l’attaque ou du poison.Leur source de dégât est neutre, elle puise directement dans les PV Totaux du joueur. L’ARM et la RM ne rentrent pas en compte.
+
+Lvl 1 : Petite ouverture ou petit empoisonnement : -1 PV toutes les 2min ou -2 PV /tour.
+
+Lvl 2 : Moyenne coupure, moyen empoisonnement : -2 PV toutes les 1min ou -5 PV /tour.
+
+Lvl 3 : Grosse coupure, empoisonnement dangereux : -5 PV toutes les 2min ou -10 PV /tour.
+
+Lvl 4 : Hémorragie, Poison mortel : -10 PV toutes les 1min.
+
+
+
+A noter : 
+
+1. La notion de temps (min) est calculée IRL et non RP.2. Le décompte ne marche que si le joueur ciblé par les dégâts est sollicité, et s'arrête à partir du moment où son tour passe à un autre joueur. (Les dégâts s’infligent à la fin du tour global). 
+
+
+
+
+
+Conséquences des Dégâts sur la durée : 
+
+Si le saignement dure longtemps et que le joueur perd + de 75% de ses PV de Base, il rentre dans un état d’Évanouissement.
+
+S’il arrive autour des 10 à 15 PV Totaux restants, il rentre en état de Coma. L’état de Coma passe outre l’Évanouissement s’il est provoqué avant.
+
+
+
+Dans les deux cas, divisez le saignement de 75%. Quand le corps perd connaissance, le rythme cardiaque ralentit pour tenter de survivre.
+
+
+
+
+
+
+
+
+
+
+
+LA MORT
+
+
+
+
+
+État critique d’avant mort : 
+
+Avant d’en arriver au stade de non retour, quand un joueur subit un dégât censé le tuer, il va tout d'abord rentrer dans un état critique (plus ou moins long selon la situation). Il descend alors instantanément à 1 PV et tombe dans le Coma (voir Effets Coma)
+
+
+
+
+
+Mort des PJs : 
+
+Les joueurs ont plusieurs façons de mourir : 
+
+
+
+- Mort RP : Un joueur peut se lasser de son personnage, et décider d’en incarner un nouveau. Pensez à bien préparer l'arrivée du nouveau personnage dans le scénario, et faites une belle mort pour votre PJ (Il est possible de changer de Personnage sans avoir à tuer le précédent).
+
+
+
+- Mort Imprévue : Il faut bien prendre en compte que cela doit arriver, si et seulement si, la succession d'événement dépend des mauvaises actions du joueur (succession d’échecs critique de son initiative, non prise en compte des dangers d’une situation, etc). Ceci est un ultime recours réfléchi et non une punition pour le joueur. Cela peut arriver si le joueur enchaîne la prise de mauvaises décisions malgré l'avertissement du MJ.  
+
+
+
+
+
+Mort des PNJs : 
+
+Techniquement, TOUS les PNJ peuvent mourir, y compris les Légendaires. Aucun PNJ ne possède d’armure en “Scénarium”. Toutefois, leur disparition demandera une réadaptation particulière de la part du MJ, car elle peut avoir un impact majeur sur les quêtes qui leur sont liées et sur le déroulement du scénario.
+
+
+
+
+
+
+
+
+
+
+
+LES SOINS
+
+
+
+
+
+
+
+
+
+Soin des Potions : 
+
+Les soins par les potions varient selon leur composition et leurs propriétés. Très efficaces, ils constituent l'une des meilleures méthodes de soin. La plupart des potions agissent en régénérant la structure biologique du corps, tandis que d'autres, imprégnées de propriétés magiques, peuvent produire des effets bien plus variés.
+
+
+
+
+
+Soin du Repos : 
+
+Le sommeil et le repos permettent au corps de se régénérer, en particulier après un effort physique. Plus les conditions de repos sont bonnes, plus la récupération est efficace.
+
+
+
+Une nuit passée dans un lit au chaud et dans de bonnes conditions, rend 10 PV au personnage. En revanche, un repos dans la nature ou dans un environnement plus précaire ne lui permet de récupérer que 5 PV.
+
+
+
+A noter : 
+
+Une nuit complète varie entre 6 et 8 heures de sommeil pour être efficace, auquel cas elle engendrera de la fatigue (voir Effet Négatifs). 
+
+
+
+
+
+Soin des Repas : 
+
+L'alimentation est essentielle à la santé des personnages. C'est pourquoi elle bénéficie d'une mécanique de jeu dédiée (voir Nourriture).
+
+
+
+En règle générale, un repas complet restaure 5 PV. Un repas plus léger ou moins nourrissant ne rend que 3 à 4 PV, tandis qu'un plat de meilleure qualité ou bénéficiant d'améliorations particulières peut restaurer 7 à 10 PV.
+
+
+
+
+
+Soin des Fractures :
+
+Les fractures peuvent être soignées par la médecine traditionnelle ou, plus rarement, par la magie. Les traitements permettent d'atténuer les effets négatifs de la blessure pendant la consolidation de l'os, un processus qui peut nécessiter plusieurs jours, selon la gravité de la fracture.
+
+
+
+
+
+Soin du Saignement : 
+
+Les saignements nécessitent des soins particuliers pour être arrêtés et soignés. Plus le saignement est important, plus le niveau ou le jet nécessaire à le stopper doit l’être également. 
+
+
+
+- Bandage (Soin Niv. 1 ou Dextérité) : réduit le niveau de Saignement de 1. Si le saignement est de niveau 1, il est immédiatement stoppé. Réalisé avec l'Attribut Soin, le bandage restaure également quelques PV et limite les risques d'infection. Si un vêtement est utilisé comme bandage, il doit être changé régulièrement et la plaie doit être désinfectée.
+
+
+
+- Cautérisation (Soin Niv. 2) : stoppe immédiatement l'hémorragie, mais inflige des dégâts au personnage. Leur importance dépend du résultat du jet.
+
+
+
+- Magie : certaines compétences magiques permettent de refermer les plaies et d'arrêter le saignement. Ces capacités sont à définir avec le joueur lors de la création du personnage.
+
+
+
+
+
+Soin Empoisonnement :
+
+
+
+- Antidote : Soigne selon la puissance de l’empoisonnement et la dose (0.2L) de l’antidote (Normal - Fort - Puissant - Légendaire)
+
+A noter : Prendre trop d’antidote d’un coup (3 doses et +) peut gravement rendre malade. En prendre trop souvent atténue définitivement les effets sur les prochaines doses (+0.05L par dose pour agir si elle dépasse les 3 doses en 1 journée/session).
+
+
+
+
+
+
+
+
+
+
+
+LES EFFETS
+
+
+
+
+
+Les Effets Négatifs :
+
+Vos personnages peuvent par le biais d’une attaque ou autre, être sous un des effets suivants : 
+
+- Immobilisation / Entrave : Se focalise sur une zone ou sur le corps entier et peut faire des dégâts (DP/DM/DB / diminue certains Attributs selon la puissance de l’entrave).Pour s’en libérer, le joueur peut faire un jet de Force, Agilité, Dextérité ou Concentration selon la nature de l’entrave (Malus selon la puissance).
+
+
+
+- Paralysie : Peut se focaliser sur un membre et diminuer les Attributs associés. Il peut être permanent selon la nature de sa provenance (échecs répétitifs, échec critique, malédiction).
+
+
+
+- Malédiction : Création du MJ - Chaque malédiction est unique, les effets de la malédiction dépendent de sa provenance. 
+
+
+
+- Brûlure : Les effets de la brûlure dépendent de la source des dégâts (DP ou DM). Une brûlure physique (sans propriétés magiques) provoque des déformations et cicatrices sur le corps et nécessite des soins appropriés. Une brûlure magique peut ne pas laisser de traces physiques sur le corps selon sa nature. 
+
+
+
+- Infection : Suite à des dégâts subis, si un saignement ou une entaille ont été provoqués, alors il est possible que la plaie s’infecte si elle n’est pas soignée convenablement. L’infection peut provoquer des dégâts sur la durée, des vertiges et vomissements, de la fièvre, et au plus grave une nécrose qui peut condamner alors le membre pour éviter la propagation. Une amputation est alors nécessaire. 
+
+
+
+- Faim et Soif : Ne pas manger et ne pas boire peut vous porter préjudice. Sans manger pendant une journée, vous perdrez -5 Force et -10 PV toutes les heures de jeu (IRL) jusqu'à ce que vous mangiez. A 0 de Force vous perdrez -20 PV et -10 Endurance, Agilité et Réflexes toutes les heures. à 10 PV vous tombez dans le Coma. Si vous buvez, vous divisez tous les effets par 2 (1L par jour - 0.5L si Mental réussi).
+
+
+
+- Fatigue : Si vous vous couchez plus tard ou que vous dormez mal, vous aurez au réveil un malus de -5 en Force et Concentration et de -10 en Réflexes et  Endurance pendant ½ journée. Un jet de Mental peut diminuer les effets.
+
+
+
+- Assommé : Vous perdez connaissance quelques secondes quand vous vous faites assommer (coup Contondant à la tête) ou que vous perdez beaucoup de PV en un court instant (sauf si potion de maintien ou état de Berserker) vous devenez inconscient. Seule une magie puissante, ou une potion prévue à cet effet peut vous réveiller avant la reprise de connaissance normale.
+
+
+
+- Évanouissement/Inconscient : Le joueur se voit perdre connaissance suite à un gros choc ou plusieurs Assommements, un Traumatisme, une Maladie ou une Blessure Importante. S’il est Blessé, les dégâts de saignements baissent de 50% car son rythme cardiaque diminue pour sa survie. A son réveil, il passe en état de Fatigue le temps de récupérer des forces. Il se peut qu’il ait perdu la mémoire des dernières minutes avant sa perte de connaissance. 
+
+
+
+- Coma : Provoqué par un accident très grave, ou une mort proche, l’état de coma rend le personnage injouable pendant un certain temps. Le joueur peut alors incarner un PNJ autour de lui (Compagnon, familier, etc) le temps que son personnage se réveille ou ne meurt. A son réveil, le personnage à perdu la mémoire des derniers événement et perd -10 de base dans Attribut Spéciale 1 ou Spécial 2.
+
+
+
+- Aveuglement : L'aveuglement représente une incapacité totale ou partielle à percevoir son environnement. La cible subit un important malus à tous les tests nécessitant la vue, tels que les attaques, la Perception ou les déplacements précis. Ses déplacements deviennent plus lents et risqués, avec un risque accru de heurter un obstacle et un malus aux tentatives d'esquive. Elle est également incapable de distinguer clairement les menaces, les objets ou les cibles éloignées. Les attaques portées contre une cible aveuglée bénéficient généralement d'un bonus.
+
+- Charme et Envoûtement : Ces états altèrent la volonté et les émotions de la cible, la rendant bienveillante, docile ou particulièrement influençable envers son auteur. Tant que cet effet persiste, elle est incapable d'agir de manière agressive contre la source du charme. La cible subit un malus à ses jets de résistance contre les suggestions ou les influences provenant du charmeur et aura naturellement tendance à le protéger ou à lui venir en aide.
+
+
+
+- Effrayé : La terreur s'empare immédiatement du personnage et altère temporairement son comportement. Selon la situation et l'intensité de la peur, le MJ peut lui faire subir un ou plusieurs des effets suivants, de manière progressive : tomber à la renverse, paniquer dans tous les sens, agir de façon irrationnelle, être tétanisé par la peur ou prendre la fuite pour s'éloigner de la menace.
+
+
+
+Le personnage peut tenter d’y résister en réussissant un jet de Mental Malussé, sauf si le Mental est son Attribut Malus permanent. En cas d'échec critique, il devient immédiatement traumatisé.
+
+
+
+- Traumatisé : Contrairement à l’Effraiement, le Traumatisme est une peur sur du long terme. Il crée une phobie sur l’élément qui lui à provoqué cette peur. Il sera malussé tout au long de la campagne lors d’une confrontation avec ce même élément. Une guérison est tout de même possible mais prendra du temps.
+
+
+
+- Désarmement : Désarmer un adversaire n’est pas si difficile mais le joueur doit le proposer lui-même. Il sera basé sur un jet de Dextérité pour y parvenir. S’il se loupe, il peut se voir lui-même désarmé. Si le jet du joueur est très bon, le MJ peut alors lui proposer sur un jet de Dextérité. S’il est loupé, le joueur n’est pas désarmé et l’action suit son cours. 
+
+
+
+- Fracture / Casse : ila kc 1 os
+
+
+
+- Amputation : Une suite d’échecs et d'échecs critiques (2 à 3 selon résultat) peut vous faire perdre un petit membre de votre corps. C’est la première étape de punition avant la mort définitive de votre personnage. Un membre emputé fait perdre une valeur de PV de base et d’un Attribut selon le membre. Le membre peut être remplacé par une prothèse pour combler une partie des Attributs perdus.
+
+
+
+Ex : Un doigt (-5 PV de base / - 5 Dextérité) / Une Jambe (-15 PV de base / -10 Agilité)
+
+
+
+
+
+Les Effets Positifs :
+
+
+
+- Bénédiction :
+
+
+
+- Régénération : 
+
+
+
+- Pressentiment : 
+
+
+
+- Ressuscité : Perds une partie des PV de Base selon la source. Peut ressusciter sous forme
+
+Spirituelle, Nécromancie, Réincarnation, etc.
+
+
+
+- Lien Spirituel : 
+
+
+
+- Frénésie : Prend l’avantage sur tous les tours et chaque dégâts subis améliore sa Force, ses
+
+Réflexes et son Endurance. Cet effet est à double tranchant car il peut vous faire attaquer vos alliés
+
+s’il sont proches de vous (jet de Mental).
+
+
+
+
+
+
+
+
+
+LA SURVIE
+
+
+
+
+
+	La gestion de la survie n'est pas une mécanique obligatoire, à l'exception du système de froid. Toutefois, lors de voyages ou d'expéditions de longue durée, il est recommandé d'intégrer des éléments de survie afin d'enrichir l'exploration et de renforcer l'immersion. Voici comment ce système les prend en compte.
+
+
+
+
+
+LA GESTION DU FROID
+
+
+
+
+
+Dans cette première saison de JDR Runeterra, la gestion du froid glacial du Freljord constitue l'une des mécaniques centrales du jeu. À mesure que les joueurs progressent vers les terres du nord, les températures deviennent de plus en plus hostiles. Ils devront donc s'équiper, trouver des solutions adaptées et exploiter les différentes ressources à leur disposition pour survivre à cet environnement impitoyable.
+
+Voir la Carte du Froid
+
+
+
+Les Effets du Froid : 
+
+Au Freljord, le froid peut rapidement devenir un réel problème. Il est donc essentiel de s'équiper en conséquence, notamment avec une tenue Freljordienne complète, offrant une Résistance au froid dépendant de la qualité de chaque pièce d'équipement, ou avec des vêtements et protections doublés de fourrure pour mieux résister aux températures extrêmes.
+
+- Niveau 1 - Froid Tolérable : Corps légèrement ralenti (-5 Réflexes et Endurance)
+
+
+
+- Niveau 2 - Froid Sensible : Corps ralentit (-10 Réflexes et Endurance)
+
+
+
+- Niveau 3 - Froid Perçant : Corps très ralenti (-20 Réflexes, Endurance et Agilité / -10 Mental / -1PV toutes les 5 Minutes RP)
+
+
+
+- Niveau 4 - Froid Puissant : Corps presque immobilisé (-50 Réflexes, Endurance et Agilité / -30 Mental / -5PV toutes les 2 Minutes)
+
+
+
+- Niveau 5 - Froid Mortel : La mort arrive en moins de 10 minutes. Même les Freljordiens ont du mal à le supporter.
+
+
+
+
+
+La Résistance au Froid : 
+
+Grâce aux ensembles d'équipement du Freljord, ainsi qu'à certaines mécaniques du jeu (potions, enchantements, matériaux spéciaux, etc.), il est possible de résister au froid pendant un certain temps. Cette résistance dépend toutefois du Niveau de Froid auquel le personnage est exposé.
+
+- Niveau 1 : Tenue avec Tissu (R) ou Fourrure (B) / Set Freljordien (B) (minimum Torse et Jambe) / Sublimé ou plus.
+
+
+
+- Niveau 2 : Tenue avec Fourrure (R) / Set Freljordien (R) / Sublimé ou plus. 
+
+- Niveau 3 : Tenue avec Fourrure (O) / Set Freljordien (O) ou plus.
+
+- Niveau 4 : Tenue avec enchantement Toundra.- Niveau 5 : Rien !
+
+
+
+A noter : 1. Si la tenue est de 1 niveau de moins que le froid, se référer au malus du nombre de niveaux de différence.
+
+Ex : Si le joueur à une Tenue de Niveau 2 dans un froid de Niveau 3, il subit un froid de Niveau 1 (3-2 = 1).
+
+2. Les Sublimés et Freljordiens résistent nativement (sans équipement) au Froid du Freljord Niveau 2. Aux niveaux de froid supérieur, ils doivent s’équiper avec les niveaux de différence. 
+
+Ex : Sublimé avec résistance de Niveau 2 dans un froid de Niveau 3, il doit s’équiper avec des Résistances au froid de Niveau 1.
+
+
+
+
+
+
+
+
+
+
+
+LA GESTION DE LA FAIM ET LA FATIGUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+LE COMBAT
+
+
+
+
+
+Le combat n'est pas l'élément central de ce jeu de rôle, mais il occupe une place importante dans l'aventure. Différentes formes d'affrontements existent, comme le combat à mains nues, le duel, le combat de groupe ou encore les affrontements contre des boss.
+
+
+
+Chaque personnage peut adopter un style de combat qui lui est propre : miser sur la ruse, le soutien de ses alliés, infliger des dégâts grâce à la magie ou exploiter pleinement les armes qu'il possède.
+
+
+
+Pour gérer efficacement un combat, il est conseillé de se renseigner sur les bases du système, notamment l'ordre de passage, et les dégâts et résistances présentés précédemment. N'oubliez pas non plus de prendre en compte les spécificités des différentes catégories d'armes, qui influencent directement le déroulement des affrontements.
+
+
+
+
+
+Les Types d’Armes :
+
+Qu’elles soient de Mêlée ou à Distance, les armes sont rangées parmis les types suivantes : 
+
+- Armes Contondantes : Armes généralement lourdes, elles ont la particularité de provoquer sur l’ennemi les différents effets de Fracture, de Repousse et de provoquer l’état Assommé pouvant aller jusqu’à l’Inconscience.
+
+- Armes Tranchantes : Ces armes sont la principale cause de Saignements, mais également d’Amputation, qui peuvent par la suite provoquer des Infections. Elles doivent être régulièrement entretenues afin de les affûter pour ne pas perdre de leur tranchant.
+
+- Armes Perçantes : Dotées de pointes ou de piques, elles sont généralement un juste milieu entre les contondantes et les tranchantes. Elles provoquent des Saignements, mais peuvent également Fracturer, Repousser, Entraver, etc… tout dépend de sa fonction.
+
+- Armes Entravantes : Les armes entravantes sont souvent munies de chaînes ou peuvent bloquer une cible temporairement. Techniquement c’est plus un effet d’amélioration d’arme qu’un type d’arme à part entière. Une lance peut être entravante si elle immobilise sa cible. 
+
+
+
+- Armes à Feu : Pour les armes à feu, la nature des effets peut dépendre de l’arme elle-même mais également des projectiles utilisés. 
+
+
+
+
+
+A noter : Si une arme mélange plusieurs de ces types, pensez à l'équilibrer en conséquence.
+
+Ex : Un Fléau Contondant et Perçant aura des effets réduits en conséquence afin de l’équilibrer. Il est possible de rajouter la fonction Entravant mais la réduction des effets sera encore plus conséquent. 
+
+
+
+
+
+
+
+
+
+LE COMBAT EN MÊLÉE
+
+
+
+
+
+Le combat au corps à corps expose davantage les joueurs aux attaques ennemies, mais il est généralement plus récompensé. Une attaque de mêlée touche automatiquement sa cible, sauf en cas d'échec critique. Le jet sert principalement à déterminer la qualité de l'action réalisée et ses éventuels effets, selon l'intention du joueur.
+
+Jet de Dextérité : Cette action permet au personnage de viser une partie du corps précise de sa cible afin d'obtenir un effet particulier. Selon la zone touchée, il peut réduire son Armure de 5 (si celle-ci est > 5), limiter ses mouvements, ou encore atteindre un point vital (si PP) pour infliger une blessure grave voire irréversible.
+
+
+
+Jet de Force : Elle permet simplement d’augmenter de 5 à 10 (selon le résultat du jet) les DP portés avec une arme de mêlée, ou donner un coup fatal si la cible est déjà suffisamment affaiblie.
+
+
+
+
+
+Les Armes de Corps à Corps :
+
+
+
+
+
+La Magie à Proximité :
+
+
+
+
+
+Le Combat à main nue :
+
+
+
+
+
+
+
+
+
+
+
+
+
+LE COMBAT À DISTANCE
+
+
+
+
+
+	Contrairement aux combats en mêlée, le joueur reste plus à l'écart et prend bien moins de risques. Les actions doivent alors réussir à toucher leur cible. Pour ce faire, il existe tout de même différentes manières. 
+
+
+
+Jet de Perception : Cette action permet de visualiser sa cible afin de la toucher si elle est statique. Idéal dans un affrontement de distant vers distant.
+
+
+
+Jet de Concentration : Cette action permet d’anticiper sa cible afin de la toucher si elle est en mouvement. Idéal dans un affrontement de distant vers mêlée. 
+
+
+
+
+
+Les Armes à distance :
+
+Parmi les armes à distance, on retrouve les armes de tir, les armes à feu et les armes de lancé. Plus elles sont utilisées loin de la cible, plus l’action sera malussée (environ -5 /100m). 
+
+
+
+
+
+La Magie à Distance :
+
+La magie est tout aussi efficace à courte qu'à longue portée : ses dégâts restent identiques quelle que soit la distance. En revanche, elle demande davantage de précision. Qu'il s'agisse d'un sort ciblé ou d'une attaque de zone, un jet de Concentration est nécessaire pour atteindre correctement la cible.
+
+
+
+
+
+
+
+
+
+
+
+LES TECHNIQUES DE BASE
+
+
+
+
+
+Esquive en Combat :
+
+Lorsqu'un personnage tente d'esquiver une attaque, deux Attributs peuvent entrer en jeu selon la situation. Si l'attaque est imprévue (attaque surprise, dans le dos, flèche aperçue au dernier instant, etc.), le jet repose sur les Réflexes. En revanche, si l'attaque est frontale et que le personnage l'a anticipée, l'esquive se base sur son Agilité.
+
+
+
+Le MJ peut proposer cette action si le joueur n'y pense pas. Selon la situation, plusieurs jets d'esquive peuvent être nécessaires.
+
+
+
+Réussite Critique : le personnage esquive plusieurs attaques, voire retourne la situation à son avantage.
+
+
+
+Échec Critique : le personnage est complètement dépassé et peut subir plusieurs attaques si personne ne lui vient en aide.
+
+
+
+Réussite à 5 près : l'esquive est de justesse. Un élément de son équipement est endommagé et perd entre 5 et 20 IPV (ciblé) ou IPVG (de zone).
+
+
+
+Échec à 10 près : Le coup porté est atténué par la tentative de l’esquive et les dégâts subis se voient réduits.
+
+
+
+
+
+
+
+Les Attaques Ciblées :
+
+Une attaque ciblée permet de concentrer son action sur une seule cible et de viser une zone précise de son corps, pouvant ainsi augmenter les dégâts ou provoquer des effets particuliers.
+
+
+
+Selon l'action souhaitée, le jet peut reposer sur la Force pour frapper sur l'entièreté du corps, la Dextérité pour atteindre une zone protégée ou vulnérable, ou l'Agilité pour tenter d'immobiliser la cible.
+
+
+
+
+
+Les Attaques de Zone :
+
+Les attaques de zone sont généralement plus puissantes lorsqu'elles proviennent d'un PNJ, car elles prennent en compte l'Armure Totale, la Résistance Magique Totale et les PV totaux des joueurs.
+
+
+
+Elles infligent des dégâts à toutes les cibles situées dans leur rayon d'action. Plus un personnage est proche de la source de l'attaque, plus les dégâts qu'il subit sont importants. Les joueurs au centre de l’action ne pourront donc pas l’esquiver.
+
+
+
+Ex : Une explosion de Magie de foudre frappe au centre des joueurs, elle fait 30 DM de zone (la zone est déterminée selon la Puissance du lanceur). Si le PNJ la lance pile au centre des joueurs alors elle applique 30 DM aux 4 joueurs environnants. Mais si les joueurs sont dispersés, elle applique entre 30 DM au plus proche et 5 DM au plus éloigné de l’attaque (du moment qu’ils sont dans la zone).
+
+
+
+
+
+
+
+
+
+
+
+LES RÉSISTANCES
+
+
+
+
+
+
+
+
+
+LES POINTS DE VIE
+
+
+
+
+
+Les points de vie d'un personnage sont déterminés par sa morphologie et sa biologie, afin de refléter sa résistance naturelle. À cette valeur de base s'ajoutent les points de vie apportés par son équipement, qui lui permettent d'encaisser davantage de coups et d'atténuer les dégâts subis.En règle générale, plus un personnage est de petite taille, plus ses PV de base sont bas. Il peut toutefois compenser cette fragilité grâce à un équipement offrant des PV supplémentaires.
+
+
+
+
+
+Les Points de Vie de Base (PV de Base ou PV Brut) : 
+
+Ce sont les PV que vous vous attribuez au tout début de l’aventure. Il est tout de même possible d’en gagner au cours de l’aventure par le biais de différentes mécaniques uniques.
+
+
+
+
+
+Les Points de Vie d’Équipement (PV Totaux ou PV Global) : 
+
+Ce sont les PV qui proviennent des équipements et autres ajouts externes à votre personnage. Le résultat des PV de Base et d’Équipement s’additionnent dans les PV Totaux.
+
+
+
+
+
+Les Points de Vie Bonus (PV Bonus) : 
+
+Ce sont des PV que vous gagnez temporairement lors de Buff et de Potions spéciales. Durant ce temps, vous pouvez les ajouter aux PV Totaux ou les noter de côté.
+
+A noter : Les PV Bonus sont à soustraire en priorité lors d’une attaque.
+
+Même si les PV Totaux sont élevés, si les PV de Base tombent à 0, le joueur meurt.
+
+
+
+Les PV des PNJ : 
+
+Sauf indication contraire, les PNJ suivent les mêmes règles que les joueurs : leurs PV sont déterminés par leur morphologie, leur corpulence et leur équipement. Les PNJ non combattants possèdent généralement entre 40 et 100 PV, les valeurs les plus élevées étant réservées aux individus les plus robustes ou imposants. Un enfant possèderait entre 20 et 30 PV.
+
+
+
+Ex : Un enfant possèderait entre 20 et 30 PV, une vieille personne entre 40 et 50 PV, un homme lambda entre 50 et 70 PV et une personne corpulente peut aller jusqu'à 120 PV.
+
+
+
+
+
+
+
+
+
+
+
+L’ARMURE ET LA RÉSISTANCE MAGIQUE
+
+
+
+
+
+L'Armure (ARM) et la Résistance Magique (RM) fonctionnent selon le même principe. Elles permettent de réduire les dégâts subis en fonction de leur nature : les Dégâts Physiques (DP) pour l'ARM et les Dégâts Magiques (DM) pour la RM.Ces protections proviennent généralement de l'équipement, de la magie ou de certains autres effets. Toutefois, certaines espèces possèdent naturellement une Armure ou une Résistance Magique plus élevée que la moyenne, grâce à leur morphologie ou à leur magie innée.
+
+
+
+
+
+Le Fonctionnement :
+
+Pour déterminer la quantité de dégâts absorbée par l'ARM ou la RM, il suffit de lancer un dé correspondant à la valeur de la caractéristique concernée. Le résultat obtenu représente le nombre de dégâts absorbés avant qu'ils ne soient appliqués aux points de vie du personnage.
+
+
+
+- Pour 5 ARM / RM : Lancez 1D6 (si 6, comptez également 5)
+
+- Pour 10 ARM / RM : Lancez 1D10 - Pour 15 ARM / RM : Lancez 1D10 + 1D6
+
+- Pour 20 ARM / RM : 1D20Vous pouvez également améliorer un jet d’ARM / RM suite à une bonne réussite en multipliant les jets
+
+
+
+- Pour 10 ARM / RM : Lancez 2D6
+
+- Pour 20 ARM / RM : Lancez 4D6 ou 2D10
+
+
+
+Plus vous ajoutez de dés et plus la chance d’augmenter le résultat est élevée. 
+
+
+
+
+
+L’Armure et Résistance Magique Fixe :
+
+Selon la qualité de l'équipement, une partie de son Armure ou de sa Résistance Magique peut être fixe, absorbant automatiquement une certaine quantité de dégâts avant tout lancer de dé.
+
+
+
+Le MJ est libre de définir cette valeur en fonction de son système de jeu. Voici toutefois deux mécanismes pouvant servir de référence.
+
+
+
+- En Valeure Fixe (simple) : 
+
+Bleu = 0 Résistance Fixe 
+
+Rouge = 5 Résistance Fixe 
+
+Orange = 10 Résistance Fixe 
+
+Légendaire = 15 Résistance Fixe 
+
+
+
+Ex : Si le personnage porte un casque (R) offrant 10 ARM celui-ci absorbe automatiquement 5 DP grâce à sa résistance fixe. Le joueur lance ensuite 1D10 afin de déterminer les dégâts supplémentaires absorbés par son armure. Si le résultat est de 7, alors il absorbe son maximum (10), et s’il est de 3, alors il absorbe 8 (3+5).
+
+
+
+Le total des dégâts absorbés ne peut pas dépasser la valeur d'ARM de l'équipement, soit 10 dans cet exemple.
+
+
+
+
+
+- En Pourcentage (complexe) :
+
+Bleu = 0% Résistance Fixe 
+
+Rouge = 20% Résistance Fixe 
+
+Orange = 50% Résistance Fixe 
+
+Légendaire = 80% Résistance Fixe 
+
+
+
+Ex : Si le personnage porte un casque (R) offrant 10 ARM celui-ci absorbe automatiquement 20% (2 DP) grâce à sa résistance fixe. Le joueur lance ensuite 1D10 afin de déterminer les dégâts supplémentaires absorbés par son armure. Si le résultat est de 9, alors il absorbe son maximum (10), et s’il est de 4, alors il absorbe 6 (4+2).
+
+
+
+Le total des dégâts absorbés ne peut pas dépasser la valeur d'ARM de l'équipement, soit 10 dans cet exemple.
+
+
+
+
+
+L’Armure et Résistance Magique Native (ARM/RM de Base) : 
+
+L'Armure Native représente la résistance naturelle du corps d'un personnage. Très rare et particulièrement robuste, elle est limitée à une valeur maximale de 10.
+
+
+
+Contrairement à l'armure d'équipement, son absorption est fixe : aucun dé n'est lancé pour déterminer sa valeur. Elle s'ajoute à l'Armure Totale, mais également à chaque pièce d'armure portée, renforçant ainsi la protection de l'ensemble de l'équipement.
+
+
+
+Ex : Si le personnage possède 10 ARM Native et porte un casque offrant 5 ARM à la Tête, une attaque de 20 DP la visant sera réduite de 10 par ARM fixe, auxquels s'ajoute le résultat de 1D6 correspondant à l'absorption du casque. Il absorbera donc 10 + 1D6 ARM sur les dégâts subis à la tête.
+
+
+
+
+
+L’Armure et Résistance Magique d’Équipement : 
+
+L'Armure d'Équipement correspond à la protection apportée par les différentes pièces d'armure portées par le personnage. Leurs valeurs s'additionnent pour former l'ARM Totale et la RM Totale.
+
+
+
+Chaque pièce d'armure protège individuellement la partie du corps qu'elle couvre lors d'une attaque ciblée. En revanche, lors d'une attaque de zone, la protection est calculée en prenant en compte l'ensemble des pièces d'équipement, auxquelles s'ajoutent l'ARM Native ou la RM Native du personnage.
+
+
+
+Ex : Si le personnage possède 5 ARM à la Tête et 10 ARM au Torse, alors un attaque ciblée à la tête sera réduite seulement par l’équipement de tête (5 ARM). Cependant si l’attaque est de zone, alors elle sera réduite par l'addition de la tête et le torse (15 ARM).
+
+
+
+
+
+L’Armure et Résistance Magique Bonus : 
+
+Certaines compétences ou effets peuvent conférer des résistances temporaires. Leur valeur, leur durée et leur fonctionnement sont laissés à l'appréciation du MJ afin de préserver l'équilibre du jeu.
+
+
+
+Une Résistance Bonus persistante continue de protéger le personnage tant que sa durée n'est pas écoulée. À l'inverse, une Résistance Bonus éphémère fonctionne comme des PV : elle absorbe les dégâts jusqu'à atteindre 0, puis disparaît, même si sa durée n'est pas terminée.
+
+
+
+Ex : Si le personnage gagne 10 ARM Bonus Persistant sur 3 tours, alors tous les DP seront réduits par l’ARM sur les 3 tours. Mais s’il gagne 10 ARM Bonus Éphémère, et qu’il subit 5 DP, il passe à 5 ARM Bonus restant jusqu'à atteindre 0 ou que l’effet se dissipe.
+
+
+
+
+
+
+
+
+
+
+
+CONSOMMABLES
+
+
+
+
+
+NOURRITURE
+
+
+
+
+
+	La nourriture permet d’amener de l’immersion et du réalisme dans l’aventure. On peut en faire une véritable gestion, ou simplement un moment de partage en groupe. Dans les deux cas, ces notions peuvent aider à comprendre l’utilité des plats et produits présents dans cet univers.
+
+
+
+
+
+Découvrir la nourriture ou la boisson : 
+
+Quand un joueur goûte un aliment pour la première fois (un animal ou un produit local), si aucune règle n’est déjà appliquée sur le produit en question, il peut faire 1D100 pour savoir à quel niveau son palais tolère cette nouvelle découverte gustative.
+
+Réussite critique : C’est un aliment adoré (+5 PV supplémentaire pour cet aliment et lui remonte le morale à chaques consommation)
+
+Entre 5 et 20 : L’aliment est excellent (+5 PV une seule fois) 
+
+Entre 20 et 50 : L’aliment est bon (Rien)
+
+Entre 50 et 70 : L’aliment n’est pas bon (Rien)
+
+Entre 70 et 80 : Le joueur vomit (-5 PV une seule fois)
+
+Entre 80 et 95 : Le joueur est allergique (-10 PV à chaques fois qu’il en mange)
+
+Échec critique : Le joueur est allergique (voir ci dessus) et tombe malade (-5 à tous les Attributs pendant 24h et vomit).
+
+
+
+Le joueur peut bluffer le résultat (sauf échec critique) à l’aide d’un jet de Mental, d’Endurance ou de Persuasion selon la situation. Si le jet loupe, les effets sont doublés.
+
+
+
+
+
+Affinité Alimentaire : 
+
+Avant de goûter un plat, le joueur peut faire un test de Perception afin de réaliser le test d’affinité avec l’aliment afin de se prémunir d'éventuels effets néfastes liés à la consommation de l’aliment. Si le jet est réussi, le joueur perçoit parfaitement l’odeur et les saveurs. S’il fait une réussite critique, 
+
+
+
+
+
+Conservation des Aliments : 
+
+Les joueurs peuvent récupérer de la viande, des légumes, des plantes et tout autre produit propre à la consommation. Mais ces éléments peuvent périmer avec le temps s’ils ne sont pas conservés. 
+
+
+
+Les aliments deviennent avariés après 5 jours pour la viande, et 10 jours pour les végétaux (sauf les graines). Les joueurs peuvent être imaginatifs pour conserver les aliments, mais le plus efficace est de faire sécher la nourriture pour les conserver indéfiniment (voir Survie).
+
+
+
+
+
+Bonus et Malus : 
+
+Si les bonus ou malus liés à la consommation de nourriture ne sont pas suivi d’une notion de temps, alors ils sont permanents. De préférence, ne communiquez pas aux joueurs à l’avance des bonus ou malus d’un plat, faites leur la surprise. 
+
+
+
+
+
+
+
+
+
+
+
+LIVRES
+
+
+
+
+
+	Les livres sont là pour donner de la profondeur à l’univers dans lequel se déroule l’histoire, mais peuvent également être considérés comme des consommables pour s’enrichir de nouvelles découvertes utiles.
+
+
+
+La Lecture : 
+
+On trouve facilement des livres dans les bibliothèques, mais on peut également en trouver sur des PNJs, posés dans des endroits logiques. La lecture se fait selon un jet d’Intelligence (ou Attribut Spécial s’il est en rapport). Le résultat peut accélérer la lecture ou au contraire la rendre plus longue que mentionnée. 
+
+
+
+Rareté des Livres : 
+
+Les livres sont divisés en 4 catégories : 
+
+Communs : Ce sont des livres assez classiques que beaucoup de gens ont déjà pu lire, ils apportent des informations relativement rudimentaires, mais peuvent tout de même être importants dans certaines quêtes liées.
+
+
+
+Rares : Déjà moins faciles à trouver, et moins connus, ils apportent généralement des bonus plus conséquents. Peuvent être très précieux pour apprendre des choses utiles pour l’aventure.
+
+
+
+Uniques : Il en existe qu’un seul exemplaire. Généralement perdus, oubliés, ou gardés secrets, ces livres peuvent détenir une information capitale, une magie puissante et peuvent également déclencher une quête. 
+
+
+
+Légendaires : Non seulement unique, mais de plus l’information (ou la magie) qu’il détient sont de très grande puissance. En détruire un peut avoir des répercussions sur l’univers de Runeterra. 
+
+
+
+
+
+Bonus et Malus :
+
+Même système que la nourriture (voir post précédent).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ÉQUIPEMENT
+
+
+
+Couleur de Rareté :
+
+Les équipement sont répartis par couleur selon leur rareté
+
+Gris : Usé, abîmé, tenue pauvre (0 Statistique)
+
+Vert : État normal, tenue classique (0 Statistique)
+
+Bleu : Bon état, tenue de qualité (1 Statistique)
+
+Rouge : Excellent état, tenue très bonne qualité (2 Statistiques / 1 Enchantement)
+
+Orange : Parfait état, tenue exceptionnelle (2 Statistiques / 2 Enchantement)
+
+Violet : Légendaire, tenue unique (2 Statistiques / 2 Enchantement / Indestructible)
+
+
+
+A noter : Réparer un item Gris le transforme en item Vert. Si l’item Vert passe > 50% IPV, il devient un item Gris.
+
+
+
+
+
+Item Cassé :
+
+Même si le système d'IPV n'est pas utilisé, les équipements peuvent tout de même se détériorer et casser. Quelle que soit leur rareté, un objet cassé devient automatiquement un objet Gris, perdant ainsi toutes ses résistances et ses attributs.
+
+
+
+Selon l'état de l'objet, son enchantement peut être conservé malgré la casse. Dans le cas contraire, un échec critique entraîne la perte définitive de cet enchantement. Un simple échec le conserve mais l’empêche de fonctionner tant qu’il n’est pas réparé. Une fois réparé, un équipement retrouve l'intégralité de ses résistances et de ses attributs, comme s'il était neuf. Il peut même être amélioré à cette occasion, selon les souhaits du joueur, et en fonction du niveau de compétence du forgeron.
+
+
+
+
+
+
+
+
+
+
+
+❗Les règles suivantes sont facultatives. Si vous êtes novice, vous pouvez ne pas les appliquer❗
+
+
+
+
+
+Les Items PVs (IPV) :
+
+Toutes les armes et équipements ont une durée de vie à travers l’usure et les dégâts qu’ils peuvent subir. Les PV sont déterminés selon le ou les matériaux utilisés à sa construction. 
+
+- Tissu : 30/60/120/200/400/Infini IPV.
+
+- Cuire : 50/100/150/220/440/Infini IPV.
+
+- Corne : 60/110/160/230/450/Infini IPV.
+
+- Fer : 70/140/200/280/480/Infini IPV.
+
+- Acier : 90/180/250/350/560/Infini IPV.
+
+- Pétricite : 390/650/Infini IPV.
+
+- Carbone : 420/730/Infini IPV.
+
+- Obsidienne : 800/Infini IPV.
+
+- Pierre Relique : Infini IPV.
+
+- Glace Pure : Infini IPV.- Glace Noire : Infini IPV.
+
+- Oavir : Infini IPV.
+
+
+
+Les Combinaisons d’IPV :
+
+Pour savoir combien d’IPV peut faire une combinaison de matériaux, il suffit d’additionner la valeur des deux matériaux souhaités, puis de diviser le résultat pas 1.5 (Arrondir à 5 près).
+
+
+
+Ex : J’ai un équipement au Torse de Cuir/Tissu en Rouge, je fais 200+220 = 420/1.5 = 280 IPV
+
+
+
+
+
+Les Améliorations : 
+
+
+
+- Matériaux précédent : additionner la valeur des matériaux combinés puis diviser par 1.5 (arrondir le résultat à 5 près)- Fourrure : Peut se combiner avec n'importe quel matériaux (ajouter +10 aux IPV)
+
+- Acier : Peut se combiner avec certains matériaux (ajouter +30 IPV et + ? ARM)
+
+
+
+
+
+Item PV Global (IPVG) :
+
+L'IPVG (Item PV Global) correspond au total des IPV de tous les équipements du personnage cumulés. Il est représenté par une barre de PV distincte de celle des IPV individuels.
+
+
+
+Les IPV de chaque équipement restent indépendants. En revanche, lorsqu'un objet tombe à 0 IPV, sa valeur max est temporairement retirée de l'IPVG jusqu'à ce qu'il soit réparé.
+
+
+
+Répartition des IPV selon l’équipement :
+
+Déterminez les IPV du Torse comme valeur de référence, puis appliquez les pourcentages correspondants aux autres pièces d'équipement. Toutes les valeurs doivent toujours être arrondies au multiple de 5 le plus proche.
+
+- Tête : -20% (ratio 0.8)
+
+- Torse : 0% (ratio 1)
+
+- Mains : - 30% (ratio 0.7)
+
+- Jambe: - 5% (ratio 0.95)
+
+- Pieds : - 20% (ratio 0.8)
+
+
+
+
+
+Réparation équipement :
+
+Tous les équipements peuvent être réparés, à condition d’utiliser les matériaux adaptés à leur fabrication. Toutefois, chaque réparation réduit légèrement les IPV max de l'objet, selon une valeur déterminée par le MJ. Au fil des réparations, l'équipement devient progressivement plus fragile.
+
+
+
+
+
+Ex : Réparer un Casque Acier Rouge à 120/350 IPV demandera de l’Acier (selon les PV manquants) et passera une fois réparé à 320/320 IPV (selon le jet du forgeron - voir page ???).
+
+
+
+
+
+Perte des IPV et IPVG :
+
+Les IPV d'un équipement diminuent du même montant que les dégâts que subit le joueur.
+
+
+
+Lors d'une attaque ciblée, c'est l'objet visé qui perd des IPV.
+
+Lors d'une attaque de zone, les dégâts sont appliqués à l'IPVG (Intégrité des PV Globale).
+
+
+
+Si l'équipement possède de l'ARM ou de la RM, il ne subit que les dégâts absorbés que le joueur n’a pas subit.
+
+
+
+Ex : Si le personnage possède 20 ARM et subit 30 DP et qu’il obtient 18 sur son 1D20 d'ARM. Le joueur perd donc 12 PV (30 - 18), tandis que son équipement perd 18 IPV.
+
+
+
+Lorsque l'IPVG atteint 0, tous les IPV max des équipements sont réduits de 50 % jusqu'à leur réparation. Chaque item réparé augmente l’IPVG de sa valeur max.
+
+
+
+
+
+
+
+
+
+
+
+MÉTIERS
+
+
+
+
+
+MÉTIERS DES PNJ
+
+
+
+
+
+Les PNJ peuvent proposer différents services, en fonction de ce qu'il est cohérent de trouver au Freljord. Chacun possède un niveau d'expertise, représenté par une couleur de rareté, ainsi qu'un niveau de pratique, exprimé sur 100.Le MJ est libre de faire évoluer ces deux valeurs au fil de l'aventure. Un PNJ peut progresser s'il est régulièrement sollicité, s'il expérimente de nouvelles techniques ou s'il réalise des prestations particulièrement remarquables.
+
+Les Qualités de Métiers :
+
+Les PNJ possèdent une qualité de maîtrise de leur métier. Celle-ci est représentée par une couleur de rareté.
+
+Bleu (B) : Novice, il maîtrise les bases de son métier et peut réaliser des travaux simples. Motivé, il cherche avant tout à progresser et à gagner en expérience.
+
+
+
+Rouge (R) : Confirmé, il exerce son métier avec assurance et propose des prestations fiables et de qualité. Il est capable de relever des défis plus complexes, à condition d'y consacrer le temps nécessaire.
+
+
+
+Orange (O) : Expert, il maîtrise parfaitement son art et peut accomplir des réalisations d'un très haut niveau. Il cherche désormais à repousser ses limites pour atteindre l'excellence.
+
+
+
+Violet (L) : Légendaire, il est reconnu dans tout Runeterra pour son savoir-faire exceptionnel. Ses compétences lui permettent de réaliser des créations uniques, parfois considérées comme impossibles par le commun des mortels.
+
+
+
+
+
+Le Niveau de Maîtrise : 
+
+C’est le niveau de maîtrise du métier du PNJ. Comme les joueur, il se joue sur un jet de dé 1D100
+
+60 à 70 - Début de nouvelles pratiques.
+
+70 à 80 - Nouvelles pratiques prises en main.
+
+80 à 90 - Maîtrise mieux ses nouvelles pratiques.
+
+90 à 100 - Cherche à apprendre de nouvelles pratiques.
+
+100 - Impossible de se louper.
+
+
+
+
+
+Les Métiers de Craft :
+
+
+
+- Forgeron : Les forgerons sont spécialisés dans la création et la réparation d’équipement et d’armes en tout genre. Ils peuvent également construire des objets à la demande des joueurs, comme une calèche ou une cabane à l’aide d’ébéniste
+
+
+
+
+
+- Alchimiste : Les alchimistes sont doués pour fabriquer des potions et mixtures, mais peuvent aussi accomplir des tâches personnalisées avec des ingrédients spéciaux ou ciblés si les joueurs leur apportent l’essence d’une cible.
+
+
+
+
+
+- Enchanteur : Les enchanteurs peuvent se spécialiser dans différents types comme l’enchantement d’objets comme des armes et équipements, mais également l’enchantement de personnes ou d’environnement.
+
+
+
+
+
+- Couturier : Rien de mieux pour réparer des équipements en tissu, ou pour améliorer des tenues à l’aide de fourrure afin de réchauffer des tenues. 
+
+
+
+- Cuisinier : Techniquement la cuisine est de la création. Elle peut être personnalisée en fonction des goûts et effets recherchés, mais également de la complexité d’un plat ou de l’espèce animale ou végétale à cuisiner. 
+
+
+
+
+
+
+
+
+
+
+
+MÉTIERS DES JOUEURS
+
+
+
+
+
+L’aspect des métiers pour les joueurs est utile sur deux points de vue essentiels : La rentrée d’argent et l’utilisation des compétences/connaissances de ce métier dans le quotidien.Ex : Un architecte peut utiliser son jet d'Architecture pour créer et vendre des plans pour construire une maison à un PNJ contre de l’argent. Mais il peut aussi analyser une maison afin d’y trouver potentiellement une cachette, élément utile ou un piège.
+
+
+
+
+
+Choix du Métier : 
+
+Techniquement, tous les métiers sont possibles mais voici une petite liste pour donner des idées de ce qui a déjà été testé.
+
+
+
+Forgeron
+
+Enchanteur
+
+Alchimiste
+
+Couturier
+
+Cuisinier
+	Pêcheur
+
+Dresseur
+
+Chasseur
+
+Eleveur
+
+Chevaucheur
+	Marchand
+
+Explorateur
+
+Navigateur
+
+
+	Guerrier
+
+Espion
+
+Mercenaire
+
+Garde
+
+Eclaireur
+	Artiste
+
+Artisan
+
+Musicien
+
+Architecte
+
+
+	Erudit
+
+Conseiller
+
+Astrologue
+
+Géologue
+
+Ecrivain
+	Voleur
+
+Assassin
+
+Brigand
+
+Pirate
+
+
+
+
+
+Moine / Prêtre / Soigneur / Herboriste / Chevaucheur etc…
+
+Il est possible de se spécialiser dans certaines fonctions. Ex : Dresseur de Chevaux / Chevaucheur de Griffon / Prêtresse d’Anivia / Musicien Guitariste / Artiste Peintre etc…
+
+
+
+Des croisements sont possibles mais seront limités dans leur fonctions. 
+
+
+
+Ex : Marchand/Marin - Spécialisé dans la vente en mer. (Vend mieux en mer ou produit marin (bonus) mais moins bien sur terre ou produit terrestre (malus) et connaît les codes de la mer mais n’est pas capitaine. 
+
+
+
+
+
+
+
+
+
+
+
+❗Les règles suivantes sont facultatives. Si vous êtes novice, vous pouvez ne pas les appliquer❗
+
+
+
+
+
+Apprendre un nouveau métier :
+
+Il est possible d'apprendre rapidement un nouveau métier. Pour cela, le personnage doit se procurer un Kit de niveau 1 et étudier son manuel ou apprendre les bases auprès d’un expert. Il obtient alors un nouvel Attribut Spécial avec une valeur de 60, ainsi que le niveau 1 dans le métier concerné.
+
+
+
+
+
+
+
+
+
+Augmenter le niveau du métier : 
+
+Plus un personnage perfectionne son métier, plus sa progression devient rapide. Chaque expérience lui permet d'apprendre, qu'elle se solde par une réussite ou un échec. C'est pourquoi les échecs rapportent également des points d'expérience : se tromper fait aussi partie de l'apprentissage et contribue à perfectionner son savoir-faire.
+
+
+
+- Lvl 1 :
+
+Progression du métier
+
+Réussite Critique : +5 points
+
+Réussite : +2 points
+
+Échec : +1 point
+
+Échec Critique : +0 point
+
+2 réussites consécutives : +5 à l'Attribut
+
+
+
+Progression de l'Attribut :
+
+
+
+Gagnez +5 tous les 3 points jusqu'à atteindre 70.
+
+Puis gagnez +5 tous les 5 points jusqu'à atteindre 80.
+
+Pour passer au niveau 2, le personnage doit cumuler 5 points ou réussir un jet de 30 ou moins.
+
+Gagne +05 tous les 3 Points jusqu’à 70. Gagne +05 tous les 5 Points jusqu’à 80. Gagnez 5 Points ou faites ≤ 30 pour passer lvl 2.
+
+
+
+
+
+- Lvl 2 :
+
+- 1 réussite critique = +3 Points
+
+- 1 réussite = +1 Point
+
+- 1 échec = +½ Point 
+
+- 1 échec critique = +0 Point
+
+- 2 réussites consécutives = +05 d’Attribut
+
+
+
+Gagne +05 tous les 5 Points jusqu’à 70. Gagne +05 tous les 10 Points jusqu’à 80. Gagnez 10 Points ou faites ≤ 20 pour passer lvl 3.
+
+
+
+
+
+- lvl 3 :
+
+- 1 réussite critique = +3 Points
+
+- 1 réussite = +1 Point
+
+- 1 échec = +½ Points 
+
+- 1 échec critique = +0 Points
+
+- 3 réussites consécutives = +05 d’Attribut
+
+
+
+Gagne +05 tous les 10 Points jusqu’à 70. Gagne +05 tous les 15 Points jusqu’à 90. Gagnez 20 Points ou faites ≤ 10 pour passer L.
+
+
+
+- L :.
+
+- 1 réussite critique = +2 Points
+
+- 1 réussite = +1 Point
+
+- 1 échec = +0 Points 
+
+- 1 échec critique = +0 Points
+
+- 5 réussites consécutives = +05 d’Attribut
+
+
+
+Gagne +05 tous les 5 Points jusqu’à 70. Gagne +05 tous les 10 Points jusqu’à 80. Gagne +05 tous les 15 Points jusqu’à 90. Pour passer 95 vous devez faire 5 réussites consécutives (1 réussite critique compte pour 3). Pour passer 100 vous devez faire une réussite critique.
+
+
+
+
+
+A Noter : Vos lvl précédent continuent d’augmenter en même temps que le lvl actuel avec 20 de différence d’un lvl à l’autre.
+
+Ex : Un Cuisinier Lvl 2 à 70 est donc 90 au Lvl 1 / Un Forgeron Lvl 3 à 75 est donc 95 au Lvl 2 et 100 au Lvl 1.
+
+
+
+
+
+Utilisation des Kits :
+
+Les joueurs peuvent acheter des kits pour apprendre ou performer dans leur métier. Pour apprendre un nouveau métier, il est essentiel de commencer avec un Kit lvl 1 car il contient un manuel d’apprentissage. Il est possible de recharger certains éléments des Kits chez des marchands ou avec des ressources naturelles. 
+
+
+
+- Kit de Soin : Lvl 1 (+10 PV) - Petit soin, bandage, médecine douce / Lvl 2 (+10/+1D10 PV) - Cautériser et recoudre (voir Saignement) et pour Stopper hémorragie, petite fracture (un jet Lvl 2 et un jet Lvl 1) / Lvl 3 (+20/+1D10 PV) - Soins intensifs, détecter et traiter les maladies, stopper hémorragie, grosse fracture / L (+30/+1D20 PV) 
+
+
+
+- Kit de Couture : Lvl 1 - Créer Vert et Réparer Gris et Vert, vêtements traditionnel / Lvl 2 - Créer et Réparer Bleu, Vêtement plus avancés / Lvl 3 - Créer et Réparer Rouge et Orange, Vêtements complexes / L - Créer et réparer Violet, vêtements uniques. 
+
+
+
+- Kit de Pêche : Lvl 1 - Commun (5 à 10 - Rare et Rare + / 5 à 3 - Rare ++ ou Petit Trésor / 2 et 1 - Rare +++ ou Moyen Trésor) / Lvl 2 - Rare (10 à 20 - Rare + ou Petit Trésor / 5 à 10 - Rare ++ ou Moyen Trésor / 5 à 1 - Rare +++ ou Grand Trésor) / Lvl 3 - Rare ++ ou Moyen Trésor (5 à 20 - Rare +++ ou Grand Trésor / 5 à 1 - Légendaire ou Trésor Unique) 
+
+Pêche Filet (seulement en bateau) Petit - 1d6 / Moyen -  1d10 / Grand - 1d20
+
+
+
+- Kit de cuisine : Lvl 1 - 3 ingrédients - recette basique (+4 PV) / Lvl 2 - 4 ingrédients - bonne recette (+5 PV) / Lvl 3 - 4 ingrédients - recette élaborée (+6 PV / Bonus social) si <10 recette unique + vente / L - 
+
+
+
+- Kit de Crochetage : (Impossible si < 60 Dextérité / si Voleur, se baser dessus mais nécessite le kit approprié) 
+
+Lvl 1 - Petits coffres et petites serrures / Lvl 2 - Moyens Coffres et Moyennes serrures / Lvl 3 - Grands coffres et grandes serrures / L - Verrouillage par enchantement.
+
+
+
+- Kit d’Alchimie : Lvl 1 - Créer des potions basiques (B) si ≤ 20 pas de pertes / Lvl 2 - Créer des potions avancées (R) si ≤ 30 pas de pertes / Lvl 3 - Créer des potions puissantes (O) si ≤ 50 pas de pertes / L - Crée des potions Légendaires (V)
+
+
+
+- Kit de Chasse : Lvl 1 - Créer petits pièges et dépeçage basique, petites bêtes (≤ 20 pas de pertes) / Lvl 2 - Créer moyens pièges, dépeçage précis, moyennes bêtes, reconnais bêtes déjà vues (≤ 40 pas de pertes) / Lvl 3 - Créer grands pièges, dépeçage parfait (0 pertes), grandes bêtes, reconnaît approximativement bêtes jamais vues / L - Traquer bêtes légendaires, récolte et dépeçage des bêtes légendaires.
+
+
+
+- Kit d’Enchantement : 
+
+
+
+- Kit d’Artiste (Peinture/Sculpture/Tatouage/ : Lvl 1 -  / Lvl 2 -  / Lvl 3 -  / L - Créer une oeuvre enchantée (selon l’enchantement voulu - voir page Enchantement)
+
+
+
+- Kit d’Herboriste : 
+
+
+
+- Kit d’Explorateur : 
+
+
+
+- Kit d’Astrologie : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRADES ET ORDRE DE GRADE
+
+
+
+
+
+Les Différents Grades : 
+
+Il est possible de rejoindre une (ou plusieurs) tribus durant votre aventure. Plus vous ferez vos preuves et apporterez votre aide au sein d’un groupe et plus votre grade augmentera. 
+
+
+
+- Recrue :
+
+Généralement Guerrier, Soldat, Archer, etc, les recrues accomplissent des tâches simples. Ils peuvent commander certains civils.
+
+Avantages : Tenues / Armes / Monture / Lieu de gîte
+
+
+
+- Vétéran :
+
+Un rôle plus important et plus impliqué dans la tribu choisie, généralement relié avec les premières activités importantes demandées (Commandement, Eclaireur, Garde, Dompteur).
+
+Avantages : Tenues / Armes / Monture / Lieu de gîte / Ordres Recrue
+
+
+
+- Champion :
+
+
+
+Avantages : Tenues / Armes / Monture / Maison / Création Missions / Gestion Troupe
+
+
+
+- Proche :
+
+
+
+Avantages : Équipement Unique / Monture Unique / Liaison / Créer sa Troupe / Terres
+
+
+
+
+
+
+
+
+
+MONTURES, FAMILIERS ET VÉHICULES
+
+
+
+
+
+
+
+LES FAMILIERS
+
+
+
+
+
+	Quasiment toutes les créatures présentes dans cet univers son apprivoisable ou dressable selon l’affinité que l’on peut avoir avec les animaux. Pour tester la première approche avec une créature, il est préférable d’utiliser l’attribut de Charisme (ou un attribut spécial plus spécifique selon le joueur comme Dressage, Envoûtement ou Lien Animal)
+
+
+
+
+
+Le Dressage :
+
+Toutes les créatures ont dans le document Note Bestiaire une indication sur la difficulté et la manière de dresser ou d’apprivoiser une bête. 
+
+
+
+
+
+L'Entretien des Familiers :
+
+
+
+
+
+
+
+
+
+
+
+
+
+LES MONTURES
+
+
+
+Duddedefe 
+
+
+
+
+
+
+
+
+
+
+
+
+
+LES VÉHICULES
+
+
+
+
+
+Pour les ajouter sur Lets Role, il suffit d’aller dans la rubrique “Création de Contenu” (1), cliquer sur “Crée un”, choisir dans le menu déroulant parmis Monture (Véhicule) et Familier, remplir la fiche qui s’ouvre et la partager avec le ou les joueurs concernés (2).
+
+
+
+1.                                                                  2.

@@ -1,0 +1,3092 @@
+
+1. RELIQUES ET ITEMS ENCHANTÉS : 
+
+Normal/Fort/Extrême/Légendaire [Estimation Prix]
+
+
+
+
+
+1-1. Amulette d’Anivia | 1-2. Amulette d’Anivia Chargée (Relique) [1 Or | 70 Or]
+
+Ajoutez nouveau Attribut Spécial : Prière Anivia à 20/30.
+
+L’esprit d’Anivia soutient votre cause. 20 % de faire +05 | si Chargée passe à 30 % de faire +15 (si échec critique : Brise la perle / Décharge la perle si Chargée) Peut s’utiliser avant un combat (1 tour) ou en anticipation d'une action à venir. 
+
+(Pour charger l’amulette :  réussite critique donne bonne grâce d’Anivia / Rencontrer le Maître des Secrets.)
+
+
+
+A Noter : Ne peut pas dépasser 90 avec le bonus dans un Attribut.
+
+
+
+
+
+2. Pierres d’énergie Runique (Consommable) voir Pierres Runiques
+
+Ce sont des pierres contenant de la Magie Runique pouvant être utilisées comme des sorts consommables à puissance variable selon leur nature et leur rareté. 
+
+
+
+
+
+3. Cartes Bonne-Main (Relique) - créé à Bilgewater [40 Or]
+
+Cartes enchantées qui permet à celui qui sert de choisir le rythme de la partie et la possession de chaque joueur.
+
+
+
+
+
+4. Collier de Marchandage (Relique) - Guilde des Marchands [140 Or]
+
+Donne +10 en Persuasion pour marchander. Négocie automatiquement les prix à -20% avec tous les marchands de la Guilde des Marchands. 
+
+
+
+5. Grimaques (Relique) - créé à Demacia [60 Or]
+
+La Grimarque est une insigne pour se distinguer et être appréciée des Demaciens qui n’aiment pas la magie. Donne +20 de Social avec les Demaciens anti mages et permet de détecter de la magie chez un individu. 
+
+
+
+
+
+6. Lumivision Hextech (Lumifix) (Item - 1 places) - créé à Piltover par Charles Marigniot [40 Or]
+
+Machine qui capture la lumière pour fixer une image sur un morceau de papier épais (appareil photo).
+
+
+
+7. Menottes Pétricite (Item - 1 place) - créé à Demacia [30 Or]
+
+Menottes qui permettent d’annuler la magie du porteur (sauf Pierres de Sort).
+
+
+
+
+
+
+
+
+
+8. Ticket Hexgate (Consommable) - créé à Piltover [200 Or]
+
+Donne accès à une Hexgate de Piltover pour une des destinations suivantes au choix : Rakelstake (Freljord) - Bastion de l’Immortel (Noxus) - Grande Place de Demacia (Demacia) - Le Placidium de Navori (Ionia) - Place de l’Oasis (Shurima).
+
+
+
+
+
+9. Boussole Ixtali (Relique) - créé à Ixtal [100 Or]
+
+Mettre un élément dedans permet de savoir dans quelle direction la plus proche trouver de ce même élément. Si l’enchantement ou la source de magie est Élevée, alors la direction mène vers une source du même type. Si elle est Légendaire, alors la direction pointe sur la même source que l’élément utilisé. Le réservoir est limité (3 pierres de sorts max)
+
+
+
+
+
+10. Corr d’Olyfaärg (Item - 1 place) - possédé par Odvïr [250 Or]
+
+Émet un son qui provoque une vibration si puissante et magique qu’elle rend tangible et vulnérable aux attaques physiques (DP) tout type d'ethération pendant 30sec (1 tour) toutes les 3min (4 tours).
+
+
+
+
+
+11. Écharpe en Fourrure de Björld (Relique) [75 Or]
+
+Couvre les odeurs des prédateurs et révèle les bêtes inoffensives environnantes (+30 Charisme bestiaire Commun et Rare / +20 Charisme Rare++ / +10 Charisme Rare+++ )
+
+
+
+
+
+12. Gréténite “Ulvakjarn” ou Pierre de Grétneil (Relique/Matériaux) 20g [40 Or]
+
+Pierre divisible connecté qui s'attire mutuellement pour se recoller. Briser la pierre en plusieurs morceaux pour créer l’attraction. Divisible de 5g au minimum. 5g : Perception -10 / 10g : Perception -05 / >20g  : Endurance +5 /5g dans la direction d’attraction (Si entière, pointe toujours vers sa source mère d’extraction naturelle) 
+
+Est également considéré comme un Matériaux (10.?)
+
+
+
+
+
+13. Indivellium (Item Usage Unique - 1 place) Plusieurs Tomes Possibles [125 Or] voir Note Livres
+
+Ce livre vous connaît mieux que vous même. Une fois lu, il se détruit. Le lire ajoute +05 dans un Attributs Spécial au choix.
+
+
+
+
+
+14. Lettres des Conjoints Éternels (Relique) [50 Or]
+
+Peut communiquer avec quelqu’un qui à sa lettre jumelle. Les messages finissent par s’effacer une fois lu. Possible de jumeler plusieurs lettres entre elles avec un enchantement. 
+
+
+
+
+
+15. Luth du Barde Charlatan (Relique) - crée par Odir Eimüsveg [100 Or] SHORT - STYLÉ - CHARME
+
+Jouer de la musique avec ce luth permet d’utiliser le Charisme du joueur pour les jets de Dextérité et Intelligence.
+
+
+
+
+
+16. Memovision Hextech (Item - 2 places) - créé à Piltover par Charles Marigniot [115 Or]
+
+Permet de voir en images les pensées du porteur. Peut être utilisé avec un composé pour orienter les pensées du porteur.  Si non consenti, Jet de Mental pour y résister. 
+
+
+
+
+
+17. Mobile-Oeil Hextech (Relique) [40 Or]
+
+Permet de mieux voir dans les endroits sombres et détecte les sources de Magies Hextech et certains flux de magies à travers la matière. Doit se séparer d’un de ses yeux pour être installé à la place. Donne +10 Perception et retire -05 PV de Base pour l’installer.
+
+! Attention à ne pas le perdre ! (-10 Perception) !
+
+
+
+
+
+18. Transluiverre (Relique) [85 Or]
+
+Une fois versée dans le verre, toutes les substances liquides sont transformées en eau et rend leurs propriétés inefficaces si elles en possédaient.
+
+
+
+
+
+
+
+
+
+L-1. Bague du Roi Déchu (Relique) - créé par Viego [2000 Or]
+
+Mourir avec cette bague au doigt permet de revenir en spectre. Un puissant enchantement permet de posséder un corps récemment sans vie. Permet de visiter temporairement le monde Spirituel. Faire 1D100 pour déterminer le nombre de minutes. Si < 85, l’esprit s’y perd et le corps n’est plus récupérable (Perte du personnage).
+
+
+
+
+
+L-3. Cloche d'Arengarr (Item Unique - 2 places) 10 Usages [400 Or]
+
+Faire sonner la cloche fait apparaître l’esprit d’Arengarr et arrête la météo environnante. Il permet au joueur de parler dans le vent pour communiquer un message à quiconque dans tout le Freljord, et peut changer la météo de la zone temporairement.
+
+- Divulgation au choix du MJ : Au bout de 10 Usages, l’esprit d’Arengarr disparaît et la cloche se met à rouiller de jour en jour.
+
+
+
+
+
+L-4. Collier du Crescendo (Relique Unique) [300 Or]
+
+Décuple l’acharnement. Répéter un jet augmente ses chances de réussite de +2/+5/+10/+15/+20  sauf les Attributs Spéciaux. S’il fait une réussite critique, le prochain jet du même Attribut est automatiquement une réussite.
+
+
+
+
+
+L-5. Fiole de l'Éternel - (Item vide / Relique si rempli) [200 Or] 
+
+Permet d'empêcher à toute forme de magies de s’en échapper. Peut conserver une âme si elle est remplie de Chroxure liquide (6.L-2). 
+
+
+
+
+
+L-6. Grimoire Oknuün (Relique) - créé par Ott [5000 Or]
+
+Ajoute nouveau Attribut Spécial : Nécromancie à 20 (+10 si Attribut Spécial lié aux langues ou aux livres)
+
+Ce Grimoire Nécromancien permet de puiser dans les ressources magiques du monde des morts spécifiquement lié au Freljord. [voir Mots Grimoir Ott]
+
+
+
+
+
+L-7. Haro de Ashe (Relique Unique) - créé par Ornn [1200 Or]
+
+Permet d’appeler Braum à travers tout le Freljord pour l’invoquer à vos côtés le temps d’un combat important ou d’une quête. Le bruit peut également réveiller ou révéler les Demi-Dieux environnants.! Ne s’utilise qu’en cas de réelle nécessité, trop l’utiliser peut attirer les foudres des dieux !
+
+
+
+
+
+L-8. Havenbaag (Relique Unique) [250 Or]
+
+Un sac à très grande capacité et d’un poids idéal qu’importe la quantité qu’il contient. Ne prend pas en compte la taille et la quantité des objets stockés dedans.
+
+
+
+
+
+L-9. Ildrunvirr (Chaudron d’Abondance) (Item Unique - 10 places) - créé par Ornn [Inestimable]
+
+Toute nourriture cuisinée dedans permet de combler l’estomac sur toute l’aventure. Ajoute 1D4x5 PV de base.
+
+! Ne pas en consommer plusieurs fois, risque de s’étouffer de l’intérieur (50% de chance de mourir) !
+
+
+
+
+
+L-10. Jordkljúfr (Item Unique - 1 place) - possédé par Dragvirr (Guilde des Voleurs) [230 Or]
+
+Artefact magique en forme de sceptre en bois qui émet des impulsions sismiques permettant de créer des galeries souterraines en consolidant immédiatement les paroies.
+
+
+
+
+
+L-11. Kit Couture Merisan (Item Unique - 1 place) - créé par Tania Merisan [350 Or]
+
+Kit d'outil permettant de fabriquer des tenues en tissu et cuir pour enchantement Légendaires.
+
+
+
+
+
+L-12. Kit d’Outils d’Oavir (Item Unique - 1 place) - créé par Joana [450 Or]
+
+Kit d'outil permettant de fabriquer des objets, équipements et armes en Oavir.
+
+
+
+
+
+L-13. Lanterne de la Fournaise (Item Unique - 2 places) - créé par Ornn [420 Or]
+
+Une lanterne de feu éternel magique qui révèle et guide vers le désir de celui qui la tient. Plus le désir est proche, plus la flamme vire du jaune au rouge. La flemme révèle n’importe quel secret dissimulé.
+
+
+
+
+
+L-14. Miroir d’Antireflet (Item Unique - 4 places) [320 Or]
+
+Le miroir projette l’illusion parfaite de l'endroit où il se trouve dans la direction souhaitée. Peut piéger une personne si elle rentre dans l’illusion du miroir. Peut stocker des objets dedans (50 % de chance de le rendre inversé) ! Coince à tout jamais les gens enfermés dedans si le miroir se brise (Échec Critique lorsque manipulé) !
+
+
+
+
+
+L-15. Pelle de Passage (Relique Unique Consommable) - créé par Ornn [1200 Or]
+
+Fait téléporter quiconque la touche dans la forge de Ornn.
+
+
+
+
+
+L-16. Pendule Brisé du Lendemain (Relique Unique - Recharge si retrouvé) [800 Or]
+
+Permet de remonter le temps de 1D12 heure et disparaît une fois utilisée (séquence alternative en accéléré). 1 chance sur 2 d'être cassée si trouvée. Si cassée : lancer 1D100 1x/j pour le réparer. Une fois les résultats des jets =100, la montre est réparée. 
+
+
+
+
+
+L-17. Pièce de Huul (Relique Unique) - de Bilgewater [300 Or]
+
+Tirer pile ou face pour avoir une info qui peut être une vérité ou un mensonge. (3x Face)
+
+
+
+
+
+L-18. Plume d’Onn’Vana (Relique) [170 Or]
+
+Possède une magie de Révélation d’Intention (voir 4.0). Ne peut écrire que la vérité (subjective à l’utilisateur). (+20 Persuasion/Charisme/Intimidation par écrit).
+
+
+
+
+
+L-19. Sphère de Kumbadge (Relique Unique - Usage unique) [1500 Or]
+
+Faire un vœu à 50% de chance de marcher, ou de faire son exacte inverse. (1D100)
+
+
+
+
+
+L-20. Veillance du Disgracieux (Relique Unique) Pendentif [350 Or]
+
+Peut permuter un échec critique avec une réussite critique et inversement. (1-5 à 96-100)
+
+Permute automatiquement une réussite critique s’il est chargé par un échec critique.
+
+
+
+
+
+L-21. Vörnskrifa ou Pierre d’Esprit de Rhond (Relique Unique) 1 Usage /Personne [200 Or]
+
+Donne +10 dans un Attribut (non Spécial) au choix contre -01 sur tous les prochains jets à vie. Une fois utilisé, un tatouage de serpent de pierre se dessine sur le corps. La pierre permet également de se rapprocher de la Griffe Hivernale (voir Vesnir).
+
+
+
+
+
+L-22. Perle Jumelle (Item Unique) [360 Or]
+
+Perle jumelle à celle de l’Épée de Garen, prévu pour aller dans Prouesse Demacienne (3.22) et la transforme en Légendaire. 
+
+
+
+
+
+L-23. Sceau Noir et Pages de Grimoir des Âmes de Mejai (Reliques) - possédé par Ryze [200 Or]
+
+Les Pages permettent de poser au sol des runes. Le Sceau Noir permet de créer la porte d’entrée ou de sortie entre la magie et l’âme du porteur. Une fois au centre avec la Pierre de Sort posée à côté, permet de retirer de l’âme du porteur la magie de la pierre pour la remettre dedans. 
+
+
+
+
+
+L-24. Sifflet d’Orrkumgäal (Item Unique) - possédé par Marex [200 Or]
+
+Créer un ultrason unique qui fait vibrer les paroies de la Grotte d’Orrkumgäal afin d’ouvrir un portail vers la dimension d’Orrkumgaal, l’entité de l’Omniscience. Ajoute un nouvel attribut Omniscience à 20 contre -20 de Mental.
+
+
+
+
+
+
+
+
+
+
+
+2. ÉQUIPEMENTS : 
+
+Bon/Excellent/Parfait/Légendaire [Estimation Prix]
+
+
+
+
+
+S-1. Tenue d’Explorateur Freljordien (Set d’Équipement) Tissu/Cuir/Fourrure [35/55/80 Or]
+
+- Bonnet (Tête) : 5 PV / 5 PV et 5 Perception / 5 PV et 10 Perception 
+
+- Veste (Torse) : 10 PV / 10 PV et 5 Perception / 20 PV et 10 Perception 
+
+- Gants (Mains) : 5 Perception / 5 PV et 5 Perception / 5 PV et 10 Perception 
+
+- Pantalon (Jambes) : 10 PV / 10 PV et 5 Endurance / 15 PV et 10 Endurance 
+
+- Bottes (Pieds) : 5 Endurance / 5 PV et 5 Endurance / 5 PV et 20 Endurance 
+
+Bonus Set Complet : Se fond plus facilement parmi les Freljordiens. Gagne +5/10 places dans le sac (40 max).
+
+
+
+
+
+S-2. Tenue Guerrier Avarosan (Set d’Équipement) Cuir/Acier/Fourrure [60/135/200 Or]
+
+- Casque (Tête) : 5 ARM / 5 ARM et 10 PV / 10 ARM et 10 PV  
+
+- Veste (Torse) : 10 PV / 10 ARM et 10 PV / 10 ARM et 20 PV 
+
+- Bracelets (Mains) : 5 Force / 5 ARM et 10 Force / 10 ARM et 15 Force 
+
+- Pantalon (Jambes) : 10 PV / 10 PV et 10 Force / 15 PV et 10 Force 
+
+- Bottes (Pieds) : 5 Réflexes / 5 PV et 10 Réflexes / 5 PV et 15 Réflexes 
+
+Bonus Set Complet : Se fond plus facilement parmi les Freljordiens et facilite les interactions sociales avec toutes les tribus alliées. Gagne +5/15 DP avec les armes de mêlée. Gagne +1 DP par allié proche en Tenue Avarosan et repousse la cible toutes les 2 attaques.
+
+
+
+
+
+S-3. Tenue Archer Avarosan (Set d’Équipement) Cuir/Tissu/Fourrure [45/115/220 Or]
+
+- Capuche (Tête) : 5 Perception / 5 PV et 10 Perception / 5 PV et 20 Perception 
+
+- Cuirasse (Torse) : 10 PV / 10 PV et 5 Perception / 20 PV et 10 Perception 
+
+- Gants (Mains) : 5 Dextérité / 5 PV et 10 Dextérité / 5 PV et 20 Dextérité 
+
+- Pantalon (Jambes) : 5 PV / 10 PV et 5 Dextérité / 15 PV et 10 Dextérité  
+
+- Bottes (Pieds) : 5 Dextérité / 5 PV et 5 Dextérité / 5 PV et 10 Dextérité  
+
+Bonus Set Complet : Se fond plus facilement parmi les Freljordiens. Récupère x2 flèches au sol.
+
+
+
+
+
+S-4. Tenue Éclaireur (Set d’Équipement) Cuir/Tissu/Fourrure [50/130/215 Or]
+
+- Capuche (Tête) : 5 Discrétion / 5 PV et 5 Discrétion / 5 PV et 10 Discrétion 
+
+- Veste (Torse) : 10 PV / 10 PV et 5 Discrétion / 15 PV et 10 Discrétion 
+
+- Gants (Mains) : 5 Discrétion / 5 PV et 5 Discrétion / 10 PV et 10 Discrétion 
+
+- Pantalon (Jambes) : 5 Endurance / 10 Endurance et 5 Discrétion / 15 Endurance et 10 Discrétion 
+
+- Bottines (Pieds) : 5 Endurance / 5 PV et 5 Endurance / 10 PV et 10 Endurance 
+
+Bonus Set Complet : Plus de chance de trouver des personnes ou des objets sur les Trajets. Gagne +10/20 de Discrétion lors des déplacements s’il est seul.  
+
+
+
+
+
+S-5. Tenue Soldat Demacien (Set d’Équipement) Cuir/Acier/Pétricite [65/170/240 Or]
+
+- Heaume (Tête) : 5 ARM / 5 PV et 5 ARM / 10 PV et 10 ARM 
+
+- Plastron (Torse) : 5 RM / 10 RM et 5 ARM / 15 RM et 10 ARM 
+
+- Gantelets (Mains) : 5 ARM / 5 PV et 5 ARM / 10 PV et 10 ARM 
+
+- Jambières (Jambes) : 5 RM / 5 PV et 10 RM / 10 PV et 15 RM 
+
+- Solerets (Pieds) : 5 ARM / 5 PV et 5 ARM / 10 PV et 10 ARM 
+
+Bonus Set Complet : Se fond plus facilement parmi l’armée Demacienne. Gagne +15 PV. Absorbe totalement une attaque magique tous les 6/3/1 tours. Gagne 5/15 DM sur la prochaine attaque toutes les 5/3/1 attaques absorbées. 30% de chance d’absorber totalement toutes les attaques magiques. Si 100 attaques magiques sont absorbées, elle explose et fait 100 DM de zone.
+
+
+
+
+
+S-6. Tenue Berserker (Set d’Équipement) Fer/Cuir/Fourrure [55/145/210 Or]
+
+- Spangenhelm (Tête) : 5 Intimidation / 5 Force et 5 Intimidation / 10 Force et 10 Intimidation 
+
+- Cuirasse (Torse) : 10 PV / 10 ARM et 10 Intimidation / 15 ARM et 20 Intimidation
+
+- Brassard (Mains) : 5 Force / 10 PV et 5 Force / 10 PV et 10 Force 
+
+- Grèves (Jambes) : 10 PV / 5 ARM et 10 PV / 10 ARM et 20 PV 
+
+- Bottes (Pieds) : 5 Force / 5 PV et 5 Force / 5 PV et 10 Force 
+
+Bonus Set Complet : Se fond plus facilement parmi les Tribus Sauvages et à 50% de chance faire fuir ou faire attaquer sans sommation. Tuer une cible donne +2/5 DP cumulable sous l’effet Frénésie. 
+
+
+
+
+
+
+
+L-1. Armure Spirituelle (Tenue complète - Unique)
+
+Ne donne aucune stats indépendamment mais uniquement en set complet : +100 ARM / +100 RM / +100 PV. Insensible à la Pénétration Magique et Pénétration d’Armure et aux Dégâts bruts (DB).
+
+
+
+
+
+L-2. Bracelets d’Edgardenn (Main - Unique) [200 Or]
+
+Gagne +20 Dextérité. A 25 % de chance de contrôler un projectile en plein air en appliquant un jet de Force aux dégâts tous les 3 tours. 
+
+
+
+
+
+L-3. Cape de Diviindra (Torse - 2 Exemplaires)
+
++20 en Charisme. 10 % de chances d’Envoûter une cible. Transforme la Persuasion et l’Intimidation en Charisme.
+
+
+
+
+
+L-4. Chuchoteur Hugmunn (Set d’Équipement - Unique)
+
+- Chapeau (Tête) : 10 Intimidation et 15 PV.- Veste (Torse) : 20 Intimidation et 20 PV.- Gants (Mains) : 10 Dextérité et 10 Perception.- Pantalon (Jambes) : 10 Dextérité et 15 PV.- Bottes (Pieds) : 10 Discrétion et 10 PV.
+
+- Arc (Arme) : Parfois une flèche se transforme en corneille et attaque la cible.
+
+Bonus Set : Peut invoquer un Hugmunn géant nommé Oshd’Inn à vos côtés.
+
+
+
+
+
+L-5. Manteau de la Toundra (Torse)
+
+Ne ressent plus le froid du Freljord. Passe la Résistance au Froid au Niveau 4 / +30 PV / +10 Charisme / +40 Discrétion dans la neige.
+
+
+
+
+
+L-6. Tablier des Feux de l’Âtre (Torse)
+
+Permet de forger des objets Légendaires. Donne l’accès à l'Âtre Foyer.
+
+
+
+
+
+
+
+
+
+
+
+3. ARMES : 
+
+Bon/Excellent/Parfait/Légendaire [Estimation Prix]
+
+
+
+
+
+1. Petites Armes de Mêlée (1 Main) [10-20 Or]
+
+5 à 15 DP. Hache, Épée, Dague, Massue, Fléau, Couperet,
+
+
+
+
+
+2. Grandes Armes de Mêlée (2 Main) [15-30 Or]
+
+10 à 20 DP. Hache, Épée, Lance, Masse, 
+
+
+
+
+
+3. Petites Armes à Distance (1 Main) [10-25 Or]
+
+5 à 15 DP variable selon les munitions. Pistolet, Fouet
+
+
+
+
+
+4. Grandes Armes à Distance (2 Main) [15-35 Or]
+
+10 à 20 DP variable selon les munitions. Arc, Arbalète, Fusil, 
+
+
+
+
+
+5. Petites Armes Magique (1 Main) [15-30 Or]
+
+10 à 20 DM de Zone variable selon le type de magie. Ces armes ne créent pas leur propre magie mais puisent celle du lanceur. Sceptre, Cloche, Grimoire, 
+
+
+
+
+
+6. Grandes Armes Magique (2 Main) [20-40 Or]
+
+15 à 25 DM de Zone variable selon le type de magie. Ces armes ne créent pas leur propre magie mais puisent celle du lanceur. Bâton, 
+
+
+
+
+
+
+
+1. Armes Poudre Ygnovarn (Pistolet - Canon Scié - Fusil) - crées par Wilburn [50-90 Or]
+
+30 DP. Crée un gaz qui a 30 % de chance de faire 5 DM de Zone /tir touché.
+
+
+
+
+
+2. Fidèle Nasil (Fouet - 1 Main) à Emir Crownguard - créé à Demacia [300/800/2000 Or]
+
+10/20/30 DP et 10/20/30 DM Ciblé. Un coup de fouet à 10/15/25% de chance d’annuler une attaque magique et si ≤ 10/20, la renvoi contre son envoyeur. 
+
+
+
+
+
+3. Hachoir Incisif (Hache - 1 Main) [80 Or]
+
+20 DP. Hache typique des combattants gagnants de la tribu renaissante. +10 Intimidation et Persuasion avec la Tribu Renaissante.
+
+
+
+
+
+3. Morsvarünn (Bâton - 2 Main) - possédé par Thorva [100 Or]
+
+30 DM de Zone de Givre. Provoque un ralentissement de moyenne zone tout autour du lanceur et à 40% de chance de repousser violemment provoquant 10 DP. Le bâton est d’origine Ursidé et peut sentir une tempête s’approcher.
+
+
+
+
+
+4. Ofléore (Grand Arc) à Felicia - créé par Felicia [90 Or]
+
+10/15/30 DP par flèches. L’arc crée ses propres flèches (5/10/A volonté /jour). Si Parfait : Les flèches sont empoisonnées 5/10 DM /Tour (non cumulable).
+
+
+
+
+
+5. Vière Rouge (Lance - 2 Mains) à Obérin - créé par Obérin [100 Or]
+
+20 DP. 5% d’appliquer un poison unique -1 PV /Tour jusqu'à la mort (remède unique détenu par Obérin).
+
+
+
+
+
+6. Belogure (Épée Longue - 1 Main) à Bronn - créé à Demacia / 
+
+20 DP. 
+
+
+
+
+
+
+
+7. Aqua-Lame en Fiole (Épée - 1 Main) - créé à Ionia [300 Or]
+
+10/20 DP et 30/50 DM Ciblé. Dissimule une lame sous forme de liquide magique dans une fiole. Ouvrir la fiole déploie la lame. +20/100% Dextérité avec l’arme. ! Ne surtout pas boire !
+
+
+
+
+
+8. Dague Éthérée “Ynshaarum” (Dague - 1 Main) - créé à Noxus [300 Or]
+
+40 DP /60 DB. Rituel Lame Éthérée sur 1D100 (Nom cible : faire -20/ Nom + Ess cible : faire -50). Si rituel réussi : Coup fatal à 50-80 % PV restant de la cible (1 fois par combat)
+
+
+
+
+
+9. Épée Glorieuse (Épée - 1 Main) à Cithria - créé à Demacia [Inestimable]
+
+40/80 DP. L'épée évolue et prend des stats à force de combattre. +05 dans l’Attribut utilisé (sauf Spéciaux) si réussite critique (2 fois max par Attributs). ! Item Indestructible !
+
+
+
+
+
+10. Fende-Flamme (Hache Élémentaire - 1 Main) - créé par Alvar [120 Or]
+
+30 DP et 10 DM Zone. Trancher crée une déflagration qui est propulsée par la lame dans la direction du coup.
+
+
+
+
+
+11. Galidarium (Sceptre - 1 Main ) - héritage de Eldred Crownguard - créé à Demacia [1200/2100 Or]
+
+30/50 RM - 20 % de chance d’annuler totalement une attaque magique. Si Légendaire : Transforme la magie absorbée en chance de réussite. Ex : 30 DM absorbé = +30 au prochain jet. (1 fois par combat)
+
+
+
+
+
+12. Oczkafürr (Épée Jumelle d’Oczkadrn) (Épée - 1 Main) - créé par Valek Oczkermonn [Inestimable]
+
+Est attirée par sa jumelle
+
+
+
+
+
+13. Oktalka (Bouclier - 1 Main) - créé par Fiske [180/450 Or]
+
+20/30 ARM et 10/20 RM. Peut éblouir dans la direction pointée (-10/-30 Perception à la cible). Si Légendaire : 50 % de chance de refléter un leurre dans la zone ciblée. 
+
+
+
+
+
+14. Oldahviing / Oldahviing de Glace Pure (Hache - 1 Main) - créé par Ulfriq Guldor [200/2800 Or]
+
+40/50 DP. Le porteur subit 5 DM à chaque tour. 30/50 % d’appliquer Morsure du dragon (+10/30 DM Ciblé). 
+
+Faire 1D100 quand elle est touchée pour la première fois. Si réussite critique le porteur est un Sublimé. Elle devient alors Légendaire : 30 % de chances de briser l’acier et faire apparaître la Glace Pure. Morsure de Dragon à 10 % de chances de tuer sur le coup (sauf Légendaire ou Boss).
+
+
+
+
+
+15. Prouesse Demacienne (Épée - 2 Mains) à Wilhelm - créé à Demacia [ Or]
+
+Si Perle Jumelle appliquée, devient Légendaire.
+
+
+
+
+
+16. Skalbval (Pourfend-Crâne) (Hache - 2 Mains) - possédé par Vrynna [215 Or]
+
+40 DP. Achève une cible ≤ 15% de ses PV de Base en lui fendant le crâne en deux. 
+
+
+
+
+
+17. Sylfang “Bâton du Druide Perdu” (Bâton - 1 Main) [310 Or]
+
+40/60 DM Ciblé. Un Jern Blanc est lié à ce bâton. Permet d’utiliser la magie à travers le Jern. Si Légendaire : Passe en DM Zone.
+
+
+
+
+
+18. Tranchevif (Épée - 1 Main) à Odvïr - créé par Ulfric Guldor [170 Or]
+
+30 DP. Chaque blessure prend +10 DP à répétition. Si Légendaire : 30 % de chance d’Infecter les plaies. 
+
+
+
+
+
+
+
+L-1. Daēdraem “Tueuse de Colosse” (Épée Runique - 2 Mains) - créateur inconnu [Inestimable]
+
+80 DP. Le troisième coup fait des DM selon le % des PV Max de la cible.
+
+
+
+
+
+L-2. Dagues DuCouteau (Set - Unique)
+
+(2 Dagues - 1 Main) 40/40 DP. Peut se téléporter instantanément et sans limite d’une dague à l’autre.
+
+
+
+
+
+L-2. Épée Perdue d’Oczkadrn (Épée Nécromant - 2 Mains) - créé par Odgaar Oczkermonn [Inestimable] 
+
+70 DP Ne peut être tué que par son épée jumelle. Peut être tenue que si Oczkafürr à déjà été tenue.
+
+
+
+
+
+L-3. Feulement d’Hiver (Espadon  Glace Pure - 2 Mains) à Brokvar - créé par Joana [2500 Or]
+
+30 DP - 50 DM de Zone - Si ≤ 30 se recouvre totalement de Glace Pure. Chaque coup qui touche fait subir au porteur (Sublimé) entre 10 et 15 DM. Peut faire apparaître des stalagmites de Glace Pure en plantant la lame au sol qui ont 15 % de chance de toucher [1D4] cibles et les tuer sur le coup (sauf Légendaire ou Boss).
+
+
+
+
+
+L-4. Heeljengdël (Harpe Enchantée - 2 Mains) - créé par Odir Eimüsveg [1200 Or]
+
+60 DM - Boost de +10 Zone/ +20 Ciblé DM les attaques magiques des alliés. 40 % de chance de charmer temporairement en zone (petite). Si réussite critique : Tombe amoureux du lanceur (sauf Légendaire ou Boss).
+
+
+
+
+
+L-5. Hulg'Alvirr (Masse Magmatique - 2 Mains) - créé par Harold [1800 Or]
+
+60 DP. 70 % de chance de libérer une coulée de Magma (Enchantement Rhond) à +30 DM Zone.
+
+
+
+
+
+L-6.     i     (Épée - 2 Mains) à Alderiate - créé par Meryl [Inestimable]
+
+80 DP. Tenir l’épée transforme les stats du porteur (Alderiate)
+
+100 PV de Base / 80 Force / 30 Agilité / 80 Endurance / 20 Concentration / 20 Perception / 70 Réflexes / 20 Dextérité / 10 Discrétion / 60 Charisme / 30 Persuasion / 80 Intimidation / 60 Mental.(Statistiques Fixes / Ne pas toucher aux Attributs Spéciaux et Métiers)
+
+
+
+
+
+L-7. Lance de Vargh’Heggen (Perlée*) (Lance - 2 Mains) [3000 (3500*) Or]
+
+80 DP. Peut convertir 80 % des DP en PA Ciblé. Si perlé : Invoque une pluie qui soigne +10 PV de Zone proche du porteur (1D4 Tours Max).
+
+
+
+
+
+
+
+
+
+
+
+4. MAGIE ET ENCHANTEMENT (MODULABLES/INDIVIDUEL) : 
+
+Bon/Excellent/Parfait/Légendaire*
+
+
+
+
+
+A. Modulable : 
+
+0. Personnalisé
+
+Les Enchanteurs peuvent détruire un Item pour en récupérer l’Enchantement et le mettre dans un nouvel Item. Les Enchanteurs Légendaires peuvent extraire l’enchantement sans détruire l’Item.
+
+
+
+
+
+1. Elémentaire (Magie Élémentaire/Enchanteur) voir Magies
+
+Permet d’infuser un Item de magie élémentaire propre au porteur permettant de prolonger sa magie par son arme ou son équipement. Magie évolutive selon la rareté et la puissance.
+
+
+
+
+
+2. Runique (Pierres Runiques/Runes/Enchanteur) voir Magies
+
+Permet d’infuser un Item de magie enchantée par le biais de Runes spéciales issues de pierres runiques ou de magie pure. Magie évolutive selon la rareté et la puissance.
+
+
+
+
+
+3. Hémomancie (Rituel Hémomancie/Enchanteur Alchimiste/Nécromancie)
+
+Magie du sang revigorante, régénératrice, de contrôle et de sacrifice. Soin/DM/DB
+
+
+
+
+
+4. Lien Animal (Spirituelle/Chamanique)
+
+Lié aux animaux et à leurs spécificités. 
+
+
+
+
+
+5. Ursidé (Magie Spirituelle/Chamanique/Rituel Ursidé/Valhir)
+
+Lien à Valhir. Berserker/DP/DM.
+
+
+
+
+
+5. Aquasymbiose (Magie Spirituelle/Chamanique)
+
+Permet de domestiquer les petits poissons environnants.
+
+
+
+
+
+
+
+
+
+6. Hextech (Craft Hextech/Module Hextech)
+
+Technologie modulable avec une expertise spécifique de Craft Hextech. DM/RM.
+
+
+
+
+
+7. Chemtech (Craft Chemtech/Alchimiste)
+
+Technologie modulable avec une expertise spécifique de Craft Chemtech. Poison DM/RM.
+
+
+
+
+
+8. Spirituel (
+
+Note…
+
+
+
+
+
+9. Céleste (
+
+Note…
+
+
+
+
+
+
+
+L-1. Sang de l’Immortel (Sang Tryndamere)
+
+Rentrer dans un état Berserker donne de l’Invulnérabilité temporaire (Max 2 Tours/J). Si Arme Hemomacie : Soigne +1D6 PV /coup avec l’Arme (2D4 si 2 Armes à 1 Main).
+
+
+
+
+
+L-2. Elixir du Sublimé (Glande Arpeka/Anivia)
+
+Protège l'équipement et le porteur de la Glace Pure sans être Sublimé. Absorber de la Glace Pure donne +5 RM /absorption (Max +20 RM tout item confondu)
+
+
+
+
+
+L-3. Perle Jumelle ()
+
+Note…
+
+
+
+
+
+L-4. Perle de Vargh’Heggen (Magie Spirituelle/Course-Heggen) - par Vargh’Heggen ♂️ 
+
+Cette perle est une larme du Vargh’Heggen ♂️ et à 60% de chance de tomber après son accouplement (15% qu’il en tombe une deuxième). Elle peut invoquer magiquement une pluie près de son porteur qui soigne +10 PV en Zone (1D4 Tour Max 1x /j). La magie de la perle s’estompe au cours des années jusqu'à disparaître après ses 100 ans. 
+
+
+
+
+
+L-5. Bénédiction d’Ildhaurg (Oracle Tribu Renaissante/Ildhaurg)
+
+Rester immobile donne une Peau de Fer : +10 ARM/Équipement Peau de Fer.
+
+
+
+
+
+L-6. Bénédiction d’Anivia (Oracle Avarosan/Anivia)
+
+Résistance au Froid du Freljord. +5 RM Bonus et +1 Niveau Résistance au Froid / Équipement (4 Max).
+
+
+
+
+
+L-7. Bénédiction de la Soeur-Phoque (Fourrure Soeur-Phoque/Soeur-Phoque)
+
+Donne un avantage à portée de l’Eau (mer, pluie, magie) +5 RM et DM / Équipement pendant 1 tour au choix (1 fois /combat). Donne +10 dans Spécial 1 (1 seule fois).
+
+
+
+
+
+L-8. Volontée de Valhir (Grand Ursidé/Volibear)
+
+…
+
+
+
+
+
+L-9. Rétribution de Rhond (Vörnskrifa/Rhond) - par Forge Enchanteur
+
+Transforme n’importe quelle matière en Magma sur un contact prolongé. % de chance de créer une coulée de Magma DM Zone.
+
+
+
+
+
+L-10. Flamme Perpétuelle (Feu de l’Âtre/Ornn) - par Enchanteur
+
+Une flamme qui ne peut pas s’éteindre. Si sur Équipement : +20 DM avec une Arme forgé par Ornn. Si sur Arme : +10 ARM avec un Équipement forgé par Ornn. (Seulement 1 Item)
+
+
+
+
+
+L-11. Glace Pure (Arpeka des Glace/Anivia) - par Enchanteur
+
+Une Glace qui ne peut pas fondre. Donne un % de chance de tuer au toucher (sauf Légendaire et Boss). Si Sublimé : 20 % de chance de subir 5+1D10 DM. Si Non Sublimé : 1D100 - subit le résultat du jet en DM entre 1 et 70 + Glace la main entre 70 et 80 (-10 PV de Base) + Glace le bras entre 80 et 90 (-10 PV de Base). Tue > 90.
+
+
+
+
+
+L-12. Glace Noire (Lissandra) - par Lissandra
+
+Une Glace Pure Corrompue, bien plus puissante et plus désastreuse. Identique Glace Pure avec un % de chance de corrompre et posséder (sauf Légendaire et Boss).
+
+
+
+
+
+L-13. Tellurique (Rune Primordiale/Ryze) - par Ryze
+
+C’est mort la team.
+
+
+
+
+
+L-14. Rituel des Esprits (Nécromancie/Chroxure Liquide)
+
+Permet d’infuser une partie de l’esprit d’un défunt (avec son consentement) pour y puiser une partie de sa magie (Attribut Spécial PJ ou PNJ décédé)
+
+
+
+
+
+L-15. Amour Momentané (Magie Spirituelle/Vesani)
+
+20 % de chance de charmer temporairement la cible (ciblé). Si réussite critique, la cible tombe amoureux  (sauf Légendaire ou Boss).
+
+
+
+
+
+L-16. Révélation d’Intentions (Magie Spirituelle/Onn’Vana)
+
+Peut lire l’intention d’une cible dans son regard. Transforme temporairement l’Agilité en Réflexes.
+
+
+
+
+
+
+
+
+
+B. Individuel : 
+
+
+
+0. Transformation en Grü (Spirituelle/Hématomancie) Cheddar par Fromages aux 6 Âmes
+
+Ajoutez nouveau Attribut Spécial : Transformation Grü à 100. 
+
+Permet au lanceur du sort de se transformer en Grü, un grand chien (style Patou). Le lanceur garde sa conscience mais ne peut physiquement pas parler. (Se gagne dans la quête Les Fromages aux 6 Âmes)
+
+
+
+Si Jet de Transformation Grü = 100, le porteur reste coincé en Grü et doit faire intervenir un Enchanteur (L) pour retrouver son apparence. Si l’Enchanteur loupe son jet, le porteur perd sa capacité de Transformation en Grü définitivement.
+
+
+
+
+
+1. Le Pacte (Hémomancie/Hématomancie) Otis et Dragvirr
+
+Le Pacte se transmet par une poignée de main faisant apparaître une marque instantanée dans la paume. Elle permet au porteur de lire le Code des Voleurs désormais visible dans l'environnement. La marque redevient visible uniquement par le porteur en présence d'une autre personne aux alentours possédant le Pacte.
+
+
+
+Attention  :! Si le porteau du Pacte révèle l'existence du Réseau (voir Le Réseau), il sera maudit : Tout contact avec de l’Or ou de l’Argent (même à travers les vêtements) lui brûlera la peau. -5PV/sec.
+
+! Si une personne meurt suite à ses divulgations, le porteur du Pacte perd -10 de ses PV de Base. 
+
+!! Si un membre de la guilde des voleurs meurt suite à ses divulgations, il perd -50% de ses PV de Base.
+
+
+
+
+
+
+
+0. Amaretsu (Spirituel/Langage) Laïda (voir Amaretsu)
+
+Cette forme de magie exceptionnellement rare permet à quiconque la maîtrise d’utiliser un langage spirituel qui pousse ceux qui l’entendent à obéir et faire ce que le langage dit. Ce langage traverse les barrières de l’espèce et de la compréhension du monde physique. 
+
+
+
+Jet de Mental (moins le Niveau du Mage) pour tenter d’y résister.
+
+
+
+Exemple : AMARETSU :  50 (Jet de Mental (-50)
+
+
+
+
+
+0. Oknuün (Spirituel/Langage/Nécromancie) Grimoire Oknuün par Ott
+
+Apprend un nouvel Attribut Spécial à 20. L’Oknuün est un langage des morts spécialement créé pour le Freljord.
+
+
+
+A noter : Réciter une phrase sans le Grimoir Oknuün n'a aucun effet. La magie provient de l‘artefact.
+
+
+
+
+
+
+
+
+
+
+
+5. CONSOMMABLE : 
+
+Commun/Peu Commun/Rare/Légendaire*
+
+
+
+
+
+Bière / 2-4 Arg
+
+Trop en boire fait baisser des attributs (sauf spéciaux) (-5 / -10 / -15 / -20)
+
+
+
+
+
+0. Épices / 0.1-5 Or
+
+Les épices sont un petit apport culinaire (+1 PV) ou médical pour leur effets uniques.
+
+Herbes Ursidés : Très réputé dans les plats Freljordiens. Adoucit le goût faisandé.
+
+Poivre de Cendre-Pourpre - Fumé et très piquant après plusieurs secondes (-20 Concentration / +1 Résistance Froid - 2H) épice Noxienne
+
+Clou de Givrofle - Anesthésie le palais (0 Perception Goût pendant 2H)
+
+Baies d'Olbukrn - 
+
+Racines d'Ogrr - Accélère la cicatrisation x2 (4 si Attribut Spécial lié)
+
+
+
+
+
+2. Graine d’Aphrène / 5 Arg 
+
+Graine protéinée utilisée en complément alimentaire pour végétariens (+3 PV supplémentaires si ajoutée au repas) ! Perd ses propriétés si ajoutée à de la viande.
+
+
+
+
+
+Hrogh de Jarnot (Ugvar Royale) / 2 Or
+
+Un puissant Aphrodisiaque. (+10 PV / +20 Endurance - 2H)
+
+
+
+
+
+Nourriture Simple / 3 Arg à 2 Or
+
++1 à 10 PV selon la qualité et la quantité 1x/j (voir Dosage)
+
+
+
+
+
+Porosnax (+1 PV pour PJ/PNJ / +10 PV pour animaux) / 5-10 Arg 
+
+Friandise favorite des animaux (si 10 consommés, fait pousser une queue animale).
+
+
+
+
+
+
+
+0. Biscuit Navori (Infaisable - Produits Ioniens) / 10 Or
+
+Biscuit detox énergétique qui rend plus aimable et sociable. Donne +05 en Persuasion et Charisme pendant 1H. Annule tous les malus temporaires de fatigue.
+
+
+
+
+
+0. Boisson Bizutage Avarosan (Infaisable - Produits Ioniens) / Prix Unitaire (1er Gratuit)
+
+Boissons maison de Rodrun Spécial pour les nouveau (durée ~ 2 heures)
+
+Hydromel Dedvarn - Fait roter du feu / 1 Or
+
+Hypotermalt (Bière aux Sornëlles) - Paralyse un membre (1D6) / 1 Or
+
+“Brimelk” Lait de Bribucq fermenté pétillant - Rend la voix aiguë (Hélium) / 8 Arg
+
+“Le Rodrun” Gnôle maison - Perd la mémoire toutes les 10 secondes. / 1 Or
+
+
+
+0. Fruits Ionien (Sans pépins) / Prix Unitaire 
+
+Poire - Fait bronzer la peau en un court instant (durée réelle de bronzage) / 7 Or
+
+Goyave - Éveil ou Somnolence + ou - fort (1D6) 5 Or
+
+Citron Gluant - Permet de voir dans le noir temporairement (20min) 3 Or 
+
+Fraiseboise -  Augmente ou diminue la pesanteur du consommateur (1D6).
+
+Tomate bleu - Régénéré de la santé sur la durée (+2 PV /1D10min). 7 Or
+
+Raisins multicolores - 1 Effet aléatoire par raisin. 1 Or /u
+
+Coco ambrée - Puissant aphrodisiaque euphorisant et alcoolisé. 10 Or
+
+Baies ivrantes juteuses - Rend instantanément ivre et joyeux (1min /baie) 5 Arg /u
+
+
+
+
+
+0. Hydromel d’Odmünd (Recette Arthur) 2 Or /0.5L
+
+Mêmes effets que le Miel d’Odmünd. Apaise le stress, la colère et fait oublier les soucis. Ivresse positive (+10 Charisme pendant ½ jour).
+
+
+
+
+
+0. Miel d’Odmünd / 20 Or /200g (4 doses)
+
+Soigne des petites et moyennes maladies, apaise et réchauffe le corps et l’esprit (+10 Concentration et +1 Résistance Froid pendant ½ jour)
+
+
+
+
+
+
+
+0. Hytrollmel (Recette Unique) - créé par Famille Grubgrack / 60 Or /2L
+
+La boisson ne fait rien de spécial, c’est un Hydromel plutot fort en alcool et en gout, pas spécialement bon. Il peut aider à soulager la douleur, et atténuer les effets du froid. Mais suivre la piste de la création du fût peut amener jusqu’au Trésor perdu de Grubgrack. (voir quête Les Fûts d’Hytrollmel)
+
+
+
+
+
+0. Plat de Maman (personnage) / Inestimable
+
+Permet d’apaiser, de détendre, et de se laisser embarquer dans la conversation naturellement. Apaise tellement les joueurs qu’ils oublient qu’ils divulguent des informations. -50 de Mental pour y résister ou être conscient de la conversation. Permet également à Maman de détecter où sont ceux qui ont consommé ses plats jusqu’à la digestion.
+
+
+
+
+
+0. Pointe d’Épine Cristallin / 70 Or
+
+Pointe d’épine placée dans une dent qui peut tuer quelqu’un à coup sûr dans la minute qui suit. Faire 1D100 lors de l’utilisation !! Si Échec Critique, le poison tue le porteur.
+
+
+
+
+
+0. Poudre d’Aurora (Drogue) 30/50/65 Or /dose
+
+Poudre Hallucinogène puissante.
+
+
+
+
+
+0. Poudre Ygnovarn / 50 Or /1 kg 
+
+Poudre à canon trafiquée au Shimmer et aux Graines Dedvarn. Cette poudre nécessite des armes spécifiques (3.0). 
+
+
+
+
+
+0. Shimmer (Drogue Chemtech) / 200 Or - 0.5 L (0.05 L /dose)
+
+Le Shimmer est une substance de Zaun qui peut être très polyvalente dans son utilisation. Il peut s’adapter et évoluer selon l’utilisation et le niveau d'expertise de celui qui le manipule. 
+
+
+
+- A faible dose (0.05 L) : Apaise les douleurs et plonge dans un état de bien-être instantané, mais peut rapidement créer une dépendance et laisser des stigmates violets sur le corps.
+
+
+
+- A dose plus conséquente (0.10L) : Boost grandement les fonctions du corps (+20 Force / Agilité / Réflexes) et le transformer temporairement (3 à 4 heures).
+
+
+
+- A forte dose (0.15/0.20 L) : il peut totalement dérégler les fonctions vitales du corps mais lui permet de subir des opérations mortellement dangereuses pour le corps. Le sujet à cependant des chances de mourir selon un jet de Métabolisme -20 (voir Métabolisme). 
+
+
+
+
+
+
+
+0. Bouchée Divine (Unique) ? Or /dose
+
+N’importe quelle nourriture cuisinée dans Illdrunvirr, le chaudron d’Ornn peut donner une bouchée divine . Celui qui en consomme n’a plus besoin de manger pendant des années (se sent lourd pendant 1 jour).
+
+
+
+
+
+0. Champignons de Bundle 30 Or /u
+
+Donne un effet aléatoire de Magie Yordle.
+
+
+
+
+
+0. Fiole d’Eau de Temps (Eau Yordle/Eau de Bundle) ? Or /0.1 L
+
+Accélère la croissance des choses vivantes et cicatrise des plaies !! En boire fait vieillir (Soigne les PV au Maximum + Restaure les PV de Base manquant si perdu + Fait Vieillir de 1D20 années durant les prochaines 24h).
+
+
+
+0. Fleure du Père Nature (Ivern) ? Or /u
+
+Attire les créatures inoffensives, apaise les agressives et peut les soigner entièrement une créature si consommée (Meurt en 24h si déterrée).
+
+
+
+
+
+0. Grande Cuvée de Gragas 976  (Vin) / Limité (23 Bouteilles) ~180 Or (val puriste)
+
+Une cuvée unique selon les spécialistes de vin, et selon Gragas lui-même, aucune des suivantes ne vaut celle-ci, bien qu’il fasse tout pour y remédier. C’est le seul vin qu’il apprécie plus que la bière, c’est dire !
+
+
+
+
+
+0. Plats du Chef Nao 
+
+- Entrée : Kotari’Mefrua (Cocktail de Fruit Ionien) 40 Or (Recette Chef Nao) [1D12]
+
+Cocktail rafraîchissant aux fruits spéciaux Ioniens. 
+
+Nouveau Attribut Spécial. (Orientation à 70)
+
+Développe les sens. (+10 Perception à la vue et l’odorat)
+
+Fait apparaître une mèche d’Or. (+10 Charisme - Intéresse fortement les nobles)
+
+Apprend le Ionien. (1D100 définit la maîtrise)
+
+La peau se met à fortement bronzer soudainement. (véritable durée de bronzage)
+
+Rend heureux et joyeux.
+
+Ne peut plus mentir temporairement. (24 H)
+
+La malchance vous effleure. (le prochain jet est un échec critique - ne pas le dire au joueur)
+
+La malchance s'abat sur vous. (Les 3 prochains jets ratent - ne pas le dire au joueur)
+
+Hyper Ivresse. (-50% PV Total)
+
+Fait perdre le goût. (-10 Perception définitif)
+
+Amnésie Locale. (-5 définitif au meilleur Attribut non Spécial).
+
+
+
+A Noter : Les joueurs peuvent tomber plusieurs fois sur le même numéro.
+
+
+
+- Plat : Oçille de Skaan 70 Or (Recette Chef Nao) [1D8]Un serpent bleu et doré Shurimien au venin très dangereux, mais cuisiné correctement, il peut soit rendre malade, soit couvrir de succès les prochains moments.1. Glande Veinarde : donne +10 à tous les Attributs (non Spéciaux) temporairement (2H)2-7. Chair et tendre : Simplement l’une des meilleures viandes que vous n’ayez jamais mangé de votre vie.8. Poche de Venin cuit : vous rend malade (2H) Peut diminuer le temps et les effets avec un jet d’Endurance
+
+A Noter : - Une fois le chiffre tombé, s’il retombe, le joueur doit relancer les dés.- Rend malade au bout de 30min mais peut accélérer le processus en faisant palpiter le cœur.
+
+
+
+- Désert : Bouchée Buu au Miel d’Odmünd 90 Or (Recette Chef Nao)
+
+Donne une sensation d'apaisement dans tout le corps et une vision merveilleuse faisant vivre le meilleur rêve lucide jamais vécu auparavant durant un état d’Hypnose temporaire (5min). Supprime tous les traumatismes récents, les maladies contractées récemment et ferait vivre plus longtemps (+40 PV / +5 PV de Base).
+
+
+
+
+
+
+
+
+
+6. POTIONS : 
+
+Normal/Forte/Puissante/Légendaire (Illégale)*
+
+
+
+
+
+1. Antidote  (voir Note)
+
+(Feuille Hue et Ivnevern/Venin Hystégriffe/Bulbe Jonc-Doré) 7/12/30 /0.25L (x1)
+
+Soigne des maladies, infections, intoxications locales contre quelques PV.
+
+
+
+
+
+2. Bestialintus  (voir Note)
+
+(Essence Animale/Bulbe Jonc-Dorée/Sève d’Oklis/Sève Hue) 25 Or /0.25L (x1)
+
+Peut temporairement se transformer en animal et se fondre parmi eux.
+
+
+
+
+
+3. Bougie d'Émotion  (voir Note)
+
+(Sève d’Oklis/Glande Baorgük/[Dépend de l’émotion voulue]) 30 Or - 3H
+
+Envahie la pièce d’une émotion et change l’ambiance de la pièce.
+
+
+
+
+
+4. Curasom  (voir Note)
+
+(Bulbe Jonc-Doré/Poudre Mothdragon/Visque Baorgük) 15 Or /0.25L
+
+Soigne mais fatigue le buveur. (état de Coma si mal dosé) (+20/35/60 PV/ -20/15/10/0 Réflexes 3H)
+
+
+
+
+
+5. Hudvarm Elixir  (voir Note)
+
+(Graine Dedvarn/Visque Baorgük/Sève Hue) 10-0.5L (+1 Res Froid ½/2/5 J) 10/25/40 Or 
+
+Réchauffe le corps et permet de résister au froid Freljordien. !! Brûle de l’intérieur si cumulé (-2 DB/h / x2/doses supplémentaires !!
+
+
+
+
+
+6. Potion de Neutralisation 
+
+(?/?/?) 15 Or /0.3L 
+
+Se jette sur la cible afin d'immobiliser temporairement (2+1D4/4+1D6/20 min) les fonctions motrices de ceux qui en inhalent tout en les laissant conscientes.
+
+
+
+
+
+7. Memorias Sentus  (voir Note)
+
+(Feuille de Hue/Visque de Baorgük/Poudre d’Ibir) 30 Or /0.3L 
+
+Permet de se rappeler de quelque chose d’important. Plus la dose est divisée, moins le souvenir est important.
+
+
+
+
+
+8. Pommadarmur  (voir Note)
+
+(Poudre de Pierre/Visque Baorgük/Sève Oklis/Fraiseboise) 25 Or /100g (x1 kg)
+
+Une crème qui en durcissant rend la peau bien plus résistante (+5/10/15 ARM Ciblé / -10 Agilité).
+
+- Tête : 100g - Torse : 300g 
+
+- Mains : 100g 
+
+- Jambes : 400g 
+
+- Pieds : 100g 
+
+
+
+
+
+9. Rams Craffle (Drogue)  (voir Note)
+
+(Glande Baorgük/Graine Fruit Ionien/Poudre Ibir) 15 Or /10 g (x1)
+
+Désoriente les sens et inverse les attributs aléatoirement. Bloque l’échange si 100.
+
+
+
+
+
+10. Renovis Liquor  (voir Note)
+
+(Glande Baorgük/Sève Hue/Jonc-Doré/Graines Fruit Ionien) 15 Or
+
+Remplace un attribut temporairement par la valeur d’un jet de D100
+
+
+
+
+
+12. Rouge Vision (Drogue)  (voir Note)
+
+(Corne Hyve Bovine / Sève Hue / Venin Hystégriffe / Eau de Vie) 25 Or-0.1L (x1)
+
+Fait entrer dans une rage incontrôlable (0 Mental) et booste la Force et la Santé. Se verse dans un tissu et imbiber son visage avec.
+
+
+
+
+
+13. Tourne-Chance  (voir Note)
+
+(Sève Hue-Graines Fruit Ionien) 10 Or
+
+Change temporairement l’ordre des jets (Ex: 72 devient 27).
+
+
+
+
+
+
+
+14. Apparentium (Illégale)  (voir Note)
+
+(Bulbe Jonc Dorée / Sève Ivnevern / Visque Croquin / Essence) 50 Or-0.25L (x1)
+
+Permet de prendre l’apparence de quelqu’un temporairement.
+
+
+
+
+
+15. Élixir de Fer  (voir Note)
+
+(Visque Baorgük / Poudre de Pierre /) 35 Or /0.2L (x1)
+
+Renforce l'intérieur du corps et bloque le saignement temporairement. (+05 ARM total / empêche le saignement de niveau 1/2/3 pendant 1H)
+
+
+
+
+
+16. Memorisys  (voir Note)
+
+(Bulbe Jonc Dorée / Visque Baorgük / Poudre d’Ibir / Essence) 35 Or /0.2L (x1)
+
+Permet de revivre un moment plus ou moins important vécu par quelqu’un.
+
+
+
+
+
+17. Lumeria Serum (Immorale)  (voir Note)
+
+(Glande Croquin / Poudre Aurora / Hrymroot Alvara / Essence) 70 Or /5g (x1)
+
+Puissant filtre d’Amour !! Peut avoir de lourdes conséquences selon sa puissance (D10)
+
+
+
+
+
+18. Vivacium (Drogue)  (voir Note)
+
+(Glande Baorgük / Sève Ivnevern / Feuille Hue / Venin Ugvar Royale) 50 Or /50g (x5)
+
+Accroît fortement l’Endurance, les Réflexes, la Force et la Perception, contre une ponction vitale.
+
+
+
+
+
+19. Vhaeltherüd  (voir Note)
+
+(Sève Ivnevern / Visque Baorgük / Visque Pince-Requin / Encre Gekodo) 30 Or /1L (x1)
+
+Rend le corps éthéré durant un court instant. Rend insensible au DP, DM, PP et PM. !! Ne surtout pas en consommer. C’est un liquide qui se verse sur le corps.
+
+
+
+
+
+
+
+20. Aurora Contrarium (Illégale)  (voir Note)
+
+(Poudre Aurora / Mothdragon / Memorisys / Feuille d’Ivneverr) 95 Or 0.5L (x5) 
+
+Peut créer une Hallucination, et rentrer dedans pour la contrôler (Oui, c’est Inception) !! Attention à ne pas consommer seul, risque de tomber dans un coma temporaire.
+
+
+
+
+
+21. Divina Restrum  (voir Note) 
+
+(Tomate Bleu / Glande Grellfeen / Eau de Temps / Écailles Buu Fish) 70-0.4L (x2)
+
+Soigne l’intégralité de la santé immédiatement (Faire entre 90-100 fait vieillir du nombre de différence. Ex : 95 = +5 ans).
+
+
+
+
+
+22. Appadragon  (voir Note) 
+
+(Sève Oklis / Glande Croquin / Feuille Ivnevern / Essence Foetus Dragon) 75-100g (1H)
+
+Encens puissant qui attire fortement les dragons environnants (peut dépendre d’un jet selon le temps d’attente). En consumer permet de communiquer avec eux.
+
+
+
+
+
+
+
+L-1. Exutoire Perpétuel  (voir Note)
+
+(???) 150 Or
+
+Permet de ne plus jamais tomber malade !! Attention à ne pas être malade à la prise.
+
+
+
+
+
+L-2. Chroxure Liquide (Nécromancie)  (voir Note)
+
+(Inconnu / Fiole de l’Éternel) 350 Or
+
+Littéralement un mage en bouteille, la boire dérobe toute sa magie.
+
+
+
+
+
+L-3. Sang de l’Immortel (Hemomancie)  (voir Note)
+
+(Sang Tryndamere / Vivacium / Glande Grellfeen / Glande Buu) 0.1L (05-10 min) 170 Or
+
+Fait entrer dans une rage Berserker et permet de résister à la mort et la douleur temporairement.
+
+
+
+
+
+L-4. Perius Moderas (Nécromancie)  (voir Note)
+
+(Poudre Mothdragon / Aurora Contrarium / Venin Grellfeen / ???) 0.5L 1H - 370 Or
+
+Bascule dans le monde des morts pour communiquer avec un personnage décédé.
+
+
+
+
+
+
+
+
+
+
+
+7. RECETTES GROUPÉES (DOCUMENTS) : 
+
+
+
+
+
+1. Potions d’Illusion : Document
+
+
+
+Apparentium (Essence-Bulbe Jonc Dorée-Sève Never-Visque Croquin)
+
+Permet de prendre l’apparence de quelqu’un.
+
+
+
+
+
+Memorisys (Essence-Bulbe Jonc Dorée-Visque Baorgük-Poudre d’Ibir)
+
+Permet de revivre un moment crucial vécu par quelqu’un.
+
+
+
+
+
+Aurora Contrarium (Poudre Aurora+Mothdragon-Memorisys-Feuille d’Ivneverr)
+
+Peut créer une Hallucination, et rentrer dedans pour la contrôler. (Oui, c’est Inception).
+
+
+
+
+
+Bougie d'Émotion (Sève d’Oklis-Glande Baorgük-[Dépend de l’émotion voulue]
+
+Envahie la pièce d’une émotion et change l’ambiance de la pièce.
+
+
+
+
+
+
+
+2. Potions de Soin : Document
+
+
+
+Antidote (Feuille Hue+Never-Venin Hysté Griffe-Sève Never) 
+
+Soigne des maladies, infections, intoxications locales contre quelques PV.
+
+
+
+
+
+Curasom (Tomate Bleu-Poudre Mothdragon-Visque Baorgük)
+
+Soigne tout le corps, mais fatigue légèrement (+PV -Réflexe).
+
+
+
+
+
+Divina Restrum (Tomate Bleu-Glande Grellfeen-Eau de Temps-Écailles Buu Fish)
+
+Soigne l’intégralité de la santé immédiatement (Faire 90-100 fait vieillir du même nombre).
+
+
+
+
+
+
+
+3. Potions de Renforcement : Document
+
+
+
+Pommadarmur (Poudre de Pierre-Visque Baorgük-Sève Oklis-Fraise Boisé)
+
+Une crème qui en durcissant rend la peau bien plus résistante.(+10/+15/+20 AR/-10 Agi).
+
+
+
+
+
+Rouge Vision (Corne Hyve Bovine-Sève Hue-Venin Hysté Griffe-Eau de Vie)
+
+Fait entrer dans une rage incontrôlable et booste la Force et la Santé.
+
+
+
+
+
+Vivacium * (Glande Baorgük-Sève Never-Feuille Hue-Venin Ugvar Royale)
+
+Accroît fortement la vitesse, les réflexes, la force et la perception, contre une ponction vitale.
+
+
+
+
+
+Vhaeltherüd (Sève Ivnevern / Visque Baorgük / Visque Pince-Requin / Encre Gekodo)
+
+Rend le corps éthéré durant un court instant.
+
+
+
+
+
+Memorias Sentus (Feuille de Hue-Visque de Baorgük-Poudre d’Ibir)
+
+Permet de se rappeler de quelque chose d’important. 
+
+
+
+
+
+Hudvarm Elixir (Graine Dedvarn-Visque Baorgük-Sève Hue)
+
+Réchauffe le corps et permet de résister au froid Freljordien.
+
+
+
+
+
+
+
+4. Potions d’Enchantement : Document
+
+
+
+Rams Craffle(Glande Baorgük-Graine Fruit Ionien-Poudre Ibir)
+
+Désoriente temporairement le buveur et inverse ses attributs aléatoirement. (100 Bloqué).
+
+
+
+
+
+Potion de Tourne-Chance (Sève Hue-Graines Fruit Ionien)
+
+Change l’ordre des dès temporairement.
+
+
+
+
+
+Renovis Liquor (Glande Baorgük-Sève Oklis-Graines Fruit Ionien)
+
+Remplace un attribut temporairement par la valeur d’un jet de D100
+
+
+
+
+
+Lumeria Serum (Glande Croquin / Poudre Aurora / Hrymroot Alvara / Essence)
+
+Puissant filtre d’Amour !! Peut avoir de lourdes conséquences selon sa puissance (D10)
+
+
+
+
+
+
+
+5. Potions Animale : Document
+
+
+
+Appadragon (Essence Foetus Dragon-Sève Oklis-Glande Croquin-Feuille Never) 
+
+Encens puissant qui attire fortement les dragons environnants. Le boire permet de communiquer avec eux.
+
+
+
+
+
+Bestialintus (Essence Animal-Bulbe Jonc Dorée-Sève d’Oklis-Sève Hue)
+
+Peut temporairement se transformer en animal et se fondre parmi eux.
+
+
+
+
+
+
+
+6. Poisons Améliorés : Document
+
+
+
+Épine Cristallin () 
+
+Puissant poison à très faible dose pouvant tuer dans les 10 secondes qui suivent. Aucun antidote.
+
+
+
+
+
+Laxatif (Venin Hystégriffe-Sève Hue-Graine Dedvarn)
+
+Attaque l’estomac de façon immédiate voir toxique selon la puissance.
+
+
+
+
+
+
+
+7. Potions Légendaires (Individuelles) :
+
+
+
+Exutoire Perpétuel (Infaisable) Document
+
+Permet de ne plus jamais tomber malade (ATTENTION : Ne pas être malade à la prise).
+
+
+
+
+
+Chroxure Liquide (Inconnu-Fiole de l’éternel) Document
+
+Littéralement un mage en bouteille, la boire dérobe toute sa magie.
+
+
+
+
+
+Sang de l’Immortel (Sang Tryndamere-Vivacium-Glande Grellfeen-Écaille Buu) Document
+
+Fait entrer dans une rage Berserker et permet de tenir plus longtemps avant de mourir.
+
+
+
+
+
+Perius Moderas (Poudre Mothdragon-Aurora Contrarium-Venin Grellfeen- ??? ) Document
+
+Bascule dans le monde des morts pour communiquer avec un personnage décédé.
+
+
+
+
+
+
+
+
+
+
+
+8. PIERRES RUNIQUES :  
+
+Commune/Avancée/Complexe/Légendaire
+
+
+
+
+
+0. Rune Aléatoire / Avancée / Complexe  15/35/65 OrPierre dont le symbole n’est pas visible et les couleurs trop mixtes pour savoir sa magie (1D6/1D6+1D8/1D20  numéro de la pierre) 
+
+
+
+
+
+1. Rune Neutre / Avancée / Complexe  10/20/40 OrPermet d’y infuser sa propre magie. (Le jet de 1D100 Spé sera le même que lors de l’utilisation)
+
+
+
+
+
+2. Rune de Feu  10 OrDonne à l’utilisateur une magie Élémentaire de Feu (20 DM + Puissance 1D20 DM. Provoque Brûlure de niveau 1)
+
+
+
+
+
+3. Rune de Glace / Avancée / Complexe  10 Or
+
+Donne à l’utilisateur une magie Élémentaire de Glace (20 DM + Puissance 1D20 DM. Immobilise une cible temporairement)
+
+
+
+
+
+4. Rune de Vent / Avancée / Complexe  12 Or
+
+Donne à l’utilisateur une magie Élémentaire de Vent (20 DM. Propulse puissamment un projectile et multiplie x2 ses dégâts)
+
+
+
+
+
+
+
+5. Rune de Foudre 12 Or
+
+Donne à l’utilisateur une magie Élémentaire de Foudre (20 DM + Puissance 1D20 DM. Assomme la cible pendant 2 Tours)
+
+
+
+
+
+
+
+6. Rune de Roche / Avancée / Complexe 10 Or
+
+Donne à l’utilisateur une magie Élémentaire de Roche (20 DP + Puissance 1D20 DP. Assomme la cible pendant 2 Tours)
+
+
+
+
+
+
+
+7. Rune d’Ombre Avancée 40 Or
+
+Donne à l’utilisateur une magie Spirituelle d’Ombre (1D100 Spécial. Sera le même que lors de l’utilisation)
+
+
+
+
+
+8. Rune de Nature Avancée 20 Or
+
+Donne à l’utilisateur une magie Élémentaire de Plante et de Terre (Puissance 1D100)
+
+
+
+
+
+9. Rune de Foudre Avancée (Plasma) / Complexe 25 Or
+
+Donne à l’utilisateur une magie Élémentaire de Foudre (30 DM + Puissance 1D20 DM. Paralyse la cible pendant 1D4 Tours et inflige 05 DM supplémentaire /Tours)
+
+
+
+
+
+10. Rune de Feu Avancée (Magma) 25 Or
+
+Donne à l’utilisateur une magie Élémentaire plus puissante de Feu et Roche (Puissance 1D100)
+
+
+
+
+
+11. Rune de Métal Avancée 35 Or
+
+Donne à l’utilisateur une magie Élémentaire de Féromancie  (40 DP + Puissance 1D20 DP)
+
+
+
+
+
+12. Rune de Son Avancée 35 Or
+
+Donne à l’utilisateur une magie Élémentaire de Son (40 PM + Puissance 1D20 PA. Soigne le lanceur de 50% des dégâts infligés)
+
+
+
+
+
+13. Rune de Temps Avancée 40 Or
+
+Donne à l’utilisateur une magie Élémentaire de Chronomancie (Puissance 1D100) Peut rectifier une petite erreur récente (ou l'amplifier) grâce à un glitch temporel.
+
+
+
+
+
+14. Rune d’Attraction Avancée 30 Or
+
+Donne à l’utilisateur une magie Céleste d’Attraction (Puissance 1D100)
+
+
+
+
+
+
+
+15. Rune de Feu Complexe (Fusion) 45 Or
+
+Donne à l’utilisateur une magie Élémentaire et Céleste de Fusion, un feu solaire extrêmement puissant (60 DM + Puissance 2D20 DM)
+
+
+
+
+
+16. Rune de Sang Complexe 60 Or
+
+Donne à l’utilisateur une magie Spirituelle du sang d’Hémomancie ou Hématomancie (40 PA + Puissance 1D20 PA. Soigne le lanceur de 50% des dégâts infligés)
+
+
+
+
+
+17. Rune de Lumière Complexe 65 Or
+
+
+
+
+
+
+
+18. Rune de Son Complexe 65 Or
+
+Donne à l’utilisateur une magie Élémentaire de Son (40 PM + Puissance 2D20 PA)
+
+
+
+
+
+
+
+19. Rune de Vision Spirituelle Complexe 75 Or
+
+Donne à l’utilisateur une magie Spirituelle qui lui permet percevoir le monde spirituel temporairement (Tous les Dégâts deviennent des DB pendant 2 + 1D4 Tours. Si les ennemis ne possèdent aucune ARM ou RM, les dégâts comptent double)
+
+
+
+
+
+20. Rune de Temps Complexe 90 Or
+
+Donne à l’utilisateur une magie Élémentaire de Chronomancie. Peut rectifier un élément du passé (24h max) grâce à un glitch temporel. Toute la timeline se réadapte à ce changement pouvant entraîner d’importantes conséquences.
+
+
+
+
+
+
+
+L-1. Rune de Glace Pure 00 OrDonne à l’utilisateur une magie Élémentaire unique de Glace Pure (Tue quiconque est touché par le sort (sauf Sublimé) mais à 20% de chance de tuer également son lanceur)
+
+
+
+
+
+L-2. Rune de Création Unique 00 Or
+
+Donne à l’utilisateur une magie Céleste unique de Création Pure (Puissance 1D100) Permet de créer n'importe quoi avec ses attributs (sauf pierres spéciales)
+
+
+
+
+
+L-3. Rune Tellurique de Précision Inestimable
+
+Juste un clin d'œil, aucun moyen de tomber dessus.
+
+
+
+
+
+L-4. Rune Tellurique de Domination Inestimable
+
+Et oui, désolé mais c’est beaucoup trop broken.
+
+
+
+
+
+L-5. Rune Tellurique de Sorcellerie Inestimable
+
+Raaaaalala, celle la aurait été tellement pétée ! 
+
+
+
+
+
+L-6. Rune Tellurique de Résolution Inestimable
+
+Celle-ci se trouve dans un coffre dans la grotte de Ambektaam.
+
+
+
+
+
+
+
+
+
+9. RESSOURCES ET INGRÉDIENTS : 
+
+ (Normal/Fort/Extrême/Légendaire)
+
+
+
+1. Bulbe : Jonc Dorée - Soin Global Corporel / Hrymroot Alvara - Sentiment d’amour / Pistil Cristallin - Chance Destin
+
+
+
+2. Chaire : Buu Fish - Régénération Apaisante et Hallucinogène
+
+
+
+3. Corne : Pince-Requin / Twilit / Vargh’Heggen - Corne concentré très solide
+
+
+
+4. Essence : Foetus Dragon / Foetus Dragon/
+
+
+
+5. Feuille : Hue / Ivnevern / Dedvarn - Tabac acide
+
+
+
+6. Fourrure : Abrasif - Propriété électrique / Phoque Nain - Hydrodynamisme / Soeur-Phoque - Magique inconnue
+
+
+
+7. Glace : Givrepelage - Anti-brûlure / Navillon des Tempêtes / Cerf Sublimé - Puissant cicatrisant hémorragique / Immortels
+
+
+
+8. Glande : Baorgük - Puissant fluide de magie neuronal / Pince-Requin / Croquin Affamé - Communication Magique / Grellfeen - Puissant poison / Arpeka des Glaces - Elixir Glace Pure
+
+
+
+9. Graines : Jonc Dorée / Hue / Dedvarn / Fruit Ionien / Ivnevern / 
+
+
+
+10. Griffes/Dents : Hysté Griffe / Griffeur Alpha / Grellfeen
+
+
+
+11. Poison : Épines Cristallin - Poison Foudroyant / 
+
+
+
+12. Poudre : Ibir - Souvenir Puissant / Mothdragon - Somnifère Réparateur / Aurora - Hallucinogène Puissant / 
+
+
+
+13. Sève : Hue - Alcool / Oklis - Cire / Ivnevern - Huile Grasse /
+
+
+
+14. Venin : Hysté Griffe - Léger et Local / Ugvar Royale - Rapide et Local / Grellfeen - Puissant Global / Olwtakan - Irrémédiable /
+
+
+
+15. Visque : Baorgük - Puissant fluide de magie dans le corps / Pince-Requin - Étanchéité totale temporaire / Croquin Affamé - / 
+
+
+
+
+
+
+
+
+
+
+
+10. MATÉRIAUX  : 
+
+Abondant/Courant/Rare/Très Rare/Légendaire)**
+
+
+
+
+
+0. Bois (PV)
+
+
+
+
+
+0. Fer (ARM)
+
+
+
+
+
+0. Tissu (PV)
+
+
+
+
+
+
+
+
+
+0. Acier (ARM)
+
+Cet alliage est très réputé dans tout Runeterra, il est la base de toute armure de base. Constitué principalement de Fer et de Carbone, il peut facilement s’améliorer, se mélanger avec d’autres éléments pouvant le rendre plus unique et plus résistant voire magique. 
+
+
+
+
+
+0. Argent (ARM / Persuasion)
+
+Généralement utilisé en pièces comme moyen de paiement primaire, il peut également être utilisé pour la fabrication de certaines Armes et Armures.
+
+
+
+0. Corne (Intimidation)
+
+Souvent utilisé comme preuve de puissance, les cornes de bêtes peuvent attribuer de l’intimidation à la hauteur de la puissance de la bête à qui appartenait la corne.
+
+
+
+
+
+0. Cuir (PV / ARM)
+
+Si le porteur possède du cuir sur l’ensemble de son set, il gagne +5 ARM Global.
+
+
+
+
+
+0. Fourrure (Résistance Froid)
+
+La fourrure est souvent ajoutée aux équipements pour ajouter de la Résistance au Froid selon son épaisseur. Elle s’adapte selon la qualité de l’équipement. 
+
+
+
+
+
+
+
+0. Fer Runique (ARM / RM / DM)
+
+Metal retrouvé sur les ruines des batailles runiques qui permet un fort transfert de magie runique. Y graver des symboles runiques permet d’y donner des attributs magiques spécifiques. 
+
+
+
+
+
+0. Carbone (ARM / Endurance / Agilité)
+
+
+
+
+
+
+
+0. Or (ARM / Charisme / Persuasion)
+
+Généralement utilisé en pièces comme moyen de paiement principal, il peut également être utilisé en Arme et Équipement comme symbole de noblesse.
+
+
+
+
+
+0. Fourrure Abravive (RM / DM / Réflexes / Agilité)
+
+Fourrure chargée en magie électrique qui permet de se déplacer rapidement, et créer des décharges électriques et statiques..
+
+
+
+
+
+
+
+0. Obsidienne (Charisme / Intimidation / Agilité / Saignement Profond)
+
+Cette pierre volcanique noir et brillante est à la fois très classe et impressionnant de beautée, mais également d’une bonne résistance et d’un tranchant unique et très puissant. L’obsidienne est difficile à travailler mais il peut également être utilisé brut mais cela la rend bien moins résistante. 
+
+
+
+0. Frostavorite “Fausse Glace Pure” (RM / Agilité / Discrétion) 40 Or/100g
+
+Pierre fumante qui lévite au-dessus d’une source de chaleur (>35°). Visuellement similaire à de la Glace Pure !! Explose au contact de l’eau. (Ses propriétés sont quasi similaires à de l’Azote Liquide)
+
+
+
+
+
+0. Fer-Ardent ou Ramnhjart (Coeur d’Ornn) (ARM / Résistance Froid)
+
+Ce minerai endémique de la Faille de Borrvok possède une propriété unique en son genre : son cœur émane une chaleur continue. Il est difficilement malléable pour conserver sa propriété magique. Considéré comme peu utile aux Freljordiens, il est surtout prisé par les Demaciens et autres régions qui veulent des armures résistantes au froid glacial du Freljord.
+
+
+
+
+
+0. Gréténite ou “Ulvakjarn” (Orientation / RM / Endurance) 20 Or/10g
+
+Pierre précieuse magique - découverte par le Dr Gréteil - qui se forme naturellement proche des pics magnétiques de Runeterra. Des gisements ont étés trouvés au nord du Freljord, au centre de Shurima et au sud-ouest de Ionia. Si la pierre se brise, un fort lien magnétique se crée entre les morceaux pour se reformer. Une fois reconstituée, la pierre sera toujours rattachée magnétiquement à son gisement d’extraction. Elle peut se diviser en 5g minimum. Plus la pierre est petite et moins l’attraction est forte.
+
+Est également considéré comme une Relique (1.?)
+
+
+
+
+
+0. Pétricite (RM / PV)
+
+La pétricite est un bois fossilisé blanc aux propriétées uniques : Elle peut absorber la magie. Mais les gens ignorent cela et pensent qu’elle l’annule seulement. En réalité, elle absorbe et stocke la magie avec laquelle elle est en contact. La pétricite inc
+
+
+
+
+
+0. Pétricium (ARM / RM / PV)
+
+C’est littéralement un alliage d’origine Demacienne entre de l’Acier et de la Pétricite utilisé dans la construction d’armes et d’armures de qualité élevée pour des soldats avérés. Certains s’en voient en acquérir à la suite de haut fait d'armes. 
+
+
+
+
+
+0. Plume-Acier Raffiné (ARM / Agilité / Dextérité)
+
+Un acier unique venant du Faucon Plume-Acier chargé en magnétisme qui est repoussé par le sol et allège grandement la pesanteur tout en conservant sa solidité. Peut attirer des minerais qui se collent dessus ce qui peut l'abîmer si elle n’est pas régulièrement nettoyée. Acier très solide et très léger, mais difficile à travailler car son point de fusion (entre 244 et 246 degrés) est très précis et presque instantané.
+
+
+
+
+
+
+
+0. Glace Noire (DB / RM)
+
+Une forme corrompue de la Glace Pure, créée et manipulée par Lissandra.
+
+
+
+
+
+0. Glace Pure (Sublimé / DB / RM)
+
+Une glace très pure et mortellement froide pour le commun des hommes, mais maniable par de très rares personnes doté d’une magie lié à la glace pure nommée les sublimés. Dans le folklore freljordien, cette glace proviendrait d’Anivia lors de la création des terres du nord. (Si Sublimé : subit 15 DM au premier toucher / subit 05 DM /tour si échec à Endurance)
+
+
+
+
+
+0. Pierre-Relique (DM / RM / Anti Brume Noir)
+
+Vestige d’une citée oubliée, les Pierres-Reliques sont faites d’une roche magique originaire de Hélia avant qu’elle ne soit corrompue. C’est pour cela que les armes fabriquées à partir de cette pierre permettent de désintégrer tout types de matières éthérées, même la brume noire. Aujourd'hui seul les Sentinelles ont main prise sur ces pierres.
+
+
+
+
+
+0. Piques d’Onn’Vana ou “Oavir” (ARM / RM / PP / Agilité / Endurance / Réflexes)
+
+Matière unique très solide qui ne pèse quasiment rien, qui pousse sur la collerette de la Grue Ornée Majestueuse, un oiseau légendaire géant (voir DOC). Seuls des outils en Oavir (ou forgés par Ornn) peuvent travailler cette matière. La magie de cette matière est également conçue pour lui donner des propriétés d’anticipation si elle est forgée avec des plumes de la même créature. Les magies fusionnent et subsistent.
+
+
+
+
+
+
+
+
+
+
+
+11. MOTS GRIMOIRE OTT (OKNUÜN) : 
+
+Confère +15 en Nécromancie si bien prononcé par le joueur (+25 si Attribut Spécial lié aux langues).
+
+(Mélange d’accent Polonais-Allemand-Islandais)
+
+
+
+
+
+A. LIVRE TENU PAR OTT (DE 1 À 12)
+
+
+
+1. ЙשגעבדחЖ Оддзурнэкשар Шедулгароссар      Yshgaebdechkhazn Oddzurnek Shedulgarossar
+
+Permet de modifier une zone des Limbes d'Ott afin d'y créer une illusion cauchemardesque pour provoquer un Traumatisme à la cible. 
+
+
+
+
+
+2. Йешгебариматра Шахоротכосэм 
+
+     Afelnekrometkabel Shachorotkosém
+
+Chambre d'Anti-miroir Obscure : Créé au sol une flaque sombre reflétant la pièce environnante pour y enfermer des cibles. Le lanceur peut observer d'au dessus ce qui s’y passe. La pièce permet de révéler des entités et des propriétés. 
+
+
+
+A Noter : Permet d’entendre la voix de tout ce qui peut contenir une âme enfermée à l'intérieur.
+
+
+
+
+
+3. Рухазаримбар Маведадиматал
+
+     Gyczaehdethgaän Mavebyathbynaytan
+
+Fait apparaître 6 +1D6 goules Spectrales brumeuses attaquant les cibles environnantes.
+
+GOULE : 30 PV / 15 DP 
+
+Si dans Limbes d'Ott : 50 PV / 15 DB
+
+
+
+Si joueur : Invoque 1 goule /3 tours (selon le niveau de Nécromancie).
+
+
+
+
+
+4. Улдракхосвеתנאר ворскелдרא תхарנакруул улвраתх  דרaукхал
+
+     Uldrakhosvethnar vorskeldra tharnakruul ulvrath draukhal
+
+Permet de Désintégrer entièrement une âme séparée de son enveloppe corporelle dans les Limbes d'Ott. Cela se déroule sous forme de combat contre l'entité afin de la détruire entièrement.
+
+
+
+
+
+5. Яцאלכזов КиеבотбалѦк Баалнедари Атаамнєт Танаѫвелк Барроккуѯמцик
+
+     Gaalczov Kievotbalök Baalnedari Ataamnèt Tanajhvelk Barrokkuhmczyk
+
+En combat : Rend l’âme de sa cible plus vulnérable. PM x2Hors combat : Affaiblit suffisamment l’âme de la cible afin de l’extraire pour la mettre dans une fiole spéciale (Fiole de l’Eternel). L’absorber permet d’en acquérir une des propriétés uniques.
+
+
+
+
+
+6. Ѵאלдра пріזвошує дуцхы до Эвиг Агаартһ      Valdra przywołuje duchy do Evig Agaarth'Onu Mrok
+
+Permet de créer un portail vers les Limbes d'Ott (voir Lore), un lieu unique pour y enfermer des esprits. Une fois fermée, le portail laisse derrière lui une brèche temporairement réouvrable (Nécromancie +25). 
+
+
+
+A Noter : Tout ce qui contient une âme peut y pénétrer spirituellement. Ott y est donc vulnérable magiquement (DM) comme physiquement (DP).
+
+
+
+B. LIVRE NON TENU PAR OTT (DE 7 À 12)
+
+
+
+
+
+7. ??????????????? ??????????? ????????????????????
+
+     ??????????????? ??????????? ????????????????????
+
+Créer une Flamme Verte unique à Ott qui n'émet pas de chaleur mais se propage uniquement sur de la matière organique et brûle directement l’âme à travers la matière des personnes touchées. 5 DB /tours. L’effet prend fin qu'à la disparition de Ott (Phase 1).
+
+
+
+
+
+8. Йаҗаба Pиматра אишуумтаאל 
+
+     Nashamga Bjentamm Ishuumtaal
+
+Créé un son strident et tétanisant tout droit venu du monde des morts Paralysant toutes les cibles environnantes (jet de Mental pour y résister).
+
+
+
+
+
+9. Скорваתхрулנах דרקאַïдрн Кроתхваסקуנелдра
+
+      Skorvathrulnakh Drekaïdrn Krothvaskuneldra
+
+Peut prendre Possession du corps d'une personne enfermée dans les Limbes d'Ott.
+
+
+
+10. Тхракк Окмунгавлоσκ РуефКиоваож
+
+        Thrakk Okmungvālsk Kievotbalök
+
+Fait propager un Gaz lourd invisible et inodore qui étouffe et tue progressivement. -02 PV /min et x2 toutes les 5min (jet d'Endurance pour diviser /2 les effets).
+
+Ne fonctionne que dans une pièce fermée ou dans une Chambre Anti-miroir Obscure (11.2). L'effet est plus ou moins rapide selon la taille de la pièce et la valeur du jet.
+
+
+
+
+
+11. Ѵאלдра пріזвошує дуцхы до Эвиг Агаартһ Киваратсалгар Нефааргамал
+
+        Valdra przywołuje duchy do Evig Kivaratsalgar Nefjaargmal
+
+(Phase 3) Permet de transporter toute une zone autour du lanceur dans les Limbes d'Ott avant de Mourir pour tenter de survivre afin de se retrouver un corps ultérieurement.
+
+
+
+
+
+12. ???????????????? ?????????????? 
+
+        ???????????????? ?????????????? 
+
+Déploie des lambeaux de sa robe pour s'agripper aux cibles environnantes. Entrave qui limite fortement les déplacements, voir immobilise. Marque les âmes au bout de 3min afin de les identifier sur de longues distances durant les prochains mois.
+
+
+
+
+
+C. ÂMES DES FIOLES DE L’ETERNEL : 
+
+
+
+1. Bralof Borderive : (Devient un Sublimé et gagne +1 Résistance au Froid)
+
+Un ancien sublimé mort au combat qui n’est jamais parti en paix. 
+
+
+
+
+
+2. Freyda Lanedelle : (+10 Concentration + Bonus Langage)
+
+Était une grande littéraire Demacienne spécialiste dans les langues.
+
+
+
+
+
+3. Odile Drogbäk : (Céleste : Sous constellation Hurva = Le corps brille la nuit + Esprit lié aux Momoïcaen)
+
+Jeune Freljordienne lié à une magie céleste par le bras de la manifestation de Huerva. Celle ci pouvait éclairer des chemins durant la nuit en émanant de son corps des particules lumineuse, et elle pouvait parler et ressentir les émotions des Momoïcaen, un créature endémique de la frontière Freljo-Demacienne.
+
+
+
+
+
+
+
+
+
+
+
+12. OBJETS DE VIRGULE : 
+
+
+
+1. Chapeau Prise-Melon (Relique) 
+
+Un chapeau melon qui commente tout ce que fait son porteur et râle tout le temps.
+
+
+
+
+
+2. Pinceau-tonome (Item) 
+
+Un pinceau qui peint de son propre gré des choses autour de lui et les garde en mémoire.
+
+
+
+
+
+3. Orêveur (Item) 
+
+Un oreiller qui sauvegarde les rêves de celui qui dort dessus pour les refaire plus tard.
+
+
+
+
+
+4. Les Alliances Maudites (Item) 
+
+Deux bagues liées, la deuxième bague imite ce que la première fait. (Partage la Dextérité des deux porteurs)
+
+
+
+À noter : Retourner la bague inverse les mouvements.
+
+Exemple : Le porteur 1 à 70 de Dextérité, le porteur 2 en a 30. Les deux passent à 50.
+
+
+
+
+
+5. L'Écharpatoire (Item)
+
+Une écharpe qui cache le visage du porteur dès qu’il ressent une gène où l’envie de se cacher.
+
+
+
+
+
+6. Bonbon Blabla x4 (Consommable)
+
+Un bonbon qui fait parler une langue incompréhensible sauf pour ceux qui en ont consommé. Une fois consommées, tous les autres langages deviennent incompréhensibles. (L'effet dure 1H)
+
+
+
+
+
+7. L’Aspirardeur (Item)
+
+Une bouteille qui aspire la motivation des gens environnants quand on l'ouvre une première fois (-5 Endurance et Force pendant 1H) et la redonne en buvant son contenu (+5 Endurance et Force pendant 1H).
+
+
+
+À noter : L'effet ne marche que 5x /Personnages avant de devenir inefficace.
+
+
+
+
+
+8. Poro Péteur (Familier)
+
+Un poro qui se glisse discrètement dans le dos des gens pour péter.
+
+
+
+
+
+9. Pousse-Pustule - 0.5L (Consommable)
+
+Un parfum qui sent extrêmement bon mais qui fait apparaître de grosses pustules sur la peau. (L'effet dure 12H)
+
+
+
+
+
+10. Bidule qui Grince (Relique)
+
+Une boussole qui grince quand on l’ouvre. (Portail pour Bandle City uniquement utilisable par un Yordle)
+
+
+
+
+
+11. Les Comptes de Mauprésent (Item)
+
+Un livre qui raconte une histoire qui change selon l’humeur du lecteur. (Une fois lu, si le prochain jet est le même que le dernier utilisé, alors il gagne +10)
+
+
+
+
+
+12. Poudre de Plat-palais - 0.5kg (Consommable)
+
+Une poudre qui fait changer de goût les aliments aléatoirement. (Faire 1D20 pour rendre quelque chose de mauvais extrêmement bon)
+
+
+
+
+
+13. Peluche Renforego x2 (Relique)
+
+Une peluche qui se marre à toutes vos blagues, même les plus nulles.
+
+
+
+
+
+14. Sac-à-pattes - 10 places (Familier)
+
+Un sac avec des jambes qui vous suis en avalant aléatoirement des choses qu’il trouve et en crachant aléatoirement des choses qu'il contient. (70% de chance d'avaler et 30% de cracher)
+
+
+
+
+
+15. Anti-Miroir (Relique)
+
+Un miroir qui montre constamment ce qu’il y a derrière lui. (Littéralement une vitre)
+
+
+
+
+
+16. Sbire Mage (Familier)
+
+Un petit sbire avec un bâton de mage qui vous servira, mais qui essayera toujours de faire le mal.
+
+
+
+Bonus : Il possède 14 Or sur lui et les fait tomber lorsqu'il meurt 
+
+
+
+
+
+17. Les Bablebûches x(1D20)(Consommable)
+
+Il est impossible de décrire ce qu'elles font quand on en parle, mais elles sont très utiles. (Faire 1D(/u) pour évaluer la réussite de l'action).
+
+
+
+À noter : Faire disparaître le nombre de Bablebûches selon le nombre du jet.
+
+
+
+
+
+18. Les Identinocles (Item)
+
+Des lunettes très grosses et moches qui permettent de voir le nom et l'âge des gens. L'effet est flou s'il est à plus de 2 mètres. 
+
+
+
+À noter : Si la personne observée ne connaît ni son nom ni son âge, rien ne s'affiche.
+
+
+
+
+
+19. Flûte Auto-magique (Item) Possession actuelle : Dako
+
+Une flûte qui fait de très belles musiques juste en soufflant dedans.
+
+
+
+
+
+20. 
+
+Notes…
+
+
+
+
+
+SERVICES :
+
+
+
+S.1. Machine à Idées (1 Or = 1 Idée)
+
+1.Créez une boisson/ 2.Lancez un commerce/ 3.
+
+
+
+
+
+S.2. Miroir Yordle (Gratuit)
+
+Se tenir devant le miroir vous montre en forme Yordle. (Image inclue si Pack Légendaire avec I.A)
+
+
+
+
+
+
+
+
+
+
+
+13. CAIRN DES ESPRITS :
+
+Chaque personne présente autour du Cairn des Esprits est choisie parmi les esprits présents (1D12 détermine lequel s’active en la faveur du joueur).
+
+
+
+1. Bélier : Résistance au froid (+1 Niveau de Froid).
+
+
+
+2. Sanglier : Peau plus solide (+05 ARM Globale).
+
+
+
+3. Ours : Frénésie combative (Ajoute Spécial Frénésie).
+
+
+
+4. Phoenix : Sous son regard et son aile (+10 Prière Anivia). 
+
+
+
+5. Jern : Lié à la faune (+10 Charisme pour la Faune).
+
+
+
+6. Elnük : Plus fort en famille (+10 en Bonus de Force quand il/elle Défend une cible).
+
+
+
+7. Loup : Peut manger des aliments crus sans tomber malade (+1 PV /250g).
+
+
+
+8. Renard : Plus rusé en pleine nature (+5 Concentration lors des Trajets et la Survie).
+
+
+
+9. Corbeau : Trouve plus facilement son chemin (le MJ donne des indices lors des Trajets).
+
+
+
+10. Phoque : L’eau est le plus pure des éléments (Boire de l'eau redonne +1 PV/0.1L. limité à 10 PV/J).
+
+
+
+11. Mouflon : La puissance de la Montage (Chaque élément ne prend plus qu’1 place dans le Sac).
+
+
+
+12. Baorgük : Peut respirer sous l'eau.
+
+
+
+
+
+
+
+
+
+14. ENCHANTEMENT DES PNJS:
+
+Chaque personne présente autour du Cairn des
+
+
+
+0. L’Échange Sacrificiels (Unique) - par Nadyah
+
+Retire -10 dans un des Attributs Communs contre une quête [1D6]. Une fois la quête accomplie, gagne +20 dans ce même attribut.
+
+Vivre un véritable amour
+
+Trahir un proche
+
+Sauver quelqu’un d’une mort certaine
+
+Toucher un être Sublimé
+
+Boire sur sang frais de Yéti
+
+Toucher une Créature Légendaire vivante
+
+
+
+
+
+0. Le Savoir Réciproque (Illimité - 1x /jour) - par Maître des Secrets
+
+Le Maître des Secrets enchante vos Amulettes d’Anivia (Se charge si non chargée). Si vous la mettez dans l’eau, une zone glace immédiatement et son reflet apparaît dedans. Vous pouvez alors lui communiquer une information qu’il ignore (non écrite ou dessinée) en échange d’une information de sa part d’importance similaire.
+
+
+
+
+
+0. Démon de la Malchance (1x /joueur) - par Sargan
+
+Quand un joueur fait 6 fois 66 à un jet (n’importe lequel), Sargan apparaît (voir PNJ) et propose au joueur un voeux de son choix contre un moment crucial de sa vie. 
+
+
+
+
+
+0. La Caravane de Virgule (Rare) - par Virgule
+
+La caravane de Virgule apparaît si un joueur, lors d’un trajet,  à vraiment besoin de quelque chose mais qu’il ne sait pas quoi.
+
+Virgule troc ses babioles enchantées contre des babioles peu communes (de préférence cassé) pour les enchanter également par la suite.
+
+
+
+
+
+
+
+
+
+15. MALADIES :
+
+Chaque personne
+
+
+
+
+
+0. Rhume (Virale) 
+
+Effets : Nez qui coule, corps affaibli et sensible au froid. -1 Résistance Froid / -10 à tous les Attributs de Base sauf Dextérité, Discrétion, Persuasion et Mental. Dure entre 1 et 3 jours. Infection : s'attrape lors d’une nuit froide (30%). Le manque de sommeil ou d’alimentation augmente de 20%. Possible de l’éviter en préparant un bon feu, en dormant près d’une source de chaleur (non contractible en Auberge).
+
+Contagion : Contact prolongé en compagnie d’un malade, par voies orales. 
+
+Guérison : Rien de particulier. Se reposer, bien manger et boire chaud (diminue à 1 jour)
+
+
+
+
+
+0. Rhume (Magique) 
+
+Effets : 
+
+Infection : 
+
+Contagion : 
+
+Guérison : 
+
+
+
+
+
+0. Sueur-Écarlate “Riðssviti Ytkit” (Bactérienne) 
+
+Effets : Fait suer des gouttes de sang. -5 PV /heure sur 6+1D12 Heures.
+
+Infection : Elle s’attrape en buvant une eau contaminée par une bactérie gelée qui a fondu. 
+
+Contagion : Peut s’attraper par voie orale (15% si contact du malade / 50% si contact du sang ou salive). 
+
+Guérison : Peut s'éviter en faisant bouillir l’eau naturelle avant de la boire (non contractible en Auberge). Sinon, boire de la bière chaude fait baisser de 50% la durée de la maladie. 
+
+
+
+
+
+0. Intoxication (Bactérienne) 
+
+Effets : Vomissements, fièvre et fatigue. Jet d’Endurance 1x/h pendant 6h. Si échec : -10 PV /vomissements pour les 2 premiers puis -5 PV pour les prochains / -1 Résistance au Froid. 
+
+Infection : S’attrape en consommant de la nourriture avariée ou un plat trop éxotique (échec critique en Perception sur un plat fort). 
+
+Contagion : Absolument pas contagieux.
+
+Guérison : Une tisane de Graveleuse Argentée et d’huile de Graines d’Aphrènes diminue les vomissements (-50% PV /vomissements et -50% durée d'intoxication). Une réussite critique en Métabolisme peut éviter l’intoxication.
+
+
+
+
+
+0. Puce Goyuzi (Bactérienne) 
+
+Effets : Incapable de se sérarer d’un Goyuzi♀️. Sous l'effet de Charme. -05 à tous les jets d’Attributs Généraux.
+
+Infection : 
+
+Contagion : 50% de chance d'être contaminé proche d’un Goyuzi. 90% s’il y a eu un contact.
+
+Guérison : Se raser le crâne, Prendre une douche à la Sève de Hue + alcool fort (20 DP) ou faire un jet de Mental -30 1x/j (-10 à chaque échec)
+
+
+
+
+
+0. Brevervancine (Magique) 
+
+Effets : 
+
+Infection : 
+
+Contagion : 
+
+Guérison : 
+
+
+
+
+
+0. Ylfruüg (Bactérienne) 
+
+Effets : 
+
+Infection : 
+
+Contagion : 
+
+Guérison : 
+
+
+
+
+
+0. Balguerüdd (Magique) 
+
+Effets : Perd progressivement la perception des couleurs (-10 Perception Vue) et des petites tâches apparaissent dans l’iris des yeux / Fièvre sur 2-3 jours.
+
+Infection : Bave de Troll (30%)
+
+Contagion : Aucune
+
+Guérison : Incurable (Peut stopper les effets temporairement avec ???)
+
+
+
+
+
+
+
+
+
+
